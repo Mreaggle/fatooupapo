@@ -1,8 +1,6 @@
 import { useState, type FormEvent } from 'react'
-import { ArrowRight, LoaderCircle, Youtube } from 'lucide-react'
+import { ArrowRight, LoaderCircle } from 'lucide-react'
 import type { AnalysisProgress } from '../types'
-
-export const FIRST_VIDEO_URL = 'https://www.youtube.com/watch?v=q4T7plSBdJE'
 
 interface Props {
   initialUrl: string
@@ -23,42 +21,34 @@ export function Home({ initialUrl, progress, error, onAnalyze, onCancel, onClear
   }
 
   return (
-    <main className="flex w-full flex-1 items-center justify-center px-5 py-16 sm:px-8">
-      <div className="w-full max-w-2xl pb-10 sm:pb-16">
-        <h1 className="text-center text-[clamp(2.25rem,6.5vw,3.8rem)] leading-[1.12] font-semibold tracking-[-0.045em]">
-          Você assiste e<br /><span className="text-muted">nós checamos.</span>
+    <main className="hero-reference relative isolate flex min-h-svh w-full flex-1 items-center justify-center overflow-hidden px-5 py-16 sm:px-8">
+      <div className="w-full max-w-[880px] -translate-y-2">
+        <h1 className="text-center text-[clamp(2.75rem,5vw,6rem)] leading-[1.08] font-normal tracking-[-0.045em] text-white">
+          Você assiste e<br /><span>nós <em className="font-normal">checamos.</em></span>
         </h1>
-        <p className="mx-auto mt-6 max-w-lg text-center text-sm leading-6 text-muted sm:text-base sm:leading-7">
+        <p className="mx-auto mt-8 max-w-[820px] text-center text-[clamp(0.875rem,1.15vw,1.375rem)] leading-[1.45] tracking-[-0.025em] text-[#d2dbd8]">
           Você não precisa confiar em ninguém, cole o link do vídeo do YouTube no espaço abaixo e nós verificamos pra você a veracidade dos fatos
         </p>
 
-        <form onSubmit={submit} noValidate className="mt-9">
-          <div className={`flex flex-col gap-2 rounded-xl border bg-surface p-2 transition-colors focus-within:border-stone-500 sm:flex-row ${error ? 'border-red-400/60' : 'border-line'}`}>
-            <div className="flex min-w-0 flex-1 items-center gap-3 px-2.5">
-              <Youtube size={20} className="shrink-0 text-faint" aria-hidden="true" />
+        <form onSubmit={submit} noValidate className="mt-12">
+          <div className={`hero-input flex flex-col overflow-hidden rounded-lg ring-1 transition-shadow focus-within:ring-white/60 sm:min-h-[clamp(4rem,4.375vw,5.25rem)] sm:flex-row ${error ? 'ring-red-400/80' : 'ring-transparent'}`}>
+            <div className="flex min-w-0 flex-1 items-center px-5 sm:px-7">
               <label className="sr-only" htmlFor="youtube-url">Link do vídeo do YouTube</label>
               <input id="youtube-url" type="url" inputMode="url" autoComplete="off" value={url}
                 onChange={(event) => { setUrl(event.target.value); onClearError() }}
-                placeholder="Cole aqui o link do vídeo do YouTube..." disabled={loading}
+                placeholder="Cole aqui o link do vídeo do YouTube" disabled={loading}
                 aria-invalid={Boolean(error)} aria-describedby={error ? 'url-error' : undefined}
-                className="h-11 w-full min-w-0 bg-transparent text-sm text-foreground outline-none placeholder:text-faint disabled:opacity-60"
+                className="h-16 w-full min-w-0 bg-transparent text-sm text-foreground outline-none placeholder:text-[clamp(0.625rem,0.85vw,0.95rem)] placeholder:font-semibold placeholder:text-[#858588] placeholder:uppercase disabled:opacity-60 sm:h-full"
               />
             </div>
-            <button className="button-primary shrink-0" disabled={loading || !url.trim()} type="submit">
-              {loading ? <><LoaderCircle size={16} className="animate-spin motion-reduce:animate-none" /> Consultando</> : <>Verificar fatos <ArrowRight size={16} /></>}
+            <button className="flex min-h-16 shrink-0 items-center justify-between gap-5 bg-[#fdfdfd] px-5 text-[clamp(0.75rem,0.85vw,1rem)] font-semibold text-[#1b1c1b] uppercase transition-colors hover:bg-stone-200 disabled:cursor-not-allowed disabled:bg-[#f2f2f2] sm:w-[34%] sm:px-6" disabled={loading || !url.trim()} type="submit">
+              {loading ? <><span>Consultando</span><LoaderCircle size={18} className="animate-spin motion-reduce:animate-none" /></> : <><span>Verifique os fatos</span><span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-[#1c1d1c] text-white"><ArrowRight size={12} strokeWidth={2} /></span></>}
             </button>
           </div>
 
           {error && <p id="url-error" role="alert" className="mt-3 text-sm leading-6 text-red-300">{error}</p>}
           {progress && <div role="status" aria-live="polite" className="mt-3 flex items-start justify-between gap-3 text-xs leading-5 text-muted"><span>{progress.message}</span><button type="button" onClick={onCancel} className="shrink-0 underline underline-offset-4">Cancelar</button></div>}
         </form>
-
-        <div className="mt-5 text-center text-xs leading-5 text-faint">
-          <p>Análise baseada em evidências, fontes verificáveis e contexto.</p>
-          <button type="button" disabled={loading} onClick={() => { setUrl(FIRST_VIDEO_URL); onAnalyze(FIRST_VIDEO_URL) }} className="mt-5 text-muted underline decoration-line underline-offset-4 transition-colors hover:text-foreground disabled:opacity-50">
-            Consultar o primeiro debate: Kim × Jones <span aria-hidden="true">↗</span>
-          </button>
-        </div>
       </div>
     </main>
   )

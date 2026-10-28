@@ -13,6 +13,42 @@
       "analyzedAt": "2026-10-28T00:00:00.000Z",
       "status": "completed",
       "summary": "Afirmações sobre contas públicas, saúde, agrotóxicos, trabalho e políticas urbanas. Há dados sustentados por fontes, comparações que omitem o recorte e alegações que permanecem inconclusivas. Cada conclusão se refere ao ponto descrito, não ao participante ou à sua posição política.",
+      "participants": [
+        {
+          "id": "kim-kataguiri",
+          "name": "Kim Kataguiri",
+          "aliases": [
+            "Quim",
+            "Quin",
+            "Kin"
+          ],
+          "role": "guest",
+          "source": "video-title"
+        },
+        {
+          "id": "jones-manoel",
+          "name": "Jones Manoel",
+          "aliases": [
+            "Jones Manuel",
+            "Joanes",
+            "Janes",
+            "Junes",
+            "Jon"
+          ],
+          "role": "guest",
+          "source": "video-title"
+        },
+        {
+          "id": "rogerio-vilela",
+          "name": "Rogério Vilela",
+          "aliases": [
+            "Vilela",
+            "Rogério Vila"
+          ],
+          "role": "host",
+          "source": "self-introduction"
+        }
+      ],
       "coverage": {
         "kind": "selected-claims",
         "description": "Primeira revisão de afirmações selecionadas ao longo do debate de 01/10/2024. A transcrição fornecida foi preservada integralmente; a checagem ainda não é exaustiva. Trechos de encerramento, opiniões e repetições não receberam classificações próprias. As conclusões têm apoio automatizado e não foram revisadas por uma equipe independente.",
@@ -27,6 +63,20 @@
           "title": "Placar da votação sobre atingidos por barragens",
           "topic": "Meio ambiente",
           "quote": "Foi um caso raro no Congresso em que 367 deputados votaram a favor disso só 67 deputados votaram contra aliás desculpa 62 deputados Quim kataguiri",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 88,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 350,
+              "cueEnd": 351,
+              "text": "para cada debatedor foi sorteado Jones faz a primeira pergunta de três aí para"
+            }
+          },
           "timestampSeconds": 1003,
           "cueStart": 402,
           "cueEnd": 405,
@@ -47,6 +97,20 @@
           "title": "O PL 2788/2019 criminalizava rompimento por negligência?",
           "topic": "Meio ambiente",
           "quote": "votou contra o PL 278 8 de 2019 que criminalizava o rompimento de barragens por negligência veja Brumadinho cidade",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 87,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 350,
+              "cueEnd": 351,
+              "text": "para cada debatedor foi sorteado Jones faz a primeira pergunta de três aí para"
+            }
+          },
           "timestampSeconds": 1015,
           "cueStart": 406,
           "cueEnd": 409,
@@ -120,6 +184,20 @@
           "title": "O procedimento brasileiro ficou igual ao europeu?",
           "topic": "Agrotóxicos",
           "quote": "coloca que o projeto de lei libera agrot o projeto de lei não libera nada o projeto de lei ele traça um procedimento né de uma fase só que é o mesmo procedimento utilizado pela união europeia que você tanto coloca nós estamos unificando o nosso procedimento com procedimento da União Europeia para ele não ter que passar em três fases distintas e passar por um único canal Mas sendo escrutinado pelas mesmas",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 93,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 999,
+              "cueEnd": 1000,
+              "text": "do povo brasileiro Deputado Quim kataguiri 5 minutos para resposta aqui"
+            }
+          },
           "timestampSeconds": 2361,
           "cueStart": 1010,
           "cueEnd": 1020,
@@ -147,6 +225,20 @@
           "title": "A mudança dos agrotóxicos era só administrativa?",
           "topic": "Agrotóxicos",
           "quote": "simplesmente simplificamos o procedimento administrativo não há nenhuma nova leniência nenhuma nova permissão nenhuma nova facilidade para você aprovar substâncias perigosas e",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 90,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 999,
+              "cueEnd": 1000,
+              "text": "do povo brasileiro Deputado Quim kataguiri 5 minutos para resposta aqui"
+            }
+          },
           "timestampSeconds": 2414,
           "cueStart": 1033,
           "cueEnd": 1037,
@@ -174,6 +266,20 @@
           "title": "O Japão usaria sete vezes mais agrotóxicos?",
           "topic": "Agrotóxicos",
           "quote": "expectativas de vida que é o Japão usa n vezes mais agrotóxicos nas suas Produções do que o Brasil usa muito mas nem se compara tipo assim coisa de pelo menos se não me falha a memória mas eu vou pedir também para colocar nas minhas sedes pelo menos sete vezes mais do que a gente utiliza aqui no Brasil então é",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 86,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 999,
+              "cueEnd": 1000,
+              "text": "do povo brasileiro Deputado Quim kataguiri 5 minutos para resposta aqui"
+            }
+          },
           "timestampSeconds": 2486,
           "cueStart": 1065,
           "cueEnd": 1072,
@@ -187,6 +293,20 @@
           "title": "Produção orgânica exigiria desmatar todo o Brasil?",
           "topic": "Agricultura",
           "quote": "nós plantá orgânico no Brasil inteiro nós desmatar o Brasil e ainda assim não seria o suficiente para alimentar toda a população e não tem acesso a crédito que",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 83,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 999,
+              "cueEnd": 1000,
+              "text": "do povo brasileiro Deputado Quim kataguiri 5 minutos para resposta aqui"
+            }
+          },
           "timestampSeconds": 2556,
           "cueStart": 1093,
           "cueEnd": 1096,
@@ -283,6 +403,20 @@
           "title": "Corte de quase 20% no investimento público em 2015",
           "topic": "Contas públicas",
           "quote": "deputada a presidenta Dilma trouxe o banqueiro do Banco Bradesco Joaquim Levi para ser Ministro da Fazenda que aplicou uma política de ajuste fiscal que cortou quase 20% do investimento público em 2015 combinado com os efeitos da",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 91,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 1263,
+              "cueEnd": 1264,
+              "text": "mais paga imposto no nosso país 5 minutos para pra resposta Joanes vamos"
+            }
+          },
           "timestampSeconds": 3013,
           "cueStart": 1292,
           "cueEnd": 1297,
@@ -296,6 +430,20 @@
           "title": "O desemprego dobrou em dez meses de 2015?",
           "topic": "Trabalho",
           "quote": "ajuste fiscal a economia Vai pro buraco a taxa de desemprego dobra em 10 meses desemprego em 2015 dobrou em 10 meses por causa da política do ajuste",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 89,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 1263,
+              "cueEnd": 1264,
+              "text": "mais paga imposto no nosso país 5 minutos para pra resposta Joanes vamos"
+            }
+          },
           "timestampSeconds": 3044,
           "cueStart": 1307,
           "cueEnd": 1310,
@@ -309,6 +457,20 @@
           "title": "Joaquim Levy permaneceu seis meses na Fazenda?",
           "topic": "Contas públicas",
           "quote": "toda a culpa da crise foram seis m meses de Joaquim Levi que inclusive nem tinha",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 68,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "reply-transition",
+              "cueStart": 1372,
+              "cueEnd": 1372,
+              "text": "réplica vamos lá começando pelo final"
+            }
+          },
           "timestampSeconds": 3354,
           "cueStart": 1440,
           "cueEnd": 1441,
@@ -330,6 +492,20 @@
           "title": "94% de todas as despesas seriam obrigatórias",
           "topic": "Contas públicas",
           "quote": "público no nosso país se 94% das nossas despesas são obrigatórias e",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 67,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "reply-transition",
+              "cueStart": 1372,
+              "cueEnd": 1372,
+              "text": "réplica vamos lá começando pelo final"
+            }
+          },
           "timestampSeconds": 3381,
           "cueStart": 1452,
           "cueEnd": 1453,
@@ -351,6 +527,20 @@
           "title": "A Constituição proíbe avaliar e rever gastos?",
           "topic": "Contas públicas",
           "quote": "nos Estados Unidos a gente não tem no Brasil spending rview a gente não tem a capacidade de remanejar o nosso orçamento de analisar olha quanto a gente gastou em saúde quanto a gente gastou em educação Qual foi a qualidade qual foi o resultado desse gasto o Brasil é proibido de fazer isso pela própria constituição como com orçamento",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 66,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "reply-transition",
+              "cueStart": 1372,
+              "cueEnd": 1372,
+              "text": "réplica vamos lá começando pelo final"
+            }
+          },
           "timestampSeconds": 3390,
           "cueStart": 1455,
           "cueEnd": 1463,
@@ -371,6 +561,20 @@
           "title": "Piso de dois salários mínimos para agentes comunitários",
           "topic": "Saúde",
           "quote": "proposto Vilela sabe o quê a PEC 22 para agentes comunitárias de saúde de combates à endemia presta atenção passassem a ganhar dois salários mínimos",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 88,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 1493,
+              "cueEnd": 1494,
+              "text": "emenda a terceira pergunta do primeiro bloco então Jones perfeito veja o"
+            }
+          },
           "timestampSeconds": 3525,
           "cueStart": 1514,
           "cueEnd": 1517,
@@ -391,6 +595,20 @@
           "title": "O piso dos agentes foi aprovado sem repasses federais?",
           "topic": "Saúde",
           "quote": "Olha nós aprovamos aqui na Constituição eh piso para professor para enfermeiro para agente comunitário de saúde e nós não vamos te dar um centavo para você financiar isso aí no seu município você",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 91,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 1544,
+              "cueEnd": 1544,
+              "text": "inteiro 5 minutos paraa resposta Quim"
+            }
+          },
           "timestampSeconds": 3668,
           "cueStart": 1577,
           "cueEnd": 1581,
@@ -412,6 +630,20 @@
           "title": "Dividendos eram isentos de IR em 2024?",
           "topic": "Tributação",
           "quote": "bilionários de grandes empresas por exemplo não se paga lucros e dividendos porque o deputado por exemplo não propôs revogar a contrareforma tributária de FHC que entou grandes empresários de pagar lucros e dividendos para financiar",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 70,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "reply-transition",
+              "cueStart": 1655,
+              "cueEnd": 1656,
+              "text": "ainda tem dois do da sua resposta vamos pra tréplica Então vamos lá primeiro"
+            }
+          },
           "timestampSeconds": 3951,
           "cueStart": 1711,
           "cueEnd": 1716,
@@ -520,6 +752,20 @@
           "title": "92% da população não consegue interpretar textos?",
           "topic": "Educação",
           "quote": "um grande exemplo disso eh foi a gestão do Haddad no Ministério da Educação os gastos com educação quadruplicaram e ele entregou um país em que 92% da população não é capaz de interpretar um texto com qualidade",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 80,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 2159,
+              "cueEnd": 2159,
+              "text": "primeira pergunta do chat pro Kim depois"
+            }
+          },
           "timestampSeconds": 5067,
           "cueStart": 2246,
           "cueEnd": 2251,
@@ -540,6 +786,20 @@
           "title": "Como funciona a coleta do Focus?",
           "topic": "Contas públicas",
           "quote": "FHC criou um negócio chamado boletim Focus o que que é o boletim Focus você pega 130 figuras que são basicamente investidores banqueiros gente do mercado financeiro escuta essas figuras Antes da reunião do compon do comitê de política monetária e pergunta eles assim já já Vilela tu tá ganhando muito dinheiro com",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 89,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 2400,
+              "cueEnd": 2401,
+              "text": "tá diminuindo não pergunta para Jones eh Léo vamos manter na mesma linha depois a"
+            }
+          },
           "timestampSeconds": 5424,
           "cueStart": 2411,
           "cueEnd": 2418,
@@ -560,6 +820,20 @@
           "title": "Juros eram o maior gasto corrente da União?",
           "topic": "Contas públicas",
           "quote": "qual é o xiz da questão o maior gasto corrente da união é com juros da dívida pública os juros brasileiros é o maior do mundo consistentemente há mais de 30 anos ano passado foram 6 600 bilhões de reais de juris da dívida pública alguém",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 76,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 2400,
+              "cueEnd": 2401,
+              "text": "tá diminuindo não pergunta para Jones eh Léo vamos manter na mesma linha depois a"
+            }
+          },
           "timestampSeconds": 5675,
           "cueStart": 2522,
           "cueEnd": 2527,
@@ -641,6 +915,20 @@
           "title": "Não existia escola pública antes da atuação comunista?",
           "topic": "História",
           "quote": "protagonista na criação da escola pública Sabia que não existia escola pública no Brasil era basicamente escola católica teve uma luta gigantesca em defesa de uma escola pública de perspectiva Nacional lá que a gente teve um protagonismo também muito important",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 86,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 3345,
+              "cueEnd": 3346,
+              "text": "assunto no próximo bloco última pergunta para Jones do chat do chat alta"
+            }
+          },
           "timestampSeconds": 7507,
           "cueStart": 3382,
           "cueEnd": 3388,
@@ -662,6 +950,20 @@
           "title": "A jornada é a mesma há quase cem anos?",
           "topic": "Trabalho",
           "quote": "do pcbr nós defendemos a redução da jornada de trabalho né para 30 horas semanais e o fim da escala se por um porque desde 1988 que não há redução da jornada de trabalho no Brasil e em São Paulo quando teve a Revolução de 30 foi instituída a jornada de trabalho de 8 horas em 1931 faz quase 100 anos que a jornada de trabalho é a mesma e precisa ser",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 75,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 3345,
+              "cueEnd": 3346,
+              "text": "assunto no próximo bloco última pergunta para Jones do chat do chat alta"
+            }
+          },
           "timestampSeconds": 7723,
           "cueStart": 3484,
           "cueEnd": 3493,
@@ -682,6 +984,20 @@
           "title": "Havia cerca de 40 milhões de trabalhadores informais?",
           "topic": "Trabalho",
           "quote": "até morrer né Vamos lá primeiro que essa regulamentação na prática não teria efeito porque hoje a gente tem 40 milhões de informais né Então essas leis trabalhistas não vão se aplicar para ninguém que hoje tá eh informalização",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 78,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "reply-transition",
+              "cueStart": 3498,
+              "cueEnd": 3499,
+              "text": "trabalho 3S minutos para comentários vamos lá falara da falsa dicotomia né Só"
+            }
+          },
           "timestampSeconds": 7762,
           "cueStart": 3503,
           "cueEnd": 3509,
@@ -702,6 +1018,20 @@
           "title": "Fim da ditadura e necessidade do Plano Real",
           "topic": "História",
           "quote": "pelo contrário a gente saiu do período da ditadura militar com hiperinflação precisando fazer o plano real e com vários problemas em obras de",
+          "speakerAttribution": {
+            "participantId": "kim-kataguiri",
+            "name": "Kim Kataguiri",
+            "score": 74,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "reply-transition",
+              "cueStart": 3498,
+              "cueEnd": 3499,
+              "text": "trabalho 3S minutos para comentários vamos lá falara da falsa dicotomia né Só"
+            }
+          },
           "timestampSeconds": 7822,
           "cueStart": 3535,
           "cueEnd": 3538,
@@ -722,6 +1052,20 @@
           "title": "Déficit da saúde de US$ 20 bilhões e dos fármacos de US$ 9,8 bilhões",
           "topic": "Saúde",
           "quote": "pegar por exemplo o exemplo da Saúde em 2023 o déficit comercial da Saúde foi de 20 bilhões de dólares desse valor só em fármacos foram 9.8 bilhões de de dólares",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 89,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 3609,
+              "cueEnd": 3609,
+              "text": "tal então Janes primeira pergunta para"
+            }
+          },
           "timestampSeconds": 7999,
           "cueStart": 3625,
           "cueEnd": 3628,
@@ -735,6 +1079,20 @@
           "title": "Produção nacional de IFAs caiu de 50% para 5%?",
           "topic": "Saúde",
           "quote": "produzindo internamente né o Brasil já chegou a produzir 50% dos zfas ingrediente farmaceutico ativo que é que faz o remédio funcionar que consome hoje em dia só produz 5% E aí você percebe",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 88,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 3609,
+              "cueEnd": 3609,
+              "text": "tal então Janes primeira pergunta para"
+            }
+          },
           "timestampSeconds": 8014,
           "cueStart": 3631,
           "cueEnd": 3635,
@@ -755,6 +1113,20 @@
           "title": "Lenacapavir a US$ 42 mil para o SUS e custo de US$ 40",
           "topic": "Saúde",
           "quote": "Lena kavir que é um medicamento muito importante no tratamento do HIV aides ele custa com lucro de 30% 40 só que a empresa quer vender aqui pro Brasil pro SUS por 42.000 dólar Ele custa 0 com a taxa de lucro de 30% que é acima da média mundial da taxa de lucro do capitalismo",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 87,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 3609,
+              "cueEnd": 3609,
+              "text": "tal então Janes primeira pergunta para"
+            }
+          },
           "timestampSeconds": 8031,
           "cueStart": 3637,
           "cueEnd": 3644,
@@ -775,6 +1147,20 @@
           "title": "Dolutegravir: 0,21 contra R$ 4,40",
           "topic": "Saúde",
           "quote": "Aí você pega outro medicamento muito importante pro tratamento do HIV ides que é o do Luter gravi que o valor dele a a MS compra por 0,21 e quer vender para o Brasil por R 4,40 centavos ou o sofos buv que é um",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 86,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 3609,
+              "cueEnd": 3609,
+              "text": "tal então Janes primeira pergunta para"
+            }
+          },
           "timestampSeconds": 8054,
           "cueStart": 3645,
           "cueEnd": 3650,
@@ -796,6 +1182,20 @@
           "title": "Sofosbuvir teria aumentado 10.000% após processo judicial",
           "topic": "Saúde",
           "quote": "medicamento para Hepatite C O Brasil tem 300.000 pessoas com hepatite C e que depois que teve um processo judicial para o Brasil solicitar produção de genéricos o remédio aumentou 10000% né então a gente deixa de gerar",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 85,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 3609,
+              "cueEnd": 3609,
+              "text": "tal então Janes primeira pergunta para"
+            }
+          },
           "timestampSeconds": 8072,
           "cueStart": 3651,
           "cueEnd": 3656,
@@ -876,6 +1276,20 @@
           "title": "Mínimo da educação é 25% de toda receita municipal?",
           "topic": "Educação",
           "quote": "aliada a isso O Ricardo Nunes não gastou o mínimo constitucional da educação toda a prefeitura é obrigada a gastar 25% né da sua receita com educação Ricardo nes está com a representação que foi feita por vereadores de oposição em que ele deixou de gastar 1.7 bilhões em educação",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 90,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 4339,
+              "cueEnd": 4341,
+              "text": "duas para cada um então vamos lá é sua vez agora Jones mais uma rodada de perguntas você"
+            }
+          },
           "timestampSeconds": 9625,
           "cueStart": 4372,
           "cueEnd": 4378,
@@ -896,6 +1310,20 @@
           "title": "Descumprimento de R$ 1,7 bilhão e empenhos de dezembro em São Paulo",
           "topic": "Contas públicas",
           "quote": "está com a representação que foi feita por vereadores de oposição em que ele deixou de gastar 1.7 bilhões em educação e em 2021 e 2022 o Ricardo Nunes para tentar cumprir o mío constitucional da Saúde ele gastou 30% do orçamento aliás disse que gastou né fez o empenho mas não liquidou 30% do orçamento em dezembro para tentar fazer uma maquiagem",
+          "speakerAttribution": {
+            "participantId": "jones-manoel",
+            "name": "Jones Manoel",
+            "score": 89,
+            "scoreKind": "uncalibrated-text-evidence",
+            "method": "text-rules-v1",
+            "needsReview": true,
+            "anchor": {
+              "kind": "named-handoff",
+              "cueStart": 4339,
+              "cueEnd": 4341,
+              "text": "duas para cada um então vamos lá é sua vez agora Jones mais uma rodada de perguntas você"
+            }
+          },
           "timestampSeconds": 9637,
           "cueStart": 4376,
           "cueEnd": 4384,
@@ -941,7 +1369,7 @@
       "limitations": [
         "Cobertura parcial: este snapshot não certifica todas as afirmações do debate nem representa uma nota geral para qualquer participante.",
         "Origem textual: SRT de legendas automáticas fornecido pelo responsável pelo projeto. Não houve conferência integral do áudio. Erros de transcrição podem afetar números, nomes e sentido.",
-        "A legenda não identifica falantes. O relatório não atribui automaticamente as declarações a Kim Kataguiri, Jones Manoel ou aos apresentadores.",
+        "Locutores são sugeridos por apresentações e passagens de palavra encontradas na legenda. O título sugere nomes, não autoria. Não há reconhecimento acústico: os percentuais são índices heurísticos textuais, não probabilidades calibradas, e precisam de revisão.",
         "A referência temporal das falas é outubro de 2024. Documentos posteriores são usados apenas quando descrevem dados históricos, não para aplicar regras novas retroativamente.",
         "Uma fonte oficial não é garantia de inferência correta. Divulgações de resultados de um governo sobre os próprios programas são tratadas como informações institucionais.",
         "Sem acesso aos documentos ou à série pertinente, o item permanece inconclusivo. Ausência de evidência nesta revisão não é evidência de falsidade."

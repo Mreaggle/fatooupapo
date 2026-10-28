@@ -9,7 +9,7 @@ export default defineConfig({
   reporter: 'list',
   use: { baseURL: deployedUrl ?? 'http://127.0.0.1:4173', trace: 'retain-on-failure' },
   projects: [
-    { name: 'desktop', use: { ...devices['Desktop Chrome'] } },
+    { name: 'desktop', use: { ...devices['Desktop Chrome'], viewport: { width: 1920, height: 1080 } } },
     { name: 'mobile', use: { ...devices['iPhone 13'], defaultBrowserType: 'chromium' } },
   ],
   webServer: deployedUrl ? undefined : {

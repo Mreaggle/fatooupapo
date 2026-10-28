@@ -11,6 +11,42 @@
   "analyzedAt": "2026-10-28T00:00:00.000Z",
   "status": "completed",
   "summary": "Afirmações sobre contas públicas, saúde, agrotóxicos, trabalho e políticas urbanas. Há dados sustentados por fontes, comparações que omitem o recorte e alegações que permanecem inconclusivas. Cada conclusão se refere ao ponto descrito, não ao participante ou à sua posição política.",
+  "participants": [
+    {
+      "id": "kim-kataguiri",
+      "name": "Kim Kataguiri",
+      "aliases": [
+        "Quim",
+        "Quin",
+        "Kin"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "jones-manoel",
+      "name": "Jones Manoel",
+      "aliases": [
+        "Jones Manuel",
+        "Joanes",
+        "Janes",
+        "Junes",
+        "Jon"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "rogerio-vilela",
+      "name": "Rogério Vilela",
+      "aliases": [
+        "Vilela",
+        "Rogério Vila"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
   "coverage": {
     "kind": "selected-claims",
     "description": "Primeira revisão de afirmações selecionadas ao longo do debate de 01/10/2024. A transcrição fornecida foi preservada integralmente; a checagem ainda não é exaustiva. Trechos de encerramento, opiniões e repetições não receberam classificações próprias. As conclusões têm apoio automatizado e não foram revisadas por uma equipe independente.",
@@ -25,6 +61,20 @@
       "title": "Placar da votação sobre atingidos por barragens",
       "topic": "Meio ambiente",
       "quote": "Foi um caso raro no Congresso em que 367 deputados votaram a favor disso só 67 deputados votaram contra aliás desculpa 62 deputados Quim kataguiri",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 88,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 350,
+          "cueEnd": 351,
+          "text": "para cada debatedor foi sorteado Jones faz a primeira pergunta de três aí para"
+        }
+      },
       "timestampSeconds": 1003,
       "cueStart": 402,
       "cueEnd": 405,
@@ -45,6 +95,20 @@
       "title": "O PL 2788/2019 criminalizava rompimento por negligência?",
       "topic": "Meio ambiente",
       "quote": "votou contra o PL 278 8 de 2019 que criminalizava o rompimento de barragens por negligência veja Brumadinho cidade",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 87,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 350,
+          "cueEnd": 351,
+          "text": "para cada debatedor foi sorteado Jones faz a primeira pergunta de três aí para"
+        }
+      },
       "timestampSeconds": 1015,
       "cueStart": 406,
       "cueEnd": 409,
@@ -118,6 +182,20 @@
       "title": "O procedimento brasileiro ficou igual ao europeu?",
       "topic": "Agrotóxicos",
       "quote": "coloca que o projeto de lei libera agrot o projeto de lei não libera nada o projeto de lei ele traça um procedimento né de uma fase só que é o mesmo procedimento utilizado pela união europeia que você tanto coloca nós estamos unificando o nosso procedimento com procedimento da União Europeia para ele não ter que passar em três fases distintas e passar por um único canal Mas sendo escrutinado pelas mesmas",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 93,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 999,
+          "cueEnd": 1000,
+          "text": "do povo brasileiro Deputado Quim kataguiri 5 minutos para resposta aqui"
+        }
+      },
       "timestampSeconds": 2361,
       "cueStart": 1010,
       "cueEnd": 1020,
@@ -145,6 +223,20 @@
       "title": "A mudança dos agrotóxicos era só administrativa?",
       "topic": "Agrotóxicos",
       "quote": "simplesmente simplificamos o procedimento administrativo não há nenhuma nova leniência nenhuma nova permissão nenhuma nova facilidade para você aprovar substâncias perigosas e",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 90,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 999,
+          "cueEnd": 1000,
+          "text": "do povo brasileiro Deputado Quim kataguiri 5 minutos para resposta aqui"
+        }
+      },
       "timestampSeconds": 2414,
       "cueStart": 1033,
       "cueEnd": 1037,
@@ -172,6 +264,20 @@
       "title": "O Japão usaria sete vezes mais agrotóxicos?",
       "topic": "Agrotóxicos",
       "quote": "expectativas de vida que é o Japão usa n vezes mais agrotóxicos nas suas Produções do que o Brasil usa muito mas nem se compara tipo assim coisa de pelo menos se não me falha a memória mas eu vou pedir também para colocar nas minhas sedes pelo menos sete vezes mais do que a gente utiliza aqui no Brasil então é",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 86,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 999,
+          "cueEnd": 1000,
+          "text": "do povo brasileiro Deputado Quim kataguiri 5 minutos para resposta aqui"
+        }
+      },
       "timestampSeconds": 2486,
       "cueStart": 1065,
       "cueEnd": 1072,
@@ -185,6 +291,20 @@
       "title": "Produção orgânica exigiria desmatar todo o Brasil?",
       "topic": "Agricultura",
       "quote": "nós plantá orgânico no Brasil inteiro nós desmatar o Brasil e ainda assim não seria o suficiente para alimentar toda a população e não tem acesso a crédito que",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 83,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 999,
+          "cueEnd": 1000,
+          "text": "do povo brasileiro Deputado Quim kataguiri 5 minutos para resposta aqui"
+        }
+      },
       "timestampSeconds": 2556,
       "cueStart": 1093,
       "cueEnd": 1096,
@@ -281,6 +401,20 @@
       "title": "Corte de quase 20% no investimento público em 2015",
       "topic": "Contas públicas",
       "quote": "deputada a presidenta Dilma trouxe o banqueiro do Banco Bradesco Joaquim Levi para ser Ministro da Fazenda que aplicou uma política de ajuste fiscal que cortou quase 20% do investimento público em 2015 combinado com os efeitos da",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 91,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 1263,
+          "cueEnd": 1264,
+          "text": "mais paga imposto no nosso país 5 minutos para pra resposta Joanes vamos"
+        }
+      },
       "timestampSeconds": 3013,
       "cueStart": 1292,
       "cueEnd": 1297,
@@ -294,6 +428,20 @@
       "title": "O desemprego dobrou em dez meses de 2015?",
       "topic": "Trabalho",
       "quote": "ajuste fiscal a economia Vai pro buraco a taxa de desemprego dobra em 10 meses desemprego em 2015 dobrou em 10 meses por causa da política do ajuste",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 89,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 1263,
+          "cueEnd": 1264,
+          "text": "mais paga imposto no nosso país 5 minutos para pra resposta Joanes vamos"
+        }
+      },
       "timestampSeconds": 3044,
       "cueStart": 1307,
       "cueEnd": 1310,
@@ -307,6 +455,20 @@
       "title": "Joaquim Levy permaneceu seis meses na Fazenda?",
       "topic": "Contas públicas",
       "quote": "toda a culpa da crise foram seis m meses de Joaquim Levi que inclusive nem tinha",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 68,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "reply-transition",
+          "cueStart": 1372,
+          "cueEnd": 1372,
+          "text": "réplica vamos lá começando pelo final"
+        }
+      },
       "timestampSeconds": 3354,
       "cueStart": 1440,
       "cueEnd": 1441,
@@ -328,6 +490,20 @@
       "title": "94% de todas as despesas seriam obrigatórias",
       "topic": "Contas públicas",
       "quote": "público no nosso país se 94% das nossas despesas são obrigatórias e",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 67,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "reply-transition",
+          "cueStart": 1372,
+          "cueEnd": 1372,
+          "text": "réplica vamos lá começando pelo final"
+        }
+      },
       "timestampSeconds": 3381,
       "cueStart": 1452,
       "cueEnd": 1453,
@@ -349,6 +525,20 @@
       "title": "A Constituição proíbe avaliar e rever gastos?",
       "topic": "Contas públicas",
       "quote": "nos Estados Unidos a gente não tem no Brasil spending rview a gente não tem a capacidade de remanejar o nosso orçamento de analisar olha quanto a gente gastou em saúde quanto a gente gastou em educação Qual foi a qualidade qual foi o resultado desse gasto o Brasil é proibido de fazer isso pela própria constituição como com orçamento",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 66,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "reply-transition",
+          "cueStart": 1372,
+          "cueEnd": 1372,
+          "text": "réplica vamos lá começando pelo final"
+        }
+      },
       "timestampSeconds": 3390,
       "cueStart": 1455,
       "cueEnd": 1463,
@@ -369,6 +559,20 @@
       "title": "Piso de dois salários mínimos para agentes comunitários",
       "topic": "Saúde",
       "quote": "proposto Vilela sabe o quê a PEC 22 para agentes comunitárias de saúde de combates à endemia presta atenção passassem a ganhar dois salários mínimos",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 88,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 1493,
+          "cueEnd": 1494,
+          "text": "emenda a terceira pergunta do primeiro bloco então Jones perfeito veja o"
+        }
+      },
       "timestampSeconds": 3525,
       "cueStart": 1514,
       "cueEnd": 1517,
@@ -389,6 +593,20 @@
       "title": "O piso dos agentes foi aprovado sem repasses federais?",
       "topic": "Saúde",
       "quote": "Olha nós aprovamos aqui na Constituição eh piso para professor para enfermeiro para agente comunitário de saúde e nós não vamos te dar um centavo para você financiar isso aí no seu município você",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 91,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 1544,
+          "cueEnd": 1544,
+          "text": "inteiro 5 minutos paraa resposta Quim"
+        }
+      },
       "timestampSeconds": 3668,
       "cueStart": 1577,
       "cueEnd": 1581,
@@ -410,6 +628,20 @@
       "title": "Dividendos eram isentos de IR em 2024?",
       "topic": "Tributação",
       "quote": "bilionários de grandes empresas por exemplo não se paga lucros e dividendos porque o deputado por exemplo não propôs revogar a contrareforma tributária de FHC que entou grandes empresários de pagar lucros e dividendos para financiar",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 70,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "reply-transition",
+          "cueStart": 1655,
+          "cueEnd": 1656,
+          "text": "ainda tem dois do da sua resposta vamos pra tréplica Então vamos lá primeiro"
+        }
+      },
       "timestampSeconds": 3951,
       "cueStart": 1711,
       "cueEnd": 1716,
@@ -518,6 +750,20 @@
       "title": "92% da população não consegue interpretar textos?",
       "topic": "Educação",
       "quote": "um grande exemplo disso eh foi a gestão do Haddad no Ministério da Educação os gastos com educação quadruplicaram e ele entregou um país em que 92% da população não é capaz de interpretar um texto com qualidade",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 80,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 2159,
+          "cueEnd": 2159,
+          "text": "primeira pergunta do chat pro Kim depois"
+        }
+      },
       "timestampSeconds": 5067,
       "cueStart": 2246,
       "cueEnd": 2251,
@@ -538,6 +784,20 @@
       "title": "Como funciona a coleta do Focus?",
       "topic": "Contas públicas",
       "quote": "FHC criou um negócio chamado boletim Focus o que que é o boletim Focus você pega 130 figuras que são basicamente investidores banqueiros gente do mercado financeiro escuta essas figuras Antes da reunião do compon do comitê de política monetária e pergunta eles assim já já Vilela tu tá ganhando muito dinheiro com",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 89,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 2400,
+          "cueEnd": 2401,
+          "text": "tá diminuindo não pergunta para Jones eh Léo vamos manter na mesma linha depois a"
+        }
+      },
       "timestampSeconds": 5424,
       "cueStart": 2411,
       "cueEnd": 2418,
@@ -558,6 +818,20 @@
       "title": "Juros eram o maior gasto corrente da União?",
       "topic": "Contas públicas",
       "quote": "qual é o xiz da questão o maior gasto corrente da união é com juros da dívida pública os juros brasileiros é o maior do mundo consistentemente há mais de 30 anos ano passado foram 6 600 bilhões de reais de juris da dívida pública alguém",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 76,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 2400,
+          "cueEnd": 2401,
+          "text": "tá diminuindo não pergunta para Jones eh Léo vamos manter na mesma linha depois a"
+        }
+      },
       "timestampSeconds": 5675,
       "cueStart": 2522,
       "cueEnd": 2527,
@@ -639,6 +913,20 @@
       "title": "Não existia escola pública antes da atuação comunista?",
       "topic": "História",
       "quote": "protagonista na criação da escola pública Sabia que não existia escola pública no Brasil era basicamente escola católica teve uma luta gigantesca em defesa de uma escola pública de perspectiva Nacional lá que a gente teve um protagonismo também muito important",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 86,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 3345,
+          "cueEnd": 3346,
+          "text": "assunto no próximo bloco última pergunta para Jones do chat do chat alta"
+        }
+      },
       "timestampSeconds": 7507,
       "cueStart": 3382,
       "cueEnd": 3388,
@@ -660,6 +948,20 @@
       "title": "A jornada é a mesma há quase cem anos?",
       "topic": "Trabalho",
       "quote": "do pcbr nós defendemos a redução da jornada de trabalho né para 30 horas semanais e o fim da escala se por um porque desde 1988 que não há redução da jornada de trabalho no Brasil e em São Paulo quando teve a Revolução de 30 foi instituída a jornada de trabalho de 8 horas em 1931 faz quase 100 anos que a jornada de trabalho é a mesma e precisa ser",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 75,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 3345,
+          "cueEnd": 3346,
+          "text": "assunto no próximo bloco última pergunta para Jones do chat do chat alta"
+        }
+      },
       "timestampSeconds": 7723,
       "cueStart": 3484,
       "cueEnd": 3493,
@@ -680,6 +982,20 @@
       "title": "Havia cerca de 40 milhões de trabalhadores informais?",
       "topic": "Trabalho",
       "quote": "até morrer né Vamos lá primeiro que essa regulamentação na prática não teria efeito porque hoje a gente tem 40 milhões de informais né Então essas leis trabalhistas não vão se aplicar para ninguém que hoje tá eh informalização",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 78,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "reply-transition",
+          "cueStart": 3498,
+          "cueEnd": 3499,
+          "text": "trabalho 3S minutos para comentários vamos lá falara da falsa dicotomia né Só"
+        }
+      },
       "timestampSeconds": 7762,
       "cueStart": 3503,
       "cueEnd": 3509,
@@ -700,6 +1016,20 @@
       "title": "Fim da ditadura e necessidade do Plano Real",
       "topic": "História",
       "quote": "pelo contrário a gente saiu do período da ditadura militar com hiperinflação precisando fazer o plano real e com vários problemas em obras de",
+      "speakerAttribution": {
+        "participantId": "kim-kataguiri",
+        "name": "Kim Kataguiri",
+        "score": 74,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "reply-transition",
+          "cueStart": 3498,
+          "cueEnd": 3499,
+          "text": "trabalho 3S minutos para comentários vamos lá falara da falsa dicotomia né Só"
+        }
+      },
       "timestampSeconds": 7822,
       "cueStart": 3535,
       "cueEnd": 3538,
@@ -720,6 +1050,20 @@
       "title": "Déficit da saúde de US$ 20 bilhões e dos fármacos de US$ 9,8 bilhões",
       "topic": "Saúde",
       "quote": "pegar por exemplo o exemplo da Saúde em 2023 o déficit comercial da Saúde foi de 20 bilhões de dólares desse valor só em fármacos foram 9.8 bilhões de de dólares",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 89,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 3609,
+          "cueEnd": 3609,
+          "text": "tal então Janes primeira pergunta para"
+        }
+      },
       "timestampSeconds": 7999,
       "cueStart": 3625,
       "cueEnd": 3628,
@@ -733,6 +1077,20 @@
       "title": "Produção nacional de IFAs caiu de 50% para 5%?",
       "topic": "Saúde",
       "quote": "produzindo internamente né o Brasil já chegou a produzir 50% dos zfas ingrediente farmaceutico ativo que é que faz o remédio funcionar que consome hoje em dia só produz 5% E aí você percebe",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 88,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 3609,
+          "cueEnd": 3609,
+          "text": "tal então Janes primeira pergunta para"
+        }
+      },
       "timestampSeconds": 8014,
       "cueStart": 3631,
       "cueEnd": 3635,
@@ -753,6 +1111,20 @@
       "title": "Lenacapavir a US$ 42 mil para o SUS e custo de US$ 40",
       "topic": "Saúde",
       "quote": "Lena kavir que é um medicamento muito importante no tratamento do HIV aides ele custa com lucro de 30% 40 só que a empresa quer vender aqui pro Brasil pro SUS por 42.000 dólar Ele custa 0 com a taxa de lucro de 30% que é acima da média mundial da taxa de lucro do capitalismo",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 87,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 3609,
+          "cueEnd": 3609,
+          "text": "tal então Janes primeira pergunta para"
+        }
+      },
       "timestampSeconds": 8031,
       "cueStart": 3637,
       "cueEnd": 3644,
@@ -773,6 +1145,20 @@
       "title": "Dolutegravir: 0,21 contra R$ 4,40",
       "topic": "Saúde",
       "quote": "Aí você pega outro medicamento muito importante pro tratamento do HIV ides que é o do Luter gravi que o valor dele a a MS compra por 0,21 e quer vender para o Brasil por R 4,40 centavos ou o sofos buv que é um",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 86,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 3609,
+          "cueEnd": 3609,
+          "text": "tal então Janes primeira pergunta para"
+        }
+      },
       "timestampSeconds": 8054,
       "cueStart": 3645,
       "cueEnd": 3650,
@@ -794,6 +1180,20 @@
       "title": "Sofosbuvir teria aumentado 10.000% após processo judicial",
       "topic": "Saúde",
       "quote": "medicamento para Hepatite C O Brasil tem 300.000 pessoas com hepatite C e que depois que teve um processo judicial para o Brasil solicitar produção de genéricos o remédio aumentou 10000% né então a gente deixa de gerar",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 85,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 3609,
+          "cueEnd": 3609,
+          "text": "tal então Janes primeira pergunta para"
+        }
+      },
       "timestampSeconds": 8072,
       "cueStart": 3651,
       "cueEnd": 3656,
@@ -874,6 +1274,20 @@
       "title": "Mínimo da educação é 25% de toda receita municipal?",
       "topic": "Educação",
       "quote": "aliada a isso O Ricardo Nunes não gastou o mínimo constitucional da educação toda a prefeitura é obrigada a gastar 25% né da sua receita com educação Ricardo nes está com a representação que foi feita por vereadores de oposição em que ele deixou de gastar 1.7 bilhões em educação",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 90,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 4339,
+          "cueEnd": 4341,
+          "text": "duas para cada um então vamos lá é sua vez agora Jones mais uma rodada de perguntas você"
+        }
+      },
       "timestampSeconds": 9625,
       "cueStart": 4372,
       "cueEnd": 4378,
@@ -894,6 +1308,20 @@
       "title": "Descumprimento de R$ 1,7 bilhão e empenhos de dezembro em São Paulo",
       "topic": "Contas públicas",
       "quote": "está com a representação que foi feita por vereadores de oposição em que ele deixou de gastar 1.7 bilhões em educação e em 2021 e 2022 o Ricardo Nunes para tentar cumprir o mío constitucional da Saúde ele gastou 30% do orçamento aliás disse que gastou né fez o empenho mas não liquidou 30% do orçamento em dezembro para tentar fazer uma maquiagem",
+      "speakerAttribution": {
+        "participantId": "jones-manoel",
+        "name": "Jones Manoel",
+        "score": 89,
+        "scoreKind": "uncalibrated-text-evidence",
+        "method": "text-rules-v1",
+        "needsReview": true,
+        "anchor": {
+          "kind": "named-handoff",
+          "cueStart": 4339,
+          "cueEnd": 4341,
+          "text": "duas para cada um então vamos lá é sua vez agora Jones mais uma rodada de perguntas você"
+        }
+      },
       "timestampSeconds": 9637,
       "cueStart": 4376,
       "cueEnd": 4384,
@@ -939,7 +1367,7 @@
   "limitations": [
     "Cobertura parcial: este snapshot não certifica todas as afirmações do debate nem representa uma nota geral para qualquer participante.",
     "Origem textual: SRT de legendas automáticas fornecido pelo responsável pelo projeto. Não houve conferência integral do áudio. Erros de transcrição podem afetar números, nomes e sentido.",
-    "A legenda não identifica falantes. O relatório não atribui automaticamente as declarações a Kim Kataguiri, Jones Manoel ou aos apresentadores.",
+    "Locutores são sugeridos por apresentações e passagens de palavra encontradas na legenda. O título sugere nomes, não autoria. Não há reconhecimento acústico: os percentuais são índices heurísticos textuais, não probabilidades calibradas, e precisam de revisão.",
     "A referência temporal das falas é outubro de 2024. Documentos posteriores são usados apenas quando descrevem dados históricos, não para aplicar regras novas retroativamente.",
     "Uma fonte oficial não é garantia de inferência correta. Divulgações de resultados de um governo sobre os próprios programas são tratadas como informações institucionais.",
     "Sem acesso aos documentos ou à série pertinente, o item permanece inconclusivo. Ausência de evidência nesta revisão não é evidência de falsidade."
@@ -965,6 +1393,8 @@ Transcrição integral: [q4T7plSBdJE.md](../transcripts/q4T7plSBdJE.md).
 
 **Impreciso ou fora de contexto** · Meio ambiente
 
+Locutor sugerido: Jones Manoel (88% de índice textual, não calibrado). Requer revisão.
+
 > Foi um caso raro no Congresso em que 367 deputados votaram a favor disso só 67 deputados votaram contra aliás desculpa 62 deputados Quim kataguiri
 
 O registro do Congresso para o substitutivo do PL 2788/2019 em 25/06/2019 informa 328 votos favoráveis, 62 contrários e uma abstenção. O número de contrários, depois da correção na fala, coincide; o de favoráveis não é 367.
@@ -978,6 +1408,8 @@ Blocos 402–405. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t=1
 ## 00:16:55 — O PL 2788/2019 criminalizava rompimento por negligência?
 
 **Impreciso ou fora de contexto** · Meio ambiente
+
+Locutor sugerido: Jones Manoel (87% de índice textual, não calibrado). Requer revisão.
 
 > votou contra o PL 278 8 de 2019 que criminalizava o rompimento de barragens por negligência veja Brumadinho cidade
 
@@ -994,6 +1426,8 @@ Blocos 406–409. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t=1
 
 **Majoritariamente verdadeiro** · Meio ambiente
 
+Locutor não identificado com pistas textuais suficientes.
+
 > votou a favor do pl 3729 de 21 que dispensa o licenciamento ambiental para vários e vários Empreendimentos e ele também não
 
 O projeto de licenciamento discutido em 2021 previa hipóteses de dispensa. A identificação histórica correta na Câmara é PL 3729/2004, depois PL 2159/2021 no Senado. A referência ao tema é reconhecível, mas o ano/número dito na legenda mistura identificações.
@@ -1007,6 +1441,8 @@ Blocos 936–939. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t=2
 ## 00:37:08 — A Fiocruz alertou para os riscos do projeto de agrotóxicos?
 
 **Majoritariamente verdadeiro** · Agrotóxicos
+
+Locutor não identificado com pistas textuais suficientes.
 
 > 6299 de 2022 que segundo dados da fio Cruz uma das instituições públicas mais importantes e respeitadas do Brasil o PL do veneno libera o uso de agrotóxicos comprovadamente que causa câncer com substâncias cancerígenas e não existe nenhum estudo que Garanta um nível de consumo seguro dessas substâncias
 
@@ -1023,6 +1459,8 @@ Blocos 955–962. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t=2
 
 **Impreciso ou fora de contexto** · Agrotóxicos
 
+Locutor sugerido: Kim Kataguiri (93% de índice textual, não calibrado). Requer revisão.
+
 > coloca que o projeto de lei libera agrot o projeto de lei não libera nada o projeto de lei ele traça um procedimento né de uma fase só que é o mesmo procedimento utilizado pela união europeia que você tanto coloca nós estamos unificando o nosso procedimento com procedimento da União Europeia para ele não ter que passar em três fases distintas e passar por um único canal Mas sendo escrutinado pelas mesmas
 
 Na União Europeia, a aprovação de substâncias ativas ocorre no nível europeu e a autorização dos produtos envolve os Estados-membros. A descrição como um único procedimento igual ao brasileiro é incompleta. Aproximar conceitos de avaliação de risco não torna dois sistemas regulatórios idênticos.
@@ -1037,6 +1475,8 @@ Blocos 1010–1020. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 00:40:14 — A mudança dos agrotóxicos era só administrativa?
 
 **Impreciso ou fora de contexto** · Agrotóxicos
+
+Locutor sugerido: Kim Kataguiri (90% de índice textual, não calibrado). Requer revisão.
 
 > simplesmente simplificamos o procedimento administrativo não há nenhuma nova leniência nenhuma nova permissão nenhuma nova facilidade para você aprovar substâncias perigosas e
 
@@ -1053,6 +1493,8 @@ Blocos 1033–1037. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Agrotóxicos
 
+Locutor sugerido: Kim Kataguiri (86% de índice textual, não calibrado). Requer revisão.
+
 > expectativas de vida que é o Japão usa n vezes mais agrotóxicos nas suas Produções do que o Brasil usa muito mas nem se compara tipo assim coisa de pelo menos se não me falha a memória mas eu vou pedir também para colocar nas minhas sedes pelo menos sete vezes mais do que a gente utiliza aqui no Brasil então é
 
 A fala não informa ano, fonte ou denominador: volume total, quantidade por hectare e aplicação por cultura são medidas diferentes. Sem uma série comparável, não é responsável confirmar a razão de sete vezes.
@@ -1066,6 +1508,8 @@ Blocos 1065–1072. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Agricultura
 
+Locutor sugerido: Kim Kataguiri (83% de índice textual, não calibrado). Requer revisão.
+
 > nós plantá orgânico no Brasil inteiro nós desmatar o Brasil e ainda assim não seria o suficiente para alimentar toda a população e não tem acesso a crédito que
 
 Não foi apresentada uma estimativa de área, dieta, perdas, produtividade por cultura ou cenário de transição que permita testar essa afirmação nacional. Diferenças de produtividade, por si, não demonstram a impossibilidade enunciada.
@@ -1078,6 +1522,8 @@ Blocos 1093–1096. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 00:47:49 — O teto corrigia a despesa anterior pela inflação?
 
 **Verdadeiro** · Contas públicas
+
+Locutor não identificado com pistas textuais suficientes.
 
 > que que é a PEC do teto de gasto a PEC do teto ela colocava ali um limite que é o gasto do ano anterior somado corrigido pela inflação individualizado para cada poder poder executivo Poder Legislativo poder judiciário Quais foram os efeitos
 
@@ -1093,6 +1539,8 @@ Blocos 1231–1236. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Majoritariamente verdadeiro** · Contas públicas
 
+Locutor não identificado com pistas textuais suficientes.
+
 > que o juro saiu de 14.25% para 6,5 5% a inflação saiu de
 
 O histórico do Banco Central confirma a Selic em 14,25% antes do ciclo de cortes iniciado em outubro de 2016 e em 6,50% em março de 2018. A trajetória numérica se sustenta. O registro não demonstra que o teto, isoladamente, causou a queda.
@@ -1106,6 +1554,8 @@ Blocos 1238–1239. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 00:48:09 — Inflação de 9,32% para 2,76%
 
 **Inconclusivo** · Contas públicas
+
+Locutor não identificado com pistas textuais suficientes.
 
 > 14.25% para 6,5 5% a inflação saiu de 9,32 para 2,76 o PIB saiu de
 
@@ -1121,6 +1571,8 @@ Blocos 1239–1241. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Impreciso ou fora de contexto** · Contas públicas
 
+Locutor não identificado com pistas textuais suficientes.
+
 > 2,76 o PIB saiu de -7% a pior crise da história do Brasil pior até do que a pandemia sem que a gente tivesse uma que foi no governo Dilma para um crescimento de 3% Então
 
 A divulgação do IBGE de 2019 mostra quedas anuais de 3,5% em 2015 e 3,3% em 2016 e crescimento de 1,1% em 2017 e 2018, na versão então divulgada. Somar a recessão de dois anos e compará-la a um crescimento sem período mistura recortes. Tampouco a série comprova causalidade exclusiva do teto.
@@ -1135,6 +1587,8 @@ Blocos 1241–1245. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Contas públicas
 
+Locutor sugerido: Jones Manoel (91% de índice textual, não calibrado). Requer revisão.
+
 > deputada a presidenta Dilma trouxe o banqueiro do Banco Bradesco Joaquim Levi para ser Ministro da Fazenda que aplicou uma política de ajuste fiscal que cortou quase 20% do investimento público em 2015 combinado com os efeitos da
 
 O item não identifica se trata de investimento federal, de todas as esferas, autorizado, empenhado ou pago, nem o deflator empregado. Sem essa base e a série correspondente, o percentual específico não foi confirmado.
@@ -1148,6 +1602,8 @@ Blocos 1292–1297. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Trabalho
 
+Locutor sugerido: Jones Manoel (89% de índice textual, não calibrado). Requer revisão.
+
 > ajuste fiscal a economia Vai pro buraco a taxa de desemprego dobra em 10 meses desemprego em 2015 dobrou em 10 meses por causa da política do ajuste
 
 O ponto inicial, o ponto final e a pesquisa não são informados. Em 2015 coexistiam indicadores com coberturas diferentes. Sem recuperar a série invocada, não confirmamos a duplicação nem atribuímos um efeito causal exclusivo ao ajuste fiscal.
@@ -1160,6 +1616,8 @@ Blocos 1307–1310. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 00:55:54 — Joaquim Levy permaneceu seis meses na Fazenda?
 
 **Falso** · Contas públicas
+
+Locutor sugerido: Kim Kataguiri (68% de índice textual, não calibrado). Requer revisão.
 
 > toda a culpa da crise foram seis m meses de Joaquim Levi que inclusive nem tinha
 
@@ -1175,6 +1633,8 @@ Blocos 1440–1441. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Impreciso ou fora de contexto** · Contas públicas
 
+Locutor sugerido: Kim Kataguiri (67% de índice textual, não calibrado). Requer revisão.
+
 > público no nosso país se 94% das nossas despesas são obrigatórias e
 
 O percentual depende da base orçamentária e do tratamento das emendas. A análise da proposta de 2024 divulgada pela Câmara registra despesas discricionárias, incluindo emendas, acima de 11% da base primária apresentada. Estender 94% a todas as despesas, sem delimitar a base, não é uma comparação reproduzível.
@@ -1188,6 +1648,8 @@ Blocos 1452–1453. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 00:56:30 — A Constituição proíbe avaliar e rever gastos?
 
 **Falso** · Contas públicas
+
+Locutor sugerido: Kim Kataguiri (66% de índice textual, não calibrado). Requer revisão.
 
 > nos Estados Unidos a gente não tem no Brasil spending rview a gente não tem a capacidade de remanejar o nosso orçamento de analisar olha quanto a gente gastou em saúde quanto a gente gastou em educação Qual foi a qualidade qual foi o resultado desse gasto o Brasil é proibido de fazer isso pela própria constituição como com orçamento
 
@@ -1203,6 +1665,8 @@ Blocos 1455–1463. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Verdadeiro** · Saúde
 
+Locutor sugerido: Jones Manoel (88% de índice textual, não calibrado). Requer revisão.
+
 > proposto Vilela sabe o quê a PEC 22 para agentes comunitárias de saúde de combates à endemia presta atenção passassem a ganhar dois salários mínimos
 
 A EC 120/2022 fixou vencimento não inferior a dois salários mínimos para agentes comunitários de saúde e agentes de combate às endemias. A norma também define recursos federais específicos para o pagamento.
@@ -1214,6 +1678,8 @@ Blocos 1514–1517. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 01:01:08 — O piso dos agentes foi aprovado sem repasses federais?
 
 **Falso** · Saúde
+
+Locutor sugerido: Kim Kataguiri (91% de índice textual, não calibrado). Requer revisão.
 
 > Olha nós aprovamos aqui na Constituição eh piso para professor para enfermeiro para agente comunitário de saúde e nós não vamos te dar um centavo para você financiar isso aí no seu município você
 
@@ -1229,6 +1695,8 @@ Blocos 1577–1581. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Majoritariamente verdadeiro** · Tributação
 
+Locutor sugerido: Jones Manoel (70% de índice textual, não calibrado). Requer revisão.
+
 > bilionários de grandes empresas por exemplo não se paga lucros e dividendos porque o deputado por exemplo não propôs revogar a contrareforma tributária de FHC que entou grandes empresários de pagar lucros e dividendos para financiar
 
 Na redação do art. 10 da Lei 9.249/1995 vigente no debate, lucros e dividendos distribuídos nas condições previstas eram isentos de IR para o beneficiário. Isso não significava isenção de todos os tributos da empresa ou de todas as rendas de pessoas ricas.
@@ -1243,6 +1711,8 @@ Blocos 1711–1716. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Tributação
 
+Locutor não identificado com pistas textuais suficientes.
+
 > centena de projetos barrados projetos ruins PL da censura aumento de imposto a taxação que queriam levar para 92% de compra online que a gente conseguiu reduzir para pouco mais de 60% que ainda é uma desgraça ainda é um desastre você falou ó só atende empresário só
 
 Não estão identificados a faixa de valor, o regime de remessa, a alíquota estadual nem a versão do texto legislativo. A incidência combinada pode variar e o trecho não permite reproduzir a conta nem atribuir a redução à atuação individual mencionada.
@@ -1256,6 +1726,8 @@ Blocos 1828–1834. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Segurança pública
 
+Locutor não identificado com pistas textuais suficientes.
+
 > todas as pessoas com aquela característica e com isso você conseguiu reduzir no número de crimes na cidade de São José em 70% fora um programa também de iluminação pública 100% em LED
 
 Não foram apresentados período, tipo de crime, número de ocorrências ou estudo de impacto. Um recuo em determinado indicador não pode ser automaticamente estendido a toda a criminalidade nem atribuído só ao reconhecimento facial.
@@ -1268,6 +1740,8 @@ Blocos 1911–1915. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 01:14:49 — O IMEI identifica o aparelho e aparece com *#06#?
 
 **Verdadeiro** · Segurança pública
+
+Locutor não identificado com pistas textuais suficientes.
 
 > exemplo para vocês o pí ele adotou uma política bem básica todo celular tem um e-mail que é chamado de chassi do celular e aí cada vez que o celular é roubado né você informa o e-mail do celular roubado para a polícia a polícia faz uma espécie de blitz E aí para o cidadão E aí você digita lá asterístico jogo da velha 06 jogo da velha aí aparece o e-mail na tela do celular a
 
@@ -1283,6 +1757,8 @@ Blocos 1975–1984. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Majoritariamente verdadeiro** · Segurança pública
 
+Locutor não identificado com pistas textuais suficientes.
+
 > explicar porquê resultado prático disso nos primeiros meses da operação a polícia conseguiu recuperar mais de 6.000 celulares e devolver paraas pessoas o número de Roubos e Furtos celular caiu de maneira descomunal e a
 
 Em abril de 2024, a Secretaria de Governo do Piauí informou quase seis mil aparelhos devolvidos desde a implementação do protocolo e queda de 44% nos roubos no primeiro trimestre. Isso sustenta a ordem de grandeza, com diferença entre “quase” e “mais de” seis mil.
@@ -1296,6 +1772,8 @@ Blocos 1999–2004. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 01:16:03 — Latrocínios caíram 20% e depois 50% por causa do programa?
 
 **Inconclusivo** · Segurança pública
+
+Locutor não identificado com pistas textuais suficientes.
 
 > melhor coisa a melhor coisa o número de latrocínios ano passado caiu 20% latrocínio é roubo seguido de morte e esse ano já caiu 50% Então veja não mudou a lei não mudou o número de penas foi uma medida inteligente que quebrou a cadeia do crime de roubo de celular no Piauí Sabe e reduziu número de latrocínio ou seja
 
@@ -1311,6 +1789,8 @@ Blocos 2005–2013. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Impreciso ou fora de contexto** · Educação
 
+Locutor sugerido: Kim Kataguiri (80% de índice textual, não calibrado). Requer revisão.
+
 > um grande exemplo disso eh foi a gestão do Haddad no Ministério da Educação os gastos com educação quadruplicaram e ele entregou um país em que 92% da população não é capaz de interpretar um texto com qualidade
 
 O Inaf de 2015 registrou 8% no nível mais alto, proficiente, entre pessoas de 15 a 64 anos. Os demais 92% incluem níveis intermediário e elementar, com habilidades de leitura. Não atingir a categoria mais alta não equivale a incapacidade geral de interpretar textos.
@@ -1324,6 +1804,8 @@ Blocos 2246–2251. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 01:30:24 — Como funciona a coleta do Focus?
 
 **Impreciso ou fora de contexto** · Contas públicas
+
+Locutor sugerido: Jones Manoel (89% de índice textual, não calibrado). Requer revisão.
 
 > FHC criou um negócio chamado boletim Focus o que que é o boletim Focus você pega 130 figuras que são basicamente investidores banqueiros gente do mercado financeiro escuta essas figuras Antes da reunião do compon do comitê de política monetária e pergunta eles assim já já Vilela tu tá ganhando muito dinheiro com
 
@@ -1339,6 +1821,8 @@ Blocos 2411–2418. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Impreciso ou fora de contexto** · Contas públicas
 
+Locutor sugerido: Jones Manoel (76% de índice textual, não calibrado). Requer revisão.
+
 > qual é o xiz da questão o maior gasto corrente da união é com juros da dívida pública os juros brasileiros é o maior do mundo consistentemente há mais de 30 anos ano passado foram 6 600 bilhões de reais de juris da dívida pública alguém
 
 O trecho mistura União, setor público consolidado e diferentes critérios de contabilização. A consultoria da Câmara distingue os R$ 718,3 bilhões de juros nominais do setor público em 2023, apropriados por competência, dos pagamentos orçamentários. Não se pode usar um agregado como maior rubrica da União sem essa conciliação.
@@ -1352,6 +1836,8 @@ Blocos 2522–2527. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 01:47:24 — Arcabouço: crescimento real entre 0,6% e 2,5%
 
 **Majoritariamente verdadeiro** · Contas públicas
+
+Locutor não identificado com pistas textuais suficientes.
 
 > gasto primário do estado fica reprimido reprimido ao quê ele tem um piso tem que crescer no mínimo 0.6% e um teto de 2.5% além de que ainda tem mais outra outra restrição que é pode gastar até 70% no máximo do arrecadado do aumento de arrecadação do ano anterior e Se não
 
@@ -1367,6 +1853,8 @@ Blocos 2891–2897. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Impreciso ou fora de contexto** · Desigualdade
 
+Locutor não identificado com pistas textuais suficientes.
+
 > social para vocês terem uma noção nos países da ocde Quem nasce no 20% mais pobre nos países da ocde tem 70% de chance de sair dessa faixa social essa chance Aqui no Brasil é mínima é quase que nula o sujeito no Brasil nasce pobre para sair da pobreza segundo Esse estudo ele vai demorar nove gerações Salv engan não sei se eram nove ou seram sete gerações para sair da pobreza justamente
 
 A estimativa da OCDE se refere ao tempo para descendentes de famílias do décimo de renda mais baixo alcançarem a renda média, sob as hipóteses do estudo. Alcançar a média não é a mesma coisa que ultrapassar a linha de pobreza. A fala também começa com os 20% mais pobres, outro recorte.
@@ -1380,6 +1868,8 @@ Blocos 3186–3195. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 02:00:59 — A dívida brasileira é majoritariamente interna?
 
 **Majoritariamente verdadeiro** · Contas públicas
+
+Locutor não identificado com pistas textuais suficientes.
 
 > um ente monetário soberano isso assim é o básico o básico do básico o Brasil tem um ente monetário soberano ele emita a sua própria moeda e hoje nesse momento a dívida externa é baixíssima a dívida brasileira é basicamente um perfil de dívida interna em moeda própria que o Brasil emite então assim festival de ignorância Econômica dito isso o deputado fez assim não como assim a gente tem 100 anos de Capitalismo de
 
@@ -1395,6 +1885,8 @@ Blocos 3269–3279. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Impreciso ou fora de contexto** · História
 
+Locutor sugerido: Jones Manoel (86% de índice textual, não calibrado). Requer revisão.
+
 > protagonista na criação da escola pública Sabia que não existia escola pública no Brasil era basicamente escola católica teve uma luta gigantesca em defesa de uma escola pública de perspectiva Nacional lá que a gente teve um protagonismo também muito important
 
 O Brasil já tinha legislação de escolas públicas de primeiras letras em 1827, anterior ao movimento comunista organizado no país. A participação posterior de comunistas na defesa da educação não significa que a escola pública tenha começado com esse movimento.
@@ -1408,6 +1900,8 @@ Blocos 3382–3388. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 02:08:43 — A jornada é a mesma há quase cem anos?
 
 **Impreciso ou fora de contexto** · Trabalho
+
+Locutor sugerido: Jones Manoel (75% de índice textual, não calibrado). Requer revisão.
 
 > do pcbr nós defendemos a redução da jornada de trabalho né para 30 horas semanais e o fim da escala se por um porque desde 1988 que não há redução da jornada de trabalho no Brasil e em São Paulo quando teve a Revolução de 30 foi instituída a jornada de trabalho de 8 horas em 1931 faz quase 100 anos que a jornada de trabalho é a mesma e precisa ser
 
@@ -1423,6 +1917,8 @@ Blocos 3484–3493. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Majoritariamente verdadeiro** · Trabalho
 
+Locutor sugerido: Kim Kataguiri (78% de índice textual, não calibrado). Requer revisão.
+
 > até morrer né Vamos lá primeiro que essa regulamentação na prática não teria efeito porque hoje a gente tem 40 milhões de informais né Então essas leis trabalhistas não vão se aplicar para ninguém que hoje tá eh informalização
 
 O IBGE registrou 39,4 milhões de trabalhadores informais no trimestre encerrado em julho de 2024, próximo do arredondamento para 40 milhões. Isso confirma a ordem de grandeza do contingente citado.
@@ -1436,6 +1932,8 @@ Blocos 3503–3509. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 02:10:22 — Fim da ditadura e necessidade do Plano Real
 
 **Impreciso ou fora de contexto** · História
+
+Locutor sugerido: Kim Kataguiri (74% de índice textual, não calibrado). Requer revisão.
 
 > pelo contrário a gente saiu do período da ditadura militar com hiperinflação precisando fazer o plano real e com vários problemas em obras de
 
@@ -1451,6 +1949,8 @@ Blocos 3535–3538. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Saúde
 
+Locutor sugerido: Jones Manoel (89% de índice textual, não calibrado). Requer revisão.
+
 > pegar por exemplo o exemplo da Saúde em 2023 o déficit comercial da Saúde foi de 20 bilhões de dólares desse valor só em fármacos foram 9.8 bilhões de de dólares
 
 O trecho combina duas classificações setoriais que não são definidas na fala. A confirmação exige uma lista de produtos, códigos de comércio exterior e a mesma base de 2023 para as duas cifras. Essa memória de cálculo não foi recuperada nesta revisão.
@@ -1463,6 +1963,8 @@ Blocos 3625–3628. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 02:13:34 — Produção nacional de IFAs caiu de 50% para 5%?
 
 **Majoritariamente verdadeiro** · Saúde
+
+Locutor sugerido: Jones Manoel (88% de índice textual, não calibrado). Requer revisão.
 
 > produzindo internamente né o Brasil já chegou a produzir 50% dos zfas ingrediente farmaceutico ativo que é que faz o remédio funcionar que consome hoje em dia só produz 5% E aí você percebe
 
@@ -1478,6 +1980,8 @@ Blocos 3631–3635. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Saúde
 
+Locutor sugerido: Jones Manoel (87% de índice textual, não calibrado). Requer revisão.
+
 > Lena kavir que é um medicamento muito importante no tratamento do HIV aides ele custa com lucro de 30% 40 só que a empresa quer vender aqui pro Brasil pro SUS por 42.000 dólar Ele custa 0 com a taxa de lucro de 30% que é acima da média mundial da taxa de lucro do capitalismo
 
 O contraste entre preço de um produto e custo estimado de um genérico exige dose, período e mercado comparáveis. Não foi localizado contrato ou oferta ao SUS que sustente o preço específico da fala. O alerta da Conitec de 2023 contextualiza o medicamento, mas não prova essa negociação de 2024.
@@ -1491,6 +1995,8 @@ Blocos 3637–3644. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 02:14:14 — Dolutegravir: 0,21 contra R$ 4,40
 
 **Inconclusivo** · Saúde
+
+Locutor sugerido: Jones Manoel (86% de índice textual, não calibrado). Requer revisão.
 
 > Aí você pega outro medicamento muito importante pro tratamento do HIV ides que é o do Luter gravi que o valor dele a a MS compra por 0,21 e quer vender para o Brasil por R 4,40 centavos ou o sofos buv que é um
 
@@ -1506,6 +2012,8 @@ Blocos 3645–3650. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Saúde
 
+Locutor sugerido: Jones Manoel (85% de índice textual, não calibrado). Requer revisão.
+
 > medicamento para Hepatite C O Brasil tem 300.000 pessoas com hepatite C e que depois que teve um processo judicial para o Brasil solicitar produção de genéricos o remédio aumentou 10000% né então a gente deixa de gerar
 
 Não há identificação da decisão judicial, das duas compras, dos preços de referência ou da unidade de tratamento. Sem esses documentos, não foi possível confirmar o aumento de 10.000% nem sua atribuição ao processo.
@@ -1519,6 +2027,8 @@ Blocos 3651–3656. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Justiça
 
+Locutor não identificado com pistas textuais suficientes.
+
 > levantamento levantamento já desatualizado mais de 8.000 juízes que recebem mais de 100.000 por mês do dinheiro do mais pobre do dinheiro do
 
 O levantamento citado não é identificado. Falta saber se o valor inclui retroativos e indenizações pagos uma única vez ou remuneração mensal recorrente. Não foi confirmada a quantidade com esse critério.
@@ -1531,6 +2041,8 @@ Blocos 3810–3813. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 02:20:17 — Justiça do Trabalho custa o dobro do que paga ao trabalhador?
 
 **Inconclusivo** · Justiça
+
+Locutor não identificado com pistas textuais suficientes.
 
 > Trabalhador a Justiça Trabalhista que é tão ifada né pelas esquerdas ela custa o dobro daquilo que paga pro trabalhador ou seja era é mais fácil a gente pagar o dobro do que cada trabalhador pediu na justiça sem ter Justiça Trabalhista do que a gente manter a estrutura na babesa
 
@@ -1546,6 +2058,8 @@ Blocos 3814–3820. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Impreciso ou fora de contexto** · Habitação
 
+Locutor não identificado com pistas textuais suficientes.
+
 > prédio resultado prático em São Paulo 20% dos imóveis do centro estão abandonados são o quê são casas boa parte são prédios sabe 60.000 Imóveis abandonados e manter a lógica de ao
 
 O levantamento do Censo 2022 noticiado em março de 2024 aponta cerca de um quinto dos domicílios centrais desocupados. “Desocupado” é uma categoria estatística diferente de “abandonado”; pode incluir unidades ofertadas, novas ou com outros usos temporários. A equivalência entre os termos não se sustenta.
@@ -1560,6 +2074,8 @@ Blocos 4086–4090. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Habitação
 
+Locutor não identificado com pistas textuais suficientes.
+
 > centro porque por exemplo você pega os dados você vai ver pera aí para eu não tá errado na barrafunda você tem 700 empregos para cada 100 moradores na cidade Tiradente você tem três empregos para cada 100 moradores então o que que
 
 A fala não identifica ano, base de emprego ou denominador etário. Relações por cem moradores e por cem pessoas em idade ativa não são equivalentes. A desigualdade territorial não basta para confirmar esses dois quocientes.
@@ -1572,6 +2088,8 @@ Blocos 4094–4099. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 02:40:25 — Mínimo da educação é 25% de toda receita municipal?
 
 **Impreciso ou fora de contexto** · Educação
+
+Locutor sugerido: Jones Manoel (90% de índice textual, não calibrado). Requer revisão.
 
 > aliada a isso O Ricardo Nunes não gastou o mínimo constitucional da educação toda a prefeitura é obrigada a gastar 25% né da sua receita com educação Ricardo nes está com a representação que foi feita por vereadores de oposição em que ele deixou de gastar 1.7 bilhões em educação
 
@@ -1587,6 +2105,8 @@ Blocos 4372–4378. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Contas públicas
 
+Locutor sugerido: Jones Manoel (89% de índice textual, não calibrado). Requer revisão.
+
 > está com a representação que foi feita por vereadores de oposição em que ele deixou de gastar 1.7 bilhões em educação e em 2021 e 2022 o Ricardo Nunes para tentar cumprir o mío constitucional da Saúde ele gastou 30% do orçamento aliás disse que gastou né fez o empenho mas não liquidou 30% do orçamento em dezembro para tentar fazer uma maquiagem
 
 A existência de representação política não comprova automaticamente uma irregularidade. Não foram identificados neste levantamento os processos de contas, demonstrativos e decisões finais que permitiriam conferir a cifra e a suposta maquiagem contábil.
@@ -1600,6 +2120,8 @@ Blocos 4376–4384. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 **Inconclusivo** · Agricultura
 
+Locutor não identificado com pistas textuais suficientes.
+
 > distribuição do crédito agrícola você vê que o crédito agrícola fica hiper concentrado nas Grandes propriedades inclusive nas Grandes propriedades que tem mais de 100 Aliás mais de 1000 haar cerca de 78% do crédito agrícola fica propriedades mais de 1000 ha para cima
 
 Não estão especificados safra, modalidade de crédito ou universo do levantamento. Censo Agropecuário, operações de crédito e Plano Safra não têm denominadores automaticamente intercambiáveis. O percentual não foi confirmado com esse recorte.
@@ -1612,6 +2134,8 @@ Blocos 4730–4736. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 ## 02:53:39 — O Brasil não tinha política de mecanização agrícola?
 
 **Falso** · Agricultura
+
+Locutor não identificado com pistas textuais suficientes.
 
 > você vê que o Brasil não tem nenhuma política de mecanização da agricultura e de aumento da produtividade 4% do campo da agricultura familiar do nor Nordeste é mecanizada só a mecanização que existe é comprando máquina de Fora portanto aumentando o déficit comercial do Brasil
 
@@ -1627,7 +2151,7 @@ Blocos 4737–4743. [Abrir trecho](https://www.youtube.com/watch?v=q4T7plSBdJE&t
 
 - Cobertura parcial: este snapshot não certifica todas as afirmações do debate nem representa uma nota geral para qualquer participante.
 - Origem textual: SRT de legendas automáticas fornecido pelo responsável pelo projeto. Não houve conferência integral do áudio. Erros de transcrição podem afetar números, nomes e sentido.
-- A legenda não identifica falantes. O relatório não atribui automaticamente as declarações a Kim Kataguiri, Jones Manoel ou aos apresentadores.
+- Locutores são sugeridos por apresentações e passagens de palavra encontradas na legenda. O título sugere nomes, não autoria. Não há reconhecimento acústico: os percentuais são índices heurísticos textuais, não probabilidades calibradas, e precisam de revisão.
 - A referência temporal das falas é outubro de 2024. Documentos posteriores são usados apenas quando descrevem dados históricos, não para aplicar regras novas retroativamente.
 - Uma fonte oficial não é garantia de inferência correta. Divulgações de resultados de um governo sobre os próprios programas são tratadas como informações institucionais.
 - Sem acesso aos documentos ou à série pertinente, o item permanece inconclusivo. Ausência de evidência nesta revisão não é evidência de falsidade.

@@ -34,15 +34,20 @@ for (const file of files) {
 
   if (report.coverage) {
     const transcript = await readFile(resolve(report.coverage.transcriptPath), 'utf8')
-    for (const claim of report.claims) {
-      if (!claim.cueStart || !claim.cueEnd) throw new Error(`${file}: origem do trecho ausente`)
-      const escapedStart = String(claim.cueStart)
-      const escapedEnd = String(claim.cueEnd + 1)
+    const readCueRange = (cueStart, cueEnd) => {
+      const escapedStart = String(cueStart)
+      const escapedEnd = String(cueEnd + 1)
       const start = transcript.search(new RegExp(`### .* · bloco ${escapedStart}\\n`))
       const end = transcript.search(new RegExp(`### .* · bloco ${escapedEnd}\\n`))
       if (start < 0) throw new Error(`${file}: bloco inicial da afirmação não existe`)
-      const text = transcript.slice(start, end < 0 ? undefined : end).replace(/^### .*$/gm, '').replace(/\s+/g, ' ').trim()
+      return transcript.slice(start, end < 0 ? undefined : end).replace(/^### .*$/gm, '').replace(/\s+/g, ' ').trim()
+    }
+    for (const claim of report.claims) {
+      if (!claim.cueStart || !claim.cueEnd) throw new Error(`${file}: origem do trecho ausente`)
+      const text = readCueRange(claim.cueStart, claim.cueEnd)
       if (text !== claim.quote) throw new Error(`${file}: citação diverge da transcrição em ${claim.id}`)
+      const anchor = claim.speakerAttribution?.anchor
+      if (anchor && readCueRange(anchor.cueStart, anchor.cueEnd) !== anchor.text) throw new Error(`${file}: pista de locutor diverge da transcrição em ${claim.id}`)
     }
     await mkdir(resolve('public/transcripts'), { recursive: true })
     await copyFile(resolve(report.coverage.transcriptPath), resolve('public', report.coverage.transcriptPath))

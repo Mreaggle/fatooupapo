@@ -1,0 +1,7 @@
+{
+  "hints": [
+    { "name": "Kim Kataguiri", "aliases": ["Quim", "Quin", "Kin"], "role": "guest" },
+    { "name": "Jones Manoel", "aliases": ["Jones Manuel", "Joanes", "Janes", "Junes", "Jon"], "role": "guest" },
+    { "name": "Rogério Vilela", "aliases": ["Vilela", "Rogério Vila"], "role": "host" }
+  ]
+}

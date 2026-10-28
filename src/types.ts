@@ -20,6 +20,7 @@ export interface Claim {
   topic?: string
   quote: string
   speaker?: string
+  speakerAttribution?: SpeakerAttribution
   timestampSeconds: number
   cueStart?: number
   cueEnd?: number
@@ -27,6 +28,29 @@ export interface Claim {
   explanation: string
   evidence: Evidence[]
   limitations?: string
+}
+
+export interface Participant {
+  id: string
+  name: string
+  aliases: string[]
+  role: 'guest' | 'host'
+  source: 'video-title' | 'self-introduction'
+}
+
+export interface SpeakerAttribution {
+  participantId: string
+  name: string
+  score: number
+  scoreKind: 'uncalibrated-text-evidence'
+  method: 'text-rules-v1'
+  needsReview: true
+  anchor: {
+    kind: 'self-introduction' | 'named-handoff' | 'reply-transition'
+    cueStart: number
+    cueEnd: number
+    text: string
+  }
 }
 
 export interface AnalysisReport {
@@ -41,6 +65,7 @@ export interface AnalysisReport {
   analyzedAt: string
   status: 'completed'
   claims: Claim[]
+  participants?: Participant[]
   summary: string
   coverage?: {
     kind: 'selected-claims' | 'all-identified-claims'

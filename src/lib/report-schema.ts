@@ -11,6 +11,21 @@ export const verdicts = [
   'Inconclusivo',
 ] as const
 
+export const speakerAttributionSchema = z.object({
+  participantId: z.string().min(1),
+  name: z.string().min(1).max(80),
+  score: z.number().int().min(0).max(100),
+  scoreKind: z.literal('uncalibrated-text-evidence'),
+  method: z.literal('text-rules-v1'),
+  needsReview: z.literal(true),
+  anchor: z.object({
+    kind: z.enum(['self-introduction', 'named-handoff', 'reply-transition']),
+    cueStart: z.number().int().positive(),
+    cueEnd: z.number().int().positive(),
+    text: z.string().min(1),
+  }),
+})
+
 export const reportSchema = z.object({
   schemaVersion: z.literal(1),
   video: z.object({
@@ -23,6 +38,13 @@ export const reportSchema = z.object({
   analyzedAt: z.string().datetime(),
   status: z.literal('completed'),
   summary: z.string().min(1),
+  participants: z.array(z.object({
+    id: z.string().min(1),
+    name: z.string().min(1).max(80),
+    aliases: z.array(z.string()),
+    role: z.enum(['guest', 'host']),
+    source: z.enum(['video-title', 'self-introduction']),
+  })).optional(),
   coverage: z.object({
     kind: z.enum(['selected-claims', 'all-identified-claims']),
     description: z.string().min(1),
@@ -37,6 +59,7 @@ export const reportSchema = z.object({
     topic: z.string().optional(),
     quote: z.string().min(1),
     speaker: z.string().optional(),
+    speakerAttribution: speakerAttributionSchema.optional(),
     timestampSeconds: z.number().nonnegative(),
     cueStart: z.number().int().positive().optional(),
     cueEnd: z.number().int().positive().optional(),
@@ -56,6 +79,15 @@ export const reportSchema = z.object({
     }
   })),
   limitations: z.array(z.string()).optional(),
+}).superRefine((report, context) => {
+  for (const [index, claim] of report.claims.entries()) {
+    const attribution = claim.speakerAttribution
+    if (!attribution) continue
+    const participant = report.participants?.find((item) => item.id === attribution.participantId)
+    if (!participant || participant.name !== attribution.name || attribution.anchor.cueEnd < attribution.anchor.cueStart || (claim.cueStart !== undefined && attribution.anchor.cueEnd >= claim.cueStart)) {
+      context.addIssue({ code: 'custom', path: ['claims', index, 'speakerAttribution'], message: 'Atribuição sem participante ou pista anterior válida' })
+    }
+  }
 })
 
 export type ValidatedReport = z.infer<typeof reportSchema>

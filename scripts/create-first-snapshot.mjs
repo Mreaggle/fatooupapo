@@ -1,22 +1,30 @@
 import { readFile, readdir, writeFile } from 'node:fs/promises'
 import { reviewedClaims } from '../mvp/q4T7plSBdJE.review.mjs'
 import { reportSchema } from '../src/lib/report-schema.ts'
+import { discoverParticipants, detectSpeakerAnchors, attributeSpeaker } from '../src/lib/speakers.ts'
 
 const videoId = 'q4T7plSBdJE'
+const videoTitle = 'DEBATE: KIM KATAGUIRI X JONES MANOEL — Inteligência Ltda. #1327'
 const files = (await readdir('mvp')).filter((file) => file.endsWith('.srt'))
 if (files.length !== 1) throw new Error('É necessário identificar explicitamente um único SRT do debate em mvp/')
 const blocks = (await readFile(`mvp/${files[0]}`, 'utf8')).trim().split(/\r?\n\r?\n/)
 const cues = blocks.map((block) => {
   const [id, timing, ...text] = block.split(/\r?\n/)
-  const [start] = timing.split(' --> ')
-  const [hours, minutes, seconds] = start.replace(',', '.').split(':').map(Number)
-  return { id: Number(id), timestampSeconds: Math.floor(hours * 3600 + minutes * 60 + seconds), text: text.join(' ') }
+  const [start, end] = timing.split(' --> ')
+  const toSeconds = (value) => { const [hours, minutes, seconds] = value.replace(',', '.').split(':').map(Number); return hours * 3600 + minutes * 60 + seconds }
+  return { id: Number(id), timestampSeconds: Math.floor(toSeconds(start)), startSeconds: toSeconds(start), endSeconds: toSeconds(end), text: text.join(' ') }
 })
+
+const { hints } = JSON.parse(await readFile(`mvp/${videoId}.speakers.json`, 'utf8'))
+const participants = discoverParticipants(videoTitle, cues, hints)
+const anchors = detectSpeakerAnchors(cues, participants)
 
 const claims = reviewedClaims.map((claim, index) => {
   const selected = cues.filter((cue) => cue.id >= claim.cueStart && cue.id <= claim.cueEnd)
   if (selected.length !== claim.cueEnd - claim.cueStart + 1) throw new Error(`Trecho ausente: ${claim.title}`)
-  return { id: `afirmacao-${String(index + 1).padStart(2, '0')}`, ...claim, quote: selected.map((cue) => cue.text).join(' '), timestampSeconds: selected[0].timestampSeconds }
+  return { id: `afirmacao-${String(index + 1).padStart(2, '0')}`, ...claim, quote: selected.map((cue) => cue.text).join(' '), timestampSeconds: selected[0].timestampSeconds,
+    speakerAttribution: attributeSpeaker(claim.cueStart, claim.cueEnd, cues, anchors, participants),
+  }
 }).sort((first, second) => first.timestampSeconds - second.timestampSeconds)
 
 const report = reportSchema.parse({
@@ -24,7 +32,7 @@ const report = reportSchema.parse({
   video: {
     id: videoId,
     url: `https://www.youtube.com/watch?v=${videoId}`,
-    title: 'DEBATE: KIM KATAGUIRI X JONES MANOEL — Inteligência Ltda. #1327',
+    title: videoTitle,
     channel: 'Inteligência Ltda',
     thumbnailUrl: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
   },
@@ -40,10 +48,11 @@ const report = reportSchema.parse({
   },
   summary: 'Afirmações sobre contas públicas, saúde, agrotóxicos, trabalho e políticas urbanas. Há dados sustentados por fontes, comparações que omitem o recorte e alegações que permanecem inconclusivas. Cada conclusão se refere ao ponto descrito, não ao participante ou à sua posição política.',
   claims,
+  participants,
   limitations: [
     'Cobertura parcial: este snapshot não certifica todas as afirmações do debate nem representa uma nota geral para qualquer participante.',
     'Origem textual: SRT de legendas automáticas fornecido pelo responsável pelo projeto. Não houve conferência integral do áudio. Erros de transcrição podem afetar números, nomes e sentido.',
-    'A legenda não identifica falantes. O relatório não atribui automaticamente as declarações a Kim Kataguiri, Jones Manoel ou aos apresentadores.',
+    'Locutores são sugeridos por apresentações e passagens de palavra encontradas na legenda. O título sugere nomes, não autoria. Não há reconhecimento acústico: os percentuais são índices heurísticos textuais, não probabilidades calibradas, e precisam de revisão.',
     'A referência temporal das falas é outubro de 2024. Documentos posteriores são usados apenas quando descrevem dados históricos, não para aplicar regras novas retroativamente.',
     'Uma fonte oficial não é garantia de inferência correta. Divulgações de resultados de um governo sobre os próprios programas são tratadas como informações institucionais.',
     'Sem acesso aos documentos ou à série pertinente, o item permanece inconclusivo. Ausência de evidência nesta revisão não é evidência de falsidade.',
@@ -62,6 +71,7 @@ const markdown = [
   ...claims.flatMap((claim) => [
     `## ${timestamp(claim.timestampSeconds)} — ${claim.title}`, '',
     `**${claim.verdict}** · ${claim.topic}`, '',
+    ...(claim.speakerAttribution ? [`Locutor sugerido: ${claim.speakerAttribution.name} (${claim.speakerAttribution.score}% de índice textual, não calibrado). Requer revisão.`, ''] : ['Locutor não identificado com pistas textuais suficientes.', '']),
     `> ${claim.quote}`, '',
     claim.explanation, '',
     ...claim.evidence.map((item) => `- [${item.title}](${item.url}) — ${item.publisher}${item.publishedAt ? `, ${item.publishedAt}` : ''} (${item.position}).`), '',
@@ -72,3 +82,4 @@ const markdown = [
 ].join('\n')
 await writeFile(`snapshots/${videoId}.md`, markdown)
 console.log(`Snapshot ${videoId}: ${claims.length} afirmações, sem chamadas a IA.`)
+console.log(`${anchors.length} passagens/apresentações; ${claims.filter((claim) => claim.speakerAttribution).length} sugestões de locutor, todas revisáveis.`)

@@ -27,6 +27,8 @@ O relatório usa `schemaVersion: 1` e segue as interfaces em `src/types.ts`. O s
 
 O esquema validado em execução está em `src/lib/report-schema.ts`. Uma conclusão diferente de `Inconclusivo` precisa de pelo menos uma fonte HTTPS. O campo opcional `coverage` distingue seleção parcial de cobertura de todas as afirmações identificadas. Um trabalho finalizado (`status: completed`) não significa que toda fala do vídeo foi checada. `cueStart` e `cueEnd` permitem auditar cada citação no Markdown da transcrição. Não inclua `speaker` sem identificação segura.
 
+Sugestões de locutor usam `participants` e `claims[].speakerAttribution`, com `method: text-rules-v1`, `scoreKind: uncalibrated-text-evidence`, `needsReview: true` e uma pista textual com blocos de origem. O índice não deve ser interpretado como probabilidade de identidade vocal ou confiança da checagem factual. O contrato valida a identidade do candidato e a anterioridade da pista. Correções no navegador não são enviadas a esta API.
+
 O frontend rejeita URLs de acompanhamento de outra origem e interrompe o polling após três minutos. Cancelar interrompe a consulta no navegador; sem um contrato de cancelamento no servidor, isso não garante que o trabalho remoto pare de executar.
 
 ## Responsabilidades do backend

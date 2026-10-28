@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { ArrowUpRight, Check, ChevronDown, Copy, Download, Search } from 'lucide-react'
-import type { AnalysisReport, Claim, Verdict } from '../types'
+import type { AnalysisReport, Claim, Participant, Verdict } from '../types'
+import { SpeakerLabel } from './SpeakerLabel'
 import { verdicts } from '../lib/report-schema'
 import { formatTimestamp, timestampUrl } from '../lib/youtube'
 
@@ -18,7 +19,7 @@ function formatDate(value: string) {
   return new Intl.DateTimeFormat('pt-BR', { timeZone: 'UTC' }).format(new Date(value))
 }
 
-function ClaimItem({ claim, videoId, number }: { claim: Claim; videoId: string; number: number }) {
+function ClaimItem({ claim, videoId, number, participants }: { claim: Claim; videoId: string; number: number; participants: Participant[] }) {
   return (
     <article id={claim.id} className="border-b border-line py-7 sm:py-8">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
@@ -26,7 +27,7 @@ function ClaimItem({ claim, videoId, number }: { claim: Claim; videoId: string; 
         <a href={timestampUrl(videoId, claim.timestampSeconds)} className="inline-flex items-center gap-1 font-mono text-xs text-muted underline decoration-line underline-offset-4 hover:text-foreground" target="_blank" rel="noreferrer" aria-label={`Assistir ao trecho em ${formatTimestamp(claim.timestampSeconds)}`}>{formatTimestamp(claim.timestampSeconds)} <ArrowUpRight size={13} /></a>
       </div>
       {claim.title && <h3 className="mb-3 text-lg leading-7 font-medium tracking-tight">{claim.title}</h3>}
-      {claim.speaker && <p className="mb-1 text-xs text-muted">{claim.speaker}</p>}
+      <SpeakerLabel claim={claim} videoId={videoId} participants={participants} />
       <blockquote className="border-l-2 border-line pl-4 text-sm leading-7 text-muted">“{claim.quote}”</blockquote>
       <p className="mt-4 text-sm leading-7 text-foreground/90">{claim.explanation}</p>
 
@@ -87,7 +88,7 @@ export function Report({ report }: { report: AnalysisReport }) {
         <label className="sr-only" htmlFor="claim-filter">Filtrar por classificação</label><select id="claim-filter" value={filter} onChange={(event) => setFilter(event.target.value)} className="max-w-full rounded-lg border border-line bg-background px-3 py-2.5 text-xs text-muted"><option>Todas as classificações</option>{verdicts.filter((verdict) => report.claims.some((claim) => claim.verdict === verdict)).map((verdict) => <option key={verdict}>{verdict}</option>)}</select>
       </div>
       <section aria-label="Afirmações verificadas" className="mt-2">
-        {visible.map((claim) => <ClaimItem key={claim.id} claim={claim} videoId={report.video.id} number={report.claims.indexOf(claim) + 1} />)}
+        {visible.map((claim) => <ClaimItem key={claim.id} claim={claim} videoId={report.video.id} number={report.claims.indexOf(claim) + 1} participants={report.participants ?? []} />)}
         {visible.length === 0 && <p role="status" className="py-12 text-center text-sm text-muted">Nenhuma afirmação encontrada para este filtro.</p>}
       </section>
       {report.limitations?.length ? <details className="group mt-8 border-b border-line pb-5"><summary className="list-none text-sm text-muted hover:text-foreground">Limitações do relatório <ChevronDown size={14} className="ml-1 inline transition-transform group-open:rotate-180" /></summary><ul className="mt-4 list-disc space-y-2 pl-4 text-xs leading-6 text-muted">{report.limitations.map((item) => <li key={item}>{item}</li>)}</ul></details> : null}

@@ -60,14 +60,15 @@ export default function App() {
 
   return (
     <div className={`app-shell flex min-h-svh flex-col ${report ? 'app-shell--report' : ''}`}>
-      <header className="mx-auto flex h-20 w-full max-w-6xl shrink-0 items-center justify-between px-5 sm:px-8">
+      {report && <header className="mx-auto flex h-20 w-full max-w-6xl shrink-0 items-center justify-between px-5 sm:px-8">
         <Brand onHome={goHome} />
-        {report && <button className="button-text text-xs" type="button" onClick={goHome}>← Nova consulta</button>}
-      </header>
+        <button className="button-text text-xs" type="button" onClick={goHome}>← Nova consulta</button>
+      </header>}
       {report ? <Report report={report} /> : <Home initialUrl={initialUrl} error={error} progress={progress} onAnalyze={(url) => void analyze(url)} onClearError={() => setError('')} onCancel={() => { request.current?.abort(); setProgress(null) }} />}
       <footer className="mx-auto w-full max-w-6xl px-5 pb-6 pt-8 text-center sm:px-8">
         <nav aria-label="Links do rodapé" className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-xs text-muted">
           {(['Como funciona', 'Metodologia', 'Sobre o projeto'] as const).map((page) => <button className="button-text" key={page} type="button" onClick={() => setInfo(page)}>{page}</button>)}
+          {!report && <a className="button-text" href="?v=q4T7plSBdJE">Debate do MVP ↗</a>}
         </nav>
         <p className="mx-auto mt-4 max-w-lg text-[11px] leading-5 text-faint">Análises automatizadas podem conter erros. Consulte as fontes.</p>
       </footer>

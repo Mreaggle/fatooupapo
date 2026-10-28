@@ -33,5 +33,14 @@ describe('integridade editorial do primeiro snapshot', () => {
     expect(report.coverage?.cueCount).toBe(cues.length)
     expect(report.claims.every((claim) => claim.speaker === undefined)).toBe(true)
     expect(report.claims.every((claim) => claim.verdict === 'Inconclusivo' || claim.evidence.length > 0)).toBe(true)
+    for (const claim of report.claims) {
+      const attribution = claim.speakerAttribution
+      if (!attribution) continue
+      const selected = cues.filter((cue) => cue.id >= attribution.anchor.cueStart && cue.id <= attribution.anchor.cueEnd)
+      expect(attribution.anchor.text).toBe(selected.map((cue) => cue.text).join(' '))
+      expect(attribution.needsReview).toBe(true)
+      expect(attribution.scoreKind).toBe('uncalibrated-text-evidence')
+      expect(attribution.anchor.cueEnd).toBeLessThan(claim.cueStart!)
+    }
   })
 })

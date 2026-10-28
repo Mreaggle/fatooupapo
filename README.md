@@ -10,6 +10,8 @@ Vídeo: https://www.youtube.com/watch?v=q4T7plSBdJE
 
 O acervo inclui **48 afirmações selecionadas**, com classificação, fontes, contexto e timestamps, e **a transcrição completa fornecida** (5.224 blocos). O relatório é uma primeira revisão parcial; não certifica todas as falas do debate. As legendas são automáticas, sem diarização, e não houve revisão integral do áudio.
 
+Locutores são sugeridos por regras determinísticas de autoapresentação e passagem de palavra. O percentual mostrado é um índice textual não calibrado, explicado por hover, foco ou toque. A revisão de nomes é local e reversível. Não há sequência fixa de Vilela, Jones e Kim nem reconhecimento acústico. Veja [docs/SPEAKERS.md](docs/SPEAKERS.md).
+
 - `transcripts/q4T7plSBdJE.md` — transcrição integral, timestamps e SHA-256 do SRT.
 - `snapshots/q4T7plSBdJE.md` — relatório legível e dados estruturados consumidos pela aplicação.
 - `mvp/*.srt` — arquivo original fornecido, preservado.

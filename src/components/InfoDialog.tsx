@@ -34,7 +34,8 @@ export function InfoDialog({ page, onClose }: { page: InfoPage | null; onClose: 
               ['Inconclusivo', 'Não há elementos suficientes para uma conclusão responsável.'],
             ].map(([title, text]) => <div key={title}><dt className="font-medium text-foreground">{title}</dt><dd>{text}</dd></div>)}
           </dl>
-          <p>A legenda automática pode transcrever nomes e números incorretamente. Os trechos são preservados e o vídeo original continua sendo a referência. Não atribuímos falantes sem identificação segura. O relatório indica explicitamente a cobertura e as limitações.</p>
+          <p>A legenda automática pode transcrever nomes e números incorretamente. Os trechos são preservados e o vídeo original continua sendo a referência. O relatório indica explicitamente a cobertura e as limitações.</p>
+          <p>Os nomes dos locutores são sugestões de regras textuais que procuram apresentações e passagens de palavra. O percentual mede a força dessas pistas, com desconto pela distância até o trecho; não é uma probabilidade calibrada nem a certeza da checagem factual. O título fornece candidatos, sem determinar a ordem das falas. Use “Revisar locutor” para conferir e corrigir no seu navegador.</p>
           <p>Uma fonte oficial comprova o documento ou dado que publicou; sozinha, não comprova causalidade nem neutralidade. Estatísticas de governos sobre os próprios programas são identificadas como tal.</p>
         </>}
         {page === 'Sobre o projeto' && <>
