@@ -5,6 +5,7 @@ import { InfoDialog, type InfoPage } from './components/InfoDialog'
 import { Report } from './components/Report'
 import { AnalysisError, analyzeVideo } from './services/analysis'
 import { parseYouTubeUrl } from './lib/youtube'
+import { analysisRequestLinks } from './lib/analysis-requests'
 import type { AnalysisProgress, AnalysisReport } from './types'
 
 function getInitialUrl() {
@@ -17,10 +18,12 @@ export default function App() {
   const [report, setReport] = useState<AnalysisReport | null>(null)
   const [progress, setProgress] = useState<AnalysisProgress | null>(null)
   const [error, setError] = useState('')
+  const [requestLinks, setRequestLinks] = useState<ReturnType<typeof analysisRequestLinks>>(null)
   const [info, setInfo] = useState<InfoPage | null>(null)
   const request = useRef<AbortController | null>(null)
 
   const analyze = useCallback(async (url: string) => {
+    setRequestLinks(null)
     const video = parseYouTubeUrl(url)
     if (!video) { setError('Insira um link válido de vídeo do YouTube.'); return }
     request.current?.abort()
@@ -38,6 +41,9 @@ export default function App() {
       window.scrollTo?.({ top: 0 })
     } catch (caught) {
       if (controller.signal.aborted) return
+      if (caught instanceof AnalysisError && caught.code === 'integration_unavailable') {
+        setRequestLinks(analysisRequestLinks(video.canonicalUrl))
+      }
       setError(caught instanceof AnalysisError ? caught.message : 'Não foi possível consultar a análise. Verifique a conexão e tente novamente.')
     } finally {
       if (request.current === controller) { setProgress(null); request.current = null }
@@ -54,6 +60,7 @@ export default function App() {
     request.current = null
     setProgress(null)
     setError('')
+    setRequestLinks(null)
     setReport(null)
     window.history.replaceState({}, '', window.location.pathname)
   }
@@ -64,7 +71,7 @@ export default function App() {
         <Brand onHome={goHome} />
         <button className="button-text text-xs" type="button" onClick={goHome}>← Nova consulta</button>
       </header>}
-      {report ? <Report report={report} /> : <Home initialUrl={initialUrl} error={error} progress={progress} onAnalyze={(url) => void analyze(url)} onClearError={() => setError('')} onCancel={() => { request.current?.abort(); setProgress(null) }} />}
+      {report ? <Report report={report} /> : <Home initialUrl={initialUrl} error={error} requestLinks={requestLinks} progress={progress} onAnalyze={(url) => void analyze(url)} onClearError={() => { setError(''); setRequestLinks(null) }} onCancel={() => { request.current?.abort(); setProgress(null) }} />}
       <footer className="mx-auto w-full max-w-6xl px-5 pb-6 pt-8 text-center sm:px-8">
         <nav aria-label="Links do rodapé" className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-xs text-muted">
           {(['Como funciona', 'Metodologia', 'Sobre o projeto'] as const).map((page) => <button className="button-text" key={page} type="button" onClick={() => setInfo(page)}>{page}</button>)}

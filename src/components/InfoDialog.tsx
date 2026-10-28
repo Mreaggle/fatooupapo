@@ -20,17 +20,19 @@ export function InfoDialog({ page, onClose }: { page: InfoPage | null; onClose: 
       <div className="space-y-4 pt-5 text-sm leading-7 text-muted">
         {page === 'Como funciona' && <>
           <p>Cole o link de um vídeo do YouTube. Se já houver uma checagem no acervo, ela abre diretamente, sem uma nova chamada à IA.</p>
-          <p>O MVP começa pelo debate entre Kim Kataguiri e Jones Manoel. Cada item mostra o trecho da legenda, o momento no vídeo, a conclusão e as fontes. Vídeos sem relatório têm sua indisponibilidade informada.</p>
+          <p>Se o vídeo ainda não estiver no acervo, abra um pedido na fila do GitHub. É preciso uma conta para enviar o formulário, e os pedidos são públicos. A equipe aprova o processamento e revisa a transcrição, as afirmações e as fontes antes da publicação. Não há prazo garantido.</p>
+          <p>Cada conta recebe 100 créditos de análise por 24 horas. O custo é estimado antes do pedido; vídeos a partir de 3 horas usam a cota inteira. Consultar o acervo e retomar o mesmo pedido não gera novo débito.</p>
+          <p>Novos pedidos percorrem a transcrição inteira e checam as afirmações identificadas por lotes. O processamento pode depender de um arquivo SRT ou VTT fornecido pelo responsável quando a extração estiver indisponível. O relatório informa sua cobertura e pode conter itens inconclusivos; o debate inicial ainda é uma revisão parcial.</p>
         </>}
         {page === 'Metodologia' && <>
-          <p>Checamos afirmações factuais. Opiniões, propostas e previsões não recebem classificação de verdade ou falsidade. A referência temporal deste debate é 1º de outubro de 2024.</p>
+          <p>Checamos afirmações factuais. Opiniões, propostas e previsões não recebem classificação de verdade ou falsidade. Cada análise deve considerar a data e o contexto da fala; no debate inicial, a referência temporal é 1º de outubro de 2024.</p>
           <dl className="space-y-3">
             {[
-              ['Verdadeiro', 'As fontes sustentam a afirmação no recorte indicado.'],
-              ['Majoritariamente verdadeiro', 'O ponto central se sustenta, com ressalvas relevantes.'],
+              ['Fato', 'As fontes sustentam a afirmação no recorte indicado.'],
+              ['Majoritariamente fato', 'O ponto central se sustenta, com ressalvas relevantes.'],
               ['Impreciso ou fora de contexto', 'O recorte, a comparação ou uma omissão altera a interpretação.'],
-              ['Majoritariamente falso', 'Há um elemento correto, mas os erros comprometem o ponto central.'],
-              ['Falso', 'Evidências verificáveis contradizem diretamente o ponto checado.'],
+              ['Majoritariamente papo', 'Há um elemento correto, mas os erros comprometem o ponto central.'],
+              ['Papo', 'Evidências verificáveis contradizem diretamente o ponto checado.'],
               ['Inconclusivo', 'Não há elementos suficientes para uma conclusão responsável.'],
             ].map(([title, text]) => <div key={title}><dt className="font-medium text-foreground">{title}</dt><dd>{text}</dd></div>)}
           </dl>

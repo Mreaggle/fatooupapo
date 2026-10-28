@@ -6,7 +6,7 @@ export default defineConfig({
   base: './',
   plugins: [react(), tailwindcss()],
   test: {
-    include: ['src/**/*.test.{ts,tsx}'],
+    include: ['src/**/*.test.{ts,tsx}', 'scripts/analysis/**/*.test.ts'],
     environment: 'jsdom',
     setupFiles: './src/test/setup.ts',
     css: true,

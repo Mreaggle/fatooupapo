@@ -12,3 +12,4 @@ public/transcripts/
 public/reports/
 playwright-report/
 test-results/
+.analysis-work/

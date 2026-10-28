@@ -4,6 +4,7 @@ import type { AnalysisReport, Claim, Participant, Verdict } from '../types'
 import { SpeakerLabel } from './SpeakerLabel'
 import { verdicts } from '../lib/report-schema'
 import { formatTimestamp, timestampUrl } from '../lib/youtube'
+import { verdictLabel } from '../lib/verdict-label'
 
 const verdictStyle: Record<Verdict, string> = {
   Verdadeiro: 'verdict--true',
@@ -23,7 +24,7 @@ function ClaimItem({ claim, videoId, number, participants }: { claim: Claim; vid
   return (
     <article id={claim.id} className="border-b border-line py-7 sm:py-8">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-        <div className="flex items-center gap-3"><span className="font-mono text-[11px] text-faint">{String(number).padStart(2, '0')}</span><span className={`verdict ${verdictStyle[claim.verdict]}`}>{claim.verdict}</span></div>
+        <div className="flex items-center gap-3"><span className="font-mono text-[11px] text-faint">{String(number).padStart(2, '0')}</span><span className={`verdict ${verdictStyle[claim.verdict]}`}>{verdictLabel(claim.verdict)}</span></div>
         <a href={timestampUrl(videoId, claim.timestampSeconds)} className="inline-flex items-center gap-1 font-mono text-xs text-muted underline decoration-line underline-offset-4 hover:text-foreground" target="_blank" rel="noreferrer" aria-label={`Assistir ao trecho em ${formatTimestamp(claim.timestampSeconds)}`}>{formatTimestamp(claim.timestampSeconds)} <ArrowUpRight size={13} /></a>
       </div>
       {claim.title && <h3 className="mb-3 font-serif text-xl leading-7 font-semibold tracking-tight">{claim.title}</h3>}
@@ -81,11 +82,12 @@ export function Report({ report }: { report: AnalysisReport }) {
         <p className="font-serif text-lg leading-7 text-muted">{report.summary}</p>
         <p className="mt-4 text-sm"><span className="font-medium">{report.claims.length} afirmações analisadas</span><span className="px-2 text-faint">·</span><span className="text-muted">{inconclusive} inconclusivas</span></p>
         {report.coverage && <details className="group mt-3"><summary className="list-none text-xs text-muted hover:text-foreground">Cobertura e origem <ChevronDown size={12} className="ml-1 inline transition-transform group-open:rotate-180" /></summary><p className="mt-3 text-xs leading-6 text-muted">{report.coverage.description} Transcrição: {report.coverage.cueCount.toLocaleString('pt-BR')} blocos, de {formatTimestamp(report.coverage.firstTimestamp)} a {formatTimestamp(report.coverage.lastTimestamp)}.</p></details>}
+        {report.coverage?.kind === 'selected-claims' && <p className="mt-3 text-xs leading-6 text-muted">Este recorte parcial não permite comparar participantes nem inferir intenção de mentir.</p>}
       </div>
 
       <div className="flex flex-col gap-3 sm:flex-row">
         <div className="flex min-w-0 flex-1 items-center gap-2 rounded-lg border border-line px-3"><Search size={15} className="shrink-0 text-faint" /><label className="sr-only" htmlFor="claim-search">Buscar afirmações</label><input id="claim-search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar no debate" className="h-10 w-full min-w-0 bg-transparent text-xs outline-none placeholder:text-faint" /></div>
-        <label className="sr-only" htmlFor="claim-filter">Filtrar por classificação</label><select id="claim-filter" value={filter} onChange={(event) => setFilter(event.target.value)} className="max-w-full rounded-lg border border-line bg-background px-3 py-2.5 text-xs text-muted"><option>Todas as classificações</option>{verdicts.filter((verdict) => report.claims.some((claim) => claim.verdict === verdict)).map((verdict) => <option key={verdict}>{verdict}</option>)}</select>
+        <label className="sr-only" htmlFor="claim-filter">Filtrar por classificação</label><select id="claim-filter" value={filter} onChange={(event) => setFilter(event.target.value)} className="max-w-full rounded-lg border border-line bg-background px-3 py-2.5 text-xs text-muted"><option>Todas as classificações</option>{verdicts.filter((verdict) => report.claims.some((claim) => claim.verdict === verdict)).map((verdict) => <option key={verdict} value={verdict}>{verdictLabel(verdict)}</option>)}</select>
       </div>
       <section aria-label="Afirmações verificadas" className="mt-2">
         {visible.map((claim) => <ClaimItem key={claim.id} claim={claim} videoId={report.video.id} number={report.claims.indexOf(claim) + 1} participants={report.participants ?? []} />)}
