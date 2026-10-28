@@ -26,9 +26,9 @@ function ClaimItem({ claim, videoId, number, participants }: { claim: Claim; vid
         <div className="flex items-center gap-3"><span className="font-mono text-[11px] text-faint">{String(number).padStart(2, '0')}</span><span className={`verdict ${verdictStyle[claim.verdict]}`}>{claim.verdict}</span></div>
         <a href={timestampUrl(videoId, claim.timestampSeconds)} className="inline-flex items-center gap-1 font-mono text-xs text-muted underline decoration-line underline-offset-4 hover:text-foreground" target="_blank" rel="noreferrer" aria-label={`Assistir ao trecho em ${formatTimestamp(claim.timestampSeconds)}`}>{formatTimestamp(claim.timestampSeconds)} <ArrowUpRight size={13} /></a>
       </div>
-      {claim.title && <h3 className="mb-3 text-lg leading-7 font-medium tracking-tight">{claim.title}</h3>}
+      {claim.title && <h3 className="mb-3 font-serif text-xl leading-7 font-semibold tracking-tight">{claim.title}</h3>}
       <SpeakerLabel claim={claim} videoId={videoId} participants={participants} />
-      <blockquote className="border-l-2 border-line pl-4 text-sm leading-7 text-muted">“{claim.quote}”</blockquote>
+      <blockquote className="border-l-2 border-line pl-4 font-serif text-lg leading-7 text-muted">“{claim.quote}”</blockquote>
       <p className="mt-4 text-sm leading-7 text-foreground/90">{claim.explanation}</p>
 
       <details className="group mt-4">
@@ -67,7 +67,7 @@ export function Report({ report }: { report: AnalysisReport }) {
     <main className="mx-auto w-full max-w-3xl flex-1 px-5 pb-12 pt-8 sm:px-8 sm:pt-12">
       <p className="mb-5 text-xs text-muted">{report.coverage?.kind === 'selected-claims' ? 'Checagem parcial' : 'Relatório'} · {formatDate(report.analyzedAt)}</p>
       <div className="flex items-start gap-5">
-        <div className="min-w-0 flex-1"><p className="mb-2 text-xs text-muted">{report.video.channel}</p><h1 className="text-2xl leading-tight font-semibold tracking-[-0.035em] sm:text-3xl">{report.video.title}</h1></div>
+        <div className="min-w-0 flex-1"><p className="mb-2 text-xs text-muted">{report.video.channel}</p><h1 className="font-serif text-2xl leading-tight font-medium tracking-[-0.025em] sm:text-3xl">{report.video.title}</h1></div>
         <img className="hidden aspect-video w-32 rounded-md object-cover sm:block" src={report.video.thumbnailUrl} alt="Miniatura do debate" width={128} height={72} />
       </div>
       <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-3 text-xs text-muted">
@@ -78,7 +78,7 @@ export function Report({ report }: { report: AnalysisReport }) {
       {copyState && <p role="status" className="mt-3 text-xs text-muted">{copyState}</p>}
 
       <div className="my-8 border-y border-line py-6">
-        <p className="text-sm leading-7 text-muted">{report.summary}</p>
+        <p className="font-serif text-lg leading-7 text-muted">{report.summary}</p>
         <p className="mt-4 text-sm"><span className="font-medium">{report.claims.length} afirmações analisadas</span><span className="px-2 text-faint">·</span><span className="text-muted">{inconclusive} inconclusivas</span></p>
         {report.coverage && <details className="group mt-3"><summary className="list-none text-xs text-muted hover:text-foreground">Cobertura e origem <ChevronDown size={12} className="ml-1 inline transition-transform group-open:rotate-180" /></summary><p className="mt-3 text-xs leading-6 text-muted">{report.coverage.description} Transcrição: {report.coverage.cueCount.toLocaleString('pt-BR')} blocos, de {formatTimestamp(report.coverage.firstTimestamp)} a {formatTimestamp(report.coverage.lastTimestamp)}.</p></details>}
       </div>

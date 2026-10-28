@@ -23,10 +23,10 @@ export function Home({ initialUrl, progress, error, onAnalyze, onCancel, onClear
   return (
     <main className="hero-reference relative isolate flex min-h-svh w-full flex-1 items-center justify-center overflow-hidden px-5 py-16 sm:px-8">
       <div className="w-full max-w-[880px] -translate-y-2">
-        <h1 className="text-center text-[clamp(2.75rem,5vw,6rem)] leading-[1.08] font-normal tracking-[-0.045em] text-white">
+        <h1 className="text-center font-serif text-[clamp(2.75rem,5vw,6rem)] leading-[1.08] font-normal tracking-[-0.025em] text-white">
           Você assiste e<br /><span>nós <em className="font-normal">checamos.</em></span>
         </h1>
-        <p className="mx-auto mt-8 max-w-[820px] text-center text-[clamp(0.875rem,1.15vw,1.375rem)] leading-[1.45] tracking-[-0.025em] text-[#d2dbd8]">
+        <p className="mx-auto mt-8 max-w-[820px] text-center font-serif text-[clamp(1rem,1.25vw,1.5rem)] leading-[1.45] text-[#d2dbd8]">
           Você não precisa confiar em ninguém, cole o link do vídeo do YouTube no espaço abaixo e nós verificamos pra você a veracidade dos fatos
         </p>
 

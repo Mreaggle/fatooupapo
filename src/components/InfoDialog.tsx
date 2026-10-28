@@ -14,7 +14,7 @@ export function InfoDialog({ page, onClose }: { page: InfoPage | null; onClose: 
   return (
     <dialog ref={ref} onCancel={onClose} onClick={(event) => { if (event.target === event.currentTarget) onClose() }} className="info-dialog" aria-labelledby="info-title">
       <div className="flex items-center justify-between gap-4 border-b border-line pb-5">
-        <h2 id="info-title" className="text-lg font-semibold">{page}</h2>
+        <h2 id="info-title" className="font-serif text-xl font-semibold">{page}</h2>
         <button className="icon-button" type="button" onClick={onClose} aria-label="Fechar"><X size={18} /></button>
       </div>
       <div className="space-y-4 pt-5 text-sm leading-7 text-muted">

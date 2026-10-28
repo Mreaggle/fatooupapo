@@ -4,6 +4,8 @@ Plataforma de checagem de afirmações em vídeos do YouTube. React, TypeScript,
 
 MVP publicado: https://mreaggle.github.io/fatooupapo/
 
+Tipografia: AnthropicSerif variável em títulos, citações e destaques, com versões Roman e Italic hospedadas localmente. Pesos, contextos e origem dos arquivos em [docs/TYPOGRAPHY.md](docs/TYPOGRAPHY.md).
+
 ## Primeiro debate
 
 Vídeo: https://www.youtube.com/watch?v=q4T7plSBdJE
