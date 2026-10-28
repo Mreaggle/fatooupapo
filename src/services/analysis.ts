@@ -77,7 +77,7 @@ async function requestBackend(
 ): Promise<AnalysisReport> {
   if (!API_URL) {
     throw new AnalysisError(
-      'Este vídeo ainda não está no acervo. Por enquanto, só é possível consultar vídeos já checados.',
+      'Este vídeo ainda não está no acervo. Você pode solicitar uma análise pela fila do GitHub.',
       'integration_unavailable',
     )
   }

@@ -1,5 +1,14 @@
 @import "tailwindcss";
 
+@keyframes processing-sweep {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(200%); }
+}
+.processing-fill { animation: processing-sweep 1.8s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .processing-fill { animation: none; width: 100%; opacity: 0.5; }
+}
+
 @font-face {
   font-family: "AnthropicSerif";
   src: url('/fonts/anthropic-serif-roman.woff2') format('woff2');

@@ -1,17 +1,19 @@
 import { useState, type FormEvent } from 'react'
 import { ArrowRight, LoaderCircle } from 'lucide-react'
 import type { AnalysisProgress } from '../types'
+import { RequestPanel } from './RequestPanel'
 
 interface Props {
   initialUrl: string
   progress: AnalysisProgress | null
   error: string
+  requestLinks: { request: string; queue: string } | null
   onAnalyze: (url: string) => void
   onCancel: () => void
   onClearError: () => void
 }
 
-export function Home({ initialUrl, progress, error, onAnalyze, onCancel, onClearError }: Props) {
+export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onCancel, onClearError }: Props) {
   const [url, setUrl] = useState(initialUrl)
   const loading = Boolean(progress)
 
@@ -27,7 +29,7 @@ export function Home({ initialUrl, progress, error, onAnalyze, onCancel, onClear
           Você assiste e<br /><span>nós <em className="font-normal">checamos.</em></span>
         </h1>
         <p className="mx-auto mt-8 max-w-[820px] text-center font-serif text-[clamp(1rem,1.25vw,1.5rem)] leading-[1.45] text-[#d2dbd8]">
-          Você não precisa confiar em ninguém, cole o link do vídeo do YouTube no espaço abaixo e nós verificamos pra você a veracidade dos fatos
+          Cole o link de um vídeo do YouTube para consultar as checagens e suas fontes. Se ele ainda não estiver no acervo, você pode solicitar uma análise.
         </p>
 
         <form onSubmit={submit} noValidate className="mt-12">
@@ -41,7 +43,8 @@ export function Home({ initialUrl, progress, error, onAnalyze, onCancel, onClear
                 className="h-16 w-full min-w-0 bg-transparent text-sm text-foreground outline-none placeholder:text-[clamp(0.625rem,0.85vw,0.95rem)] placeholder:font-semibold placeholder:text-[#858588] placeholder:uppercase disabled:opacity-60 sm:h-full"
               />
             </div>
-            <button className="flex min-h-16 shrink-0 items-center justify-between gap-5 bg-[#fdfdfd] px-5 text-[clamp(0.75rem,0.85vw,1rem)] font-semibold text-[#1b1c1b] uppercase transition-colors hover:bg-stone-200 disabled:cursor-not-allowed disabled:bg-[#f2f2f2] sm:w-[34%] sm:px-6" disabled={loading || !url.trim()} type="submit">
+            <button className="relative isolate flex min-h-16 shrink-0 items-center justify-between gap-5 overflow-hidden bg-[#fdfdfd] px-5 text-[clamp(0.75rem,0.85vw,1rem)] font-semibold text-[#1b1c1b] uppercase transition-colors hover:bg-stone-200 disabled:cursor-not-allowed disabled:bg-[#f2f2f2] sm:w-[34%] sm:px-6" disabled={loading || !url.trim()} type="submit">
+              {loading && <span aria-hidden="true" className="processing-fill absolute inset-y-0 left-0 -z-10 w-1/2 bg-emerald-400" />}
               {loading ? <><span>Consultando</span><LoaderCircle size={18} className="animate-spin motion-reduce:animate-none" /></> : <><span>Verifique os fatos</span><span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-[#1c1d1c] text-white"><ArrowRight size={12} strokeWidth={2} /></span></>}
             </button>
           </div>
@@ -49,6 +52,7 @@ export function Home({ initialUrl, progress, error, onAnalyze, onCancel, onClear
           {error && <p id="url-error" role="alert" className="mt-3 text-sm leading-6 text-red-300">{error}</p>}
           {progress && <div role="status" aria-live="polite" className="mt-3 flex items-start justify-between gap-3 text-xs leading-5 text-muted"><span>{progress.message}</span><button type="button" onClick={onCancel} className="shrink-0 underline underline-offset-4">Cancelar</button></div>}
         </form>
+        {requestLinks && <RequestPanel videoUrl={url} queueUrl={requestLinks.queue} />}
       </div>
     </main>
   )

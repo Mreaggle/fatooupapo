@@ -41,7 +41,13 @@ Comandos principais:
 
 ## Integrações
 
-Copie `.env.example` para `.env.local` e defina `VITE_ANALYSIS_API_URL` com a URL do backend. Essa variável é pública; credenciais do YouTube, IA e busca devem permanecer no servidor. Sem backend, a aplicação continua consultando `snapshots/` e informa claramente quando um vídeo ainda não foi analisado.
+O caminho da v1 usa **Pages + Issues + Actions**, sem servidor próprio ou Cloudflare. Vídeos fora do acervo recebem um formulário de pedido no GitHub, estimativa de créditos e acompanhamento de lotes. O processamento percorre a transcrição inteira de vídeos de até 4h e checa até 8 afirmações por execução, retomando o progresso até concluir o inventário. Somente relatórios revisados entram no acervo.
+
+Cada conta recebe **100 créditos por 24h**, com débito único por pedido aprovado. O MVP calibra o custo; vídeos a partir de 3h consomem a cota inteira. Créditos do produto são distintos de tokens reais do modelo. Configuração dos secrets do Gemini, fontes, limites e publicação: [docs/ANALYSIS_PIPELINE.md](docs/ANALYSIS_PIPELINE.md).
+
+A interface usa “Fato” e “Papo”, incluindo as classificações intermediárias; os valores de esquema `Verdadeiro` e `Falso` permanecem compatíveis com o acervo existente.
+
+Deixe `VITE_ANALYSIS_API_URL` vazia para a v1. A integração opcional com backend HTTPS continua disponível para outro modo de operação. Essa variável é pública; credenciais devem permanecer no servidor ou nos secrets do Actions.
 
 O contrato esperado está em [docs/API.md](docs/API.md). O formato do acervo está em [snapshots/README.md](snapshots/README.md).
 
@@ -56,3 +62,5 @@ As revisões são preservadas no histórico Git. Um link `?v=ID` aponta para a v
 ## Publicação
 
 O workflow `.github/workflows/deploy-pages.yml` testa e publica `dist/` no GitHub Pages a cada push para `main`.
+
+O workflow `analyze-video.yml` é acionado manualmente por um responsável: `process` aprova/retoma o próximo lote de uma issue; `publish-reviewed` prepara uma análise já revisada para a PR. `check-pr.yml` valida PRs sem credenciais de IA. Nenhuma análise nova é publicada automaticamente.

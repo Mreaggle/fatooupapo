@@ -5,14 +5,17 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run snapshots:build && tsc -b && vite build",
+    "build": "npm run snapshots:build && tsc -b && tsc -p tsconfig.scripts.json && vite build",
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",
     "lint": "eslint .",
     "snapshots:build": "node scripts/build-snapshot-index.mjs",
-    "snapshot:debate": "node scripts/create-first-snapshot.mjs"
+    "snapshot:debate": "node scripts/create-first-snapshot.mjs",
+    "analysis:prepare": "node scripts/analysis/prepare.ts",
+    "analysis:run": "node scripts/analysis/run.ts",
+    "analysis:promote": "node scripts/analysis/promote.ts"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",

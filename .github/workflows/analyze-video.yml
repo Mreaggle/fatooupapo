@@ -1,0 +1,197 @@
+name: Processar pedido de análise
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: Número da issue aprovada (formulário de análise)
+        required: true
+        type: string
+      operation:
+        description: Retomar lote ou preparar publicação após revisão editorial
+        required: true
+        type: choice
+        default: process
+        options: [process, publish-reviewed]
+      allow_transcript_fetch:
+        description: Autorizo tentar obter a legenda deste vídeo por meio permitido
+        type: boolean
+        default: false
+      review_confirmed:
+        description: Conferi duração, data, áudio, inventário, omissões, duplicatas, conclusões e fontes originais
+        type: boolean
+        default: false
+
+# Serializes all requests. Issues remain the durable queue, rather than runner time.
+concurrency:
+  group: analysis-queue
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: read
+  actions: read
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Validar aprovação, pedido e orçamento diário
+        id: gate
+        uses: actions/github-script@v7
+        env:
+          ISSUE_NUMBER: ${{ inputs.issue_number }}
+          OPERATION: ${{ inputs.operation }}
+          REVIEW_CONFIRMED: ${{ inputs.review_confirmed }}
+          DAILY_RUN_LIMIT: ${{ vars.ANALYSIS_DAILY_RUN_LIMIT || '2' }}
+        with:
+          script: |
+            const fs = require('node:fs/promises');
+            const issueNumber = process.env.ISSUE_NUMBER;
+            if (!/^[1-9]\d{0,8}$/.test(issueNumber)) throw new Error('Número de issue inválido.');
+            if (!['process', 'publish-reviewed'].includes(process.env.OPERATION)) throw new Error('Operação inválida.');
+            const permission = await github.rest.repos.getCollaboratorPermissionLevel({ ...context.repo, username: context.actor });
+            if (!['admin', 'maintain', 'write'].includes(permission.data.permission)) throw new Error('A aprovação exige permissão de escrita no repositório.');
+            if (process.env.OPERATION === 'publish-reviewed' && process.env.REVIEW_CONFIRMED !== 'true') throw new Error('A publicação exige confirmação explícita da revisão editorial.');
+            if (process.env.OPERATION === 'process') {
+              const limit = Number(process.env.DAILY_RUN_LIMIT);
+              if (!Number.isInteger(limit) || limit < 1 || limit > 2) throw new Error('Limite diário deve ser 1 ou 2 execuções.');
+              const today = new Date().toISOString().slice(0, 10);
+              const current = await github.rest.actions.getWorkflowRun({ ...context.repo, run_id: context.runId });
+              if (!current.data.created_at.startsWith(today)) throw new Error('Para retomar em outro dia, inicie uma nova execução; não use Re-run.');
+              const runs = await github.paginate(github.rest.actions.listWorkflowRuns, {
+                ...context.repo, workflow_id: 'analyze-video.yml', created: `>=${today}`, per_page: 100,
+              });
+              const attempts = runs.reduce((total, run) => total + (run.run_attempt || 1), 0);
+              if (attempts > limit) throw new Error('Orçamento diário esgotado. Retome amanhã. A contagem inclui tentativas com erro e operações de publicação, por precaução.');
+            }
+            const issue = await github.rest.issues.get({ ...context.repo, issue_number: Number(issueNumber) });
+            if (issue.data.state !== 'open' || issue.data.pull_request) throw new Error('Informe uma issue aberta.');
+            await fs.mkdir('.analysis-work', { recursive: true });
+            await fs.writeFile('.analysis-work/issue.json', JSON.stringify(issue.data));
+            core.setOutput('issue_number', issueNumber);
+      - name: Recuperar progresso da branch de análise
+        env:
+          ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
+        run: |
+          branch="analysis/issue-${ISSUE_NUMBER}"
+          if git ls-remote --exit-code --heads origin "$branch" > /dev/null; then
+            git fetch --no-tags origin "$branch"
+            git restore --source FETCH_HEAD -- drafts
+          fi
+      - run: npm ci
+      - name: Preparar legenda e pedido
+        id: prepare
+        env:
+          ALLOW_TRANSCRIPT_FETCH: ${{ inputs.allow_transcript_fetch }}
+        run: npm run analysis:prepare
+      - uses: actions/setup-python@v5
+        if: steps.prepare.outputs.needs_fetch == 'true' && inputs.operation == 'process'
+        with:
+          python-version: '3.12'
+      - name: Obter legenda autorizada (tentativa única)
+        if: steps.prepare.outputs.needs_fetch == 'true' && inputs.operation == 'process'
+        timeout-minutes: 3
+        run: |
+          python -m pip install -r scripts/analysis/requirements.txt
+          python scripts/analysis/fetch-transcript.py
+      - name: Reservar créditos da conta que abriu o pedido
+        if: inputs.operation == 'process'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          GEMINI_SEARCH_ENABLED: ${{ vars.GEMINI_SEARCH_ENABLED || 'false' }}
+          ANALYSIS_BATCH_SIZE: ${{ vars.ANALYSIS_BATCH_SIZE || '8' }}
+          ANALYSIS_MAX_CALLS: ${{ vars.ANALYSIS_MAX_CALLS || '20' }}
+          ANALYSIS_INTERVAL_SECONDS: ${{ vars.ANALYSIS_INTERVAL_SECONDS || '15' }}
+        run: |
+          if [ -z "$GEMINI_API_KEY" ] || [ -z "$GEMINI_MODEL" ]; then
+            echo 'Configure GEMINI_API_KEY e GEMINI_MODEL antes de debitar créditos.'
+            exit 1
+          fi
+          node scripts/analysis/charge-credits.ts
+      - name: Processar próximo lote
+        id: process
+        if: success() && inputs.operation == 'process'
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          GEMINI_SEARCH_ENABLED: ${{ vars.GEMINI_SEARCH_ENABLED || 'false' }}
+          ANALYSIS_BATCH_SIZE: ${{ vars.ANALYSIS_BATCH_SIZE || '8' }}
+          ANALYSIS_MAX_CALLS: ${{ vars.ANALYSIS_MAX_CALLS || '20' }}
+          ANALYSIS_INTERVAL_SECONDS: ${{ vars.ANALYSIS_INTERVAL_SECONDS || '15' }}
+        run: npm run analysis:run
+      - name: Preparar relatório revisado para publicação
+        id: promote
+        if: inputs.operation == 'publish-reviewed'
+        env:
+          VIDEO_ID: ${{ steps.prepare.outputs.video_id }}
+        run: npm run analysis:promote -- "$VIDEO_ID" --reviewed
+      - name: Validar relatório e aplicação
+        id: checks
+        if: inputs.operation == 'publish-reviewed'
+        run: |
+          npm test
+          npm run lint
+          npm run build
+      - name: Registrar estado da execução sem expor dados de erro do provedor
+        id: status
+        if: always() && steps.gate.outcome == 'success'
+        env:
+          OPERATION: ${{ inputs.operation }}
+          PROCESS_OUTCOME: ${{ steps.process.outcome }}
+          CHECKS_OUTCOME: ${{ steps.checks.outcome }}
+        run: node scripts/analysis/record-status.ts
+      - name: Preservar checkpoint e abrir PR de revisão
+        if: always() && steps.status.outputs.video_id != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
+          VIDEO_ID: ${{ steps.status.outputs.video_id }}
+          OPERATION: ${{ inputs.operation }}
+          CHECKS_OUTCOME: ${{ steps.checks.outcome }}
+        run: |
+          if [ ! -f "drafts/${VIDEO_ID}/status.json" ]; then exit 0; fi
+          branch="analysis/issue-${ISSUE_NUMBER}"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- "drafts/${VIDEO_ID}"
+          if [ "$OPERATION" = 'publish-reviewed' ] && [ "$CHECKS_OUTCOME" = 'success' ]; then
+            git add -- "snapshots/${VIDEO_ID}.md" "transcripts/${VIDEO_ID}.md" public/snapshots/index.json
+          fi
+          if ! git diff --cached --quiet; then
+            git commit -m "feat: atualizar análise da issue #${ISSUE_NUMBER}"
+            git push --force-with-lease origin "HEAD:refs/heads/${branch}"
+          fi
+          node scripts/analysis/pr-body.ts
+          existing=$(gh pr list --head "$branch" --state open --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            gh pr edit "$existing" --body-file .analysis-work/pr-body.md
+          else
+            gh pr create --draft --head "$branch" --title "feat: preparar análise #${ISSUE_NUMBER}" --body-file .analysis-work/pr-body.md
+          fi
+      - name: Preservar arquivos de diagnóstico
+        if: always() && steps.status.outputs.video_id != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: analise-${{ steps.status.outputs.video_id }}-${{ github.run_id }}-${{ github.run_attempt }}
+          path: drafts/${{ steps.status.outputs.video_id }}/
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Sinalizar interrupção do lote
+        if: steps.process.outcome == 'failure'
+        run: |
+          echo 'Lote interrompido. O checkpoint disponível foi preservado; confira o motivo nos logs antes de retomar.'
+          exit 1

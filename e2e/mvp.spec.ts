@@ -1,5 +1,26 @@
 import { test, expect } from '@playwright/test'
 
+test('fila, créditos e progresso real dos lotes', async ({ page }, testInfo) => {
+  await page.route('https://raw.githubusercontent.com/**', (route) => route.fulfill({
+    status: 200, contentType: 'application/json',
+    body: JSON.stringify({ phase: 'checking', nextWindow: 20, totalWindows: 20, inventory: Array(48).fill({}), claims: Array(8).fill({}) }),
+  }))
+  await page.goto('./')
+  await page.getByLabel('Link do vídeo do YouTube').fill('https://youtu.be/dQw4w9WgXcQ')
+  await page.getByRole('button', { name: 'Verifique os fatos' }).click()
+  await expect(page.getByText('100 créditos estimados', { exact: false })).toBeVisible()
+  await page.getByLabel('Duração do vídeo em minutos').fill('30')
+  await expect(page.getByText('20 créditos estimados', { exact: false })).toBeVisible()
+  const requestLink = page.getByRole('link', { name: /solicitar análise no github/i })
+  await expect(requestLink).toHaveAttribute('href', /duration=30/)
+  await page.getByLabel('Número do pedido no GitHub').fill('123')
+  await page.getByRole('button', { name: 'Acompanhar processamento' }).click()
+  await expect(page.getByRole('progressbar')).toHaveAttribute('aria-valuenow', '48')
+  await expect(page.getByText(/Checagens: 8\/48/)).toBeVisible()
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+  await page.screenshot({ path: testInfo.outputPath('fila-creditos-progresso.png'), fullPage: true })
+})
+
 test('home minimalista, consulta por ID, evidências e link compartilhado', async ({ page }, testInfo) => {
   const failures: string[] = []
   const apiRequests: string[] = []
