@@ -2,6 +2,11 @@ name: Validar integração Gemini
 
 on:
   workflow_dispatch:
+    inputs:
+      check_search:
+        description: Testar também Google Search (somente com cota disponível)
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -23,8 +28,9 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Validar JSON e busca com duas chamadas curtas
+      - name: Validar JSON e busca opcional sem debitar créditos
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          CHECK_GEMINI_SEARCH: ${{ inputs.check_search }}
         run: node scripts/analysis/check-gemini.ts

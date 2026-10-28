@@ -22,7 +22,12 @@ const client = new GeminiClient({
 })
 const structured = await client.structured('Responda com o status ok.', z.object({ status: z.enum(['ok']) }))
 console.log(`Saída JSON estruturada validada. Modelo: ${structured.raw.modelVersion ?? client.model}.`)
-const research = await client.generate('Use Google Search para encontrar a página oficial do IBGE sobre o Censo Demográfico 2022. Responda brevemente em português e cite a fonte oficial encontrada.', { search: true })
-const sources = groundedSources(research)
-if (!sources.length) throw new Error('A busca não retornou fontes HTTPS associadas à resposta. Não habilite a busca automática antes de conferir a disponibilidade na conta.')
-console.log(`Busca validada: ${sources.length} fonte(s) HTTPS associada(s) à resposta; ${client.calls} chamadas no total. Nenhum relatório foi publicado.`)
+if (process.env.CHECK_GEMINI_SEARCH === 'true') {
+  const research = await client.generate('Use Google Search para encontrar a página oficial do IBGE sobre o Censo Demográfico 2022. Responda brevemente em português e cite a fonte oficial encontrada.', { search: true })
+  const sources = groundedSources(research)
+  if (!sources.length) throw new Error('A busca não retornou fontes HTTPS associadas à resposta. Não habilite a busca automática antes de conferir a disponibilidade na conta.')
+  console.log(`Busca validada: ${sources.length} fonte(s) HTTPS associada(s) à resposta.`)
+} else {
+  console.log('Busca não solicitada. Para usá-la, confira a cota disponível e habilite explicitamente o teste no workflow.')
+}
+console.log(`${client.calls} chamada(s) de inferência no total. Nenhum relatório ou débito de créditos foi criado.`)
