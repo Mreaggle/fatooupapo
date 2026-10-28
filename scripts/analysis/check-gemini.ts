@@ -4,8 +4,19 @@ import { groundedSources } from './pipeline.ts'
 
 // Runs only through a manually dispatched workflow. No reports, quota debits or
 // provider response bodies are published by this connectivity check.
+const apiKey = process.env.GEMINI_API_KEY ?? ''
+if (!apiKey) throw new Error('Configure GEMINI_API_KEY nos Secrets do repositório.')
+const catalog = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=1000', {
+  headers: { 'x-goog-api-key': apiKey }, signal: AbortSignal.timeout(20_000),
+})
+if (!catalog.ok) throw new Error(`Catálogo Gemini indisponível (HTTP ${catalog.status}). Nenhuma inferência foi solicitada.`)
+const available = await catalog.json() as { models?: { name?: string; supportedGenerationMethods?: string[] }[] }
+const modelNames = (available.models ?? []).filter((model) => model.supportedGenerationMethods?.includes('generateContent'))
+  .map((model) => model.name?.replace(/^models\//, '') ?? '').filter((name) => /^gemini-[a-zA-Z0-9._-]+$/.test(name))
+console.log(`Modelos com generateContent disponíveis: ${modelNames.join(', ')}.`)
+if (!modelNames.includes(process.env.GEMINI_MODEL ?? '')) throw new Error('O GEMINI_MODEL selecionado não está no catálogo disponível. Ajuste a variável antes de solicitar inferência.')
 const client = new GeminiClient({
-  key: process.env.GEMINI_API_KEY ?? '',
+  key: apiKey,
   model: process.env.GEMINI_MODEL ?? '',
   maxCalls: 2,
 })
