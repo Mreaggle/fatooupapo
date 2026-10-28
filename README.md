@@ -2,6 +2,8 @@
 
 Plataforma de checagem de afirmações em vídeos do YouTube. React, TypeScript, Vite e Tailwind CSS 4. A interface valida o link e consulta o acervo pelo ID do vídeo, sem nova chamada à IA quando existe um snapshot.
 
+A parte inferior da página inicial mostra até seis debates checados recentemente, consultados no índice publicado do acervo e ordenados por data de análise. Cada cartão abre o relatório e informa sua cobertura, sem consumir créditos ou fazer chamadas à IA.
+
 MVP publicado: https://mreaggle.github.io/fatooupapo/
 
 Tipografia: AnthropicSerif variável em títulos, citações e destaques, com versões Roman e Italic hospedadas localmente. Pesos, contextos e origem dos arquivos em [docs/TYPOGRAPHY.md](docs/TYPOGRAPHY.md).

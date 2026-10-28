@@ -1,5 +1,23 @@
 import { test, expect } from '@playwright/test'
 
+test('galeria no fim da página inicial abre a análise publicada', async ({ page }, testInfo) => {
+  await page.goto('./')
+  const gallery = page.getByRole('region', { name: 'Debates checados recentemente' })
+  await expect(gallery.getByRole('heading', { level: 2 })).not.toBeInViewport()
+  await gallery.scrollIntoViewIfNeeded()
+  const debate = gallery.getByRole('link', { name: /KIM KATAGUIRI X JONES MANOEL/i })
+  await expect(debate).toBeVisible()
+  await expect(debate).toHaveAttribute('href', '?v=q4T7plSBdJE')
+  await expect(debate).toContainText('48 afirmações analisadas')
+  await expect(debate).toContainText('Checagem parcial')
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+  await gallery.screenshot({ path: testInfo.outputPath('galeria-debates.png') })
+  await debate.click()
+  await expect(page).toHaveURL(/\?v=q4T7plSBdJE$/)
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('KIM KATAGUIRI X JONES MANOEL')
+  await expect(page.getByRole('article')).toHaveCount(48)
+})
+
 test('fila, créditos e progresso real dos lotes', async ({ page }, testInfo) => {
   await page.route('https://raw.githubusercontent.com/**', (route) => route.fulfill({
     status: 200, contentType: 'application/json',
@@ -28,7 +46,7 @@ test('home minimalista, consulta por ID, evidências e link compartilhado', asyn
   page.on('request', (request) => { if (request.method() === 'POST') apiRequests.push(request.url()) })
   await page.goto('./')
   await expect(page.getByRole('heading', { level: 1 })).toHaveText('Você assiste enós checamos.')
-  await expect(page.getByRole('heading')).toHaveCount(1)
+  await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1)
   await expect(page.getByRole('button', { name: 'Verifique os fatos' })).toBeDisabled()
   await page.screenshot({ path: testInfo.outputPath('home.png'), fullPage: true })
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)

@@ -83,6 +83,13 @@ export interface SnapshotIndex {
   reports: Record<string, AnalysisReport>
 }
 
+export interface RecentDebate {
+  video: AnalysisReport['video']
+  analyzedAt: string
+  claimCount: number
+  coverageKind?: NonNullable<AnalysisReport['coverage']>['kind']
+}
+
 export type ProgressStage =
   | 'snapshot'
   | 'transcript'

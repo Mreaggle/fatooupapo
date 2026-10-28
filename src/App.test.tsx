@@ -51,8 +51,9 @@ describe('fluxo inicial', () => {
     expect(await screen.findByRole('heading', { level: 1 })).toHaveTextContent('KIM KATAGUIRI X JONES MANOEL')
     expect(screen.getByText(/48 afirmações analisadas/)).toBeInTheDocument()
     expect(window.location.search).toBe('?v=q4T7plSBdJE')
-    expect(fetchMock).toHaveBeenCalledTimes(1)
+    expect(fetchMock).toHaveBeenCalledTimes(2)
     expect(fetchMock.mock.calls[0][0]).toContain('snapshots/index.json')
+    expect(fetchMock.mock.calls.every(([, options]) => !options?.method || options.method === 'GET')).toBe(true)
 
     expect(screen.getByRole('option', { name: 'Fato' })).toBeInTheDocument()
     expect(screen.queryByRole('option', { name: 'Falso' })).not.toBeInTheDocument()
@@ -82,6 +83,6 @@ describe('fluxo inicial', () => {
     await user.click(screen.getByRole('button', { name: 'Cancelar' }))
     finish?.({ ok: true, json: async () => snapshots })
     await waitFor(() => expect(screen.getByRole('button', { name: /verifique os fatos/i })).toBeEnabled())
-    expect(screen.queryByText('48 afirmações analisadas')).not.toBeInTheDocument()
+    expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Você assiste e')
   })
 })
