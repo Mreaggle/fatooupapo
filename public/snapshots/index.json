@@ -1,4 +1,951 @@
 {
-  "generatedAt": "1970-01-01T00:00:00.000Z",
-  "reports": {}
+  "generatedAt": "2026-10-28T00:00:00.000Z",
+  "reports": {
+    "q4T7plSBdJE": {
+      "schemaVersion": 1,
+      "video": {
+        "id": "q4T7plSBdJE",
+        "url": "https://www.youtube.com/watch?v=q4T7plSBdJE",
+        "title": "DEBATE: KIM KATAGUIRI X JONES MANOEL — Inteligência Ltda. #1327",
+        "channel": "Inteligência Ltda",
+        "thumbnailUrl": "https://i.ytimg.com/vi/q4T7plSBdJE/hqdefault.jpg"
+      },
+      "analyzedAt": "2026-10-28T00:00:00.000Z",
+      "status": "completed",
+      "summary": "Afirmações sobre contas públicas, saúde, agrotóxicos, trabalho e políticas urbanas. Há dados sustentados por fontes, comparações que omitem o recorte e alegações que permanecem inconclusivas. Cada conclusão se refere ao ponto descrito, não ao participante ou à sua posição política.",
+      "coverage": {
+        "kind": "selected-claims",
+        "description": "Primeira revisão de afirmações selecionadas ao longo do debate de 01/10/2024. A transcrição fornecida foi preservada integralmente; a checagem ainda não é exaustiva. Trechos de encerramento, opiniões e repetições não receberam classificações próprias. As conclusões têm apoio automatizado e não foram revisadas por uma equipe independente.",
+        "transcriptPath": "transcripts/q4T7plSBdJE.md",
+        "firstTimestamp": 97,
+        "lastTimestamp": 11452,
+        "cueCount": 5224
+      },
+      "claims": [
+        {
+          "id": "afirmacao-01",
+          "title": "Placar da votação sobre atingidos por barragens",
+          "topic": "Meio ambiente",
+          "quote": "Foi um caso raro no Congresso em que 367 deputados votaram a favor disso só 67 deputados votaram contra aliás desculpa 62 deputados Quim kataguiri",
+          "timestampSeconds": 1003,
+          "cueStart": 402,
+          "cueEnd": 405,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O registro do Congresso para o substitutivo do PL 2788/2019 em 25/06/2019 informa 328 votos favoráveis, 62 contrários e uma abstenção. O número de contrários, depois da correção na fala, coincide; o de favoráveis não é 367.",
+          "evidence": [
+            {
+              "title": "Tramitação e votação do PL 2788/2019",
+              "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2788-2019",
+              "publisher": "Congresso Nacional",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "A conferência se refere a essa votação nominal específica, não a todos os destaques ou requerimentos relacionados."
+        },
+        {
+          "id": "afirmacao-02",
+          "title": "O PL 2788/2019 criminalizava rompimento por negligência?",
+          "topic": "Meio ambiente",
+          "quote": "votou contra o PL 278 8 de 2019 que criminalizava o rompimento de barragens por negligência veja Brumadinho cidade",
+          "timestampSeconds": 1015,
+          "cueStart": 406,
+          "cueEnd": 409,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O objeto do PL 2788/2019 é a Política Nacional de Direitos das Populações Atingidas por Barragens, com reparação e responsabilidade social. Não é um projeto cujo objeto seja criar o tipo penal citado. A lei resultante é a 14.755/2023.",
+          "evidence": [
+            {
+              "title": "Tramitação e votação do PL 2788/2019",
+              "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2788-2019",
+              "publisher": "Congresso Nacional",
+              "position": "context"
+            },
+            {
+              "title": "Lei 14.755/2023 — direitos de populações atingidas por barragens",
+              "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14755.htm",
+              "publisher": "Presidência da República",
+              "publishedAt": "2023-12-15",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "A descrição incorreta do objeto não prova como cada parlamentar votou nem elimina a existência de outras regras de responsabilização ambiental."
+        },
+        {
+          "id": "afirmacao-03",
+          "title": "Qual era o projeto de licenciamento citado?",
+          "topic": "Meio ambiente",
+          "quote": "votou a favor do pl 3729 de 21 que dispensa o licenciamento ambiental para vários e vários Empreendimentos e ele também não",
+          "timestampSeconds": 2183,
+          "cueStart": 936,
+          "cueEnd": 939,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "O projeto de licenciamento discutido em 2021 previa hipóteses de dispensa. A identificação histórica correta na Câmara é PL 3729/2004, depois PL 2159/2021 no Senado. A referência ao tema é reconhecível, mas o ano/número dito na legenda mistura identificações.",
+          "evidence": [
+            {
+              "title": "Histórico do projeto de licenciamento ambiental e do grupo de trabalho",
+              "url": "https://www.camara.leg.br/noticias/755906-lira-pauta-votacao-do-licenciamento-ambiental-para-esta-semana",
+              "publisher": "Agência Câmara",
+              "position": "supports"
+            }
+          ],
+          "limitations": "Este item confere a identificação e o tema do projeto, não certifica o voto nominal atribuído ao deputado."
+        },
+        {
+          "id": "afirmacao-04",
+          "title": "A Fiocruz alertou para os riscos do projeto de agrotóxicos?",
+          "topic": "Agrotóxicos",
+          "quote": "6299 de 2022 que segundo dados da fio Cruz uma das instituições públicas mais importantes e respeitadas do Brasil o PL do veneno libera o uso de agrotóxicos comprovadamente que causa câncer com substâncias cancerígenas e não existe nenhum estudo que Garanta um nível de consumo seguro dessas substâncias",
+          "timestampSeconds": 2228,
+          "cueStart": 955,
+          "cueEnd": 962,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "A Fiocruz publicou posição contrária e alertou para danos à saúde e ao controle de riscos. A Anvisa também criticou a proposta. Isso sustenta a referência a alertas institucionais, mas não equivale a demonstrar que uma substância específica já foi liberada ou que todos os usos tenham o mesmo risco.",
+          "evidence": [
+            {
+              "title": "Terra envenenada — posicionamento da Fiocruz sobre o projeto",
+              "url": "https://radis.ensp.fiocruz.br/reportagem/agrotoxicos/terra-envenenada/",
+              "publisher": "Radis / Fiocruz",
+              "position": "supports"
+            },
+            {
+              "title": "Agrotóxicos: Anvisa é contrária ao PL 6299/02",
+              "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2018/agrotoxicos-anvisa-e-contraria-ao-pl-6299-02/",
+              "publisher": "Anvisa",
+              "position": "context"
+            }
+          ],
+          "limitations": "O projeto era o PL 6299/2002. A legenda automática registra 2022. Perigo, exposição e risco precisam ser diferenciados."
+        },
+        {
+          "id": "afirmacao-06",
+          "title": "O procedimento brasileiro ficou igual ao europeu?",
+          "topic": "Agrotóxicos",
+          "quote": "coloca que o projeto de lei libera agrot o projeto de lei não libera nada o projeto de lei ele traça um procedimento né de uma fase só que é o mesmo procedimento utilizado pela união europeia que você tanto coloca nós estamos unificando o nosso procedimento com procedimento da União Europeia para ele não ter que passar em três fases distintas e passar por um único canal Mas sendo escrutinado pelas mesmas",
+          "timestampSeconds": 2361,
+          "cueStart": 1010,
+          "cueEnd": 1020,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "Na União Europeia, a aprovação de substâncias ativas ocorre no nível europeu e a autorização dos produtos envolve os Estados-membros. A descrição como um único procedimento igual ao brasileiro é incompleta. Aproximar conceitos de avaliação de risco não torna dois sistemas regulatórios idênticos.",
+          "evidence": [
+            {
+              "title": "Autorização de produtos fitofarmacêuticos na União Europeia",
+              "url": "https://food.ec.europa.eu/plants/pesticides/authorisation-plant-protection-products_en",
+              "publisher": "Comissão Europeia",
+              "position": "context"
+            },
+            {
+              "title": "Redação final aprovada pela Câmara em 2022 — PL 6299/2002",
+              "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2159082",
+              "publisher": "Câmara dos Deputados",
+              "publishedAt": "2022-02-09",
+              "position": "context"
+            }
+          ],
+          "limitations": "O trecho compara procedimentos de forma geral; não identifica um artigo específico para uma comparação jurídica exaustiva."
+        },
+        {
+          "id": "afirmacao-05",
+          "title": "A mudança dos agrotóxicos era só administrativa?",
+          "topic": "Agrotóxicos",
+          "quote": "simplesmente simplificamos o procedimento administrativo não há nenhuma nova leniência nenhuma nova permissão nenhuma nova facilidade para você aprovar substâncias perigosas e",
+          "timestampSeconds": 2414,
+          "cueStart": 1033,
+          "cueEnd": 1037,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "A redação aprovada em 2022 trata de prazos e procedimentos, mas também estabelece critérios materiais de avaliação, incluindo risco inaceitável. Reduzir a mudança a simplificação administrativa omite parte essencial do debate regulatório. A Anvisa registrou objeções de saúde, não apenas de burocracia.",
+          "evidence": [
+            {
+              "title": "Redação final aprovada pela Câmara em 2022 — PL 6299/2002",
+              "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2159082",
+              "publisher": "Câmara dos Deputados",
+              "publishedAt": "2022-02-09",
+              "position": "context"
+            },
+            {
+              "title": "Agrotóxicos: Anvisa é contrária ao PL 6299/02",
+              "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2018/agrotoxicos-anvisa-e-contraria-ao-pl-6299-02/",
+              "publisher": "Anvisa",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "Esta conclusão não significa que todo produto registrado sob a regra seja inseguro; cada substância exige análise própria."
+        },
+        {
+          "id": "afirmacao-07",
+          "title": "O Japão usaria sete vezes mais agrotóxicos?",
+          "topic": "Agrotóxicos",
+          "quote": "expectativas de vida que é o Japão usa n vezes mais agrotóxicos nas suas Produções do que o Brasil usa muito mas nem se compara tipo assim coisa de pelo menos se não me falha a memória mas eu vou pedir também para colocar nas minhas sedes pelo menos sete vezes mais do que a gente utiliza aqui no Brasil então é",
+          "timestampSeconds": 2486,
+          "cueStart": 1065,
+          "cueEnd": 1072,
+          "verdict": "Inconclusivo",
+          "explanation": "A fala não informa ano, fonte ou denominador: volume total, quantidade por hectare e aplicação por cultura são medidas diferentes. Sem uma série comparável, não é responsável confirmar a razão de sete vezes.",
+          "evidence": [],
+          "limitations": "Mesmo que uma comparação por hectare se confirmasse, ela não provaria a segurança de uma substância nem explicaria isoladamente a longevidade de um país."
+        },
+        {
+          "id": "afirmacao-08",
+          "title": "Produção orgânica exigiria desmatar todo o Brasil?",
+          "topic": "Agricultura",
+          "quote": "nós plantá orgânico no Brasil inteiro nós desmatar o Brasil e ainda assim não seria o suficiente para alimentar toda a população e não tem acesso a crédito que",
+          "timestampSeconds": 2556,
+          "cueStart": 1093,
+          "cueEnd": 1096,
+          "verdict": "Inconclusivo",
+          "explanation": "Não foi apresentada uma estimativa de área, dieta, perdas, produtividade por cultura ou cenário de transição que permita testar essa afirmação nacional. Diferenças de produtividade, por si, não demonstram a impossibilidade enunciada.",
+          "evidence": [],
+          "limitations": "Falta um estudo com hipóteses explícitas; este item não conclui que a alternativa orgânica possa ou não substituir integralmente o sistema atual."
+        },
+        {
+          "id": "afirmacao-09",
+          "title": "O teto corrigia a despesa anterior pela inflação?",
+          "topic": "Contas públicas",
+          "quote": "que que é a PEC do teto de gasto a PEC do teto ela colocava ali um limite que é o gasto do ano anterior somado corrigido pela inflação individualizado para cada poder poder executivo Poder Legislativo poder judiciário Quais foram os efeitos",
+          "timestampSeconds": 2869,
+          "cueStart": 1231,
+          "cueEnd": 1236,
+          "verdict": "Verdadeiro",
+          "explanation": "Essa é a regra central da EC 95/2016: limites individualizados para despesas primárias com correção pela inflação. O regime teve regras de transição e exceções e não abrangia indistintamente todos os gastos públicos.",
+          "evidence": [
+            {
+              "title": "Promulgação da EC 95/2016 e funcionamento do teto",
+              "url": "https://www.camara.leg.br/noticias/505250-PROMULGADA-EMENDA-CONSTITUCIONAL-DO-TETO-DOS-GASTOS-PUBLICOS",
+              "publisher": "Agência Câmara",
+              "publishedAt": "2016-12-15",
+              "position": "supports"
+            }
+          ],
+          "limitations": "Confere-se a regra original, não a vigência atual nem os efeitos econômicos atribuídos a ela."
+        },
+        {
+          "id": "afirmacao-10",
+          "title": "A Selic passou de 14,25% para 6,5%?",
+          "topic": "Contas públicas",
+          "quote": "que o juro saiu de 14.25% para 6,5 5% a inflação saiu de",
+          "timestampSeconds": 2888,
+          "cueStart": 1238,
+          "cueEnd": 1239,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "O histórico do Banco Central confirma a Selic em 14,25% antes do ciclo de cortes iniciado em outubro de 2016 e em 6,50% em março de 2018. A trajetória numérica se sustenta. O registro não demonstra que o teto, isoladamente, causou a queda.",
+          "evidence": [
+            {
+              "title": "Histórico das taxas básicas de juros",
+              "url": "https://bcb.gov.br/controleinflacao/historicotaxasjuros",
+              "publisher": "Banco Central do Brasil",
+              "position": "supports"
+            }
+          ],
+          "limitations": "A legenda contém uma duplicação em “6,5 5%”. O áudio deve ser consultado para a forma exata do número."
+        },
+        {
+          "id": "afirmacao-11",
+          "title": "Inflação de 9,32% para 2,76%",
+          "topic": "Contas públicas",
+          "quote": "14.25% para 6,5 5% a inflação saiu de 9,32 para 2,76 o PIB saiu de",
+          "timestampSeconds": 2889,
+          "cueStart": 1239,
+          "cueEnd": 1241,
+          "verdict": "Inconclusivo",
+          "explanation": "Não há datas ou índice identificados para os dois números. Eles não são os fechamentos anuais do IPCA em 2016 e 2017: o fechamento de 2017 foi 2,95%. Ainda podem representar janelas móveis distintas; a ausência do recorte impede uma conclusão categórica.",
+          "evidence": [
+            {
+              "title": "IPCA de dezembro e fechamento de 2017",
+              "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/19447-ipca-sobe-0-44-em-dezembro-e-fecha-2017-em-2-95",
+              "publisher": "IBGE",
+              "publishedAt": "2018-01-10",
+              "position": "context"
+            }
+          ],
+          "limitations": "Não se deve trocar inflação de 12 meses por inflação anual sem informar o período."
+        },
+        {
+          "id": "afirmacao-12",
+          "title": "PIB de −7% para crescimento de 3%",
+          "topic": "Contas públicas",
+          "quote": "2,76 o PIB saiu de -7% a pior crise da história do Brasil pior até do que a pandemia sem que a gente tivesse uma que foi no governo Dilma para um crescimento de 3% Então",
+          "timestampSeconds": 2897,
+          "cueStart": 1241,
+          "cueEnd": 1245,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "A divulgação do IBGE de 2019 mostra quedas anuais de 3,5% em 2015 e 3,3% em 2016 e crescimento de 1,1% em 2017 e 2018, na versão então divulgada. Somar a recessão de dois anos e compará-la a um crescimento sem período mistura recortes. Tampouco a série comprova causalidade exclusiva do teto.",
+          "evidence": [
+            {
+              "title": "Contas nacionais: resultados anuais de 2015 a 2018 na divulgação de 2019",
+              "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/23886-pib-cresce-1-1-em-2018-e-fecha-ano-em-r-6-8-trilhoes",
+              "publisher": "IBGE",
+              "publishedAt": "2019-02-28",
+              "position": "context"
+            }
+          ],
+          "limitations": "Contas nacionais têm revisões. Não usamos uma revisão posterior para transformar diferenças pequenas entre versões em falsidade."
+        },
+        {
+          "id": "afirmacao-13",
+          "title": "Corte de quase 20% no investimento público em 2015",
+          "topic": "Contas públicas",
+          "quote": "deputada a presidenta Dilma trouxe o banqueiro do Banco Bradesco Joaquim Levi para ser Ministro da Fazenda que aplicou uma política de ajuste fiscal que cortou quase 20% do investimento público em 2015 combinado com os efeitos da",
+          "timestampSeconds": 3013,
+          "cueStart": 1292,
+          "cueEnd": 1297,
+          "verdict": "Inconclusivo",
+          "explanation": "O item não identifica se trata de investimento federal, de todas as esferas, autorizado, empenhado ou pago, nem o deflator empregado. Sem essa base e a série correspondente, o percentual específico não foi confirmado.",
+          "evidence": [],
+          "limitations": "O SRT registra “Levi”; a referência reconhecível é Joaquim Levy. A hipótese causal sobre a recessão exige análise adicional."
+        },
+        {
+          "id": "afirmacao-14",
+          "title": "O desemprego dobrou em dez meses de 2015?",
+          "topic": "Trabalho",
+          "quote": "ajuste fiscal a economia Vai pro buraco a taxa de desemprego dobra em 10 meses desemprego em 2015 dobrou em 10 meses por causa da política do ajuste",
+          "timestampSeconds": 3044,
+          "cueStart": 1307,
+          "cueEnd": 1310,
+          "verdict": "Inconclusivo",
+          "explanation": "O ponto inicial, o ponto final e a pesquisa não são informados. Em 2015 coexistiam indicadores com coberturas diferentes. Sem recuperar a série invocada, não confirmamos a duplicação nem atribuímos um efeito causal exclusivo ao ajuste fiscal.",
+          "evidence": [],
+          "limitations": "É preciso distinguir taxa de desocupação, contingente de desocupados e pesquisas metropolitanas ou nacionais."
+        },
+        {
+          "id": "afirmacao-15",
+          "title": "Joaquim Levy permaneceu seis meses na Fazenda?",
+          "topic": "Contas públicas",
+          "quote": "toda a culpa da crise foram seis m meses de Joaquim Levi que inclusive nem tinha",
+          "timestampSeconds": 3354,
+          "cueStart": 1440,
+          "cueEnd": 1441,
+          "verdict": "Falso",
+          "explanation": "Levy assumiu no início de 2015 e sua substituição foi anunciada em dezembro, com exoneração publicada em 21/12/2015. A permanência foi de quase um ano, não seis meses.",
+          "evidence": [
+            {
+              "title": "Nomeação de Nelson Barbosa e exoneração de Joaquim Levy no DOU",
+              "url": "https://exame.com/brasil/nomeacao-de-nelson-barbosa-e-publicada-no-dou/",
+              "publisher": "Exame / Agência Brasil",
+              "publishedAt": "2015-12-21",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "Esse fato cronológico não resolve a disputa sobre as causas ou consequências da recessão."
+        },
+        {
+          "id": "afirmacao-16",
+          "title": "94% de todas as despesas seriam obrigatórias",
+          "topic": "Contas públicas",
+          "quote": "público no nosso país se 94% das nossas despesas são obrigatórias e",
+          "timestampSeconds": 3381,
+          "cueStart": 1452,
+          "cueEnd": 1453,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O percentual depende da base orçamentária e do tratamento das emendas. A análise da proposta de 2024 divulgada pela Câmara registra despesas discricionárias, incluindo emendas, acima de 11% da base primária apresentada. Estender 94% a todas as despesas, sem delimitar a base, não é uma comparação reproduzível.",
+          "evidence": [
+            {
+              "title": "Despesas obrigatórias e discricionárias na proposta de Orçamento de 2024",
+              "url": "https://www.camara.leg.br/noticias/994467-despesas-nao-obrigatorias-do-orcamento-de-2024-aumentam-85/",
+              "publisher": "Agência Câmara",
+              "publishedAt": "2023-09-04",
+              "position": "context"
+            }
+          ],
+          "limitations": "Proposta orçamentária não é execução. Essa fonte contextualiza a base, mas não determina um único percentual para todo o ano de 2024."
+        },
+        {
+          "id": "afirmacao-17",
+          "title": "A Constituição proíbe avaliar e rever gastos?",
+          "topic": "Contas públicas",
+          "quote": "nos Estados Unidos a gente não tem no Brasil spending rview a gente não tem a capacidade de remanejar o nosso orçamento de analisar olha quanto a gente gastou em saúde quanto a gente gastou em educação Qual foi a qualidade qual foi o resultado desse gasto o Brasil é proibido de fazer isso pela própria constituição como com orçamento",
+          "timestampSeconds": 3390,
+          "cueStart": 1455,
+          "cueEnd": 1463,
+          "verdict": "Falso",
+          "explanation": "Há avaliação legal e institucionalizada de políticas públicas pelo CMAP, instituído como conselho em 2019. O Ministério do Planejamento registra ciclos anuais de avaliação de 2019 a 2023. Vinculações orçamentárias limitam remanejamentos, mas não proíbem analisar resultados e qualidade dos gastos.",
+          "evidence": [
+            {
+              "title": "Conselho de Monitoramento e Avaliação de Políticas Públicas — CMAP",
+              "url": "https://www.gov.br/planejamento/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/cmap/conselho-de-monitoramento-e-avaliacao-de-politicas-publicas",
+              "publisher": "Ministério do Planejamento",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "Ter avaliações não significa que o país tenha um sistema abrangente ou suficiente de revisão de gastos."
+        },
+        {
+          "id": "afirmacao-18",
+          "title": "Piso de dois salários mínimos para agentes comunitários",
+          "topic": "Saúde",
+          "quote": "proposto Vilela sabe o quê a PEC 22 para agentes comunitárias de saúde de combates à endemia presta atenção passassem a ganhar dois salários mínimos",
+          "timestampSeconds": 3525,
+          "cueStart": 1514,
+          "cueEnd": 1517,
+          "verdict": "Verdadeiro",
+          "explanation": "A EC 120/2022 fixou vencimento não inferior a dois salários mínimos para agentes comunitários de saúde e agentes de combate às endemias. A norma também define recursos federais específicos para o pagamento.",
+          "evidence": [
+            {
+              "title": "EC 120/2022, art. 198, §§ 7º a 11 — piso e responsabilidade financeira",
+              "url": "https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc120.htm",
+              "publisher": "Presidência da República",
+              "publishedAt": "2022-05-05",
+              "position": "supports"
+            }
+          ]
+        },
+        {
+          "id": "afirmacao-19",
+          "title": "O piso dos agentes foi aprovado sem repasses federais?",
+          "topic": "Saúde",
+          "quote": "Olha nós aprovamos aqui na Constituição eh piso para professor para enfermeiro para agente comunitário de saúde e nós não vamos te dar um centavo para você financiar isso aí no seu município você",
+          "timestampSeconds": 3668,
+          "cueStart": 1577,
+          "cueEnd": 1581,
+          "verdict": "Falso",
+          "explanation": "Para os agentes comunitários e de endemias, a EC 120/2022 atribui à União a responsabilidade pelo vencimento e prevê repasses a estados e municípios. A afirmação de ausência de qualquer recurso federal contradiz o texto da emenda.",
+          "evidence": [
+            {
+              "title": "EC 120/2022, art. 198, §§ 7º a 11 — piso e responsabilidade financeira",
+              "url": "https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc120.htm",
+              "publisher": "Presidência da República",
+              "publishedAt": "2022-05-05",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "A conclusão vale para o piso dos agentes. Não confunde essa regra com todos os encargos municipais nem com as regras de outras categorias citadas no trecho."
+        },
+        {
+          "id": "afirmacao-20",
+          "title": "Dividendos eram isentos de IR em 2024?",
+          "topic": "Tributação",
+          "quote": "bilionários de grandes empresas por exemplo não se paga lucros e dividendos porque o deputado por exemplo não propôs revogar a contrareforma tributária de FHC que entou grandes empresários de pagar lucros e dividendos para financiar",
+          "timestampSeconds": 3951,
+          "cueStart": 1711,
+          "cueEnd": 1716,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "Na redação do art. 10 da Lei 9.249/1995 vigente no debate, lucros e dividendos distribuídos nas condições previstas eram isentos de IR para o beneficiário. Isso não significava isenção de todos os tributos da empresa ou de todas as rendas de pessoas ricas.",
+          "evidence": [
+            {
+              "title": "Lei 9.249/1995, art. 10 — consultar a redação vigente em 2024",
+              "url": "https://www.planalto.gov.br/ccivil_03/leis/l9249.htm",
+              "publisher": "Presidência da República",
+              "publishedAt": "1995-12-26",
+              "position": "supports"
+            }
+          ],
+          "limitations": "Verificação histórica de outubro de 2024. A página consolidada inclui mudanças posteriores e não deve ser usada sem conferir a redação da época."
+        },
+        {
+          "id": "afirmacao-21",
+          "title": "Tributação de compras online reduzida de 92% para pouco mais de 60%",
+          "topic": "Tributação",
+          "quote": "centena de projetos barrados projetos ruins PL da censura aumento de imposto a taxação que queriam levar para 92% de compra online que a gente conseguiu reduzir para pouco mais de 60% que ainda é uma desgraça ainda é um desastre você falou ó só atende empresário só",
+          "timestampSeconds": 4174,
+          "cueStart": 1828,
+          "cueEnd": 1834,
+          "verdict": "Inconclusivo",
+          "explanation": "Não estão identificados a faixa de valor, o regime de remessa, a alíquota estadual nem a versão do texto legislativo. A incidência combinada pode variar e o trecho não permite reproduzir a conta nem atribuir a redução à atuação individual mencionada.",
+          "evidence": [],
+          "limitations": "A alegação requer o texto votado e a memória de cálculo da tributação efetiva."
+        },
+        {
+          "id": "afirmacao-22",
+          "title": "Câmeras reduziram a criminalidade em 70% em São José dos Campos?",
+          "topic": "Segurança pública",
+          "quote": "todas as pessoas com aquela característica e com isso você conseguiu reduzir no número de crimes na cidade de São José em 70% fora um programa também de iluminação pública 100% em LED",
+          "timestampSeconds": 4341,
+          "cueStart": 1911,
+          "cueEnd": 1915,
+          "verdict": "Inconclusivo",
+          "explanation": "Não foram apresentados período, tipo de crime, número de ocorrências ou estudo de impacto. Um recuo em determinado indicador não pode ser automaticamente estendido a toda a criminalidade nem atribuído só ao reconhecimento facial.",
+          "evidence": [],
+          "limitations": "Uma avaliação causal precisa comparar intervenções e tendências concorrentes, além de considerar direitos e erros de identificação."
+        },
+        {
+          "id": "afirmacao-23",
+          "title": "O IMEI identifica o aparelho e aparece com *#06#?",
+          "topic": "Segurança pública",
+          "quote": "exemplo para vocês o pí ele adotou uma política bem básica todo celular tem um e-mail que é chamado de chassi do celular e aí cada vez que o celular é roubado né você informa o e-mail do celular roubado para a polícia a polícia faz uma espécie de blitz E aí para o cidadão E aí você digita lá asterístico jogo da velha 06 jogo da velha aí aparece o e-mail na tela do celular a",
+          "timestampSeconds": 4489,
+          "cueStart": 1975,
+          "cueEnd": 1984,
+          "verdict": "Verdadeiro",
+          "explanation": "A Anatel confirma que o IMEI é um identificador do equipamento e pode ser consultado digitando *#06#. A analogia com o chassi é usada pela própria agência.",
+          "evidence": [
+            {
+              "title": "Identificação Internacional de Equipamento Móvel — IMEI",
+              "url": "https://www.gov.br/anatel/pt-br/assuntos/celular-legal/imei",
+              "publisher": "Anatel",
+              "position": "supports"
+            }
+          ],
+          "limitations": "A legenda troca “IMEI” por “e-mail”. Esse é um erro de transcrição preservado no trecho, não uma falsidade atribuída ao participante."
+        },
+        {
+          "id": "afirmacao-24",
+          "title": "Piauí recuperou cerca de seis mil celulares?",
+          "topic": "Segurança pública",
+          "quote": "explicar porquê resultado prático disso nos primeiros meses da operação a polícia conseguiu recuperar mais de 6.000 celulares e devolver paraas pessoas o número de Roubos e Furtos celular caiu de maneira descomunal e a",
+          "timestampSeconds": 4548,
+          "cueStart": 1999,
+          "cueEnd": 2004,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "Em abril de 2024, a Secretaria de Governo do Piauí informou quase seis mil aparelhos devolvidos desde a implementação do protocolo e queda de 44% nos roubos no primeiro trimestre. Isso sustenta a ordem de grandeza, com diferença entre “quase” e “mais de” seis mil.",
+          "evidence": [
+            {
+              "title": "Resultados do protocolo de recuperação de celulares no primeiro trimestre de 2024",
+              "url": "https://www.segov.pi.gov.br/protocolo-criado-no-piaui-vai-ser-adotado-como-politica-nacional-de-combate-ao-furto-e-roubo-de-celulares",
+              "publisher": "Secretaria de Governo do Piauí",
+              "publishedAt": "2024-04-05",
+              "position": "supports"
+            }
+          ],
+          "limitations": "São números divulgados pelo governo responsável pelo programa. Não equivalem, por si, a uma avaliação independente de causalidade."
+        },
+        {
+          "id": "afirmacao-25",
+          "title": "Latrocínios caíram 20% e depois 50% por causa do programa?",
+          "topic": "Segurança pública",
+          "quote": "melhor coisa a melhor coisa o número de latrocínios ano passado caiu 20% latrocínio é roubo seguido de morte e esse ano já caiu 50% Então veja não mudou a lei não mudou o número de penas foi uma medida inteligente que quebrou a cadeia do crime de roubo de celular no Piauí Sabe e reduziu número de latrocínio ou seja",
+          "timestampSeconds": 4563,
+          "cueStart": 2005,
+          "cueEnd": 2013,
+          "verdict": "Inconclusivo",
+          "explanation": "A fala não identifica o recorte parcial de 2024 usado para os 50%. O balanço anual do governo registra 25 vítimas em 2022, 21 em 2023 e 18 em 2024; esses totais não permitem validar aquele recorte parcial nem isolar a contribuição do programa.",
+          "evidence": [
+            {
+              "title": "Balanço de 2024 — série anual de vítimas de latrocínio",
+              "url": "https://www.seplan.pi.gov.br/download/160/documentos-oficiais/27471/balanco-2024-governo-do-pi-completo.pdf",
+              "publisher": "Governo do Piauí",
+              "position": "context"
+            }
+          ],
+          "limitations": "Não comparamos o ano completo de 2024 com um dado parcial do debate para declarar a fala falsa. Queda simultânea não estabelece causalidade única."
+        },
+        {
+          "id": "afirmacao-26",
+          "title": "92% da população não consegue interpretar textos?",
+          "topic": "Educação",
+          "quote": "um grande exemplo disso eh foi a gestão do Haddad no Ministério da Educação os gastos com educação quadruplicaram e ele entregou um país em que 92% da população não é capaz de interpretar um texto com qualidade",
+          "timestampSeconds": 5067,
+          "cueStart": 2246,
+          "cueEnd": 2251,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O Inaf de 2015 registrou 8% no nível mais alto, proficiente, entre pessoas de 15 a 64 anos. Os demais 92% incluem níveis intermediário e elementar, com habilidades de leitura. Não atingir a categoria mais alta não equivale a incapacidade geral de interpretar textos.",
+          "evidence": [
+            {
+              "title": "Anuário 2018 — tabela do Inaf 2015, níveis de alfabetismo",
+              "url": "https://todospelaeducacao.org.br/_uploads/20180824-Anuario_Educacao_2018_atualizado_WEB.pdf",
+              "publisher": "Todos Pela Educação",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "Atribuir o desempenho ao ministro exige considerar período, escolarização anterior e outros fatores. Este indicador não mede sozinho o efeito de uma gestão."
+        },
+        {
+          "id": "afirmacao-27",
+          "title": "Como funciona a coleta do Focus?",
+          "topic": "Contas públicas",
+          "quote": "FHC criou um negócio chamado boletim Focus o que que é o boletim Focus você pega 130 figuras que são basicamente investidores banqueiros gente do mercado financeiro escuta essas figuras Antes da reunião do compon do comitê de política monetária e pergunta eles assim já já Vilela tu tá ganhando muito dinheiro com",
+          "timestampSeconds": 5424,
+          "cueStart": 2411,
+          "cueEnd": 2418,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O Banco Central coleta projeções de instituições, incluindo bancos, consultorias e empresas do setor real. A coleta é contínua e o relatório é semanal, não uma consulta restrita ao momento anterior ao Copom. As expectativas são uma informação utilizada na política monetária.",
+          "evidence": [
+            {
+              "title": "Expectativas de mercado: participantes, frequência e uso das projeções",
+              "url": "https://www.bcb.gov.br/controleinflacao/expectativasmercado",
+              "publisher": "Banco Central do Brasil",
+              "position": "context"
+            }
+          ],
+          "limitations": "A quantidade de participantes muda. O número atual da página não foi tratado como prova de quantos participavam em outubro de 2024."
+        },
+        {
+          "id": "afirmacao-28",
+          "title": "Juros eram o maior gasto corrente da União?",
+          "topic": "Contas públicas",
+          "quote": "qual é o xiz da questão o maior gasto corrente da união é com juros da dívida pública os juros brasileiros é o maior do mundo consistentemente há mais de 30 anos ano passado foram 6 600 bilhões de reais de juris da dívida pública alguém",
+          "timestampSeconds": 5675,
+          "cueStart": 2522,
+          "cueEnd": 2527,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O trecho mistura União, setor público consolidado e diferentes critérios de contabilização. A consultoria da Câmara distingue os R$ 718,3 bilhões de juros nominais do setor público em 2023, apropriados por competência, dos pagamentos orçamentários. Não se pode usar um agregado como maior rubrica da União sem essa conciliação.",
+          "evidence": [
+            {
+              "title": "Conciliação entre dados orçamentários e estatísticas de juros em 2023",
+              "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2025/Estudon16_2025DividaPublicaConciliacaoLOA_EstatisiticasDepMauroBenevides.pdf",
+              "publisher": "Consultoria de Orçamento da Câmara",
+              "position": "context"
+            }
+          ],
+          "limitations": "Juros são uma despesa relevante; o problema aqui é a base de comparação, não negar sua dimensão."
+        },
+        {
+          "id": "afirmacao-29",
+          "title": "Arcabouço: crescimento real entre 0,6% e 2,5%",
+          "topic": "Contas públicas",
+          "quote": "gasto primário do estado fica reprimido reprimido ao quê ele tem um piso tem que crescer no mínimo 0.6% e um teto de 2.5% além de que ainda tem mais outra outra restrição que é pode gastar até 70% no máximo do arrecadado do aumento de arrecadação do ano anterior e Se não",
+          "timestampSeconds": 6444,
+          "cueStart": 2891,
+          "cueEnd": 2897,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "O art. 5º da LC 200/2023 prevê esses limites para o crescimento real da despesa primária e vinculação a 70% da variação real da receita no caso de cumprimento da meta. A lei também prevê 50% quando a condição de cumprimento não é atendida.",
+          "evidence": [
+            {
+              "title": "LC 200/2023, art. 5º — limites e crescimento real das despesas",
+              "url": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei.complementar%3A2023%3B200%21art5_par3",
+              "publisher": "Senado Federal / LexML",
+              "publishedAt": "2023-08-30",
+              "position": "supports"
+            }
+          ],
+          "limitations": "O percentual incide sobre crescimento da receita, não sobre 70% da arrecadação total. A regra possui exclusões e condições próprias."
+        },
+        {
+          "id": "afirmacao-30",
+          "title": "Nove gerações para sair da pobreza no Brasil?",
+          "topic": "Desigualdade",
+          "quote": "social para vocês terem uma noção nos países da ocde Quem nasce no 20% mais pobre nos países da ocde tem 70% de chance de sair dessa faixa social essa chance Aqui no Brasil é mínima é quase que nula o sujeito no Brasil nasce pobre para sair da pobreza segundo Esse estudo ele vai demorar nove gerações Salv engan não sei se eram nove ou seram sete gerações para sair da pobreza justamente",
+          "timestampSeconds": 7077,
+          "cueStart": 3186,
+          "cueEnd": 3195,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "A estimativa da OCDE se refere ao tempo para descendentes de famílias do décimo de renda mais baixo alcançarem a renda média, sob as hipóteses do estudo. Alcançar a média não é a mesma coisa que ultrapassar a linha de pobreza. A fala também começa com os 20% mais pobres, outro recorte.",
+          "evidence": [
+            {
+              "title": "Development Co-operation Report 2018 — mobilidade intergeracional, figura 3.4",
+              "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/12/development-co-operation-report-2018_g1g92803/dcr-2018-en.pdf",
+              "publisher": "OCDE",
+              "position": "context"
+            }
+          ],
+          "limitations": "É uma projeção estatística de mobilidade intergeracional, não o destino individual de toda família."
+        },
+        {
+          "id": "afirmacao-31",
+          "title": "A dívida brasileira é majoritariamente interna?",
+          "topic": "Contas públicas",
+          "quote": "um ente monetário soberano isso assim é o básico o básico do básico o Brasil tem um ente monetário soberano ele emita a sua própria moeda e hoje nesse momento a dívida externa é baixíssima a dívida brasileira é basicamente um perfil de dívida interna em moeda própria que o Brasil emite então assim festival de ignorância Econômica dito isso o deputado fez assim não como assim a gente tem 100 anos de Capitalismo de",
+          "timestampSeconds": 7259,
+          "cueStart": 3269,
+          "cueEnd": 3279,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "O relatório do Tesouro de dezembro de 2023 distingue a dívida mobiliária federal interna da dívida federal externa e mostra a predominância da interna. Isso sustenta a diferença de composição invocada no debate, sem tornar qualquer endividamento isento de risco.",
+          "evidence": [
+            {
+              "title": "Relatório Mensal da Dívida Pública Federal — dezembro de 2023",
+              "url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/48782_1536692/Texto_RMD_Dez_23.pdf",
+              "publisher": "Tesouro Nacional",
+              "position": "supports"
+            }
+          ],
+          "limitations": "Dívida interna, moeda de denominação e residência do credor são dimensões distintas. A checagem não estende a conclusão a toda obrigação externa do país."
+        },
+        {
+          "id": "afirmacao-32",
+          "title": "Não existia escola pública antes da atuação comunista?",
+          "topic": "História",
+          "quote": "protagonista na criação da escola pública Sabia que não existia escola pública no Brasil era basicamente escola católica teve uma luta gigantesca em defesa de uma escola pública de perspectiva Nacional lá que a gente teve um protagonismo também muito important",
+          "timestampSeconds": 7507,
+          "cueStart": 3382,
+          "cueEnd": 3388,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O Brasil já tinha legislação de escolas públicas de primeiras letras em 1827, anterior ao movimento comunista organizado no país. A participação posterior de comunistas na defesa da educação não significa que a escola pública tenha começado com esse movimento.",
+          "evidence": [
+            {
+              "title": "Lei de 15 de outubro de 1827 — escolas de primeiras letras",
+              "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/lim..-15-10-1827.1.htm",
+              "publisher": "Presidência da República / legislação do Império",
+              "publishedAt": "1827-10-15",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "A lei imperial não significava acesso universal, inclusão de todos os grupos ou uma rede nacional equivalente à atual. O trecho não delimita claramente a época a que se refere."
+        },
+        {
+          "id": "afirmacao-33",
+          "title": "A jornada é a mesma há quase cem anos?",
+          "topic": "Trabalho",
+          "quote": "do pcbr nós defendemos a redução da jornada de trabalho né para 30 horas semanais e o fim da escala se por um porque desde 1988 que não há redução da jornada de trabalho no Brasil e em São Paulo quando teve a Revolução de 30 foi instituída a jornada de trabalho de 8 horas em 1931 faz quase 100 anos que a jornada de trabalho é a mesma e precisa ser",
+          "timestampSeconds": 7723,
+          "cueStart": 3484,
+          "cueEnd": 3493,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "A duração diária de oito horas tem longa história, mas o limite semanal geral foi reduzido de 48 para 44 horas pela Constituição de 1988. O próprio trecho menciona 1988 e depois generaliza um século sem mudança. É preciso distinguir os limites diário e semanal.",
+          "evidence": [
+            {
+              "title": "Nota da Consultoria Legislativa sobre a redução da jornada em 1988",
+              "url": "https://www2.camara.leg.br/atividade-legislativa/estudos-e-notas-tecnicas/fiquePorDentro/temas/temas-anteriores-desativados-com-texto-da-consultoria/jornada_de_trabalho/documento-de-referencia-da-consultoria-legislativa-1",
+              "publisher": "Câmara dos Deputados",
+              "position": "context"
+            }
+          ],
+          "limitations": "A checagem considera a regra geral vigente na data do debate; categorias específicas têm jornadas próprias. A proposta de reduzir para 30 horas é uma posição política, não um fato classificado."
+        },
+        {
+          "id": "afirmacao-34",
+          "title": "Havia cerca de 40 milhões de trabalhadores informais?",
+          "topic": "Trabalho",
+          "quote": "até morrer né Vamos lá primeiro que essa regulamentação na prática não teria efeito porque hoje a gente tem 40 milhões de informais né Então essas leis trabalhistas não vão se aplicar para ninguém que hoje tá eh informalização",
+          "timestampSeconds": 7762,
+          "cueStart": 3503,
+          "cueEnd": 3509,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "O IBGE registrou 39,4 milhões de trabalhadores informais no trimestre encerrado em julho de 2024, próximo do arredondamento para 40 milhões. Isso confirma a ordem de grandeza do contingente citado.",
+          "evidence": [
+            {
+              "title": "PNAD Contínua — informalidade no trimestre encerrado em julho de 2024",
+              "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/41117-pnad-continua-taxa-de-desocupacao-e-de-6-8-e-taxa-de-subutilizacao-e-de-16-2-no-trimestre-encerrado-em-julho",
+              "publisher": "IBGE",
+              "position": "supports"
+            }
+          ],
+          "limitations": "O argumento de que uma mudança de jornada não teria efeito é uma previsão e não é confirmado por esse número. Informalidade também não significa automaticamente ausência jurídica de direitos trabalhistas."
+        },
+        {
+          "id": "afirmacao-35",
+          "title": "Fim da ditadura e necessidade do Plano Real",
+          "topic": "História",
+          "quote": "pelo contrário a gente saiu do período da ditadura militar com hiperinflação precisando fazer o plano real e com vários problemas em obras de",
+          "timestampSeconds": 7822,
+          "cueStart": 3535,
+          "cueEnd": 3538,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "A inflação elevada é parte da crise herdada dos anos 1980, mas o Plano Real começou em 1993 e a moeda foi lançada em julho de 1994, anos depois do fim do regime militar em 1985. O trecho comprime processos e governos diferentes numa mesma sequência.",
+          "evidence": [
+            {
+              "title": "Plano Real — cronologia da estabilização e lançamento da moeda",
+              "url": "https://www.bcb.gov.br/controleinflacao/planoreal",
+              "publisher": "Banco Central do Brasil",
+              "position": "context"
+            }
+          ],
+          "limitations": "Não se atribui a inflação exclusivamente a um governo ou regime; isso exigiria outra análise histórica e econômica."
+        },
+        {
+          "id": "afirmacao-36",
+          "title": "Déficit da saúde de US$ 20 bilhões e dos fármacos de US$ 9,8 bilhões",
+          "topic": "Saúde",
+          "quote": "pegar por exemplo o exemplo da Saúde em 2023 o déficit comercial da Saúde foi de 20 bilhões de dólares desse valor só em fármacos foram 9.8 bilhões de de dólares",
+          "timestampSeconds": 7999,
+          "cueStart": 3625,
+          "cueEnd": 3628,
+          "verdict": "Inconclusivo",
+          "explanation": "O trecho combina duas classificações setoriais que não são definidas na fala. A confirmação exige uma lista de produtos, códigos de comércio exterior e a mesma base de 2023 para as duas cifras. Essa memória de cálculo não foi recuperada nesta revisão.",
+          "evidence": [],
+          "limitations": "A dependência externa do setor aparece em documentos públicos, mas não é suficiente para certificar cada valor citado."
+        },
+        {
+          "id": "afirmacao-37",
+          "title": "Produção nacional de IFAs caiu de 50% para 5%?",
+          "topic": "Saúde",
+          "quote": "produzindo internamente né o Brasil já chegou a produzir 50% dos zfas ingrediente farmaceutico ativo que é que faz o remédio funcionar que consome hoje em dia só produz 5% E aí você percebe",
+          "timestampSeconds": 8014,
+          "cueStart": 3631,
+          "cueEnd": 3635,
+          "verdict": "Majoritariamente verdadeiro",
+          "explanation": "Relatório técnico do Ministério da Saúde de 2024 reproduz estimativa da Abiquifi de produção local de 5% e importação de 95%, comparada a cerca de 50% de produção local no final dos anos 1980. A fala corresponde a essa estimativa setorial.",
+          "evidence": [
+            {
+              "title": "Relatório técnico da Portaria GM/MS 4.472/2024 — produção de IFAs",
+              "url": "https://bvsms.saude.gov.br/bvs/saudelegis/doc_tec/ago_24/RELATORIO_PORTARIA_GM_4472-2024.pdf",
+              "publisher": "Ministério da Saúde",
+              "position": "supports"
+            }
+          ],
+          "limitations": "É uma estimativa citada pelo ministério com origem numa associação da indústria, não uma medição independente feita nesta checagem. “zfas” é erro da legenda para IFAs."
+        },
+        {
+          "id": "afirmacao-38",
+          "title": "Lenacapavir a US$ 42 mil para o SUS e custo de US$ 40",
+          "topic": "Saúde",
+          "quote": "Lena kavir que é um medicamento muito importante no tratamento do HIV aides ele custa com lucro de 30% 40 só que a empresa quer vender aqui pro Brasil pro SUS por 42.000 dólar Ele custa 0 com a taxa de lucro de 30% que é acima da média mundial da taxa de lucro do capitalismo",
+          "timestampSeconds": 8031,
+          "cueStart": 3637,
+          "cueEnd": 3644,
+          "verdict": "Inconclusivo",
+          "explanation": "O contraste entre preço de um produto e custo estimado de um genérico exige dose, período e mercado comparáveis. Não foi localizado contrato ou oferta ao SUS que sustente o preço específico da fala. O alerta da Conitec de 2023 contextualiza o medicamento, mas não prova essa negociação de 2024.",
+          "evidence": [
+            {
+              "title": "Alerta 3/2023 — lenacapavir para HIV-1 multirresistente",
+              "url": "https://www.gov.br/conitec/pt-br/midias/radar/2023/20230417_Alrta_MHT_03_Lenacapavir.pdf",
+              "publisher": "Conitec / Ministério da Saúde",
+              "position": "context"
+            }
+          ],
+          "limitations": "A legenda está corrompida (“ele custa 0”). Não reconstruímos esse número nem tratamos preço estrangeiro como preço de compra brasileiro."
+        },
+        {
+          "id": "afirmacao-39",
+          "title": "Dolutegravir: 0,21 contra R$ 4,40",
+          "topic": "Saúde",
+          "quote": "Aí você pega outro medicamento muito importante pro tratamento do HIV ides que é o do Luter gravi que o valor dele a a MS compra por 0,21 e quer vender para o Brasil por R 4,40 centavos ou o sofos buv que é um",
+          "timestampSeconds": 8054,
+          "cueStart": 3645,
+          "cueEnd": 3650,
+          "verdict": "Inconclusivo",
+          "explanation": "Faltam moeda e unidade do primeiro valor, apresentação, dose, ano e comprador. A existência de genéricos mais baratos não confirma, sozinha, essa comparação. O comunicado da MSF sobre a Colômbia documenta barreiras de patente, mas não é uma compra brasileira com os valores indicados.",
+          "evidence": [
+            {
+              "title": "Licenciamento compulsório do dolutegravir na Colômbia e titularidade da ViiV",
+              "url": "https://m.msfaccess.org/colombia-takes-significant-next-step-expand-peoples-access-affordable-hiv-treatment-and-moves",
+              "publisher": "Médecins Sans Frontières — Access Campaign",
+              "publishedAt": "2024-02-06",
+              "position": "context"
+            }
+          ],
+          "limitations": "A legenda alterna nomes e valores. Não corrigimos a unidade para produzir artificialmente uma comparação verificável."
+        },
+        {
+          "id": "afirmacao-40",
+          "title": "Sofosbuvir teria aumentado 10.000% após processo judicial",
+          "topic": "Saúde",
+          "quote": "medicamento para Hepatite C O Brasil tem 300.000 pessoas com hepatite C e que depois que teve um processo judicial para o Brasil solicitar produção de genéricos o remédio aumentou 10000% né então a gente deixa de gerar",
+          "timestampSeconds": 8072,
+          "cueStart": 3651,
+          "cueEnd": 3656,
+          "verdict": "Inconclusivo",
+          "explanation": "Não há identificação da decisão judicial, das duas compras, dos preços de referência ou da unidade de tratamento. Sem esses documentos, não foi possível confirmar o aumento de 10.000% nem sua atribuição ao processo.",
+          "evidence": [],
+          "limitations": "Preços de comprimido, tratamento completo, oferta e contrato efetivamente pago não podem ser comparados como se fossem o mesmo dado."
+        },
+        {
+          "id": "afirmacao-41",
+          "title": "Mais de oito mil juízes recebem R$ 100 mil por mês?",
+          "topic": "Justiça",
+          "quote": "levantamento levantamento já desatualizado mais de 8.000 juízes que recebem mais de 100.000 por mês do dinheiro do mais pobre do dinheiro do",
+          "timestampSeconds": 8408,
+          "cueStart": 3810,
+          "cueEnd": 3813,
+          "verdict": "Inconclusivo",
+          "explanation": "O levantamento citado não é identificado. Falta saber se o valor inclui retroativos e indenizações pagos uma única vez ou remuneração mensal recorrente. Não foi confirmada a quantidade com esse critério.",
+          "evidence": [],
+          "limitations": "Pagamentos acima do teto e remuneração habitual são questões diferentes. A conclusão não atesta regularidade dos pagamentos."
+        },
+        {
+          "id": "afirmacao-42",
+          "title": "Justiça do Trabalho custa o dobro do que paga ao trabalhador?",
+          "topic": "Justiça",
+          "quote": "Trabalhador a Justiça Trabalhista que é tão ifada né pelas esquerdas ela custa o dobro daquilo que paga pro trabalhador ou seja era é mais fácil a gente pagar o dobro do que cada trabalhador pediu na justiça sem ter Justiça Trabalhista do que a gente manter a estrutura na babesa",
+          "timestampSeconds": 8417,
+          "cueStart": 3814,
+          "cueEnd": 3820,
+          "verdict": "Inconclusivo",
+          "explanation": "A revista da escola judicial consultada registra, com base no relatório do TST, R$ 41,35 bilhões pagos aos reclamantes em 2023. Não foi recuperada nesta revisão uma tabela de despesas com o mesmo período e perímetro que permita fechar a razão de dois para um. O valor devolvido não deve ser confundido com arrecadação tributária.",
+          "evidence": [
+            {
+              "title": "Revista da Ejud — dados de 2023 sobre valores pagos em ações trabalhistas",
+              "url": "https://www.trt7.jus.br/files/Revista%20Eletronica%20da%20EJUD17%20-%2026%20edicao%20-%20Junho%20de%202025.pdf",
+              "publisher": "Escola Judicial / TRT da 7ª Região",
+              "position": "context"
+            }
+          ],
+          "limitations": "Sem conferir as duas séries diretamente, não atribuímos classificação categórica. O argumento de que pagar tudo diretamente substituiria a função judicial também não decorre dessa comparação contábil."
+        },
+        {
+          "id": "afirmacao-43",
+          "title": "20% dos imóveis do centro estariam abandonados?",
+          "topic": "Habitação",
+          "quote": "prédio resultado prático em São Paulo 20% dos imóveis do centro estão abandonados são o quê são casas boa parte são prédios sabe 60.000 Imóveis abandonados e manter a lógica de ao",
+          "timestampSeconds": 9007,
+          "cueStart": 4086,
+          "cueEnd": 4090,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O levantamento do Censo 2022 noticiado em março de 2024 aponta cerca de um quinto dos domicílios centrais desocupados. “Desocupado” é uma categoria estatística diferente de “abandonado”; pode incluir unidades ofertadas, novas ou com outros usos temporários. A equivalência entre os termos não se sustenta.",
+          "evidence": [
+            {
+              "title": "Domicílios desocupados no centro de São Paulo — dados do Censo 2022",
+              "url": "https://www1.folha.uol.com.br/amp/cotidiano/2024/03/um-de-cada-cinco-imoveis-do-centro-de-sp-esta-desocupado-mostra-o-censo.shtml",
+              "publisher": "Folha de S.Paulo / levantamento com dados do IBGE",
+              "publishedAt": "2024-03-21",
+              "position": "context"
+            }
+          ],
+          "limitations": "A fonte é uma análise jornalística dos dados do IBGE. O número exato de 60 mil e o recorte de centro empregado na fala não foram recalculados aqui."
+        },
+        {
+          "id": "afirmacao-44",
+          "title": "700 empregos por cem moradores na Barra Funda e três em Cidade Tiradentes",
+          "topic": "Habitação",
+          "quote": "centro porque por exemplo você pega os dados você vai ver pera aí para eu não tá errado na barrafunda você tem 700 empregos para cada 100 moradores na cidade Tiradente você tem três empregos para cada 100 moradores então o que que",
+          "timestampSeconds": 9030,
+          "cueStart": 4094,
+          "cueEnd": 4099,
+          "verdict": "Inconclusivo",
+          "explanation": "A fala não identifica ano, base de emprego ou denominador etário. Relações por cem moradores e por cem pessoas em idade ativa não são equivalentes. A desigualdade territorial não basta para confirmar esses dois quocientes.",
+          "evidence": [],
+          "limitations": "É necessário recuperar a tabela original e o mesmo recorte territorial para os dois distritos."
+        },
+        {
+          "id": "afirmacao-45",
+          "title": "Mínimo da educação é 25% de toda receita municipal?",
+          "topic": "Educação",
+          "quote": "aliada a isso O Ricardo Nunes não gastou o mínimo constitucional da educação toda a prefeitura é obrigada a gastar 25% né da sua receita com educação Ricardo nes está com a representação que foi feita por vereadores de oposição em que ele deixou de gastar 1.7 bilhões em educação",
+          "timestampSeconds": 9625,
+          "cueStart": 4372,
+          "cueEnd": 4378,
+          "verdict": "Impreciso ou fora de contexto",
+          "explanation": "O art. 212 da Constituição fixa o mínimo de 25% da receita resultante de impostos, incluindo transferências, em manutenção e desenvolvimento do ensino. Não incide indistintamente sobre toda receita municipal. A regra sozinha não comprova o alegado descumprimento por uma gestão.",
+          "evidence": [
+            {
+              "title": "Constituição Federal, art. 212 — base de cálculo do mínimo da educação",
+              "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+              "publisher": "Presidência da República",
+              "position": "context"
+            }
+          ],
+          "limitations": "Há regras locais, critérios de apuração e prestações de contas a consultar. A acusação de R$ 1,7 bilhão não é confirmada neste item."
+        },
+        {
+          "id": "afirmacao-46",
+          "title": "Descumprimento de R$ 1,7 bilhão e empenhos de dezembro em São Paulo",
+          "topic": "Contas públicas",
+          "quote": "está com a representação que foi feita por vereadores de oposição em que ele deixou de gastar 1.7 bilhões em educação e em 2021 e 2022 o Ricardo Nunes para tentar cumprir o mío constitucional da Saúde ele gastou 30% do orçamento aliás disse que gastou né fez o empenho mas não liquidou 30% do orçamento em dezembro para tentar fazer uma maquiagem",
+          "timestampSeconds": 9637,
+          "cueStart": 4376,
+          "cueEnd": 4384,
+          "verdict": "Inconclusivo",
+          "explanation": "A existência de representação política não comprova automaticamente uma irregularidade. Não foram identificados neste levantamento os processos de contas, demonstrativos e decisões finais que permitiriam conferir a cifra e a suposta maquiagem contábil.",
+          "evidence": [],
+          "limitations": "O próprio trecho alterna educação e saúde. Não resolvemos essa ambiguidade silenciosamente nem tratamos acusação como condenação."
+        },
+        {
+          "id": "afirmacao-47",
+          "title": "78% do crédito agrícola vai para propriedades acima de mil hectares?",
+          "topic": "Agricultura",
+          "quote": "distribuição do crédito agrícola você vê que o crédito agrícola fica hiper concentrado nas Grandes propriedades inclusive nas Grandes propriedades que tem mais de 100 Aliás mais de 1000 haar cerca de 78% do crédito agrícola fica propriedades mais de 1000 ha para cima",
+          "timestampSeconds": 10402,
+          "cueStart": 4730,
+          "cueEnd": 4736,
+          "verdict": "Inconclusivo",
+          "explanation": "Não estão especificados safra, modalidade de crédito ou universo do levantamento. Censo Agropecuário, operações de crédito e Plano Safra não têm denominadores automaticamente intercambiáveis. O percentual não foi confirmado com esse recorte.",
+          "evidence": [],
+          "limitations": "Uma discussão sobre concentração de crédito exige separar valor contratado, quantidade de operações, área e critérios de agricultura familiar."
+        },
+        {
+          "id": "afirmacao-48",
+          "title": "O Brasil não tinha política de mecanização agrícola?",
+          "topic": "Agricultura",
+          "quote": "você vê que o Brasil não tem nenhuma política de mecanização da agricultura e de aumento da produtividade 4% do campo da agricultura familiar do nor Nordeste é mecanizada só a mecanização que existe é comprando máquina de Fora portanto aumentando o déficit comercial do Brasil",
+          "timestampSeconds": 10419,
+          "cueStart": 4737,
+          "cueEnd": 4743,
+          "verdict": "Falso",
+          "explanation": "O Mais Alimentos financiava máquinas, implementos e tecnificação pelo Pronaf. A apresentação oficial do Plano Safra de julho de 2024 registra operações e recursos contratados em 2023/2024. Isso contradiz a ausência absoluta de política de mecanização.",
+          "evidence": [
+            {
+              "title": "Plano Safra 2024/2025 — Mais Alimentos e operações para máquinas",
+              "url": "https://www.gov.br/mda/pt-br/noticias/2024/07/comida-no-prato-com-reducao-de-juros-para-a-producao-de-alimentos-basicos-psaf-chega-ao-recorde-de-r-76-bilhoes-no-credito-rural/apresentacao-plano-safra-2024-2025.pdf",
+              "publisher": "Ministério do Desenvolvimento Agrário",
+              "position": "contradicts"
+            }
+          ],
+          "limitations": "A existência do programa não demonstra que ele seja suficiente nem refuta o problema de acesso regional. O percentual de 4% mencionado para o Nordeste exige checagem própria."
+        }
+      ],
+      "limitations": [
+        "Cobertura parcial: este snapshot não certifica todas as afirmações do debate nem representa uma nota geral para qualquer participante.",
+        "Origem textual: SRT de legendas automáticas fornecido pelo responsável pelo projeto. Não houve conferência integral do áudio. Erros de transcrição podem afetar números, nomes e sentido.",
+        "A legenda não identifica falantes. O relatório não atribui automaticamente as declarações a Kim Kataguiri, Jones Manoel ou aos apresentadores.",
+        "A referência temporal das falas é outubro de 2024. Documentos posteriores são usados apenas quando descrevem dados históricos, não para aplicar regras novas retroativamente.",
+        "Uma fonte oficial não é garantia de inferência correta. Divulgações de resultados de um governo sobre os próprios programas são tratadas como informações institucionais.",
+        "Sem acesso aos documentos ou à série pertinente, o item permanece inconclusivo. Ausência de evidência nesta revisão não é evidência de falsidade."
+      ]
+    }
+  }
 }

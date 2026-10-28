@@ -1,11 +1,11 @@
-import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises'
+import { copyFile, mkdir, readdir, readFile, writeFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
+import { reportSchema } from '../src/lib/report-schema.ts'
 
 const sourceDirectory = resolve('snapshots')
 const outputDirectory = resolve('public/snapshots')
 const outputFile = resolve(outputDirectory, 'index.json')
 const marker = /<!--\s*fato-ou-papo:json\s*\n([\s\S]*?)\n-->/
-const videoIdPattern = /^[a-zA-Z0-9_-]{11}$/
 
 await mkdir(sourceDirectory, { recursive: true })
 await mkdir(outputDirectory, { recursive: true })
@@ -25,14 +25,30 @@ for (const file of files) {
     throw new Error(`${file}: JSON inválido (${error.message})`)
   }
 
-  if (report.schemaVersion !== 1 || report.status !== 'completed') {
-    throw new Error(`${file}: schemaVersion/status incompatível`)
-  }
-  if (!videoIdPattern.test(report.video?.id ?? '')) {
-    throw new Error(`${file}: ID de vídeo inválido`)
-  }
-  if (!Array.isArray(report.claims)) throw new Error(`${file}: claims deve ser uma lista`)
+  report = reportSchema.parse(report)
+  if (file !== `${report.video.id}.md`) throw new Error(`${file}: nome deve ser o ID do vídeo`)
   if (reports[report.video.id]) throw new Error(`${file}: snapshot duplicado para ${report.video.id}`)
+  if (new Set(report.claims.map((claim) => claim.id)).size !== report.claims.length) {
+    throw new Error(`${file}: identificadores de afirmações duplicados`)
+  }
+
+  if (report.coverage) {
+    const transcript = await readFile(resolve(report.coverage.transcriptPath), 'utf8')
+    for (const claim of report.claims) {
+      if (!claim.cueStart || !claim.cueEnd) throw new Error(`${file}: origem do trecho ausente`)
+      const escapedStart = String(claim.cueStart)
+      const escapedEnd = String(claim.cueEnd + 1)
+      const start = transcript.search(new RegExp(`### .* · bloco ${escapedStart}\\n`))
+      const end = transcript.search(new RegExp(`### .* · bloco ${escapedEnd}\\n`))
+      if (start < 0) throw new Error(`${file}: bloco inicial da afirmação não existe`)
+      const text = transcript.slice(start, end < 0 ? undefined : end).replace(/^### .*$/gm, '').replace(/\s+/g, ' ').trim()
+      if (text !== claim.quote) throw new Error(`${file}: citação diverge da transcrição em ${claim.id}`)
+    }
+    await mkdir(resolve('public/transcripts'), { recursive: true })
+    await copyFile(resolve(report.coverage.transcriptPath), resolve('public', report.coverage.transcriptPath))
+  }
+  await mkdir(resolve('public/reports'), { recursive: true })
+  await copyFile(resolve(sourceDirectory, file), resolve('public/reports', file))
 
   reports[report.video.id] = report
 }

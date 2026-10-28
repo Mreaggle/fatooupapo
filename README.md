@@ -1,10 +1,25 @@
 # Fato ou Papo
 
-Plataforma de fact-checking de debates políticos em vídeos do YouTube. A interface valida o link, procura uma análise já revisada no acervo de snapshots e, quando necessário, encaminha o vídeo a um backend configurado para transcrição, pesquisa de evidências e elaboração do relatório.
+Plataforma de checagem de afirmações em vídeos do YouTube. React, TypeScript, Vite e Tailwind CSS 4. A interface valida o link e consulta o acervo pelo ID do vídeo, sem nova chamada à IA quando existe um snapshot.
+
+MVP publicado: https://mreaggle.github.io/fatooupapo/
+
+## Primeiro debate
+
+Vídeo: https://www.youtube.com/watch?v=q4T7plSBdJE
+
+O acervo inclui **48 afirmações selecionadas**, com classificação, fontes, contexto e timestamps, e **a transcrição completa fornecida** (5.224 blocos). O relatório é uma primeira revisão parcial; não certifica todas as falas do debate. As legendas são automáticas, sem diarização, e não houve revisão integral do áudio.
+
+- `transcripts/q4T7plSBdJE.md` — transcrição integral, timestamps e SHA-256 do SRT.
+- `snapshots/q4T7plSBdJE.md` — relatório legível e dados estruturados consumidos pela aplicação.
+- `mvp/*.srt` — arquivo original fornecido, preservado.
+- `mvp/q4T7plSBdJE.review.mjs` — decisões editoriais e referências usadas na primeira revisão.
+
+Link compartilhável: https://mreaggle.github.io/fatooupapo/?v=q4T7plSBdJE
 
 ## Desenvolvimento
 
-Requer Node.js 22 ou superior.
+Requer Node.js 22.18 ou superior.
 
 ```bash
 npm install
@@ -13,7 +28,9 @@ npm run dev
 
 Comandos principais:
 
-- `npm test` — executa os testes de URL e estados essenciais.
+- `npm test` — testa URLs, estados, consulta estática e integridade das citações.
+- `npx playwright install --with-deps chromium` — prepara o navegador de teste.
+- `npm run test:e2e` — testa a aplicação compilada em desktop e celular (execute o build antes).
 - `npm run lint` — verifica TypeScript e React com ESLint.
 - `npm run build` — valida snapshots, compila e gera `dist/`.
 - `npm run preview` — serve localmente o build de produção.
@@ -23,6 +40,14 @@ Comandos principais:
 Copie `.env.example` para `.env.local` e defina `VITE_ANALYSIS_API_URL` com a URL do backend. Essa variável é pública; credenciais do YouTube, IA e busca devem permanecer no servidor. Sem backend, a aplicação continua consultando `snapshots/` e informa claramente quando um vídeo ainda não foi analisado.
 
 O contrato esperado está em [docs/API.md](docs/API.md). O formato do acervo está em [snapshots/README.md](snapshots/README.md).
+
+## Atualização do acervo
+
+O Markdown é a fonte publicada. `npm run snapshots:build` valida o contrato, os IDs e a correspondência literal das citações com a transcrição; depois gera o índice JSON e copia os arquivos Markdown para a distribuição. Erros de esquema ou citações divergentes interrompem o build.
+
+Para reproduzir a primeira transcrição: `node scripts/import-transcript.mjs q4T7plSBdJE 'caminho/arquivo.srt'`. Para regenerar o primeiro relatório a partir das decisões editoriais, execute `npm run snapshot:debate`. Esse comando não pesquisa, não usa IA e não cria novas conclusões. Alterações factuais precisam de nova revisão das fontes.
+
+As revisões são preservadas no histórico Git. Um link `?v=ID` aponta para a versão publicada mais recente daquele vídeo; um commit identifica uma versão imutável do Markdown.
 
 ## Publicação
 

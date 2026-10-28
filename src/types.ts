@@ -16,9 +16,13 @@ export interface Evidence {
 
 export interface Claim {
   id: string
+  title?: string
+  topic?: string
   quote: string
   speaker?: string
   timestampSeconds: number
+  cueStart?: number
+  cueEnd?: number
   verdict: Verdict
   explanation: string
   evidence: Evidence[]
@@ -38,6 +42,14 @@ export interface AnalysisReport {
   status: 'completed'
   claims: Claim[]
   summary: string
+  coverage?: {
+    kind: 'selected-claims' | 'all-identified-claims'
+    description: string
+    transcriptPath: string
+    firstTimestamp: number
+    lastTimestamp: number
+    cueCount: number
+  }
   limitations?: string[]
 }
 

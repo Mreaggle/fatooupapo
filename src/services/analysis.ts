@@ -1,5 +1,6 @@
 import type { AnalysisProgress, AnalysisReport, SnapshotIndex } from '../types'
 import type { ParsedYouTubeUrl } from '../lib/youtube'
+import { reportSchema } from '../lib/report-schema'
 
 const API_URL = (import.meta.env.VITE_ANALYSIS_API_URL as string | undefined)?.replace(/\/$/, '')
 
@@ -18,17 +19,11 @@ export class AnalysisError extends Error {
 }
 
 function assertReport(value: unknown, videoId: string): AnalysisReport {
-  const report = value as Partial<AnalysisReport> | null
-  if (
-    !report ||
-    report.schemaVersion !== 1 ||
-    report.status !== 'completed' ||
-    report.video?.id !== videoId ||
-    !Array.isArray(report.claims)
-  ) {
+  const parsed = reportSchema.safeParse(value)
+  if (!parsed.success || parsed.data.video.id !== videoId) {
     throw new AnalysisError('O serviço retornou um relatório em formato inválido.', 'invalid_response')
   }
-  return report as AnalysisReport
+  return parsed.data
 }
 
 async function findSnapshot(videoId: string, signal: AbortSignal): Promise<AnalysisReport | null> {
@@ -36,6 +31,7 @@ async function findSnapshot(videoId: string, signal: AbortSignal): Promise<Analy
     signal,
     headers: { Accept: 'application/json' },
   })
+  signal.throwIfAborted()
   if (!response.ok) return null
 
   const index = (await response.json()) as SnapshotIndex
@@ -61,11 +57,16 @@ function errorFromStatus(status: number): AnalysisError {
 
 async function wait(milliseconds: number, signal: AbortSignal): Promise<void> {
   return new Promise((resolve, reject) => {
-    const timer = window.setTimeout(resolve, milliseconds)
-    signal.addEventListener('abort', () => {
+    signal.throwIfAborted()
+    const onAbort = () => {
       window.clearTimeout(timer)
       reject(new DOMException('Operação cancelada', 'AbortError'))
-    }, { once: true })
+    }
+    const timer = window.setTimeout(() => {
+      signal.removeEventListener('abort', onAbort)
+      resolve()
+    }, milliseconds)
+    signal.addEventListener('abort', onAbort, { once: true })
   })
 }
 
@@ -76,7 +77,7 @@ async function requestBackend(
 ): Promise<AnalysisReport> {
   if (!API_URL) {
     throw new AnalysisError(
-      'O backend de transcrição e checagem ainda não foi configurado. Este vídeo também não está no acervo de snapshots.',
+      'Este vídeo ainda não está no acervo. Por enquanto, só é possível consultar vídeos já checados.',
       'integration_unavailable',
     )
   }
@@ -96,10 +97,14 @@ async function requestBackend(
     throw new AnalysisError('O serviço não informou como acompanhar a análise.', 'invalid_response')
   }
 
-  const statusUrl = new URL(initial.statusUrl, API_URL).toString()
-  while (!signal.aborted) {
+  const statusUrl = new URL(initial.statusUrl, `${API_URL}/`)
+  if (statusUrl.origin !== new URL(API_URL).origin) {
+    throw new AnalysisError('O serviço informou um endereço de acompanhamento inválido.', 'invalid_response')
+  }
+  const deadline = Date.now() + 3 * 60 * 1000
+  while (!signal.aborted && Date.now() < deadline) {
     await wait(1800, signal)
-    const statusResponse = await fetch(statusUrl, { signal, headers: { Accept: 'application/json' } })
+    const statusResponse = await fetch(statusUrl.toString(), { signal, headers: { Accept: 'application/json' } })
     if (!statusResponse.ok) throw errorFromStatus(statusResponse.status)
 
     const job = await statusResponse.json() as {
@@ -117,7 +122,8 @@ async function requestBackend(
     }
   }
 
-  throw new DOMException('Operação cancelada', 'AbortError')
+  signal.throwIfAborted()
+  throw new AnalysisError('A análise está demorando mais que o esperado. Tente consultar o vídeo novamente mais tarde.', 'service_failure')
 }
 
 export async function analyzeVideo(
@@ -130,7 +136,11 @@ export async function analyzeVideo(
     const snapshot = await findSnapshot(video.videoId, signal)
     if (snapshot) return { report: snapshot, source: 'snapshot' }
   } catch (error) {
-    if (error instanceof DOMException && error.name === 'AbortError') throw error
+    if (signal.aborted) { signal.throwIfAborted() }
+    if (error instanceof AnalysisError) throw error
+    if (!API_URL) {
+      throw new AnalysisError('Não foi possível acessar o acervo. Verifique a conexão e tente novamente.', 'service_failure')
+    }
     // Uma falha no arquivo estático não deve impedir a tentativa no serviço principal.
   }
 

@@ -25,6 +25,10 @@ O backend pode retornar um relatório final em `report` ou um trabalho assíncro
 
 O relatório usa `schemaVersion: 1` e segue as interfaces em `src/types.ts`. O serviço deve devolver `404`/`410` para vídeo indisponível e `422` para transcrição indisponível. Não retorne conclusões sem evidências suficientes; use a classificação `Inconclusivo`.
 
+O esquema validado em execução está em `src/lib/report-schema.ts`. Uma conclusão diferente de `Inconclusivo` precisa de pelo menos uma fonte HTTPS. O campo opcional `coverage` distingue seleção parcial de cobertura de todas as afirmações identificadas. Um trabalho finalizado (`status: completed`) não significa que toda fala do vídeo foi checada. `cueStart` e `cueEnd` permitem auditar cada citação no Markdown da transcrição. Não inclua `speaker` sem identificação segura.
+
+O frontend rejeita URLs de acompanhamento de outra origem e interrompe o polling após três minutos. Cancelar interrompe a consulta no navegador; sem um contrato de cancelamento no servidor, isso não garante que o trabalho remoto pare de executar.
+
 ## Responsabilidades do backend
 
 - Obter metadados e transcrições por meios autorizados.
