@@ -41,7 +41,7 @@ const features = [
 
 function Brand() {
   return (
-    <a className="brand" href="#inicio" aria-label="Fato ou Papo — início">
+    <a className="brand" href={import.meta.env.BASE_URL} aria-label="Fato ou Papo — início">
       <span className="brand__mark" aria-hidden="true"><FileSearch size={18} /></span>
       <span>Fato ou <strong>Papo</strong></span>
     </a>
@@ -308,7 +308,7 @@ function Footer() {
   return (
     <footer className="footer" id="sobre">
       <Brand />
-      <nav aria-label="Links do rodapé"><a href="#como-funciona">Como funciona</a><a href="#metodologia">Metodologia</a><a href="#sobre">Sobre o projeto</a></nav>
+      <nav aria-label="Links do rodapé"><a href={`${import.meta.env.BASE_URL}#como-funciona`}>Como funciona</a><a href={`${import.meta.env.BASE_URL}#metodologia`}>Metodologia</a><a href={`${import.meta.env.BASE_URL}#sobre`}>Sobre o projeto</a></nav>
       <p>Análises automatizadas podem conter erros. Interprete cada conclusão considerando as fontes apresentadas.</p>
     </footer>
   )
