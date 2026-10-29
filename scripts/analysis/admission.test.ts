@@ -5,6 +5,7 @@ import { eligibleTitle, eligibleTranscript } from './eligibility.ts'
 import { parseTranscript } from './transcript.ts'
 import { budgetSchema, reserveBudget } from './budget.ts'
 import { publicSources } from './public-sources.ts'
+import { failurePolicy } from './failure-policy.ts'
 
 describe('admissão de vídeos antes do débito', () => {
   it.each(['FLÁVIO BOLSONARO X LULA: DEBATE PRESIDENCIAL DO 2º TURNO | ÍNTEGRA', 'DEBATE: KIM KATAGUIRI X JONES MANOEL', 'DEBATE COMPLETO na Globo | LULA e FLÁVIO BOLSONARO'])('aceita o título de debate: %s', (title) => expect(eligibleTitle(title)).toBe(true))
@@ -17,6 +18,12 @@ describe('admissão de vídeos antes do débito', () => {
 })
 
 describe('orçamento persistente, independente de execuções vazias da fila', () => {
+  it('adia indisponibilidade temporária e cota sem repetir chamadas na mesma execução', () => {
+    const now = Date.parse('2026-10-29T12:00:00Z')
+    expect(failurePolicy('IA indisponível (HTTP 503).', now)).toEqual({ kind: 'transient', retryAt: '2026-10-29T18:00:00.000Z' })
+    expect(failurePolicy('Cota da IA excedida (429).', now)).toEqual({ kind: 'quota', retryAt: '2026-10-30T12:00:00.000Z' })
+    expect(failurePolicy('IA indisponível (HTTP 403).', now)).toEqual({ kind: 'failed' })
+  })
   it('limita a dois lotes por dia, impede repetição da mesma tentativa e renova em UTC', () => {
     const now = new Date('2026-10-29T23:59:00Z')
     const empty = budgetSchema.parse({ version: 1, days: {} })

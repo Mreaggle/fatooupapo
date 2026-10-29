@@ -20,10 +20,12 @@ if (video) {
   const queued = await optionalJson('.analysis-work/queue-notice.json')
   const failure = await optionalJson('.analysis-work/failure.json')
   const progress = await optionalJson(`${directory}/state.json`)
-  const kind = admission?.eligible === false ? 'rejected' : queued ? 'queued' : failure?.kind === 'quota' ? 'queued' : !success ? 'failed' : progress?.phase === 'completed' ? 'review' : 'processing'
-  const retryAt = queued?.retryAt ?? (failure?.kind === 'quota' ? new Date(Date.now() + 86400000).toISOString() : undefined)
+  const kind = admission?.eligible === false ? 'rejected' : queued ? 'queued' : ['quota', 'transient'].includes(failure?.kind) ? 'queued' : !success ? 'failed' : progress?.phase === 'completed' ? 'review' : 'processing'
+  const retryAt = queued?.retryAt ?? failure?.retryAt
   const message = kind === 'rejected' ? ineligibleMessage : queued ? queued.message : failure?.kind === 'quota'
     ? 'A cota de processamento foi atingida. O pedido continua salvo e será retomado automaticamente após a espera de 24 horas, sem novo débito.'
+    : failure?.kind === 'transient'
+      ? 'O provedor está temporariamente indisponível. O pedido foi preservado para retomada automática após pelo menos seis horas, dentro da cota diária e sem novo débito.'
     : process.env.TRANSCRIPT_OUTCOME === 'failure'
       ? 'Não foi possível obter a legenda deste vídeo. Forneça um arquivo SRT/VTT para a equipe retomar o pedido. Nenhum crédito de análise foi debitado.' : !success
     ? 'Execução interrompida. A equipe precisa conferir legenda, configuração, cota e logs antes de retomar. As etapas já salvas foram preservadas.'
