@@ -1,78 +1,82 @@
-# Fato ou Papo
+<p align="center">
+  <a href="https://mreaggle.github.io/fatooupapo/"><img src="docs/images/readme-cover.svg" alt="Fato ou Papo — Entre a fala e os fatos" width="960" /></a>
+</p>
 
-Plataforma de checagem de afirmações em vídeos do YouTube. React, TypeScript, Vite e Tailwind CSS 4. A interface valida o link e consulta o acervo pelo ID do vídeo, sem nova chamada à IA quando existe um snapshot.
+<p align="center">
+  <strong>Você assiste. Nós checamos.</strong><br />
+  Explore debates, confira afirmações e encontre as fontes por trás de cada conclusão.
+</p>
 
-A parte inferior da página inicial mostra até seis debates checados recentemente, consultados no índice publicado do acervo e ordenados por data de análise. Cada cartão abre o relatório e informa sua cobertura, sem consumir créditos ou fazer chamadas à IA.
+<p align="center">
+  <a href="https://mreaggle.github.io/fatooupapo/"><strong>Acessar a plataforma ↗</strong></a>
+  &nbsp; · &nbsp; <a href="#no-acervo">Explorar debates</a>
+  &nbsp; · &nbsp; <a href="#como-ler-os-resultados">Entender os resultados</a>
+</p>
 
-MVP publicado: https://mreaggle.github.io/fatooupapo/
+<p align="center">
+  <a href="https://github.com/Mreaggle/fatooupapo/actions/workflows/deploy-pages.yml"><img src="https://github.com/Mreaggle/fatooupapo/actions/workflows/deploy-pages.yml/badge.svg" alt="Verificação e publicação da plataforma" /></a>
+</p>
 
-Tipografia: AnthropicSerif variável em títulos, citações e destaques, com versões Roman e Italic hospedadas localmente. Pesos, contextos e origem dos arquivos em [docs/TYPOGRAPHY.md](docs/TYPOGRAPHY.md).
+---
 
-## Primeiro debate
+## A conversa fica melhor com contexto
 
-Vídeo: https://www.youtube.com/watch?v=q4T7plSBdJE
+Uma frase pode soar convincente e ainda misturar números, omitir um recorte ou apresentar uma previsão como certeza. O **Fato ou Papo** reúne a fala, o momento do vídeo e uma conclusão acompanhada de fontes para você conferir.
 
-O acervo inclui **48 afirmações selecionadas**, com classificação, fontes, contexto e timestamps, e **a transcrição completa fornecida** (5.224 blocos). O relatório é uma primeira revisão parcial; não certifica todas as falas do debate. As legendas são automáticas, sem diarização, e não houve revisão integral do áudio.
+| Assista com contexto | Vá além do placar |
+| :--- | :--- |
+| **⏱️ Trechos no momento certo** — abra a fala diretamente no YouTube. | **🔎 Fontes à vista** — consulte os documentos e publicações usados na análise. |
+| **💬 Transcrição para consultar** — acompanhe o texto integral disponível em cada relatório. | **📊 Visão por debatedor** — compare classificações e medidores com seu recorte explícito. |
+| **🎨 Leitura por cores** — encontre a categoria da afirmação e a conclusão logo abaixo. | **🔗 Relatórios compartilháveis** — envie o link de um debate e abra a versão publicada. |
 
-Locutores são sugeridos por regras determinísticas de autoapresentação e passagem de palavra. O percentual mostrado é um índice textual não calibrado, explicado por hover, foco ou toque. A revisão de nomes é local e reversível. Não há sequência fixa de Vilela, Jones e Kim nem reconhecimento acústico. Veja [docs/SPEAKERS.md](docs/SPEAKERS.md).
+## Comece pelo vídeo
 
-- `transcripts/q4T7plSBdJE.md` — transcrição integral, timestamps e SHA-256 do SRT.
-- `snapshots/q4T7plSBdJE.md` — relatório legível e dados estruturados consumidos pela aplicação.
-- `mvp/*.srt` — arquivo original fornecido, preservado.
-- `mvp/q4T7plSBdJE.review.mjs` — decisões editoriais e referências usadas na primeira revisão.
+1. **Cole o link do YouTube** na página inicial.
+2. **Abra a checagem**, se o vídeo já estiver no acervo. A consulta é gratuita e não consome créditos.
+3. **Explore as falas e fontes.** Use a busca, confira os gráficos e ouça os trechos que quiser.
 
-Link compartilhável: https://mreaggle.github.io/fatooupapo/?v=q4T7plSBdJE
+Para vídeos fora do acervo, solicite análise com uma conta GitHub e acompanhe o processamento. A estimativa de créditos aparece antes da confirmação. Os pedidos aceitam vídeos de até **4 horas** e avançam por lotes; não há um limite total de oito afirmações por debate.
 
-## Desenvolvimento
+Cada conta tem **100 créditos a cada 24 horas**. Vídeos com três horas ou mais consomem essa cota inteira; consultar o acervo continua livre.
 
-Requer Node.js 22.18 ou superior.
+## Como ler os resultados
 
-```bash
-npm install
-npm run dev
-```
+| Categoria | O que a checagem encontrou |
+| :--- | :--- |
+| 🟢 **Fato** | A afirmação é sustentada pelas fontes consultadas. |
+| 🟩 **Majoritariamente fato** | O núcleo está correto, com ressalvas explicadas na conclusão. |
+| 🟡 **Impreciso ou fora de contexto** | Há mistura de indicadores, omissão de contexto ou formulação que altera o sentido dos dados. |
+| 🟠 **Majoritariamente papo** | O núcleo é contradito pelas evidências, embora possa conter partes corretas. |
+| 🔴 **Papo** | A afirmação é contradita pelas fontes consultadas. |
+| ⚪ **Inconclusivo** | Não há evidência suficiente para uma conclusão segura. |
 
-Comandos principais:
+**O medidor não é uma nota da pessoa.** Ele mostra a proporção de Fatos entre Fatos e Papos atribuídos ao debatedor, incluindo “majoritariamente”. Imprecisos e inconclusivos aparecem nas barras e ficam fora dessa proporção. A classificação não estabelece intenção de mentir.
 
-- `npm test` — testa URLs, estados, consulta estática e integridade das citações.
-- `npx playwright install --with-deps chromium` — prepara o navegador de teste.
-- `npm run test:e2e` — testa a aplicação compilada em desktop e celular (execute o build antes).
-- `npm run lint` — verifica TypeScript e React com ESLint.
-- `npm run build` — valida snapshots, compila e gera `dist/`.
-- `npm run preview` — serve localmente o build de produção.
+## No acervo
 
-## Integrações
+| Debate | Abrir relatório |
+| :--- | :--- |
+| **Elias Jabbour × Pablo Marçal** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=nPLJs6xPNWU) |
+| **Guilherme Cortez × Lucas Pavanato** · Flow | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=C0ucX3GZo-c) |
+| **Eduarda Campopiano × Mandi Coelho** · RedCast | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=l78NZP7riOA) |
+| **Kim Kataguiri × Jones Manoel** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=q4T7plSBdJE) |
+| **Debate presidencial** · Band | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=RugVB17uRVM) |
+| **Debate presidencial** · Globo | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=6BBZWwq2juE) |
 
-O caminho da v1 usa **Pages + Issues + Actions**, sem servidor próprio ou Cloudflare. Vídeos fora do acervo recebem um formulário de pedido no GitHub, estimativa de créditos e acompanhamento de lotes. O processamento percorre a transcrição inteira de vídeos de até 4h e checa até 8 afirmações por execução, retomando o progresso até concluir o inventário. Somente relatórios revisados entram no acervo. A validação de elegibilidade roda no Actions antes do débito. Conteúdo recusado recebe apenas a mensagem “Este vídeo não requer fact-checking.” no site.
+Cada relatório informa sua cobertura. Uma transcrição integral pode acompanhar uma seleção de afirmações; confira **Cobertura e origem**. Nos inventários com leitura integral, opiniões e repetições não acrescentam votos ao placar.
 
-Cada conta recebe **100 créditos por 24h**, com débito único por pedido aceito para processamento. O MVP calibra o custo; vídeos a partir de 3h consomem a cota inteira. Créditos do produto são distintos de tokens reais do modelo. Configuração dos secrets do Gemini, fontes, limites e publicação: [docs/ANALYSIS_PIPELINE.md](docs/ANALYSIS_PIPELINE.md).
+## Transparência faz parte da checagem
 
-A interface usa “Fato” e “Papo”, incluindo as classificações intermediárias; os valores de esquema `Verdadeiro` e `Falso` permanecem compatíveis com o acervo existente.
+A IA auxilia a análise, e as conclusões apontam fontes e limitações. Uma legenda pode trocar um nome ou um número; a identificação textual do locutor também pode falhar. Quando faltar comprovação, o resultado permanece **Inconclusivo**.
 
-Deixe `VITE_ANALYSIS_API_URL` vazia para a v1. A integração opcional com backend HTTPS continua disponível para outro modo de operação. Essa variável é pública; credenciais devem permanecer no servidor ou nos secrets do Actions.
+Você pode revisar o locutor de um trecho no relatório. Essa revisão fica no seu navegador. Detalhes de metodologia, identificação e cálculos estão recolhidos para manter a leitura principal simples.
 
-O contrato esperado está em [docs/API.md](docs/API.md). O formato do acervo está em [snapshots/README.md](snapshots/README.md).
+Encontrou um erro? [Abra um relato](https://github.com/Mreaggle/fatooupapo/issues/new) com o link do debate, o momento da fala e a fonte que ajuda a corrigir a conclusão.
 
-## Atualização do acervo
+---
 
-O Markdown é a fonte publicada. `npm run snapshots:build` valida o contrato, os IDs e a correspondência literal das citações com a transcrição; depois gera o índice JSON e copia os arquivos Markdown para a distribuição. Erros de esquema ou citações divergentes interrompem o build.
-
-Para reproduzir a primeira transcrição: `node scripts/import-transcript.mjs q4T7plSBdJE 'caminho/arquivo.srt'`. Para regenerar o primeiro relatório a partir das decisões editoriais, execute `npm run snapshot:debate`. Esse comando não pesquisa, não usa IA e não cria novas conclusões. Alterações factuais precisam de nova revisão das fontes.
-
-As revisões são preservadas no histórico Git. Um link `?v=ID` aponta para a versão publicada mais recente daquele vídeo; um commit identifica uma versão imutável do Markdown.
-
-## Publicação
-
-O workflow `.github/workflows/deploy-pages.yml` testa e publica `dist/` no GitHub Pages a cada push para `main`.
-
-O workflow `analyze-video.yml` inicia ao abrir/reabrir um pedido e verifica a fila a cada seis horas, retomando os lotes automaticamente. O orçamento persistente limita a dois lotes por dia UTC, inclusive tentativas com erro após a reserva. A operação manual `process` continua disponível; `publish-reviewed` exige um responsável e prepara uma análise já revisada para a PR. `check-pr.yml` valida PRs sem credenciais de IA. Nenhuma análise nova é publicada automaticamente.
-
-## Acervos importados e gráficos
-
-Os debates da Band (`RugVB17uRVM`) e Globo (`6BBZWwq2juE`) foram importados do projeto [Quem Mentiu](https://mreaggle.github.io/quemmentiu/), com 74 e 175 afirmações, respectivamente, após alinhar os SRTs e reunir duplicatas. As legendas integrais estão em `requests/` e `transcripts/`. O registro editorial em `imports/quemmentiu/` conserva os intervalos, as exclusões e os agrupamentos; a importação não gera novas apurações independentes. Para reproduzir decisões já conferidas: `node scripts/import-quemmentiu.mjs --reviewed`.
-
-Cada relatório apresenta barras por classificação e um medidor por debatedor. O medidor usa Fatos ÷ (Fatos + Papos), incluindo “majoritariamente” nos grupos; imprecisos e inconclusivos ficam fora do denominador. Uma afirmação conta uma vez. Toda afirmação com locutor detectado, indicado pelas fontes ou revisado localmente entra nos gráficos do respectivo debatedor. A precisão média estimada de identificação é a média aritmética de todos os índices textuais disponíveis para as falas contabilizadas desse locutor, incluindo imprecisas e inconclusivas. A média não pondera as classificações factuais. Fontes/revisões sem índice não recebem um valor artificial; ao trocar uma autoria, o índice original não é transferido à outra pessoa. O recorte parcial e as limitações permanecem visíveis.
-
-O modo gratuito padrão recupera revisões históricas da Wikipédia para subsidiar a revisão, sem chave ou Google Search pago. São fontes secundárias e não substituem documentos primários. Ausência de base mantém o item inconclusivo; nenhuma memória do modelo é usada como fonte. `ANALYSIS_PUBLIC_SOURCES_ENABLED=false` desativa essa consulta quando só se deseja usar documentos previamente revisados.
-
-O Pages continua estático. A confirmação de identidade e envio ainda usa o formulário nativo do GitHub; o site localiza o pedido automaticamente ao retornar. Remover essa última etapa exige um serviço de autenticação/API externo, sem expor credenciais no frontend.
+<p align="center">
+  <strong>Confira a fala. Leia o contexto. Abra a fonte.</strong><br />
+  <a href="https://mreaggle.github.io/fatooupapo/">Fato ou Papo ↗</a>
+  &nbsp; · &nbsp; <a href="docs/README.md">Documentação do projeto</a>
+</p>

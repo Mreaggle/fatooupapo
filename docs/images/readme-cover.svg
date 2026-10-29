@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title description">
+  <title id="title">Fato ou Papo</title>
+  <desc id="description">Entre a fala e os fatos. Debates, fontes e contexto.</desc>
+  <defs><radialGradient id="glow"><stop stop-color="#82bd91" stop-opacity=".12"/><stop offset="1" stop-color="#82bd91" stop-opacity="0"/></radialGradient></defs>
+  <rect x="1" y="1" width="958" height="298" rx="20" fill="#111110" stroke="#33332f"/>
+  <ellipse cx="805" cy="70" rx="240" ry="220" fill="url(#glow)"/>
+  <path d="M704 71h167M737 91h134M771 111h100" stroke="#363b34"/>
+  <circle cx="59" cy="48" r="4" fill="#82bd91"/>
+  <text x="73" y="52" fill="#b9b9ac" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">DEBATES · FONTES · CONTEXTO</text>
+  <text x="53" y="133" fill="#f0eee5" font-family="Georgia,serif" font-size="65">Fato ou Papo</text>
+  <text x="56" y="178" fill="#c5c4b8" font-family="Georgia,serif" font-size="26">Entre a fala e os fatos.</text>
+  <path d="M56 224h534" stroke="#34352e"/>
+  <text x="56" y="254" fill="#92978b" font-family="Arial,sans-serif" font-size="13">Assista. Confira. Forme sua opinião.</text>
+  <g transform="translate(709 155)">
+    <rect width="173" height="40" rx="8" fill="#18281d" stroke="#35513a"/>
+    <circle cx="22" cy="20" r="4" fill="#9dcca8"/>
+    <text x="38" y="25" fill="#b4dfbb" font-family="Arial,sans-serif" font-size="15">Fato</text>
+    <rect y="52" width="173" height="40" rx="8" fill="#2b1b1b" stroke="#573737"/>
+    <circle cx="22" cy="72" r="4" fill="#d79c9c"/>
+    <text x="38" y="77" fill="#edb4b4" font-family="Arial,sans-serif" font-size="15">Papo</text>
+  </g>
+</svg>

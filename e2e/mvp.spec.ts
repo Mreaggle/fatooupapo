@@ -168,6 +168,7 @@ test('pedido recusado é localizado automaticamente sem expor critérios', async
 for (const debate of [
   { id: 'C0ucX3GZo-c', claims: 135, lastCue: 3803, guests: ['Guilherme Cortez', 'Lucas Pavanato'] },
   { id: 'l78NZP7riOA', claims: 92, lastCue: 3173, guests: ['Eduarda Campopiano', 'Mandi Coelho'] },
+  { id: 'nPLJs6xPNWU', claims: 156, lastCue: 5710, guests: ['Elias Jabbour', 'Pablo Marçal'] },
 ]) {
   test(`acervo editorial ${debate.id}: galeria, autoria, cores e íntegra`, async ({ page }, testInfo) => {
     const failures: string[] = []

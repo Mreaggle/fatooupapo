@@ -733,5 +733,415 @@
     "title": "Praia Grande: população no Censo 2022",
     "url": "https://www.ibge.gov.br/cidades-e-estados/sp/praia-grande.html",
     "publisher": "IBGE"
+  },
+  "frankfurt": {
+    "title": "História do Instituto de Pesquisa Social",
+    "url": "https://www.ifs.uni-frankfurt.de/history.html",
+    "publisher": "Institut für Sozialforschung / Universidade de Frankfurt"
+  },
+  "pobreza-china": {
+    "title": "Quatro décadas de redução da pobreza na China",
+    "url": "https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience",
+    "publisher": "Banco Mundial"
+  },
+  "safra2025": {
+    "title": "Plano Safra 2025/2026: R$ 516,2 bilhões de crédito empresarial",
+    "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/lula-e-favaro-anunciam-maior-plano-safra-da-historia-com-r-516-2-bi-para-credito-e-inovacao",
+    "publisher": "Ministério da Agricultura e Pecuária"
+  },
+  "pbf-protecao": {
+    "title": "Guia da Regra de Proteção do Bolsa Família — 2024",
+    "url": "https://mds.gov.br/webarquivos/MDS/2_Acoes_e_Programas/Bolsa_Familia/Informes/2024/Relatorios/Informe_Bolsa_Familia_N_62/GUIA_R%C3%81PIDO_REGRA_DE_PROTE%C3%87%C3%83O.pdf",
+    "publisher": "Ministério do Desenvolvimento Social"
+  },
+  "dividendos2025": {
+    "title": "Projeto aprovado: tributação de dividendos acima de R$ 50 mil mensais",
+    "url": "https://www.camara.leg.br/noticias/1206739-PROJETO-APROVADO-TRIBUTA-LUCROS-E-DIVIDENDOS-ACIMA-DE-R%24-50-MIL-MENSAIS",
+    "publisher": "Câmara dos Deputados"
+  },
+  "ir-senado2025": {
+    "title": "Senado aprova PL 1087/2025 e envia à sanção",
+    "url": "https://www12.senado.leg.br/noticias/audios/2025/11/em-votacao-unanime-plenario-isenta-do-ir-quem-ganha-ate-r-5-mil",
+    "publisher": "Senado Federal"
+  },
+  "linguagem2025": {
+    "title": "Lei 15.263/2025: Política Nacional de Linguagem Simples",
+    "url": "https://www.camara.leg.br/noticias/1223870-lei-determina-uso-de-linguagem-simples-em-mensagens-de-orgaos-publicos-para-cidadaos/",
+    "publisher": "Câmara dos Deputados"
+  },
+  "huawei2024": {
+    "title": "Relatório anual 2024 — acionistas e participação dos empregados",
+    "url": "https://www.huawei.com/minisite/annual-report-download/annual_report_2024_en.pdf",
+    "publisher": "Huawei"
+  },
+  "copom-nov2025": {
+    "title": "Copom mantém Selic em 15% — reunião de novembro de 2025",
+    "url": "https://www.bcb.gov.br/controleinflacao/comunicadoscopom/20912",
+    "publisher": "Banco Central do Brasil"
+  },
+  "meta-continua": {
+    "title": "Histórico e funcionamento da meta contínua de inflação",
+    "url": "https://bcb.gov.br/controleinflacao/historicometas",
+    "publisher": "Banco Central do Brasil"
+  },
+  "religiao2022": {
+    "title": "Censo 2022: católicos em queda, evangélicos e sem religião em alta",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/43593-censo-2022-catolicos-seguem-em-queda-evangelicos-e-sem-religiao-crescem-no-pais",
+    "publisher": "IBGE"
+  },
+  "video-npl": {
+    "title": "Registro integral do debate Elias Jabbour × Pablo Marçal",
+    "url": "https://www.youtube.com/watch?v=nPLJs6xPNWU",
+    "publisher": "Inteligência Ltda."
+  },
+  "deng-sistemas": {
+    "title": "Origem e aplicação de um país, dois sistemas",
+    "url": "https://www.doj.gov.hk/en/community_engagement/speeches/20210310_sj1.html",
+    "publisher": "Departamento de Justiça de Hong Kong"
+  },
+  "wb-gdp1990": {
+    "title": "PIB nominal em dólares correntes — Brasil e China, 1990",
+    "url": "https://api.worldbank.org/v2/country/BRA;CHN/indicator/NY.GDP.MKTP.CD?date=1990&format=json",
+    "publisher": "Banco Mundial"
+  },
+  "xi-pai": {
+    "title": "Perfil histórico de Xi Jinping e perseguição a Xi Zhongxun",
+    "url": "https://english.www.gov.cn/news/top_news/2017/11/17/content_281475945550012.htm",
+    "publisher": "Conselho de Estado da China / Xinhua"
+  },
+  "sasac": {
+    "title": "Atividades de empresas estatais centrais — lista histórica",
+    "url": "https://wap.sasac.gov.cn/n2588035/n2641579/n2641665/c3754103/content.html",
+    "publisher": "SASAC / Conselho de Estado da China"
+  },
+  "china-bancos": {
+    "title": "Industrial Policy and State Ownership: How Do Commercial Banks Allocate Credit in China?",
+    "url": "https://www.imf.org/-/media/files/publications/wp/2024/english/wpiea2024262-print-pdf.pdf",
+    "publisher": "Fundo Monetário Internacional"
+  },
+  "marx-unesco": {
+    "title": "Manuscrito do Manifesto Comunista e exemplar de O Capital",
+    "url": "https://www.unesco.org/en/memory-world/manifest-der-kommunistischen-partei-draft-manuscript-page-and-das-kapital-erster-band-karl-marxs",
+    "publisher": "UNESCO / Memory of the World"
+  },
+  "comercio-china2024": {
+    "title": "Comércio Brasil–China em 2024: exportações, importações e saldo",
+    "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/dialogo-brasil-china-debate-seguranca-alimentar-em-pequim",
+    "publisher": "Ministério da Agricultura e Pecuária"
+  },
+  "custos-clt": {
+    "title": "Planilha de custos: salário, décimo terceiro, férias, FGTS e contribuições",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-5-de-26-de-maio-de-2017-atualizada",
+    "publisher": "Portal de Compras do Governo Federal"
+  },
+  "abertura-china2024": {
+    "title": "Fim das restrições de entrada de capital estrangeiro na manufatura em 2024",
+    "url": "https://english.www.gov.cn/news/202411/01/content_WS67246ca0c6d0868f4e8ec837.html",
+    "publisher": "Conselho de Estado da China / Xinhua"
+  },
+  "pib-formula": {
+    "title": "Metodologia do PIB pelas óticas da oferta, renda e demanda",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14125-asi-em-2009-pib-varia-03-e-atinge-r-324-trilhoes",
+    "publisher": "IBGE"
+  },
+  "cf1988": {
+    "title": "Constituição Federal — publicação original de 1988",
+    "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html/",
+    "publisher": "Câmara dos Deputados"
+  },
+  "ec6": {
+    "title": "Emenda Constitucional 6/1995 — tratamento de empresas brasileiras",
+    "url": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-6-15-agosto-1995-366937-norma-pl.html",
+    "publisher": "Câmara dos Deputados"
+  },
+  "fronteiras": {
+    "title": "Plano Nacional de Implementação — dimensões e fronteiras do Brasil",
+    "url": "https://www.gov.br/mma/pt-br/centrais-de-conteudo/publicacoes/qualidade-ambiental-e-meio-ambiente-urbano/pn-implementacao-pop-atualizacao-2023-en.pdf",
+    "publisher": "Ministério do Meio Ambiente"
+  },
+  "ndb2024": {
+    "title": "Demonstrações financeiras auditadas do NDB — 2024",
+    "url": "https://www.ndb.int/annual-report/2024/pdf/NDB_Annual_Financial_Statements_2024.pdf",
+    "publisher": "New Development Bank"
+  },
+  "ndb-cargo": {
+    "title": "Ata da 40ª reunião do Conselho de Administração — participantes e funções",
+    "url": "https://www.ndb.int/wp-content/uploads/2023/09/Minutes-of-the-40th-BOD-Meeting.pdf",
+    "publisher": "New Development Bank"
+  },
+  "ndb-bond2023": {
+    "title": "Retorno do NDB ao mercado internacional de capitais em abril de 2023",
+    "url": "https://www.ndb.int/news/ndb-launches-new-usd-1-25bn-3-year-green-bond/",
+    "publisher": "New Development Bank"
+  },
+  "ndb-covid": {
+    "title": "Programa emergencial de resposta do Brasil à Covid-19 — US$ 1 bilhão",
+    "url": "https://www.ndb.int/project/brazil-emergency-assistance-program-combating-covid-19/",
+    "publisher": "New Development Bank"
+  },
+  "uerj-elias": {
+    "title": "Corpo docente da Faculdade de Ciências Econômicas — formação de Elias Jabbour",
+    "url": "https://www.economia.uerj.br/team",
+    "publisher": "UERJ"
+  },
+  "uerj2014": {
+    "title": "Aprovação de Elias Jabbour no concurso da UERJ em 2014",
+    "url": "https://grabois.org.br/2014/06/02/membro-do-comit-central-do-pcdob-elias-jabbour-aprovado-para-lecionar-na-uerj/",
+    "publisher": "Fundação Maurício Grabois / PCdoB"
+  },
+  "fiscal2025": {
+    "title": "Estatísticas fiscais — setembro de 2025, divulgadas em 31 de outubro",
+    "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202510_Texto_de_estatisticas_fiscais.pdf",
+    "publisher": "Banco Central do Brasil"
+  },
+  "arcabouco": {
+    "title": "Banda de crescimento real das despesas no arcabouço fiscal",
+    "url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/medidas-de-fortalecimento-da-regra-fiscal/faqs-para-download/04-12-2024-faq-salario-minimo.pdf",
+    "publisher": "Ministério da Fazenda"
+  },
+  "orcamento2025": {
+    "title": "Lei Orçamentária de 2025: despesas e R$ 158,6 bilhões para o Bolsa Família",
+    "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2025/abril/presidente-sanciona-a-lei-orcamentaria-anual-de-2025-com-vetos-pontuais",
+    "publisher": "Ministério do Planejamento e Orçamento"
+  },
+  "reserva2010": {
+    "title": "Relatório da Administração do Banco Central — 2010",
+    "url": "https://www.bcb.gov.br/pre/surel/reladmbc/2010/relatorio-da-administracao-2010.pdf",
+    "publisher": "Banco Central do Brasil"
+  },
+  "ndb-dados": {
+    "title": "Relatório anual do NDB — governança, operações e contas de 2024",
+    "url": "https://www.ndb.int/annual-report/2024/overview/",
+    "publisher": "New Development Bank"
+  },
+  "selic-def": {
+    "title": "Apuração e acompanhamento da taxa Selic",
+    "url": "https://bcb.gov.br/content/controleinflacao/taxa-selic-doc/plano-diretor-de-acompanhamento-da-taxa-selic-PDA-TS.pdf",
+    "publisher": "Banco Central do Brasil"
+  },
+  "industria2024": {
+    "title": "Nova Indústria Brasil: lançamento em 22 de janeiro de 2024",
+    "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2024/janeiro/brasil-ganha-nova-politica-industrial-com-metas-e-acoes-para-o-desenvolvimento-ate-2033/",
+    "publisher": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços"
+  },
+  "lula-anulacao": {
+    "title": "STF anula condenações de Lula por incompetência do juízo de Curitiba",
+    "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&tip=UN",
+    "publisher": "Supremo Tribunal Federal"
+  },
+  "moro-suspeicao": {
+    "title": "STF confirma suspeição de Moro na ação do triplex",
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-suspeicao-de-sergio-moro-na-acao-do-triplex-do-guaruja/",
+    "publisher": "Supremo Tribunal Federal"
+  },
+  "fmi-argentina": {
+    "title": "Programa de US$ 20 bilhões aprovado para a Argentina em abril de 2025",
+    "url": "https://www.imf.org/en/news/articles/2025/04/12/pr25101-argentina-imf-executive-board-approves-48-month-usd20-billion-extended-arrangement",
+    "publisher": "Fundo Monetário Internacional"
+  },
+  "meta2024": {
+    "title": "Demonstrações anuais de 2024 — receita de publicidade",
+    "url": "https://investor.atmeta.com/files/doc_financials/2024/q4/Meta-12-31-2024-Exhibit-99-1-FINAL.pdf",
+    "publisher": "Meta Platforms / Investor Relations"
+  },
+  "fertilizantes2025": {
+    "title": "Dependência de fertilizantes importados: balanço de junho de 2025",
+    "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/ministro-favaro-recebe-governador-de-mendoza-para-tratar-de-comercio-bilateral-de-fertilizantes",
+    "publisher": "Ministério da Agricultura e Pecuária"
+  },
+  "foguetes": {
+    "title": "Programa brasileiro de veículos de sondagem e transporte espacial",
+    "url": "https://www.gov.br/aeb/pt-br/acoes-e-programas/aplicacoes-espaciais/transporte-espacial",
+    "publisher": "Agência Espacial Brasileira"
+  },
+  "roi": {
+    "title": "Indicadores de desempenho e retorno sobre investimento",
+    "url": "https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/PE/Anexos/Indicadores%20de%20desempenho%20aprenda%20como%20monitorar%20os%20da%20sua%20empresa.pdf",
+    "publisher": "Sebrae"
+  },
+  "master-bc": {
+    "title": "Liquidação extrajudicial do Banco Master em 18 de novembro de 2025",
+    "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota/undefined",
+    "publisher": "Banco Central do Brasil"
+  },
+  "americanas-cvm": {
+    "title": "CVM conclui etapa de inquérito sobre condutas de dirigentes da Americanas em 2024",
+    "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2024/cvm-conclui-inquerito-relacionado-ao-uso-de-informacao-privilegiada-no-ambito-da-companhia-aberta-americanas-s-a-em-recuperacao-judicial",
+    "publisher": "Comissão de Valores Mobiliários"
+  },
+  "positivo": {
+    "title": "Positivo Tecnologia: trajetória e produtos de uma empresa brasileira",
+    "url": "https://www.positivotecnologia.com.br/positivo-tecnologia-completa-35-anos-com-avanco-nos-negocios-e-consolidacao-da-estrategia-de-diversificacao/",
+    "publisher": "Positivo Tecnologia"
+  },
+  "telebras1998": {
+    "title": "Vinte anos da privatização das telecomunicações",
+    "url": "https://www.gov.br/anatel/pt-br/assuntos/noticias/20-anos-de-privatizacao-das-telecomunicacoes",
+    "publisher": "Anatel"
+  },
+  "mobilidade-ocde": {
+    "title": "A Broken Social Elevator? How to Promote Social Mobility (2018)",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/06/a-broken-social-elevator-how-to-promote-social-mobility_g1g8e196/9789264301085-en.pdf",
+    "publisher": "OCDE"
+  },
+  "vw-justica": {
+    "title": "Volkswagen: declaração de culpa e US$ 4,3 bilhões em sanções (2017)",
+    "url": "https://www.justice.gov/archives/opa/pr/volkswagen-ag-agrees-plead-guilty-and-pay-43-billion-criminal-and-civil-penalties-six",
+    "publisher": "Departamento de Justiça dos EUA"
+  },
+  "facebook-harvard": {
+    "title": "On Facebook’s 10th birthday, Harvard looks ahead",
+    "url": "https://seas.harvard.edu/news/facebooks-10th-birthday-harvard-looks-ahead",
+    "publisher": "Harvard University"
+  },
+  "partidos-tse": {
+    "title": "Partidos políticos registrados: PCdoB, número 65",
+    "url": "https://www.tse.jus.br/partidos/partidos-politicos/partidos-registrados-no-tse",
+    "publisher": "Tribunal Superior Eleitoral"
+  },
+  "seguranca-alimentar": {
+    "title": "Declaração de Roma sobre a Segurança Alimentar Mundial (1996)",
+    "url": "https://www.fao.org/4/W3613P/W3613P00.htm",
+    "publisher": "FAO"
+  },
+  "turismo2024": {
+    "title": "Plano Brasis: entradas de turistas internacionais em 2024",
+    "url": "https://embratur.com.br/wp-content/uploads/2025/02/PLANO-BRASIS_digital-1.pdf",
+    "publisher": "Embratur"
+  },
+  "eiffel2024": {
+    "title": "La tour Eiffel en 2024: 6,3 millions de visiteurs",
+    "url": "https://sete.toureiffel.paris/fr/presse/communiques/la-tour-eiffel-en-2024-63-millions-de-visiteurs-pour-une-annee-sous-le",
+    "publisher": "Société d’Exploitation de la Tour Eiffel"
+  },
+  "ndb-sorocaba": {
+    "title": "Sorocaba Mobility and Urban Development Project: aprovação em 2021",
+    "url": "https://www.ndb.int/wp-content/uploads/2023/04/21BR03-Sorocaba-Approved-Project-Summary-.pdf",
+    "publisher": "New Development Bank"
+  },
+  "religiao1946": {
+    "title": "Contribuição de Jorge Amado à liberdade religiosa na Constituinte de 1946",
+    "url": "https://www.gov.br/agu/pt-br/assuntos-1/observatorio_da_democracia/publicacoes/1a_edicao_revista_observatorio_06_09_2024_pagina_dupla_reduzido.pdf",
+    "publisher": "Advocacia-Geral da União"
+  },
+  "sefarditas2024": {
+    "title": "Lei Orgânica portuguesa n.º 1/2024: nacionalidade e regime sefardita",
+    "url": "https://files.diariodarepublica.pt/gratuitos/1s/2024/03/04600.pdf",
+    "publisher": "Diário da República de Portugal"
+  },
+  "superavit2022": {
+    "title": "Contas do Governo de 2022: política fiscal",
+    "url": "https://sites.tcu.gov.br/contas-do-governo-2022/03-politica-fiscal.html",
+    "publisher": "Tribunal de Contas da União"
+  },
+  "desoneracoes2014": {
+    "title": "Relatório de Análise do Resultado do Tesouro Nacional — 2015",
+    "url": "https://www.gov.br/tesouronacional/pt-br/importacao-arquivos/RTN-RATN-2015-20160512.pdf/@@download/file",
+    "publisher": "Tesouro Nacional"
+  },
+  "rfb2022": {
+    "title": "Análise da arrecadação das receitas federais: dezembro de 2022",
+    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2022/analise-mensal-dez-2022.pdf",
+    "publisher": "Receita Federal do Brasil"
+  },
+  "fundo2024": {
+    "title": "Eleições 2024: seis pontos sobre o Fundo Eleitoral",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2024/Fevereiro/eleicoes-2024-confira-6-pontos-essenciais-sobre-o-fundo-eleitoral",
+    "publisher": "Tribunal Superior Eleitoral"
+  },
+  "cnj2025": {
+    "title": "Justiça em Números 2025 (ano-base 2024)",
+    "url": "https://www.cnj.jus.br/wp-content/uploads/2025/09/justica-em-numeros-2025.pdf",
+    "publisher": "Conselho Nacional de Justiça"
+  },
+  "cuba-embargo": {
+    "title": "Cuba: U.S. Economic Sanctions Through 1996",
+    "url": "https://www.congress.gov/crs_external_products/RL/PDF/95-248/95-248.3.pdf",
+    "publisher": "Congressional Research Service"
+  },
+  "carter2024": {
+    "title": "Relatório final da observação da eleição presidencial venezuelana de 2024",
+    "url": "https://www.cartercenter.org/wp-content/uploads/2025/02/venezuela-final-report-2025.pdf",
+    "publisher": "The Carter Center"
+  },
+  "ifood2025": {
+    "title": "Reajuste do mínimo por rota anunciado em 2025",
+    "url": "https://institucional.ifood.com.br/entregadores/reajuste-dos-entregadores/",
+    "publisher": "iFood"
+  },
+  "alemanha1945": {
+    "title": "Surrender of Germany (1945)",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-germany",
+    "publisher": "National Archives dos EUA"
+  },
+  "adam-smith": {
+    "title": "The Wealth of Nations: publicação e influência",
+    "url": "https://www.gla.ac.uk/explore/adamsmith300/lifeworkandlegacy/keyworks/wealthofnations/",
+    "publisher": "University of Glasgow"
+  },
+  "bacon": {
+    "title": "Essays: Of Atheism, de Francis Bacon",
+    "url": "https://www.gutenberg.org/files/575/575-h/575-h.htm",
+    "publisher": "Francis Bacon / Project Gutenberg"
+  },
+  "cpc16": {
+    "title": "CPC 16(R1): estoques, custos e reconhecimento como despesa",
+    "url": "https://conteudo.cvm.gov.br/export/sites/cvm/menu/regulados/normascontabeis/cpc/CPC_16_R1_rev_12.pdf",
+    "publisher": "Comitê de Pronunciamentos Contábeis / CVM"
+  },
+  "tesla-emprestimo": {
+    "title": "Tesla gets loan approval from US Department of Energy (2009)",
+    "url": "https://ir.tesla.com/press-release/tesla-gets-loan-approval-us-department-energy",
+    "publisher": "Tesla Investor Relations"
+  },
+  "tesla-pagamento": {
+    "title": "Tesla repays Department of Energy loan (2013)",
+    "url": "https://ir.tesla.com/press-release/tesla-repays-department-energy-loan-nine-years-early",
+    "publisher": "Tesla Investor Relations"
+  },
+  "celular-motorola": {
+    "title": "História oral de Martin Cooper: desenvolvimento do telefone celular",
+    "url": "https://archive.computerhistory.org/resources/access/text/2012/08/102702037-05-01-acc.pdf",
+    "publisher": "Computer History Museum"
+  },
+  "iphone2007": {
+    "title": "Apple Reinvents the Phone with iPhone (2007)",
+    "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+    "publisher": "Apple"
+  },
+  "deus-cedulas": {
+    "title": "Comunicado 4.050 de 1994: legenda das cédulas do real",
+    "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=4050&tipo=Comunicado",
+    "publisher": "Banco Central do Brasil"
+  },
+  "lula-dino": {
+    "title": "Lula celebra aprovação de Dino usando a expressão ministro comunista (14/12/2023)",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2023/12/14/lula-comemora-primeiro-ministro-comunista-no-stf-com-aprovacao-de-dino.htm",
+    "publisher": "Reuters / UOL"
+  },
+  "cimento2017": {
+    "title": "The Gigantism of Public Works in China in the Twenty-First Century (2017)",
+    "url": "https://www.mdpi.com/2071-1050/9/9/1581",
+    "publisher": "Sustainability / MDPI"
+  },
+  "trafico-brasil": {
+    "title": "Trabalho escravo e imigração: estimativas do tráfico para o Brasil",
+    "url": "https://muvitmg.org.br/trabalho-escravo-e-imigracao/",
+    "publisher": "Museu Virtual de Turismo de Minas Gerais"
+  },
+  "pnad2024": {
+    "title": "PNAD Contínua: rendimento de todas as fontes em 2024",
+    "url": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/c5989a46b1081cebe9922ccd1683dbfa.pdf",
+    "publisher": "IBGE"
+  },
+  "presal2010": {
+    "title": "Lei 12.351/2010: publicação original, regime de partilha do pré-sal",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/2010/lei-12351-22-dezembro-2010-609797-publicacaooriginal-131105-pl.html",
+    "publisher": "Câmara dos Deputados"
+  },
+  "nasa-spacex2014": {
+    "title": "NASA seleciona Boeing e SpaceX para transporte de astronautas (2014)",
+    "url": "https://www.nasa.gov/news-release/nasa-chooses-american-companies-to-transport-u-s-astronauts-to-international-space-station/",
+    "publisher": "NASA"
   }
 }

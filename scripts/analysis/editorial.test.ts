@@ -16,6 +16,7 @@ describe('publicação dos debates com revisão textual integral', () => {
   it.each([
     ['C0ucX3GZo-c', 135, 3803],
     ['l78NZP7riOA', 92, 3173],
+    ['nPLJs6xPNWU', 156, 5710],
   ] as const)('preserva a íntegra e todas as decisões do inventário %s', (id, count, cueCount) => {
     const { review, srt } = load(id)
     const result = buildEditorialDebate(review, srt, sources)
@@ -79,5 +80,18 @@ describe('publicação dos debates com revisão textual integral', () => {
     expect(other.claims.find((claim) => claim.id === 'editorial-72')).toBeUndefined()
     expect(other.claims.find((claim) => claim.id === 'editorial-1')?.verdict).toBe('Inconclusivo')
     expect(other.claims.find((claim) => claim.id === 'editorial-59')).toBeUndefined()
+  })
+
+  it('preserva ressalvas da legenda e não conta novamente as repetições no debate Jabbour × Marçal', () => {
+    const { review, srt } = load('nPLJs6xPNWU')
+    const { report } = buildEditorialDebate(review, srt, sources)
+    const claim = (number: number) => report.claims.find((item) => item.id === `editorial-${number}`)
+    expect(claim(63)?.verdict).toBe('Inconclusivo')
+    expect(claim(88)?.verdict).toBe('Inconclusivo')
+    expect(claim(101)?.verdict).toBe('Inconclusivo')
+    expect(claim(96)?.speaker).toBeUndefined()
+    expect(claim(147)?.quote).toContain('580 bilhões')
+    expect(claim(157)?.verdict).toBe('Impreciso ou fora de contexto')
+    for (const number of [50, 59, 137, 144, 146, 172, 174, 180, 183]) expect(claim(number)).toBeUndefined()
   })
 })
