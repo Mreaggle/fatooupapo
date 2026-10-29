@@ -29,3 +29,11 @@ O usuário pode confirmar, trocar, informar outro nome ou marcar como não ident
 ## Evolução com áudio autorizado
 
 Para reconhecer a voz independentemente do assunto e da sequência de falas, é necessário áudio disponibilizado legalmente. Um caminho sem modelo generativo é detectar intervalos de voz, extrair características acústicas (por exemplo, coeficientes espectrais), agrupar segmentos semelhantes e associar os grupos a amostras iniciais confirmadas por pessoas. Sobreposição, ruído e vozes semelhantes exigem abstenção e validação. Esse caminho acústico ainda não está implementado; título e autoapresentação continuam sendo pistas de nomeação, não prova da voz.
+
+## Contagem e precisão média nos gráficos
+
+Os gráficos incluem as falas com locutor detectado automaticamente, mesmo antes da revisão, além das atribuições das fontes e revisões locais. Falas sem atribuição a um debatedor ficam fora da comparação. A revisão local atualiza a contagem, inclusive quando o usuário remove uma identificação.
+
+A precisão média estimada de identificação é a média aritmética dos índices textuais de todas as afirmações contabilizadas com índice para aquela pessoa, independentemente da classificação factual. O percentual é exibido com uma casa decimal e acompanhado da quantidade de falas que entrou no cálculo. Ele mantém a natureza heurística não calibrada dos índices originais e não representa veracidade das afirmações nem acurácia medida.
+
+Atribuições provenientes de fontes ou revisões sem índice permanecem contabilizadas, mas não recebem um 100% artificial nem entram na média. Confirmar a mesma pessoa mantém o índice da detecção; trocar por outra pessoa não transfere o índice original para ela. Não há ponderação das contagens de Fato/Papo pela precisão de autoria.
