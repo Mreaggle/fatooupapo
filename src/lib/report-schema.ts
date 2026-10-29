@@ -59,6 +59,7 @@ export const reportSchema = z.object({
     topic: z.string().optional(),
     quote: z.string().min(1),
     speaker: z.string().optional(),
+    speakerOrigin: z.literal('fact-check-source').optional(),
     speakerAttribution: speakerAttributionSchema.optional(),
     timestampSeconds: z.number().nonnegative(),
     cueStart: z.number().int().positive().optional(),
@@ -73,6 +74,12 @@ export const reportSchema = z.object({
       position: z.enum(['supports', 'contradicts', 'context']),
     })),
     limitations: z.string().optional(),
+    importedChecks: z.array(z.object({
+      publisher: z.string().min(1),
+      url: webUrl,
+      label: z.string().min(1),
+      automated: z.boolean(),
+    })).optional(),
   }).superRefine((claim, context) => {
     if (claim.verdict !== 'Inconclusivo' && claim.evidence.length === 0) {
       context.addIssue({ code: 'custom', path: ['evidence'], message: 'Uma conclusão exige fontes' })

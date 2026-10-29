@@ -7,7 +7,16 @@ const progressSchema = z.object({
   nextWindow: z.number().int().nonnegative(), totalWindows: z.number().int().positive(),
   inventory: z.array(z.unknown()), claims: z.array(z.unknown()),
 }).refine((state) => state.nextWindow <= state.totalWindows && state.claims.length <= state.inventory.length)
-const noticeSchema = z.object({ interrupted: z.boolean(), message: z.string(), runUrl: z.url().refine((value) => value.startsWith('https://github.com/Mreaggle/fatooupapo/actions/runs/')) })
+const noticeSchema = z.object({ interrupted: z.boolean(), message: z.string(), kind: z.enum(['queued', 'processing', 'rejected', 'review', 'failed', 'published']).optional(), retryAt: z.iso.datetime().optional(), runUrl: z.url().refine((value) => value.startsWith('https://github.com/Mreaggle/fatooupapo/actions/runs/')) })
+
+export async function findVideoRequest(videoId: string, signal: AbortSignal): Promise<string | null> {
+  if (!/^[\w-]{11}$/.test(videoId)) throw new Error('Vídeo inválido.')
+  const response = await fetch('https://api.github.com/repos/Mreaggle/fatooupapo/issues?state=all&sort=created&direction=desc&per_page=100', { signal, headers: { Accept: 'application/vnd.github+json' } })
+  if (!response.ok) throw new Error('Não foi possível localizar seu pedido agora. Tente novamente mais tarde.')
+  const items = z.array(z.object({ number: z.number().int().positive(), title: z.string(), body: z.string().nullable(), pull_request: z.unknown().optional() })).parse(await response.json())
+  const request = items.find((item) => !item.pull_request && item.title === `[Análise] ${videoId}` && item.body?.includes(videoId))
+  return request ? String(request.number) : null
+}
 
 export async function readProcessingProgress(videoId: string, issueNumber: string, signal: AbortSignal) {
   if (!/^[\w-]{11}$/.test(videoId) || !/^[1-9]\d{0,8}$/.test(issueNumber)) throw new Error('Número de pedido inválido.')

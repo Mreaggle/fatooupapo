@@ -1,10 +1,14 @@
 name: Processar pedido de análise
 
 on:
+  issues:
+    types: [opened, reopened]
+  schedule:
+    - cron: '17 */6 * * *'
   workflow_dispatch:
     inputs:
       issue_number:
-        description: Número da issue aprovada (formulário de análise)
+        description: Número do pedido (formulário de análise)
         required: true
         type: string
       operation:
@@ -35,6 +39,7 @@ permissions:
 
 jobs:
   analyze:
+    if: github.event_name != 'issues' || startsWith(github.event.issue.title, '[Análise]')
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
@@ -46,41 +51,17 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - name: Validar aprovação, pedido e orçamento diário
+      - run: npm ci
+      - name: Selecionar pedido e validar autorização
         id: gate
-        uses: actions/github-script@v7
         env:
+          GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ inputs.issue_number }}
-          OPERATION: ${{ inputs.operation }}
+          OPERATION: ${{ inputs.operation || 'process' }}
           REVIEW_CONFIRMED: ${{ inputs.review_confirmed }}
-          DAILY_RUN_LIMIT: ${{ vars.ANALYSIS_DAILY_RUN_LIMIT || '2' }}
-        with:
-          script: |
-            const fs = require('node:fs/promises');
-            const issueNumber = process.env.ISSUE_NUMBER;
-            if (!/^[1-9]\d{0,8}$/.test(issueNumber)) throw new Error('Número de issue inválido.');
-            if (!['process', 'publish-reviewed'].includes(process.env.OPERATION)) throw new Error('Operação inválida.');
-            const permission = await github.rest.repos.getCollaboratorPermissionLevel({ ...context.repo, username: context.actor });
-            if (!['admin', 'maintain', 'write'].includes(permission.data.permission)) throw new Error('A aprovação exige permissão de escrita no repositório.');
-            if (process.env.OPERATION === 'publish-reviewed' && process.env.REVIEW_CONFIRMED !== 'true') throw new Error('A publicação exige confirmação explícita da revisão editorial.');
-            if (process.env.OPERATION === 'process') {
-              const limit = Number(process.env.DAILY_RUN_LIMIT);
-              if (!Number.isInteger(limit) || limit < 1 || limit > 2) throw new Error('Limite diário deve ser 1 ou 2 execuções.');
-              const today = new Date().toISOString().slice(0, 10);
-              const current = await github.rest.actions.getWorkflowRun({ ...context.repo, run_id: context.runId });
-              if (!current.data.created_at.startsWith(today)) throw new Error('Para retomar em outro dia, inicie uma nova execução; não use Re-run.');
-              const runs = await github.paginate(github.rest.actions.listWorkflowRuns, {
-                ...context.repo, workflow_id: 'analyze-video.yml', created: `>=${today}`, per_page: 100,
-              });
-              const attempts = runs.reduce((total, run) => total + (run.run_attempt || 1), 0);
-              if (attempts > limit) throw new Error('Orçamento diário esgotado. Retome amanhã. A contagem inclui tentativas com erro e operações de publicação, por precaução.');
-            }
-            const issue = await github.rest.issues.get({ ...context.repo, issue_number: Number(issueNumber) });
-            if (issue.data.state !== 'open' || issue.data.pull_request) throw new Error('Informe uma issue aberta.');
-            await fs.mkdir('.analysis-work', { recursive: true });
-            await fs.writeFile('.analysis-work/issue.json', JSON.stringify(issue.data));
-            core.setOutput('issue_number', issueNumber);
+        run: node scripts/analysis/select-request.ts
       - name: Recuperar progresso da branch de análise
+        if: steps.gate.outputs.ready == 'true'
         env:
           ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
         run: |
@@ -89,29 +70,46 @@ jobs:
             git fetch --no-tags origin "$branch"
             git restore --source FETCH_HEAD -- drafts
           fi
-      - run: npm ci
       - name: Preparar legenda e pedido
         id: prepare
+        if: steps.gate.outputs.ready == 'true'
         env:
-          ALLOW_TRANSCRIPT_FETCH: ${{ inputs.allow_transcript_fetch }}
-        run: npm run analysis:prepare
+          ALLOW_TRANSCRIPT_FETCH: ${{ github.event_name != 'workflow_dispatch' || inputs.allow_transcript_fetch }}
+        run: node scripts/analysis/execute.ts prepare
+      - name: Verificar vídeo antes de extrair legenda ou consumir créditos
+        if: steps.prepare.outcome == 'success'
+        run: node scripts/analysis/execute.ts verify-video
       - uses: actions/setup-python@v5
-        if: steps.prepare.outputs.needs_fetch == 'true' && inputs.operation == 'process'
+        if: steps.prepare.outputs.needs_fetch == 'true' && steps.gate.outputs.operation == 'process'
         with:
           python-version: '3.12'
       - name: Obter legenda autorizada (tentativa única)
-        if: steps.prepare.outputs.needs_fetch == 'true' && inputs.operation == 'process'
+        id: transcript
+        if: steps.prepare.outputs.needs_fetch == 'true' && steps.gate.outputs.operation == 'process'
         timeout-minutes: 3
         run: |
           python -m pip install -r scripts/analysis/requirements.txt
           python scripts/analysis/fetch-transcript.py
+      - name: Verificar transcrição antes de consumir créditos
+        if: success() && steps.gate.outputs.ready == 'true' && steps.gate.outputs.operation == 'process'
+        run: node scripts/analysis/execute.ts verify-video --transcript
+      - name: Reservar orçamento global antes de chamar a IA
+        id: budget
+        if: success() && steps.gate.outputs.ready == 'true' && steps.gate.outputs.operation == 'process'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          ANALYSIS_DAILY_RUN_LIMIT: ${{ vars.ANALYSIS_DAILY_RUN_LIMIT || '2' }}
+        run: node scripts/analysis/reserve-budget.ts
       - name: Reservar créditos da conta que abriu o pedido
-        if: inputs.operation == 'process'
+        if: success() && steps.budget.outputs.allowed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           GEMINI_SEARCH_ENABLED: ${{ vars.GEMINI_SEARCH_ENABLED || 'false' }}
+          ANALYSIS_PUBLIC_SOURCES_ENABLED: ${{ vars.ANALYSIS_PUBLIC_SOURCES_ENABLED || 'true' }}
           ANALYSIS_BATCH_SIZE: ${{ vars.ANALYSIS_BATCH_SIZE || '8' }}
           ANALYSIS_MAX_CALLS: ${{ vars.ANALYSIS_MAX_CALLS || '20' }}
           ANALYSIS_INTERVAL_SECONDS: ${{ vars.ANALYSIS_INTERVAL_SECONDS || '15' }}
@@ -120,39 +118,41 @@ jobs:
             echo 'Configure GEMINI_API_KEY e GEMINI_MODEL antes de debitar créditos.'
             exit 1
           fi
-          node scripts/analysis/charge-credits.ts
+          node scripts/analysis/execute.ts charge-credits
       - name: Processar próximo lote
         id: process
-        if: success() && inputs.operation == 'process'
+        if: success() && steps.budget.outputs.allowed == 'true'
         continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           GEMINI_SEARCH_ENABLED: ${{ vars.GEMINI_SEARCH_ENABLED || 'false' }}
+          ANALYSIS_PUBLIC_SOURCES_ENABLED: ${{ vars.ANALYSIS_PUBLIC_SOURCES_ENABLED || 'true' }}
           ANALYSIS_BATCH_SIZE: ${{ vars.ANALYSIS_BATCH_SIZE || '8' }}
           ANALYSIS_MAX_CALLS: ${{ vars.ANALYSIS_MAX_CALLS || '20' }}
           ANALYSIS_INTERVAL_SECONDS: ${{ vars.ANALYSIS_INTERVAL_SECONDS || '15' }}
-        run: npm run analysis:run
+        run: node scripts/analysis/execute.ts run
       - name: Preparar relatório revisado para publicação
         id: promote
-        if: inputs.operation == 'publish-reviewed'
+        if: steps.gate.outputs.operation == 'publish-reviewed'
         env:
           VIDEO_ID: ${{ steps.prepare.outputs.video_id }}
         run: npm run analysis:promote -- "$VIDEO_ID" --reviewed
       - name: Validar relatório e aplicação
         id: checks
-        if: inputs.operation == 'publish-reviewed'
+        if: steps.gate.outputs.operation == 'publish-reviewed'
         run: |
           npm test
           npm run lint
           npm run build
       - name: Registrar estado da execução sem expor dados de erro do provedor
         id: status
-        if: always() && steps.gate.outcome == 'success'
+        if: always() && steps.gate.outputs.ready == 'true'
         env:
-          OPERATION: ${{ inputs.operation }}
+          OPERATION: ${{ steps.gate.outputs.operation }}
           PROCESS_OUTCOME: ${{ steps.process.outcome }}
           CHECKS_OUTCOME: ${{ steps.checks.outcome }}
+          TRANSCRIPT_OUTCOME: ${{ steps.transcript.outcome }}
         run: node scripts/analysis/record-status.ts
       - name: Preservar checkpoint e abrir PR de revisão
         if: always() && steps.status.outputs.video_id != ''
@@ -160,7 +160,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ steps.gate.outputs.issue_number }}
           VIDEO_ID: ${{ steps.status.outputs.video_id }}
-          OPERATION: ${{ inputs.operation }}
+          OPERATION: ${{ steps.gate.outputs.operation }}
           CHECKS_OUTCOME: ${{ steps.checks.outcome }}
         run: |
           if [ ! -f "drafts/${VIDEO_ID}/status.json" ]; then exit 0; fi
@@ -175,6 +175,7 @@ jobs:
             git commit -m "feat: atualizar análise da issue #${ISSUE_NUMBER}"
             git push --force-with-lease origin "HEAD:refs/heads/${branch}"
           fi
+          if [ ! -f "drafts/${VIDEO_ID}/state.json" ]; then exit 0; fi
           node scripts/analysis/pr-body.ts
           existing=$(gh pr list --head "$branch" --state open --json number --jq '.[0].number // empty')
           if [ -n "$existing" ]; then

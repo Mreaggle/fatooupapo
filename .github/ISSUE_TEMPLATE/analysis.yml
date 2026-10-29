@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Primeiro, consulte os pedidos existentes para evitar duplicatas.
-        O processamento começa após aprovação da equipe e depende das cotas de IA e da disponibilidade da transcrição. A publicação exige revisão e não tem prazo garantido.
+        Após confirmar o envio, a validação e o processamento começam automaticamente, conforme as cotas de IA e a disponibilidade da transcrição. Volte ao site para acompanhar o pedido. A publicação exige revisão e não tem prazo garantido.
   - type: input
     id: video
     attributes:
@@ -18,7 +18,7 @@ body:
     id: duration
     attributes:
       label: Duração em minutos
-      description: Máximo de 240 minutos (4 horas). A equipe deve conferir a duração antes de aprovar.
+      description: Máximo de 240 minutos (4 horas). A duração será conferida com a legenda; o relatório exige revisão antes de publicar.
       placeholder: '120'
     validations:
       required: true
@@ -46,5 +46,5 @@ body:
     attributes:
       label: Publicação e uso do material
       options:
-        - label: Entendo que o pedido é público e que os materiais fornecidos precisam estar autorizados para uso no projeto.
+        - label: Entendo que o pedido é público e que os materiais fornecidos precisam estar autorizados para uso no projeto. Autorizo tentar obter a legenda pública deste vídeo para a análise.
           required: true

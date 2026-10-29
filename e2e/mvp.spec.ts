@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test'
 
 test('galeria no fim da página inicial abre a análise publicada', async ({ page }, testInfo) => {
+  await page.route('https://api.github.com/repos/Mreaggle/fatooupapo/issues?**', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: '[]' }))
   await page.goto('./')
   const gallery = page.getByRole('region', { name: 'Debates checados recentemente' })
   await expect(gallery.getByRole('heading', { level: 2 })).not.toBeInViewport()
@@ -23,15 +24,17 @@ test('fila, créditos e progresso real dos lotes', async ({ page }, testInfo) =>
     status: 200, contentType: 'application/json',
     body: JSON.stringify({ phase: 'checking', nextWindow: 20, totalWindows: 20, inventory: Array(48).fill({}), claims: Array(8).fill({}) }),
   }))
+  await page.route('https://api.github.com/repos/Mreaggle/fatooupapo/issues?**', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: '[]' }))
   await page.goto('./')
   await page.getByLabel('Link do vídeo do YouTube').fill('https://youtu.be/dQw4w9WgXcQ')
   await page.getByRole('button', { name: 'Verifique os fatos' }).click()
   await expect(page.getByText('100 créditos estimados', { exact: false })).toBeVisible()
   await page.getByLabel('Duração do vídeo em minutos').fill('30')
   await expect(page.getByText('20 créditos estimados', { exact: false })).toBeVisible()
-  const requestLink = page.getByRole('link', { name: /solicitar análise no github/i })
+  const requestLink = page.getByRole('link', { name: /confirmar pedido com github/i })
   await expect(requestLink).toHaveAttribute('href', /duration=30/)
-  await page.getByLabel('Número do pedido no GitHub').fill('123')
+  await page.getByText('Acompanhar com código do pedido', { exact: true }).click()
+  await page.getByLabel('Código do pedido').fill('123')
   await page.getByRole('button', { name: 'Acompanhar processamento' }).click()
   await expect(page.getByRole('progressbar')).toHaveAttribute('aria-valuenow', '48')
   await expect(page.getByText(/Checagens: 8\/48/)).toBeVisible()
@@ -44,6 +47,7 @@ test('home minimalista, consulta por ID, evidências e link compartilhado', asyn
   const apiRequests: string[] = []
   page.on('pageerror', (error) => failures.push(error.message))
   page.on('request', (request) => { if (request.method() === 'POST') apiRequests.push(request.url()) })
+  await page.route('https://api.github.com/repos/Mreaggle/fatooupapo/issues?**', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: '[]' }))
   await page.goto('./')
   await expect(page.getByRole('heading', { level: 1 })).toHaveText('Você assiste enós checamos.')
   await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1)
@@ -81,6 +85,7 @@ test('home minimalista, consulta por ID, evidências e link compartilhado', asyn
 })
 
 test('URL inválida e vídeo fora do acervo têm mensagens claras', async ({ page }) => {
+  await page.route('https://api.github.com/repos/Mreaggle/fatooupapo/issues?**', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: '[]' }))
   await page.goto('./')
   const input = page.getByLabel('Link do vídeo do YouTube')
   await input.fill('https://example.com/video')
@@ -88,7 +93,7 @@ test('URL inválida e vídeo fora do acervo têm mensagens claras', async ({ pag
   await expect(page.getByRole('alert')).toContainText('Insira um link válido')
   await input.fill('https://youtube.com/watch?v=dQw4w9WgXcQ')
   await page.getByRole('button', { name: 'Verifique os fatos' }).click()
-  await expect(page.getByRole('alert')).toContainText('Este vídeo ainda não está no acervo')
+  await expect(page.getByText(/Este vídeo ainda não está no acervo/)).toBeVisible()
 })
 
 test('autoria tem explicação e revisão local persistente', async ({ page }, testInfo) => {
@@ -110,4 +115,34 @@ test('autoria tem explicação e revisão local persistente', async ({ page }, t
   await page.getByRole('article').first().getByRole('button', { name: 'Restaurar sugestão' }).click()
   await expect(page.getByRole('article').first().getByText('Jones Manoel', { exact: true })).toBeVisible()
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+})
+
+for (const debate of [{ id: 'RugVB17uRVM', claims: 74, lastCue: 3172 }, { id: '6BBZWwq2juE', claims: 175, lastCue: 3285 }]) {
+  test(`debate importado ${debate.id}: gráficos e transcrição integral`, async ({ page }, testInfo) => {
+    await page.goto(`./?v=${debate.id}`)
+    await expect(page.getByRole('article')).toHaveCount(debate.claims)
+    await expect(page.getByRole('heading', { name: 'Classificações por debatedor' })).toBeVisible()
+    const charts = page.getByRole('region', { name: 'Classificações por debatedor' })
+    await expect(charts.getByRole('img')).toHaveCount(2)
+    await expect(charts.getByRole('heading', { name: 'Lula', exact: true })).toBeVisible()
+    await expect(charts.getByRole('heading', { name: 'Flávio Bolsonaro', exact: true })).toBeVisible()
+    await expect(charts).toContainText('Cobertura parcial')
+    await charts.screenshot({ path: testInfo.outputPath(`graficos-${debate.id}.png`) })
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+    const transcript = await page.request.get(`./transcripts/${debate.id}.md`)
+    expect(transcript.ok()).toBe(true)
+    expect(await transcript.text()).toContain(`bloco ${debate.lastCue}`)
+    await page.getByRole('article').first().locator('summary').first().click()
+    await expect(page.getByRole('article').first().getByText('Classificações no acervo de origem')).toBeVisible()
+  })
+}
+
+test('pedido recusado é localizado automaticamente sem expor critérios', async ({ page }) => {
+  await page.route('https://api.github.com/repos/Mreaggle/fatooupapo/issues?**', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: JSON.stringify([{ number: 2, title: '[Análise] 06WU-H3jICE', body: 'https://youtu.be/06WU-H3jICE' }]) }))
+  await page.route('https://raw.githubusercontent.com/**/state.json', (route) => route.fulfill({ status: 404, body: '' }))
+  await page.route('https://raw.githubusercontent.com/**/status.json', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: JSON.stringify({ kind: 'rejected', interrupted: false, message: 'Este vídeo não requer fact-checking.', runUrl: 'https://github.com/Mreaggle/fatooupapo/actions/runs/123' }) }))
+  await page.goto('./?v=06WU-H3jICE')
+  await expect(page.getByRole('alert')).toHaveText('Este vídeo não requer fact-checking.')
+  await expect(page.getByRole('link', { name: /confirmar pedido/i })).toHaveCount(0)
+  await expect(page.getByText(/palavra debate no título/i)).toHaveCount(0)
 })

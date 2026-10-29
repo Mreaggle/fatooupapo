@@ -43,9 +43,9 @@ Comandos principais:
 
 ## Integrações
 
-O caminho da v1 usa **Pages + Issues + Actions**, sem servidor próprio ou Cloudflare. Vídeos fora do acervo recebem um formulário de pedido no GitHub, estimativa de créditos e acompanhamento de lotes. O processamento percorre a transcrição inteira de vídeos de até 4h e checa até 8 afirmações por execução, retomando o progresso até concluir o inventário. Somente relatórios revisados entram no acervo.
+O caminho da v1 usa **Pages + Issues + Actions**, sem servidor próprio ou Cloudflare. Vídeos fora do acervo recebem um formulário de pedido no GitHub, estimativa de créditos e acompanhamento de lotes. O processamento percorre a transcrição inteira de vídeos de até 4h e checa até 8 afirmações por execução, retomando o progresso até concluir o inventário. Somente relatórios revisados entram no acervo. A validação de elegibilidade roda no Actions antes do débito. Conteúdo recusado recebe apenas a mensagem “Este vídeo não requer fact-checking.” no site.
 
-Cada conta recebe **100 créditos por 24h**, com débito único por pedido aprovado. O MVP calibra o custo; vídeos a partir de 3h consomem a cota inteira. Créditos do produto são distintos de tokens reais do modelo. Configuração dos secrets do Gemini, fontes, limites e publicação: [docs/ANALYSIS_PIPELINE.md](docs/ANALYSIS_PIPELINE.md).
+Cada conta recebe **100 créditos por 24h**, com débito único por pedido aceito para processamento. O MVP calibra o custo; vídeos a partir de 3h consomem a cota inteira. Créditos do produto são distintos de tokens reais do modelo. Configuração dos secrets do Gemini, fontes, limites e publicação: [docs/ANALYSIS_PIPELINE.md](docs/ANALYSIS_PIPELINE.md).
 
 A interface usa “Fato” e “Papo”, incluindo as classificações intermediárias; os valores de esquema `Verdadeiro` e `Falso` permanecem compatíveis com o acervo existente.
 
@@ -65,4 +65,14 @@ As revisões são preservadas no histórico Git. Um link `?v=ID` aponta para a v
 
 O workflow `.github/workflows/deploy-pages.yml` testa e publica `dist/` no GitHub Pages a cada push para `main`.
 
-O workflow `analyze-video.yml` é acionado manualmente por um responsável: `process` aprova/retoma o próximo lote de uma issue; `publish-reviewed` prepara uma análise já revisada para a PR. `check-pr.yml` valida PRs sem credenciais de IA. Nenhuma análise nova é publicada automaticamente.
+O workflow `analyze-video.yml` inicia ao abrir/reabrir um pedido e verifica a fila a cada seis horas, retomando os lotes automaticamente. O orçamento persistente limita a dois lotes por dia UTC, inclusive tentativas com erro após a reserva. A operação manual `process` continua disponível; `publish-reviewed` exige um responsável e prepara uma análise já revisada para a PR. `check-pr.yml` valida PRs sem credenciais de IA. Nenhuma análise nova é publicada automaticamente.
+
+## Acervos importados e gráficos
+
+Os debates da Band (`RugVB17uRVM`) e Globo (`6BBZWwq2juE`) foram importados do projeto [Quem Mentiu](https://mreaggle.github.io/quemmentiu/), com 74 e 175 afirmações, respectivamente, após alinhar os SRTs e reunir duplicatas. As legendas integrais estão em `requests/` e `transcripts/`. O registro editorial em `imports/quemmentiu/` conserva os intervalos, as exclusões e os agrupamentos; a importação não gera novas apurações independentes. Para reproduzir decisões já conferidas: `node scripts/import-quemmentiu.mjs --reviewed`.
+
+Cada relatório apresenta barras por classificação e um medidor por debatedor. O medidor usa Fatos ÷ (Fatos + Papos), incluindo “majoritariamente” nos grupos; imprecisos e inconclusivos ficam fora do denominador. Uma afirmação conta uma vez. Autoria indicada pelas fontes ou confirmada localmente entra nos gráficos; sugestão heurística ainda não revisada fica fora. O recorte parcial e as limitações permanecem visíveis.
+
+O modo gratuito padrão recupera revisões históricas da Wikipédia para subsidiar a revisão, sem chave ou Google Search pago. São fontes secundárias e não substituem documentos primários. Ausência de base mantém o item inconclusivo; nenhuma memória do modelo é usada como fonte. `ANALYSIS_PUBLIC_SOURCES_ENABLED=false` desativa essa consulta quando só se deseja usar documentos previamente revisados.
+
+O Pages continua estático. A confirmação de identidade e envio ainda usa o formulário nativo do GitHub; o site localiza o pedido automaticamente ao retornar. Remover essa última etapa exige um serviço de autenticação/API externo, sem expor credenciais no frontend.

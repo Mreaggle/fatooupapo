@@ -20,7 +20,7 @@ export function InfoDialog({ page, onClose }: { page: InfoPage | null; onClose: 
       <div className="space-y-4 pt-5 text-sm leading-7 text-muted">
         {page === 'Como funciona' && <>
           <p>Cole o link de um vídeo do YouTube. Se já houver uma checagem no acervo, ela abre diretamente, sem uma nova chamada à IA.</p>
-          <p>Se o vídeo ainda não estiver no acervo, abra um pedido na fila do GitHub. É preciso uma conta para enviar o formulário, e os pedidos são públicos. A equipe aprova o processamento e revisa a transcrição, as afirmações e as fontes antes da publicação. Não há prazo garantido.</p>
+          <p>Se o vídeo ainda não estiver no acervo, confirme o pedido com sua conta do GitHub. Os pedidos são públicos. A validação e os lotes de análise começam automaticamente, conforme a cota e a disponibilidade da legenda. A equipe revisa o material antes de publicar. Não há prazo garantido.</p>
           <p>Cada conta recebe 100 créditos de análise por 24 horas. O custo é estimado antes do pedido; vídeos a partir de 3 horas usam a cota inteira. Consultar o acervo e retomar o mesmo pedido não gera novo débito.</p>
           <p>Novos pedidos percorrem a transcrição inteira e checam as afirmações identificadas por lotes. O processamento pode depender de um arquivo SRT ou VTT fornecido pelo responsável quando a extração estiver indisponível. O relatório informa sua cobertura e pode conter itens inconclusivos; o debate inicial ainda é uma revisão parcial.</p>
         </>}

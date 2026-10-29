@@ -5,6 +5,7 @@ import { requestSchema } from './request.ts'
 import { parseTranscript } from './transcript.ts'
 import { sourcesSchema } from './pipeline.ts'
 import { boundedInteger } from './gemini.ts'
+import { eligibleTitle, eligibleTranscript, ineligibleMessage } from './eligibility.ts'
 
 const repository = process.env.GITHUB_REPOSITORY
 const token = process.env.GH_TOKEN
@@ -32,9 +33,11 @@ try {
 } catch (error) {
   if ((error as NodeJS.ErrnoException).code !== 'ENOENT') throw error
 }
-if (process.env.GEMINI_SEARCH_ENABLED !== 'true' && !sources.length) throw new Error('Configure fontes revisadas ou busca compatível com a cota antes de debitar créditos.')
+if (process.env.GEMINI_SEARCH_ENABLED !== 'true' && !sources.length && process.env.ANALYSIS_PUBLIC_SOURCES_ENABLED === 'false') throw new Error('Configure fontes revisadas ou consulta pública antes de debitar créditos.')
 const subtitle = await readFile('.analysis-work/input.txt', 'utf8')
 const cues = parseTranscript(subtitle)
+const video = JSON.parse(await readFile('.analysis-work/video.json', 'utf8'))
+if (!eligibleTitle(video.title) || !eligibleTranscript(cues)) throw new Error(ineligibleMessage)
 if (cues.at(-1)!.end > request.durationMinutes * 60) throw new Error('A legenda excede a duração declarada; nenhum crédito foi debitado.')
 const response = await github(`contents/${path}?ref=${encodeURIComponent(branch)}`)
 const file = response.status === 404 ? null : await response.json() as { content: string; sha: string }

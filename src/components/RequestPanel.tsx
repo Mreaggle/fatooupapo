@@ -13,6 +13,8 @@ export function RequestPanel({ videoUrl, queueUrl }: { videoUrl: string; queueUr
   const [login, setLogin] = useState('')
   const [balance, setBalance] = useState<Awaited<ReturnType<typeof readCreditBalance>> | null>(null)
   const [balanceError, setBalanceError] = useState('')
+  const [registrationStarted, setRegistrationStarted] = useState(false)
+  const [rejected, setRejected] = useState(false)
   const balanceRequest = useRef<AbortController | null>(null)
   const fileRequest = useRef(0)
   useEffect(() => () => { balanceRequest.current?.abort(); fileRequest.current += 1 }, [])
@@ -23,9 +25,10 @@ export function RequestPanel({ videoUrl, queueUrl }: { videoUrl: string; queueUr
   const video = parseYouTubeUrl(videoUrl)
   if (!links || !video) return null
   const number = new Intl.NumberFormat('pt-BR')
+  if (rejected) return <p role="alert" className="mt-4 text-sm text-muted">Este vídeo não requer fact-checking.</p>
 
   return <section aria-label="Solicitar nova análise" className="mt-4 rounded-lg border border-white/20 p-4 text-sm leading-6 text-[#d2dbd8]">
-    <p>Novas análises entram em uma fila e são publicadas após revisão. É preciso uma conta no GitHub para enviar o pedido; o conteúdo será público.</p>
+    <p>Este vídeo ainda não está no acervo. Confirme o pedido usando sua conta do GitHub. Após o envio, a validação e os lotes de processamento começam automaticamente, conforme a cota disponível. Volte a esta página para acompanhar. O relatório é publicado após revisão.</p>
     <div className="mt-4 grid gap-4 sm:grid-cols-2">
       <label className="flex flex-col gap-1 text-xs">Duração do vídeo em minutos
         <input className="rounded border border-white/25 bg-black/20 px-3 py-2 text-white" type="number" min={1} max={240} step={1} value={duration} onChange={(event) => setDuration(event.target.value)} />
@@ -67,10 +70,10 @@ export function RequestPanel({ videoUrl, queueUrl }: { videoUrl: string; queueUr
     {balance && <p role="status" className="mt-2 text-xs">Saldo registrado: {balance.remaining}/{dailyCredits} créditos.{balance.resetsAt ? ` Renovação: ${new Date(balance.resetsAt).toLocaleString('pt-BR')}.` : ' A janela de 24h começa no primeiro débito.'} O débito usa a conta que efetivamente abrir o pedido.</p>}
     {balanceError && <p role="alert" className="mt-2 text-xs text-red-300">{balanceError}</p>}
     <div className="mt-4 flex flex-wrap gap-x-6 gap-y-2">
-      {valid && <a className="text-white underline underline-offset-4" href={links.request} target="_blank" rel="noreferrer">Solicitar análise no GitHub ↗</a>}
-      <a className="text-white underline underline-offset-4" href={queueUrl} target="_blank" rel="noreferrer">Acompanhar pedidos deste vídeo ↗</a>
+      {valid && <a className="text-white underline underline-offset-4" href={links.request} target="_blank" rel="noreferrer" onClick={() => setRegistrationStarted(true)}>Confirmar pedido com GitHub ↗</a>}
+      <a className="text-white underline underline-offset-4" href={queueUrl} target="_blank" rel="noreferrer">Ver pedidos enviados ↗</a>
     </div>
-    <p className="mt-2 text-[11px] opacity-75">O arquivo escolhido acima fica no navegador, apenas para estimativa. Forneça a legenda no formulário do pedido ou combine o envio com a equipe. O débito ocorre quando o pedido aprovado entra em processamento, sem novo débito a cada lote.</p>
-    <ProcessingTracker videoId={video.videoId} />
+    <p className="mt-2 text-[11px] opacity-75">O pedido e os materiais são públicos. O arquivo escolhido acima fica no navegador, apenas para estimativa. O serviço tenta obter uma legenda disponível; se não conseguir, será necessário fornecer SRT/VTT. O débito ocorre no início do processamento, sem novo débito a cada lote.</p>
+    <ProcessingTracker videoId={video.videoId} discover={registrationStarted} onRejected={() => setRejected(true)} />
   </section>
 }

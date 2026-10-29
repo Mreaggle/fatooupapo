@@ -4,6 +4,8 @@ import { GeminiClient, boundedInteger } from './gemini.ts'
 import { completedReport, processBatch, reviewMarkdown, sourcesSchema, stateSchema, type PipelineState } from './pipeline.ts'
 import { requestSchema } from './request.ts'
 import { parseTranscript, transcriptMarkdown, transcriptWindows } from './transcript.ts'
+import { publicSources } from './public-sources.ts'
+import { eligibleTitle, eligibleTranscript, ineligibleMessage } from './eligibility.ts'
 
 const request = requestSchema.parse(JSON.parse(await readFile('.analysis-work/request.json', 'utf8')))
 const source = await readFile('.analysis-work/input.txt', 'utf8')
@@ -40,7 +42,7 @@ try {
 
 let video
 try {
-  video = JSON.parse(await readFile(`${directory}/video.json`, 'utf8'))
+  video = JSON.parse(await readFile('.analysis-work/video.json', 'utf8'))
 } catch (error) {
   if ((error as NodeJS.ErrnoException).code !== 'ENOENT') throw error
   const url = `https://www.youtube.com/watch?v=${request.videoId}`
@@ -51,6 +53,8 @@ try {
   video = { id: request.videoId, url, title: metadata.title, channel: metadata.author_name, thumbnailUrl: `https://i.ytimg.com/vi/${request.videoId}/hqdefault.jpg` }
   await writeFile(`${directory}/video.json`, `${JSON.stringify(video, null, 2)}\n`)
 }
+if (!eligibleTitle(video.title) || !eligibleTranscript(cues)) throw new Error(ineligibleMessage)
+await writeFile(`${directory}/video.json`, `${JSON.stringify(video, null, 2)}\n`)
 await writeFile(`${directory}/source.txt`, source)
 await writeFile(`${directory}/request.json`, `${JSON.stringify(request, null, 2)}\n`)
 try {
@@ -75,13 +79,15 @@ if (state.phase !== 'completed') {
   }
   const search = process.env.GEMINI_SEARCH_ENABLED === 'true'
   // Fail before spending inference quota when evidence retrieval has not been configured.
-  if (!search && !sources.length) throw new Error('Forneça requests/VIDEO_ID.sources.json ou habilite GEMINI_SEARCH_ENABLED com uma ferramenta de busca disponível na sua cota.')
+  const lookup = process.env.ANALYSIS_PUBLIC_SOURCES_ENABLED !== 'false'
+  if (!search && !sources.length && !lookup) throw new Error('Configure fontes revisadas ou habilite a consulta a fontes públicas antes de processar.')
   const audit = async (entry: unknown) => {
     await appendFile(`${directory}/provenance.jsonl`, `${JSON.stringify({ at: new Date().toISOString(), model: client.model, promptVersion: 'full-transcript-v1', commit: process.env.GITHUB_SHA ?? null, runId: process.env.GITHUB_RUN_ID ?? null, ...entry as object })}\n`)
   }
   try {
     await processBatch({ client, video, cues, referenceDate: request.referenceDate,
-      batchSize: boundedInteger(process.env.ANALYSIS_BATCH_SIZE, 8, 8), sources, search, state, checkpoint, audit })
+      batchSize: boundedInteger(process.env.ANALYSIS_BATCH_SIZE, 8, 8), sources, search, state, checkpoint, audit,
+      ...(!search && lookup ? { lookupSources: publicSources } : {}) })
   } finally {
     await audit({ stage: 'budget', calls: client.calls, maxCalls: client.maxCalls, intervalMs: client.intervalMs })
   }

@@ -43,8 +43,10 @@ export default function App() {
       if (controller.signal.aborted) return
       if (caught instanceof AnalysisError && caught.code === 'integration_unavailable') {
         setRequestLinks(analysisRequestLinks(video.canonicalUrl))
+        setError('')
+      } else {
+        setError(caught instanceof AnalysisError ? caught.message : 'Não foi possível consultar a análise. Verifique a conexão e tente novamente.')
       }
-      setError(caught instanceof AnalysisError ? caught.message : 'Não foi possível consultar a análise. Verifique a conexão e tente novamente.')
     } finally {
       if (request.current === controller) { setProgress(null); request.current = null }
     }

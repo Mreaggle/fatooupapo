@@ -27,8 +27,8 @@ describe('fluxo inicial', () => {
     render(<App />)
     await user.type(screen.getByLabelText('Link do vídeo do YouTube'), 'https://youtu.be/dQw4w9WgXcQ')
     await user.click(screen.getByRole('button', { name: /verifique os fatos/i }))
-    expect(await screen.findByRole('alert')).toHaveTextContent('Este vídeo ainda não está no acervo')
-    const request = new URL(screen.getByRole('link', { name: /solicitar análise no github/i }).getAttribute('href')!)
+    expect(await screen.findByText(/Este vídeo ainda não está no acervo/)).toBeInTheDocument()
+    const request = new URL(screen.getByRole('link', { name: /confirmar pedido com github/i }).getAttribute('href')!)
     expect(request.origin).toBe('https://github.com')
     expect(request.searchParams.get('video')).toBe('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
     expect(request.searchParams.get('duration')).toBe('180')
@@ -36,9 +36,25 @@ describe('fluxo inicial', () => {
     await user.clear(screen.getByLabelText('Duração do vídeo em minutos'))
     await user.type(screen.getByLabelText('Duração do vídeo em minutos'), '30')
     expect(screen.getByText(/20 créditos estimados/)).toBeInTheDocument()
-    expect(screen.getByRole('link', { name: /acompanhar pedidos/i })).toHaveAttribute('href', expect.stringContaining('dQw4w9WgXcQ'))
+    expect(screen.getByRole('link', { name: /ver pedidos enviados/i })).toHaveAttribute('href', expect.stringContaining('dQw4w9WgXcQ'))
     await user.clear(screen.getByLabelText('Link do vídeo do YouTube'))
-    expect(screen.queryByRole('link', { name: /solicitar análise no github/i })).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: /confirmar pedido com github/i })).not.toBeInTheDocument()
+  })
+
+  it('localiza automaticamente um pedido recusado e mostra apenas a mensagem genérica', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockImplementation(async (url: string) => {
+      if (url.includes('api.github.com')) return { ok: true, json: async () => [{ number: 2, title: '[Análise] 06WU-H3jICE', body: 'https://youtu.be/06WU-H3jICE' }] }
+      if (url.endsWith('state.json')) return { status: 404 }
+      if (url.endsWith('status.json')) return { ok: true, json: async () => ({ interrupted: false, kind: 'rejected', message: 'Este vídeo não requer fact-checking.', runUrl: 'https://github.com/Mreaggle/fatooupapo/actions/runs/123' }) }
+      return { ok: true, json: async () => ({ reports: {} }) }
+    }))
+    const user = userEvent.setup()
+    render(<App />)
+    await user.type(screen.getByLabelText('Link do vídeo do YouTube'), 'https://youtu.be/06WU-H3jICE')
+    await user.click(screen.getByRole('button', { name: /verifique os fatos/i }))
+    expect(await screen.findByRole('alert')).toHaveTextContent(/^Este vídeo não requer fact-checking\.$/)
+    expect(screen.queryByLabelText('Duração do vídeo em minutos')).not.toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: /confirmar pedido/ })).not.toBeInTheDocument()
   })
 
   it('abre o primeiro debate pelo ID sem chamar um serviço de IA', async () => {

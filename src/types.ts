@@ -20,6 +20,7 @@ export interface Claim {
   topic?: string
   quote: string
   speaker?: string
+  speakerOrigin?: 'fact-check-source'
   speakerAttribution?: SpeakerAttribution
   timestampSeconds: number
   cueStart?: number
@@ -28,6 +29,12 @@ export interface Claim {
   explanation: string
   evidence: Evidence[]
   limitations?: string
+  importedChecks?: {
+    publisher: string
+    url: string
+    label: string
+    automated: boolean
+  }[]
 }
 
 export interface Participant {

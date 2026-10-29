@@ -3,7 +3,7 @@ import type { Claim, Participant } from '../types'
 import { readSpeakerReview, removeSpeakerReview, saveSpeakerReview, type SpeakerReview } from '../lib/speaker-reviews'
 import { timestampUrl } from '../lib/youtube'
 
-export function SpeakerLabel({ claim, videoId, participants }: { claim: Claim; videoId: string; participants: Participant[] }) {
+export function SpeakerLabel({ claim, videoId, participants, onReview }: { claim: Claim; videoId: string; participants: Participant[]; onReview?: (name: string | null | undefined) => void }) {
   const [review, setReview] = useState(() => readSpeakerReview(videoId, claim.id, claim.quote))
   const [editing, setEditing] = useState(false)
   const [tooltip, setTooltip] = useState(false)
@@ -22,6 +22,7 @@ export function SpeakerLabel({ claim, videoId, participants }: { claim: Claim; v
     const value: SpeakerReview = { version: 1, quote: claim.quote, name: name || null }
     const stored = saveSpeakerReview(videoId, claim.id, value)
     setReview(value)
+    onReview?.(value.name)
     setEditing(false)
     setMessage(stored ? 'Revisão salva apenas neste navegador.' : 'Revisão aplicada nesta sessão. O navegador não permitiu salvá-la.')
   }
@@ -30,6 +31,7 @@ export function SpeakerLabel({ claim, videoId, participants }: { claim: Claim; v
     const removed = removeSpeakerReview(videoId, claim.id)
     if (!removed) { setMessage('O navegador não permitiu remover a revisão salva.'); return }
     setReview(null)
+    onReview?.(undefined)
     setEditing(false)
     setMessage('Sugestão original restaurada.')
   }
@@ -47,6 +49,7 @@ export function SpeakerLabel({ claim, videoId, participants }: { claim: Claim; v
           onKeyDown={(event) => { if (event.key === 'Escape') { setTooltip(false); event.stopPropagation() } }}
           className="rounded text-[11px] text-faint underline decoration-dotted underline-offset-4">({attribution.score}%)</button>}
         {review && <span className="text-[10px] text-faint">· revisado por você</span>}
+        {!review && claim.speakerOrigin === 'fact-check-source' && <span className="text-[10px] text-faint">· atribuição da fonte citada</span>}
         <button type="button" onClick={() => {
           setChoice(name && participants.some((item) => item.name === name) ? name : name ? '__other' : '')
           setCustom(name ?? '')
