@@ -1,5 +1,72 @@
 import { test, expect } from '@playwright/test'
 
+test('carrossel na primeira tela move para a esquerda, destaca o centro e abre o debate', async ({ page }, testInfo) => {
+  await page.goto('./')
+  const carousel = page.getByRole('region', { name: 'Debates em destaque' })
+  const links = carousel.getByRole('link')
+  await expect(links).toHaveCount(6)
+  await page.evaluate(() => document.fonts.ready)
+  await expect(carousel.getByRole('button')).toHaveCount(0)
+  await expect(carousel).not.toContainText(/afirmações analisadas|Checado em|Ver checagem/)
+  const bounds = await carousel.boundingBox()
+  expect(bounds!.y).toBeGreaterThan(page.viewportSize()!.height / 2)
+  expect(bounds!.y + bounds!.height).toBeLessThanOrEqual(page.viewportSize()!.height)
+  const first = carousel.locator('li').first()
+  const start = (await first.boundingBox())!.x
+  await expect.poll(async () => (await first.boundingBox())!.x).toBeLessThan(start - 10)
+  const center = carousel.locator('[data-centered]')
+  await expect(center).toHaveCount(1)
+  expect((await center.boundingBox())!.width).toBeGreaterThan((await carousel.locator('li').nth(1).boundingBox())!.width)
+  expect(await carousel.evaluate((element) => getComputedStyle(element).maskImage)).toContain('linear-gradient')
+  await carousel.hover()
+  const paused = (await first.boundingBox())!.x
+  await page.waitForTimeout(300)
+  expect(Math.abs((await first.boundingBox())!.x - paused)).toBeLessThan(1)
+  await page.screenshot({ path: testInfo.outputPath('home-carrossel.png') })
+  await page.getByLabel('Link do vídeo do YouTube').focus()
+  await page.keyboard.press('Tab')
+  await expect(links.first()).toBeFocused()
+  await page.keyboard.press('Tab')
+  await expect(links.nth(1)).toBeFocused()
+  const box = (await links.nth(1).boundingBox())!
+  expect(Math.abs(box.x + box.width / 2 - page.viewportSize()!.width / 2)).toBeLessThan(2)
+  const href = await links.nth(1).getAttribute('href')
+  await links.nth(1).click()
+  await expect(page).toHaveURL(new RegExp(`\\${href}$`))
+  await expect(page.getByLabel('Buscar afirmações')).toBeVisible()
+})
+
+test('carrossel respeita movimento reduzido e continua acessível pelo teclado', async ({ page }) => {
+  await page.emulateMedia({ reducedMotion: 'reduce' })
+  await page.goto('./')
+  const carousel = page.getByRole('region', { name: 'Debates em destaque' })
+  await expect(carousel.getByRole('link')).toHaveCount(6)
+  const first = carousel.locator('li').first()
+  const start = (await first.boundingBox())!.x
+  await page.waitForTimeout(350)
+  expect((await first.boundingBox())!.x).toBe(start)
+  await page.getByLabel('Link do vídeo do YouTube').focus()
+  await page.keyboard.press('Tab')
+  await page.keyboard.press('Tab')
+  await expect(carousel.getByRole('link').nth(1)).toBeFocused()
+  const bounds = (await carousel.getByRole('link').nth(1).boundingBox())!
+  expect(Math.abs(bounds.x + bounds.width / 2 - page.viewportSize()!.width / 2)).toBeLessThan(2)
+})
+
+test('carrossel e formulário cabem na primeira tela de um celular compacto', async ({ page }) => {
+  await page.setViewportSize({ width: 320, height: 640 })
+  await page.goto('./')
+  const carousel = page.getByRole('region', { name: 'Debates em destaque' })
+  await expect(carousel.getByRole('link')).toHaveCount(6)
+  await page.evaluate(() => document.fonts.ready)
+  const heading = (await page.getByRole('heading', { level: 1 }).boundingBox())!
+  const bounds = (await carousel.boundingBox())!
+  expect(heading.y).toBeGreaterThanOrEqual(0)
+  expect(bounds.y + bounds.height).toBeLessThanOrEqual(640)
+  expect(await page.evaluate(() => window.scrollY)).toBe(0)
+  expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(320)
+})
+
 test('galeria no fim da página inicial abre a análise publicada', async ({ page }, testInfo) => {
   await page.route('https://api.github.com/repos/Mreaggle/fatooupapo/issues?**', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: '[]' }))
   await page.goto('./')
@@ -190,6 +257,11 @@ for (const debate of [
     await expect(page.locator('details').filter({ has: page.locator('summary', { hasText: 'Metodologia dos gráficos' }) })).not.toHaveAttribute('open')
     await expect(page.locator('.claim-quote--false').first()).toBeVisible()
     await expect(page.locator('.claim-conclusion').first()).toHaveCSS('color', 'rgb(130, 189, 145)')
+    if (debate.id === 'nPLJs6xPNWU') {
+      await expect(page.locator('.claim-quote--mostly-true').first()).toHaveCSS('color', 'rgb(184, 216, 187)')
+      await expect(page.locator('.claim-quote--mostly-false').first()).toHaveCSS('color', 'rgb(231, 176, 157)')
+      await expect(page.locator('.claim-quote--misleading').first()).toHaveCSS('color', 'rgb(231, 211, 157)')
+    }
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
     await charts.screenshot({ path: testInfo.outputPath(`graficos-${debate.id}.png`) })
     const transcript = await page.request.get(`./transcripts/${debate.id}.md`)

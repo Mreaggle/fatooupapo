@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { ArrowUpRight, MessageSquareQuote } from 'lucide-react'
-import { listRecentDebates } from '../services/snapshots'
+import type { useRecentDebates } from '../services/use-recent-debates'
 import type { RecentDebate } from '../types'
 
 function DebateCard({ debate, featured }: { debate: RecentDebate; featured: boolean }) {
@@ -24,23 +24,7 @@ function DebateCard({ debate, featured }: { debate: RecentDebate; featured: bool
   </article>
 }
 
-export function RecentDebates() {
-  const [debates, setDebates] = useState<RecentDebate[]>([])
-  const [status, setStatus] = useState<'loading' | 'ready' | 'error'>('loading')
-  const [attempt, setAttempt] = useState(0)
-
-  useEffect(() => {
-    const controller = new AbortController()
-    listRecentDebates(controller.signal).then((result) => {
-      if (controller.signal.aborted) return
-      setDebates(result)
-      setStatus('ready')
-    }).catch(() => {
-      if (!controller.signal.aborted) setStatus('error')
-    })
-    return () => controller.abort()
-  }, [attempt])
-
+export function RecentDebates({ debates, status, retry }: ReturnType<typeof useRecentDebates>) {
   return <section aria-labelledby="recent-debates-title" className="recent-debates mx-auto w-full max-w-6xl px-5 py-14 sm:px-8 sm:py-20">
     <div className="mb-7 border-b border-line pb-6">
       <p className="text-[11px] font-medium uppercase tracking-[0.16em] text-faint">No acervo</p>
@@ -50,7 +34,7 @@ export function RecentDebates() {
     {status === 'loading' && <p role="status" className="text-sm text-muted">Carregando debates checados…</p>}
     {status === 'error' && <div className="rounded-lg border border-line p-5 text-sm leading-6 text-muted">
       <p>Não foi possível carregar os debates do acervo.</p>
-      <button type="button" className="mt-2 text-foreground underline underline-offset-4" onClick={() => { setStatus('loading'); setAttempt((value) => value + 1) }}>Tentar carregar novamente</button>
+      <button type="button" className="mt-2 text-foreground underline underline-offset-4" onClick={retry}>Tentar carregar novamente</button>
     </div>}
     {status === 'ready' && (debates.length ? <div className={`recent-debates__grid grid gap-6 ${debates.length > 1 ? 'sm:grid-cols-2' : ''} ${debates.length > 2 ? 'lg:grid-cols-3' : ''}`}>{debates.map((debate) => <DebateCard key={debate.video.id} debate={debate} featured={debates.length === 1} />)}</div> : <p role="status" className="text-sm text-muted">Ainda não há debates checados publicados no acervo.</p>)}
   </section>

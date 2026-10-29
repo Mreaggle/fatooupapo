@@ -3,6 +3,8 @@ import { ArrowRight, LoaderCircle } from 'lucide-react'
 import type { AnalysisProgress } from '../types'
 import { RequestPanel } from './RequestPanel'
 import { RecentDebates } from './RecentDebates'
+import { DebateCarousel } from './DebateCarousel'
+import { useRecentDebates } from '../services/use-recent-debates'
 
 interface Props {
   initialUrl: string
@@ -17,6 +19,7 @@ interface Props {
 export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onCancel, onClearError }: Props) {
   const [url, setUrl] = useState(initialUrl)
   const loading = Boolean(progress)
+  const recent = useRecentDebates()
 
   function submit(event: FormEvent) {
     event.preventDefault()
@@ -25,16 +28,16 @@ export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onC
 
   return (
     <main className="flex w-full flex-1 flex-col">
-      <section aria-label="Consultar vídeo" className="hero-reference relative isolate flex min-h-svh w-full items-center justify-center overflow-hidden px-5 py-16 sm:px-8">
-        <div className="w-full max-w-[880px] -translate-y-2">
-          <h1 className="text-center font-serif text-[clamp(2.75rem,5vw,6rem)] leading-[1.08] font-normal tracking-[-0.025em] text-white">
+      <section aria-label="Consultar vídeo" className="hero-reference relative isolate w-full overflow-hidden">
+        <div className="hero-reference__content">
+          <h1 className="hero-reference__title text-center font-serif leading-[1.08] font-normal tracking-[-0.025em] text-white">
             Você assiste e<br /><span>nós <em className="font-normal">checamos.</em></span>
           </h1>
-          <p className="mx-auto mt-8 max-w-[820px] text-center font-serif text-[clamp(1rem,1.25vw,1.5rem)] leading-[1.45] text-[#d2dbd8]">
+          <p className="mx-auto mt-5 max-w-[820px] text-center font-serif text-[clamp(1rem,1.25vw,1.5rem)] leading-[1.45] text-[#d2dbd8] sm:mt-8">
             Cole o link de um vídeo do YouTube para consultar as checagens e suas fontes. Se ele ainda não estiver no acervo, você pode solicitar uma análise.
           </p>
 
-          <form onSubmit={submit} noValidate className="mt-12">
+          <form onSubmit={submit} noValidate className="mt-8 sm:mt-12">
             <div className={`hero-input flex flex-col overflow-hidden rounded-lg ring-1 transition-shadow focus-within:ring-white/60 sm:min-h-[clamp(4rem,4.375vw,5.25rem)] sm:flex-row ${error ? 'ring-red-400/80' : 'ring-transparent'}`}>
               <div className="flex min-w-0 flex-1 items-center px-5 sm:px-7">
                 <label className="sr-only" htmlFor="youtube-url">Link do vídeo do YouTube</label>
@@ -56,8 +59,9 @@ export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onC
           </form>
           {requestLinks && <RequestPanel videoUrl={url} queueUrl={requestLinks.queue} />}
         </div>
+        {recent.status === 'ready' && <DebateCarousel debates={recent.debates} />}
       </section>
-      <RecentDebates />
+      <RecentDebates {...recent} />
     </main>
   )
 }

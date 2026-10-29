@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
-import { render, screen, waitFor } from '@testing-library/react'
+import { render, screen, waitFor, within } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import App from './App'
 import snapshots from '../public/snapshots/index.json'
@@ -10,6 +10,18 @@ afterEach(() => {
 })
 
 describe('fluxo inicial', () => {
+  it('compartilha uma consulta ao acervo entre o carrossel e a galeria', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({ ok: true, json: async () => snapshots })
+    vi.stubGlobal('fetch', fetchMock)
+    render(<App />)
+    const carousel = await screen.findByRole('region', { name: 'Debates em destaque' })
+    const gallery = screen.getByRole('region', { name: 'Debates checados recentemente' })
+    expect(within(carousel).getAllByRole('link')).toHaveLength(6)
+    expect(within(gallery).getAllByRole('link')).toHaveLength(6)
+    expect(within(carousel).queryByText(/afirmações analisadas|Ver checagem/)).not.toBeInTheDocument()
+    expect(fetchMock).toHaveBeenCalledTimes(1)
+  })
+
   it('mostra feedback para uma URL inválida', async () => {
     const user = userEvent.setup()
     render(<App />)

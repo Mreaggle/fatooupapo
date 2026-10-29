@@ -4,7 +4,7 @@ export const chartVerdicts: { verdict: Verdict; label: string; color: string }[]
   { verdict: 'Verdadeiro', label: 'Fato', color: '#34d399' },
   { verdict: 'Majoritariamente verdadeiro', label: 'Majoritariamente fato', color: '#6ee7b7' },
   { verdict: 'Impreciso ou fora de contexto', label: 'Impreciso ou fora de contexto', color: '#fbbf24' },
-  { verdict: 'Majoritariamente falso', label: 'Majoritariamente papo', color: '#fb923c' },
+  { verdict: 'Majoritariamente falso', label: 'Majoritariamente papo', color: '#f08f7a' },
   { verdict: 'Falso', label: 'Papo', color: '#f87171' },
   { verdict: 'Inconclusivo', label: 'Inconclusivo', color: '#94a3b8' },
 ]

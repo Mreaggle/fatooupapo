@@ -2,7 +2,10 @@ import { afterEach, describe, expect, it, vi } from 'vitest'
 import { fireEvent, render, screen, within } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import index from '../../public/snapshots/index.json'
-import { RecentDebates } from './RecentDebates'
+import { RecentDebates as Gallery } from './RecentDebates'
+import { useRecentDebates } from '../services/use-recent-debates'
+
+function RecentDebates() { return <Gallery {...useRecentDebates()} /> }
 
 afterEach(() => vi.unstubAllGlobals())
 
