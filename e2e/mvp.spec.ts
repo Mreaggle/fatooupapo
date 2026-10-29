@@ -164,3 +164,38 @@ test('pedido recusado é localizado automaticamente sem expor critérios', async
   await expect(page.getByRole('link', { name: /confirmar pedido/i })).toHaveCount(0)
   await expect(page.getByText(/palavra debate no título/i)).toHaveCount(0)
 })
+
+for (const debate of [
+  { id: 'C0ucX3GZo-c', claims: 135, lastCue: 3803, guests: ['Guilherme Cortez', 'Lucas Pavanato'] },
+  { id: 'l78NZP7riOA', claims: 92, lastCue: 3173, guests: ['Eduarda Campopiano', 'Mandi Coelho'] },
+]) {
+  test(`acervo editorial ${debate.id}: galeria, autoria, cores e íntegra`, async ({ page }, testInfo) => {
+    const failures: string[] = []
+    page.on('pageerror', (error) => failures.push(error.message))
+    await page.route('https://api.github.com/repos/Mreaggle/fatooupapo/issues?**', (route) => route.fulfill({ status: 200, contentType: 'application/json', body: '[]' }))
+    await page.goto('./')
+    const gallery = page.getByRole('region', { name: 'Debates checados recentemente' })
+    const link = gallery.locator(`a[href="?v=${debate.id}"]`)
+    await expect(link).toContainText(`${debate.claims} afirmações analisadas`)
+    await link.click()
+    await expect(page.getByRole('article')).toHaveCount(debate.claims)
+    const charts = page.getByRole('region', { name: 'Classificações por debatedor' })
+    for (const name of debate.guests) {
+      const speaker = charts.getByRole('group', { name: `Resumo de ${name}` })
+      await expect(speaker.getByRole('img')).toHaveAccessibleName(new RegExp(`${name}: \\d+ Fatos? e \\d+ Papos?`))
+      await expect(speaker).toContainText('Identificação do locutor sem índice numérico.')
+    }
+    await expect(charts).not.toContainText('Cobertura parcial')
+    await expect(page.locator('details').filter({ has: page.locator('summary', { hasText: 'Metodologia dos gráficos' }) })).not.toHaveAttribute('open')
+    await expect(page.locator('.claim-quote--false').first()).toBeVisible()
+    await expect(page.locator('.claim-conclusion').first()).toHaveCSS('color', 'rgb(130, 189, 145)')
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+    await charts.screenshot({ path: testInfo.outputPath(`graficos-${debate.id}.png`) })
+    const transcript = await page.request.get(`./transcripts/${debate.id}.md`)
+    expect(transcript.ok()).toBe(true)
+    expect(await transcript.text()).toContain(`bloco ${debate.lastCue}`)
+    await page.reload()
+    await expect(page.getByRole('article')).toHaveCount(debate.claims)
+    expect(failures).toEqual([])
+  })
+}

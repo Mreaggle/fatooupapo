@@ -12,6 +12,7 @@
     "test:e2e": "playwright test",
     "lint": "eslint .",
     "snapshots:build": "node scripts/build-snapshot-index.mjs",
+    "snapshots:editorial": "node scripts/build-editorial-debates.mjs",
     "snapshot:debate": "node scripts/create-first-snapshot.mjs",
     "analysis:prepare": "node scripts/analysis/prepare.ts",
     "analysis:run": "node scripts/analysis/run.ts",

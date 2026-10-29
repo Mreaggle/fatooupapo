@@ -1,0 +1,22 @@
+{
+  "method": "YouTube oEmbed and public ytInitialPlayerResponse.videoDetails/microformat",
+  "verifiedAt": "2026-10-29",
+  "videos": {
+    "C0ucX3GZo-c": {
+      "sourceUrl": "https://www.youtube.com/watch?v=C0ucX3GZo-c",
+      "title": "CORTEZ x PAVANATO - Flow Debate #001",
+      "channel": "Flow Podcast",
+      "lengthSeconds": 7128,
+      "publishDate": "2025-09-19T16:51:02-07:00",
+      "liveStartTimestamp": "2025-09-19T21:32:00+00:00"
+    },
+    "l78NZP7riOA": {
+      "sourceUrl": "https://www.youtube.com/watch?v=l78NZP7riOA",
+      "title": "DEBATE: EDUARDA CAMPOPIANO VS MANDI COELHO",
+      "channel": "RedCast [Oficial]",
+      "lengthSeconds": 6749,
+      "publishDate": "2025-08-11T18:42:53-07:00",
+      "liveStartTimestamp": "2025-08-11T23:03:58+00:00"
+    }
+  }
+}

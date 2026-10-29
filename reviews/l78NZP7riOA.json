@@ -1,0 +1,1298 @@
+{
+  "videoId": "l78NZP7riOA",
+  "referenceDate": "2025-08-11",
+  "claims": [
+    {
+      "cueStart": 106,
+      "cueEnd": 114,
+      "title": "Eduarda é vereadora de Praia Grande pelo PL, a mais jovem e a mulher mais votada da cidade",
+      "speaker": "Eduarda Campopiano",
+      "notes": "TSE2024 e Câmara Praia Grande; recorde histórico exige série.",
+      "verdict": "Inconclusivo",
+      "explanation": "O resultado eleitoral confirma a eleição de Eduarda pelo PL em Praia Grande em 2024. Os superlativos de mulher mais votada da história e parlamentar mais jovem exigem comparação com todas as legislaturas anteriores. Essa parte central da afirmação não foi certificada apenas pelo resultado daquele ano.",
+      "sources": [
+        "eduarda"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 3034,
+          "cueEnd": 3043
+        }
+      ]
+    },
+    {
+      "cueStart": 131,
+      "cueEnd": 139,
+      "title": "Mandi foi candidata em São Paulo pelo PSTU e milita no Rebeldia",
+      "speaker": null,
+      "notes": "TSE2024 e organização; não incluir dados cadastrais privados.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Mandi concorreu a vereadora de São Paulo pelo PSTU em 2024, sem ser eleita. Isso confirma a candidatura mencionada e sua vinculação partidária naquele pleito. A militância no Rebeldia é apresentada e confirmada por ela no próprio programa.",
+      "sources": [
+        "mandi"
+      ]
+    },
+    {
+      "cueStart": 145,
+      "cueEnd": 159,
+      "title": "Opinião Socialista é jornal quinzenal do PSTU",
+      "speaker": "Mandi Coelho",
+      "notes": "Expediente da edição na data; autoidentificação partidária é declaração própria.",
+      "verdict": "Verdadeiro",
+      "explanation": "O próprio PSTU descreve o Opinião Socialista como seu jornal quinzenal, inclusive ao anunciar o retorno da edição impressa. Confirma-se o vínculo e a periodicidade declarada, sem tratar o conteúdo partidário como apuração independente.",
+      "sources": [
+        "opiniao-socialista"
+      ]
+    },
+    {
+      "cueStart": 240,
+      "cueEnd": 251,
+      "title": "O Brasil passa há muitos anos por desindustrialização",
+      "speaker": "Mandi Coelho",
+      "notes": "Participação da indústria e transformação no PIB, não produção física total.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "As séries de participação da indústria de transformação no PIB mostram perda de peso ao longo de décadas. Esse é um sentido mensurável de desindustrialização; não significa que toda produção física industrial caiu em cada ano nem determina, sozinho, a responsabilidade de um governo.",
+      "sources": [
+        "industria"
+      ]
+    },
+    {
+      "cueStart": 252,
+      "cueEnd": 265,
+      "title": "Empresas já anunciaram fechar produção brasileira e ir aos EUA por causa das tarifas",
+      "speaker": "Mandi Coelho",
+      "notes": "Ver empresas nomeadas depois, distinguir anúncio condicional de fechamento consumado.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Havia empresas discutindo transferência de atividades, como a Taurus. O anúncio consultado descreve uma possibilidade condicionada às tarifas, não fechamento já consumado de uma série de fábricas. Previsões empresariais não são demissões ou mudanças de sede já verificadas.",
+      "sources": [
+        "taurus"
+      ]
+    },
+    {
+      "cueStart": 301,
+      "cueEnd": 310,
+      "title": "O Manifesto Comunista prevê imposto fortemente progressivo",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Texto original1848, não prova que toda taxa é socialista.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O capítulo II do Manifesto de 1848 inclui imposto de renda fortemente progressivo entre medidas propostas. Isso se refere à renda e progressividade, não torna todo tributo ou tarifa de importação equivalente nem impede criticar uma tarifa específica.",
+      "sources": [
+        "manifesto"
+      ]
+    },
+    {
+      "cueStart": 350,
+      "cueEnd": 360,
+      "title": "Portos e escolas brasileiros foram vendidos à China e políticos recebem financiamento chinês",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Portos: concessão versus território; escolas e políticos não identificados.",
+      "verdict": "Inconclusivo",
+      "explanation": "Portos, escolas, partidos e políticos não são individualizados. Participação acionária em operadora portuária não significa venda da soberania sobre o território. Sem contratos e prestações de contas identificados, não se confirmam as alegações de venda e financiamento político.",
+      "sources": []
+    },
+    {
+      "cueStart": 360,
+      "cueEnd": 379,
+      "title": "O Partido Comunista Chinês dirige um país que abriu o mercado",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Constituição da ChinaArt1/6/11 e reformas; rotular sistema inteiro é disputa conceitual.",
+      "verdict": "opinion",
+      "explanation": "A classificação do sistema chinês e a tese de que ele abriu mercados porque o comunismo não funciona são interpretações político-econômicas. O nome de um partido não basta para resolver essa definição; o argumento foi preservado sem voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 405,
+      "cueEnd": 420,
+      "title": "Oxfam prevê cinco trilionários na próxima década e concentração crescente",
+      "speaker": "Mandi Coelho",
+      "notes": "RelatórioTakersNotMakers2025: projeção, não fato futuro garantido.",
+      "verdict": "Verdadeiro",
+      "explanation": "O relatório Oxfam 2025 projetava cinco trilionários em uma década caso a tendência continuasse e registrava aumento da riqueza bilionária. É uma projeção da entidade, não cinco trilionários que já existiam no dia do debate.",
+      "sources": [
+        "oxfam"
+      ]
+    },
+    {
+      "cueStart": 421,
+      "cueEnd": 430,
+      "title": "Os Estados Unidos apoiaram o golpe militar brasileiro de 1964",
+      "speaker": "Mandi Coelho",
+      "notes": "Arquivos diplomáticos desclassificados e OperaçãoBrotherSam.",
+      "verdict": "Verdadeiro",
+      "explanation": "Os documentos reunidos pela Library of Congress registram o apoio dos EUA ao golpe de 1964 e a preparação de suporte logístico na Operação Brother Sam. A evidência sustenta a participação americana naquele episódio, sem provar toda generalização sobre sua política externa.",
+      "sources": [
+        "brother-sam"
+      ]
+    },
+    {
+      "cueStart": 431,
+      "cueEnd": 441,
+      "title": "As tarifas americanas tinham motivação política de defesa de Bolsonaro",
+      "speaker": "Mandi Coelho",
+      "notes": "Ordem executiva30julho2025 e carta9julho; não validar suas acusações como fatos.",
+      "verdict": "Verdadeiro",
+      "explanation": "A nota e a ordem da Casa Branca de julho de 2025 citam expressamente o processo de Bolsonaro e ações do Judiciário entre as justificativas das tarifas. Essa motivação política está documentada; qualificações morais sobre o ex-presidente não são decididas por essa evidência.",
+      "sources": [
+        "tarifas",
+        "tarifas-nota"
+      ]
+    },
+    {
+      "cueStart": 456,
+      "cueEnd": 465,
+      "title": "Bolsonaro ainda não tem condenação e não há áudio ou prova para condená-lo",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Data11ago2025: ação penalpendente, inelegibilidade eleitoraljáexistente e provas juntadas à denúncia.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Em 11/08/2025 ainda não havia condenação criminal no processo do golpe. Entretanto, o STF já havia recebido a denúncia em março, reconhecendo materialidade e indícios de autoria. Não haver sentença naquele momento não equivalia a não haver provas; os réus ainda tinham direito à defesa e presunção de inocência.",
+      "sources": [
+        "nucleo1"
+      ]
+    },
+    {
+      "cueStart": 466,
+      "cueEnd": 475,
+      "title": "Bolsonaro comprou vacina antes da maioria dos países e vacinou todos que precisavam",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Compras e início de aplicação não são iguais; nem cobertura100%, SUS multipartite.",
+      "verdict": "Inconclusivo",
+      "explanation": "O governo federal adquiriu vacinas e houve campanha, iniciada após a autorização da Anvisa em janeiro de 2021. Mas o trecho não fornece datas de contratos comparáveis de outros países nem cobertura por público elegível que comprove “antes da maioria” e “todo mundo”. Esses superlativos não foram certificados.",
+      "sources": [
+        "anvisa"
+      ]
+    },
+    {
+      "cueStart": 486,
+      "cueEnd": 505,
+      "title": "A pichadora do batom recebe mais prisão que estupradores e homicidas",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Débora14anos5crimes; CP121/213/217A variáveis.",
+      "verdict": "Falso",
+      "explanation": "As penas de homicídio e estupro variam e podem superar 17 anos, especialmente nos tipos qualificados. Débora foi condenada a 14 anos por cinco crimes, e não exclusivamente pelo batom. A comparação universal entre “senhorinha” e todos os criminosos mencionados não corresponde às faixas legais.",
+      "sources": [
+        "cp",
+        "debora"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 710,
+          "cueEnd": 723
+        }
+      ]
+    },
+    {
+      "cueStart": 490,
+      "cueEnd": 496,
+      "title": "Responsável pelo incêndio da estátua de Borba Gato não recebeu 17 anos",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Processo por incêndio e dano não necessariamente crimes contra instituições democráticas.",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica o réu e o processo do incêndio da estátua de Borba Gato. Para comparar penas, é preciso conferir as acusações e o estágio daquela ação. Eventos com dano patrimonial não têm necessariamente todos os mesmos elementos penais.",
+      "sources": []
+    },
+    {
+      "cueStart": 505,
+      "cueEnd": 510,
+      "title": "Há idosas com câncer presas sem individualização de conduta",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Casos não nomeados e condições de saúde não verificadas; não buscar dados médicos privados.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificadas as mulheres, os laudos médicos ou decisões que sustentariam as condições e a falta de individualização alegadas. Situações de saúde e prisão requerem verificar cada caso; não é seguro atribuir o relato a uma pessoa por palpite.",
+      "sources": []
+    },
+    {
+      "cueStart": 517,
+      "cueEnd": 525,
+      "title": "Regimes que se declaravam comunistas mataram dezenas de milhões de pessoas",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Estimativas históricas variam; distinguir regimes e cada defensora contemporânea.",
+      "verdict": "Inconclusivo",
+      "explanation": "Há documentação histórica de repressão e mortes sob esses regimes, mas o total agregado depende de países, períodos e critérios de atribuição — execução, fome ou guerra. O trecho não delimita essa soma de dezenas de milhões; ela não foi reproduzida nesta revisão.",
+      "sources": []
+    },
+    {
+      "cueStart": 535,
+      "cueEnd": 546,
+      "title": "O Brasil resgatou no Peru condenada ligada à Odebrecht",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Asilo diplomático deNadineHeredia autorizado pelo Peru não incursão militar.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Nadine Heredia recebeu asilo do Brasil após condenação no Peru e saiu com salvo-conduto autorizado pelo próprio governo peruano, nos termos da convenção de asilo. O episódio não foi uma retirada militar contra a autorização do país, como a comparação sobre soberania sugere.",
+      "sources": [
+        "nadine"
+      ]
+    },
+    {
+      "cueStart": 575,
+      "cueEnd": 585,
+      "title": "As tarifas elevam custos para consumidores americanos",
+      "speaker": "Mandi Coelho",
+      "notes": "Estudos de incidência tarifária e importadores, não presunção de100%repasse em2025.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Estudos sobre tarifas anteriores mostram repasse relevante aos importadores americanos e, de forma variável, a preços internos. Portanto, consumidores podem ser onerados. Não é repasse integral e idêntico para todos os produtos ou famílias, nem prova de um valor já observado em agosto de 2025.",
+      "sources": [
+        "tariff-pass"
+      ]
+    },
+    {
+      "cueStart": 581,
+      "cueEnd": 595,
+      "title": "Palestinos sofrem apartheid e a Rússia conduz guerra contra a Ucrânia",
+      "speaker": "Mandi Coelho",
+      "notes": "Separar avaliação jurídica de apartheid e invasão documentada; não julgar todos os civis culpados.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O parecer da CIJ de 2024 identificou discriminação sistemática e violação do artigo 3º da convenção que proíbe segregação racial e apartheid no território ocupado. Isso sustenta o contexto jurídico da crítica. O apoio político a trabalhadores e as demais qualificações do trecho são posições da debatedora.",
+      "sources": [
+        "ciJ"
+      ]
+    },
+    {
+      "cueStart": 610,
+      "cueEnd": 620,
+      "title": "Trinta por cento da produção eletroeletrônica brasileira vai para os EUA",
+      "speaker": "Mandi Coelho",
+      "notes": "Possível confusão com30%das exportações setoriais, Abinee.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O balanço da Abinee fala na participação dos EUA nas exportações do setor, não em 30% de toda a produção brasileira. Em 2024, os EUA receberam cerca de 26% das exportações eletroeletrônicas. Produção total e parcela exportada são denominadores diferentes.",
+      "sources": [
+        "abinee"
+      ]
+    },
+    {
+      "cueStart": 620,
+      "cueEnd": 630,
+      "title": "Mais de 10 mil empresas e 3,2 milhões de trabalhadores serão afetados e ficarão sem emprego",
+      "speaker": "Mandi Coelho",
+      "notes": "Empregados de firmas exportadoras não equivale a todos demitidos; estimativa de exposição.",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho transforma trabalhadores potencialmente expostos a empresas exportadoras em desempregados certos. Não foi identificada a base que define as dez mil empresas e os 3,2 milhões de postos, nem cenário que comprove perda de todos esses empregos; exposição não equivale a demissão.",
+      "sources": []
+    },
+    {
+      "cueStart": 622,
+      "cueEnd": 625,
+      "title": "A cidade de Eduarda tem cerca de 300 mil moradores",
+      "speaker": null,
+      "notes": "PraiaGrandeIBGE2022/2024; fala arredondada.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Censo 2022 registrou 349.935 habitantes em Praia Grande. A expressão cerca de 300 mil é uma aproximação grosseira da ordem de grandeza, não o valor exato do censo. Usá-la numa comparação com empregos nacionais não mede o impacto econômico sobre o município.",
+      "sources": [
+        "ibge-pg"
+      ]
+    },
+    {
+      "cueStart": 630,
+      "cueEnd": 640,
+      "title": "A Taurus fechará a empresa no Brasil e transferirá metade da produção aos EUA",
+      "speaker": "Mandi Coelho",
+      "notes": "Plano de contingência condicional não fechamento integral anunciado.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A declaração empresarial era de possível transferência da produção sob tarifa de 50%, com avaliação de alternativas. A fonte não confirma fechamento definitivo da empresa no Brasil nem demissão automática de metade dos empregados. O trecho apresenta uma condição como consequência já certa.",
+      "sources": [
+        "taurus"
+      ]
+    },
+    {
+      "cueStart": 685,
+      "cueEnd": 705,
+      "title": "As três doses tomadas por Mandi foram todas compradas pelo governo Bolsonaro",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Datas/fabricantes pessoais não fornecidos; não acessar prontuário; a oferta SUS é documentada.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram apresentados datas, fabricantes, lotes ou registros das três doses de Mandi. A existência de compras federais não comprova quem adquiriu cada dose individual nem quando foi aplicada. Não é necessário expor dados médicos pessoais para manter a afirmação sem conclusão.",
+      "sources": []
+    },
+    {
+      "cueStart": 710,
+      "cueEnd": 723,
+      "title": "A pena da mulher do batom supera a de qualquer estuprador ou assassino",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Repetição comparativa, preservar contexto de vários delitos.",
+      "verdict": "repetition",
+      "explanation": "Comparação de penas reunida ao item 14, sem voto adicional.",
+      "sources": [],
+      "duplicateOf": 14
+    },
+    {
+      "cueStart": 725,
+      "cueEnd": 735,
+      "title": "Black blocs mataram pessoas e o dano da pichação custou só três reais",
+      "speaker": "Eduarda Campopiano",
+      "notes": "CasoSantiagoAndrade e cálculo do dano patrimonial não fornecido.",
+      "verdict": "Inconclusivo",
+      "explanation": "“Black bloc” não identifica um autor ou caso criminal, e não é apresentado orçamento de limpeza que sustente o custo de R$ 3. A sentença de Débora considera cinco crimes; custo de uma lavagem isolada não representa toda a imputação ou todos os danos.",
+      "sources": [
+        "debora"
+      ]
+    },
+    {
+      "cueStart": 735,
+      "cueEnd": 745,
+      "title": "Cerca de 1500 pessoas foram presas no 8 de Janeiro e idosa 70 anos recebeu quase 20 anos",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Datas e casos diferentes; não presumir que todas tiveram mesma condenação.",
+      "verdict": "Inconclusivo",
+      "explanation": "O STF registrou grande número de prisões e situações processuais distintas, mas o trecho não identifica a mulher de 70 anos e a sentença de quase vinte anos. Não se pode transferir idade, saúde ou pena de um caso para outro, inclusive para Débora.",
+      "sources": [
+        "stf-balanco"
+      ]
+    },
+    {
+      "cueStart": 745,
+      "cueEnd": 755,
+      "title": "Pessoas que jogaram tinta na casa de Cármen Lúcia não responderam por golpe",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Tipificações e contextos distintos; investigar episódio2018 sem expor endereço residencial.",
+      "verdict": "Inconclusivo",
+      "explanation": "A manifestação e os processos não são individualizados. Comparar tinta no prédio residencial com os crimes de 8 de janeiro exige examinar atos, intenção e enquadramento legal; dano visual semelhante não demonstra equivalência jurídica.",
+      "sources": []
+    },
+    {
+      "cueStart": 775,
+      "cueEnd": 800,
+      "title": "Alexandre de Moraes foi aprovado pelo Senado em 2017 com apoio da direita e oposição do PT",
+      "speaker": "Mandi Coelho",
+      "notes": "Voto secreto55a13; não é possível identificar todos os votos pessoais.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Moraes foi aprovado em 2017 por 55 votos a 13 após indicação de Temer. Houve votação secreta: o resultado não permite atribuir cada voto a todos os senadores “de direita”. Orientação de partido e pronunciamento público não são prova de todos os votos individuais.",
+      "sources": [
+        "moraes"
+      ]
+    },
+    {
+      "cueStart": 825,
+      "cueEnd": 835,
+      "title": "Bolsonaro disse que não era coveiro durante a pandemia",
+      "speaker": "Mandi Coelho",
+      "notes": "Registro de declaração em2020; isso não prova contrafactual de todas as mortes.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Bolsonaro respondeu que não era coveiro ao ser questionado sobre mortes por coronavírus em 20 de abril de 2020; o registro da entrevista confirma a atribuição. A conclusão de que todos teriam morrido se dependesse dele é um exagero contrafactual, não uma estimativa demonstrada por essa declaração.",
+      "sources": [
+        "coveiro"
+      ]
+    },
+    {
+      "cueStart": 900,
+      "cueEnd": 912,
+      "title": "A classe trabalhadora é 99% e bilionários e cinco trilionários são 1% da população",
+      "speaker": "Mandi Coelho",
+      "notes": "Slogan1%maisrico não número de bilionários, definição de classe não delimitada.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A projeção da Oxfam era de cinco possíveis trilionários, sem afirmar que eles ou todos os bilionários fossem 1% da população mundial. “99%” pode ser um slogan de desigualdade, mas não é uma contagem da classe trabalhadora definida e medida no trecho.",
+      "sources": [
+        "oxfam"
+      ]
+    },
+    {
+      "cueStart": 925,
+      "cueEnd": 940,
+      "title": "Zé Maria de Almeida foi operário, torturado e ficou 40 dias preso antes de entrar na Liga Operária",
+      "speaker": "Mandi Coelho",
+      "notes": "ComissãoVerdade e relato primário; não inventar prazo se fonte não confirmar.",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato de Zé Maria é uma referência biográfica, mas não foi localizado registro primário que confirme conjuntamente as circunstâncias, a ordem de contato com a Liga Operária e o prazo de quarenta dias. A ausência dessa confirmação não significa negar a repressão do período.",
+      "sources": []
+    },
+    {
+      "cueStart": 945,
+      "cueEnd": 970,
+      "title": "Amelinha Teles foi torturada pelo aparato comandado por Ustra, inclusive diante dos filhos",
+      "speaker": "Mandi Coelho",
+      "notes": "CNV e decisão civil Ustra; métodos específicos requerem testemunho, sem detalhes gráficos desnecessários.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Arquivo Nacional registra tortura de Amelinha e a exposição dos filhos a sessões sob comando de Ustra. Isso confirma o núcleo da narrativa. Métodos específicos adicionais e a fotografia mencionada exigem testemunho e identificação próprios; não foram automaticamente atribuídos a ela.",
+      "sources": [
+        "amelinha"
+      ]
+    },
+    {
+      "cueStart": 950,
+      "cueEnd": 960,
+      "title": "Bolsonaro homenageou Ustra na votação do impeachment de 2016",
+      "speaker": "Mandi Coelho",
+      "notes": "Vídeo e ata da sessão Câmara17abr2016.",
+      "verdict": "Verdadeiro",
+      "explanation": "A Câmara registra a referência à memória de Ustra no voto de Bolsonaro na sessão do impeachment de 17/04/2016, inclusive como fundamento da abertura de procedimento disciplinar. A homenagem é documentalmente verificável.",
+      "sources": [
+        "ustra"
+      ]
+    },
+    {
+      "cueStart": 975,
+      "cueEnd": 990,
+      "title": "Bolsonaro e presos do 8 de Janeiro não foram torturados como na ditadura",
+      "speaker": "Mandi Coelho",
+      "notes": "Afirmação negativa sobre todos os casos não pode ser provada sem registros; comparar regimes não elimina direitos.",
+      "verdict": "Inconclusivo",
+      "explanation": "A comparação entre regimes não prova ausência de maus-tratos em todos os casos de prisão. Seria necessário identificar e examinar denúncias e procedimentos. Não se certifica um “nenhum foi torturado” por falta de relato no trecho, nem se equiparam automaticamente contextos históricos distintos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1025,
+      "cueEnd": 1035,
+      "title": "Hamas é partido político e elege pessoas",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Atribui fala aMandi que confirma; Hamas tem dimensão política e armada.",
+      "verdict": "repetition",
+      "explanation": "O trecho cita uma fala da adversária para formular uma pergunta. A afirmação sobre a eleição do Hamas é analisada na entrada 43, atribuída à própria Mandi.",
+      "sources": [],
+      "duplicateOf": 43
+    },
+    {
+      "cueStart": 1037,
+      "cueEnd": 1042,
+      "title": "Hamas cometeu estupros e colocou bebês em fornos",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Separar violência sexualdocumentada e alegação específica não verificada; relatóriosONU.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A missão da ONU encontrou fundamentos para concluir que houve violência sexual, inclusive estupros, em locais atacados em 7 de outubro. Isso não confirma a narrativa específica de bebês colocados em fornos: não foi localizada comprovação para esse episódio. Reunir as duas alegações apresenta como igualmente estabelecido o que tem níveis diferentes de evidência.",
+      "sources": [
+        "onu-7out"
+      ]
+    },
+    {
+      "cueStart": 1043,
+      "cueEnd": 1044,
+      "title": "Homossexuais são condenados à morte pelo Hamas",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Código penalvigenteGaza de1936 prevê10anos para atos; morte/imputações extrajudiciais precisamcaso; não generalizar toda população.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A norma penal aplicada em Gaza criminaliza relações sexuais entre homens, com pena de até dez anos, segundo o Human Dignity Trust. Ela não prevê pena de morte por essa conduta. Relatos de violência extrajudicial exigem casos e evidências próprios; não equivalem a uma condenação legal automática de homossexuais.",
+      "sources": [
+        "gaza-lei"
+      ]
+    },
+    {
+      "cueStart": 1045,
+      "cueEnd": 1048,
+      "title": "Hamas divulgou reféns cavando a própria cova",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Vídeo deagosto2025 EvyatarDavid divulgado porgrupo aliado JihadIslâmica? conferir organização e data sem reproduzir imagem de refém.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Em 2 de agosto de 2025 foi divulgado um vídeo do Hamas em que o refém Evyatar David era forçado a cavar o que foi apresentado como sua própria cova. Há confirmação desse caso específico; ele sustenta o núcleo da fala, sem demonstrar quantos outros reféns foram submetidos à mesma prática.",
+      "sources": [
+        "refem-cova"
+      ]
+    },
+    {
+      "cueStart": 1049,
+      "cueEnd": 1064,
+      "title": "Hamas usa escolas, hospitais e civis como escudos",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Casos documentados não provam todo hospital/alvo; ônus de verificar cada ataque.",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala generaliza o uso de hospitais, escolas e moradores como escudos sem indicar instalações, datas ou uma investigação específica. O material localizado nesta revisão não permite certificar todos esses episódios ou a intenção atribuída a cada uso civil. A acusação permanece sem conclusão neste registro.",
+      "sources": []
+    },
+    {
+      "cueStart": 1065,
+      "cueEnd": 1075,
+      "title": "A ditadura começou para reagir à luta armada comunista e Dilma participou de carro-bomba",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Cronologia1964 e grupos armadosposteriores; participação específica não provada por vínculo político.",
+      "verdict": "Majoritariamente falso",
+      "explanation": "A cronologia não sustenta apresentar o golpe de 1964 apenas como reação às organizações armadas em que Dilma atuou depois: o Colina se formou em 1967. A checagem do atentado ao quartel em 1968 também não encontrou participação dela; pertencer a uma organização não comprova autoria de cada ação de seus integrantes.",
+      "sources": [
+        "dilma-fgv",
+        "dilma-atentado"
+      ]
+    },
+    {
+      "cueStart": 1090,
+      "cueEnd": 1105,
+      "title": "Hamas é o partido eleito atualmente na Faixa de Gaza",
+      "speaker": "Mandi Coelho",
+      "notes": "Eleições legislativas2006 e controle2007, não votação recente nem toda Palestina.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Hamas venceu as eleições legislativas palestinas de janeiro de 2006 e tomou o controle de Gaza em junho de 2007, após confronto com o Fatah. Há uma atuação política e eleitoral histórica, mas dizer que está eleito atualmente omite a ausência de renovação daquele mandato e a tomada armada do território.",
+      "sources": [
+        "hamas-eleicao"
+      ]
+    },
+    {
+      "cueStart": 1108,
+      "cueEnd": 1124,
+      "title": "Há mulheres e crianças morrendo de fome e Israel restringe ajuda humanitária",
+      "speaker": "Mandi Coelho",
+      "notes": "OCHA/UNICEF/OMS dadosanteriores11ago2025; não aplicar declaração de fome posterior como se anterior.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O informe da OCHA de 7 de agosto de 2025 registra restrições à entrada e distribuição de ajuda e mortes por desnutrição, inclusive de crianças. Isso confirma o núcleo humanitário da fala. Juízos sobre a legitimidade de um Estado são posições políticas; este item não os transforma em conclusão factual nem antecipa declarações posteriores sobre fome.",
+      "sources": [
+        "ocha311"
+      ]
+    },
+    {
+      "cueStart": 1192,
+      "cueEnd": 1209,
+      "title": "O vídeo Adultização de Felca passou de 30 milhões em menos de uma semana e defende regulação",
+      "speaker": "Mandi Coelho",
+      "notes": "Vídeo6ago2025 e registro contemporâneo de views, não contador atual.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O alcance superior a 30 milhões de visualizações já era noticiado em 11 de agosto, poucos dias após a publicação do vídeo Adultização. A parte mensurável da fala é compatível com esse registro contemporâneo. A tese de que uma regulamentação impediria toda circulação de conteúdo abusivo é uma previsão, tratada separadamente no inventário.",
+      "sources": [
+        "felca"
+      ]
+    },
+    {
+      "cueStart": 1210,
+      "cueEnd": 1225,
+      "title": "Se houvesse regulamentação nenhum conteúdo de exploração poderia circular",
+      "speaker": "Mandi Coelho",
+      "notes": "Regulação não garante eliminação absoluta; inferência e eficácia, evitar tratar proposta como dado observado.",
+      "verdict": "opinion",
+      "explanation": "Trata-se de uma previsão sobre uma regulamentação hipotética e de uma interpretação política da posição da adversária. Não há uma medida definida ou resultado observável que permita pontuar esse contrafactual como fato ou papo.",
+      "sources": []
+    },
+    {
+      "cueStart": 1238,
+      "cueEnd": 1254,
+      "title": "Produção, venda e posse de material de abuso sexual infantil já são crimes",
+      "speaker": "Eduarda Campopiano",
+      "notes": "ECA240,241,241-A/B desde2008.",
+      "verdict": "Verdadeiro",
+      "explanation": "Os artigos 240, 241, 241-A e 241-B do ECA já criminalizavam, antes do debate, produzir, vender, divulgar e adquirir ou armazenar material com cenas de sexo explícito ou pornográficas envolvendo crianças e adolescentes. A existência desses crimes não garante que todo responsável seja identificado ou punido.",
+      "sources": [
+        "eca2025"
+      ]
+    },
+    {
+      "cueStart": 1260,
+      "cueEnd": 1286,
+      "title": "O MPF pediu R$ 5 milhões de Damares por declarações sobre o Marajó",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Ação2024 sobre fala2022, não punição por denunciar violência real; ação não condenação.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A ação noticiada em setembro de 2023 pediu R$ 5 milhões por declarações de Damares num culto em 2022. O motivo alegado não foi simplesmente denunciar abusos: a ação questionou relatos sensacionalistas sem comprovação e seus efeitos sobre a população do Marajó. Pedido de indenização também não equivale a condenação.",
+      "sources": [
+        "marajo"
+      ]
+    },
+    {
+      "cueStart": 1294,
+      "cueEnd": 1310,
+      "title": "Sound of Freedom trata de tráfico sexual infantil e recebeu críticas de teorias conspiratórias",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Sinopse oficial, crítica ideológica não evidência de conivência com abuso.",
+      "verdict": "Inconclusivo",
+      "explanation": "O filme aborda tráfico sexual infantil, mas a fala atribui um posicionamento uniforme à esquerda e a jornais não identificados. Sem textos, autores e datas específicos, não é possível verificar o conjunto das críticas nem concluir que criticar o filme significava apoiar exploração infantil.",
+      "sources": []
+    },
+    {
+      "cueStart": 1320,
+      "cueEnd": 1330,
+      "title": "Em qualquer baile funk há adolescentes engravidando e pedindo aborto",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Generalização sobre todos os bailes e causalidade, sem base verificável.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não é apresentada pesquisa que demonstre gravidez e pedido de aborto em todos os bailes funk. Casos individuais não permitem generalizar esse comportamento a cada evento ou a suas participantes. A revisão não localizou base para certificar a frequência universal alegada.",
+      "sources": []
+    },
+    {
+      "cueStart": 1330,
+      "cueEnd": 1340,
+      "title": "Uma mãe deixou criança para ir ao baile e foi punida após homem a encontrar",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Caso e local não nomeados; não identificar criança privada ou associar a um caso por palpite.",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato não identifica município, data, registro da ocorrência ou decisão sobre a mãe. Esses elementos são necessários para distinguir investigação, medida protetiva e punição. Não foi possível vincular com segurança a narrativa a um caso documentado, sem presumir a identidade de uma criança.",
+      "sources": []
+    },
+    {
+      "cueStart": 1450,
+      "cueEnd": 1472,
+      "title": "Feministas discutem violência sexual desde sempre e adversários a negam",
+      "speaker": "Mandi Coelho",
+      "notes": "Generalização histórica e de posição política; não é mensuração sem marco/definição.",
+      "verdict": "opinion",
+      "explanation": "O trecho faz uma avaliação geral da tradição feminista e da posição de adversários políticos. Sem período, grupo delimitado ou conduta específica, expressões como desde sempre e vocês sempre negaram não formam uma proposição mensurável.",
+      "sources": []
+    },
+    {
+      "cueStart": 1495,
+      "cueEnd": 1500,
+      "title": "Deputados de esquerda votaram contra castração química para criminosos sexuais",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Votação nominal Câmara2024, PSTUnão tem representação federal; não imputar voto aMandi.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Câmara aprovou em dezembro de 2024 uma emenda de castração química por 267 votos a 85 e enviou a proposta ao Senado. Isso comprova que houve votos contrários, não que rejeitar essa medida signifique apoiar pedofilia. A fala não identifica votantes e Mandi não exercia mandato parlamentar federal.",
+      "sources": [
+        "castracao"
+      ]
+    },
+    {
+      "cueStart": 1515,
+      "cueEnd": 1525,
+      "title": "PL 2630 não é focado só em pedofilia e lei municipal proíbe contratar condenados por crimes sexuais infantis",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Separar objeto geral das plataformas e provisões de proteção, leiPG e iniciativa.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O PL 2630 trata de transparência e responsabilidade na internet, não apenas de abuso infantil. Praia Grande publicou a Lei 2.244/2025, mas ela restringe cargos ligados a trabalho ou atendimento a crianças, não qualquer cargo público, e previa 180 dias para entrar em vigor. O texto legal consultado não certifica sozinho a autoria alegada.",
+      "sources": [
+        "pl2630",
+        "pg2244"
+      ]
+    },
+    {
+      "cueStart": 1590,
+      "cueEnd": 1615,
+      "title": "Abortos clandestinos ocorrem no Brasil e atingem mais as mulheres pobres",
+      "speaker": "Mandi Coelho",
+      "notes": "PNA e pesquisas de hospitalizações, desigualdade de segurança, sem assumir que toda rica aborta.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Pesquisa Nacional de Aborto documenta a ocorrência de abortos no Brasil e desigualdades associadas a renda, escolaridade e raça. Registros de saúde mostram mortes e internações relacionadas a aborto. Isso sustenta o problema sanitário e social, sem permitir afirmar que toda mulher rica usa serviço seguro ou que toda mulher pobre passa pela mesma situação.",
+      "sources": [
+        "pna2021",
+        "mortalidade-aborto"
+      ]
+    },
+    {
+      "cueStart": 1633,
+      "cueEnd": 1645,
+      "title": "Aborto é sempre assassinato mesmo em casos de estupro",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Juízo moral versus tipos penais específicos e exceções CP128/ADPF54; não rotular opinião religiosa como fato científico.",
+      "verdict": "opinion",
+      "explanation": "A debatedora declara sua posição moral contrária ao aborto em qualquer circunstância. Essa avaliação de valor não é pontuada. As hipóteses em que o aborto não é punido no direito brasileiro são verificadas na entrada 71.",
+      "sources": []
+    },
+    {
+      "cueStart": 1650,
+      "cueEnd": 1660,
+      "title": "Estupradores saem em saidinhas e voltam a estuprar",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Regras temporais deLei14843/2024 e vedação sem retroatividade; frequência não informada.",
+      "verdict": "Inconclusivo",
+      "explanation": "Há mudanças legais que restringiram saídas temporárias em 2024, mas o STJ decidiu que restrições mais graves não retroagem a crimes anteriores. Portanto, a situação depende da data do delito e dos requisitos da execução. Não foi apresentada uma série que sustente a frequência de novos estupros durante saídas alegada no trecho.",
+      "sources": [
+        "saidinhas-stj"
+      ]
+    },
+    {
+      "cueStart": 1665,
+      "cueEnd": 1673,
+      "title": "A ONU cobrou Dilma em 2014 porque 200 mil mulheres morriam de aborto por ano",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Provável confusão de hospitalizações com óbitos; fonteOMS/MinSaúde.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Não foi confirmado um documento da ONU com a cifra de 200 mil mortes anuais por aborto no Brasil. Essa ordem de grandeza aparece em discussões sobre atendimentos e internações, que são medidas diferentes de óbitos. Eduarda contesta a cifra; o erro verificado é a atribuição e a mistura de indicadores, não uma defesa de que ela seria verdadeira.",
+      "sources": [
+        "mortalidade-aborto"
+      ]
+    },
+    {
+      "cueStart": 1669,
+      "cueEnd": 1673,
+      "title": "O Brasil não registra 200 mil mortes por ano",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Se totalóbitos, IBGEregistra mais1milhão; contexto pode se referir só aoaborto.",
+      "verdict": "repetition",
+      "explanation": "No contexto, a frase contesta o número de mortes por aborto, não o total de óbitos de todas as causas no Brasil. Esse mesmo argumento e a confusão entre mortes e atendimentos já são examinados na entrada 58.",
+      "sources": [],
+      "duplicateOf": 58
+    },
+    {
+      "cueStart": 1674,
+      "cueEnd": 1685,
+      "title": "Os dados de aborto são inflados e contam abortos espontâneos e mortes de bebês em gravidez ectópica",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Categorias maternas O00-O08 versus óbitosfetais; mulheres hospitalizadas não bebês mortos.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A classificação O00–O08 reúne gravidez que termina em aborto, incluindo ectópica e aborto espontâneo. Em estatísticas de mortalidade materna, o óbito contado é o da mulher; a morte isolada do embrião ou feto não vira óbito materno. Somar categorias diferentes pode exigir recortes, mas não demonstra inflação por contar bebês como mulheres.",
+      "sources": [
+        "mortalidade-aborto"
+      ]
+    },
+    {
+      "cueStart": 1687,
+      "cueEnd": 1696,
+      "title": "Em países com aborto legal a minoria ocorre por estupro",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Pesquisa primária de motivos emEUA e limite de universalização.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Uma pesquisa com pacientes de clínicas dos Estados Unidos encontrou estupro entre os motivos em cerca de 1% das respostas. Ela sustenta a baixa frequência naquele levantamento, mas não mede todos os países onde o aborto é legal nem permite transformar uma amostra nacional em regra universal.",
+      "sources": [
+        "motivos"
+      ]
+    },
+    {
+      "cueStart": 1740,
+      "cueEnd": 1746,
+      "title": "Brasil Paralelo estima 80 a 100 mil abortos anuais",
+      "speaker": "Mandi Coelho",
+      "notes": "Conferir fonte original; pode haver erro na transcrição800mil-1milhão.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificado o levantamento do Brasil Paralelo que corresponderia exatamente a essa faixa e ao período mencionado. A legenda também pode conter erro de reconhecimento numérico. Sem a publicação original e a conferência do áudio, não é possível certificar o número nem imputar erro à debatedora.",
+      "sources": []
+    },
+    {
+      "cueStart": 1751,
+      "cueEnd": 1769,
+      "title": "Só 25% dos abortos no Brasil são seguros e 75% inseguros",
+      "speaker": "Mandi Coelho",
+      "notes": "FonteOMS1em4 em paísesrestritivos não estimativa nacional exata.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A estimativa de aproximadamente um quarto de abortos seguros citada pela OMS refere-se ao conjunto de países com legislação muito restritiva, em pesquisa sobre 2010–2014. Ela não é uma medição específica de 25% para o Brasil. Também não estabelece que cada procedimento inseguro produza trauma psicológico.",
+      "sources": [
+        "oms-aborto"
+      ]
+    },
+    {
+      "cueStart": 1796,
+      "cueEnd": 1810,
+      "title": "Oposição à legalização implica criminalizar aborto espontâneo",
+      "speaker": "Mandi Coelho",
+      "notes": "CPexigeprovocação, não pune perda espontânea; hipótese não posição expressa pela adversária.",
+      "verdict": "Falso",
+      "explanation": "O Código Penal trata da provocação do aborto e prevê hipóteses de não punição. A perda espontânea da gestação, sem conduta criminosa que a provoque, não é punida como aborto provocado. Ser contra uma ampliação das hipóteses legais não cria automaticamente um crime de aborto espontâneo.",
+      "sources": [
+        "cp"
+      ]
+    },
+    {
+      "cueStart": 1835,
+      "cueEnd": 1847,
+      "title": "Não existe aborto seguro porque todo aborto oferece riscos",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Segurança não é riscozero; classificaçãoOMS de procedimentos seguros.",
+      "verdict": "Majoritariamente falso",
+      "explanation": "Segurança clínica não significa risco zero. A OMS distingue procedimentos seguros, realizados com método adequado e condições clínicas apropriadas, de procedimentos inseguros. A revisão das National Academies também documenta segurança e baixa frequência de complicações dos métodos legais avaliados; reconhecer riscos possíveis não elimina essa classificação.",
+      "sources": [
+        "oms-aborto",
+        "nacem2018"
+      ]
+    },
+    {
+      "cueStart": 1844,
+      "cueEnd": 1852,
+      "title": "Aborto aumenta risco de câncer de útero",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Buscar estudo primário específico endométrio, não usar câncer de mama como se fosse útero.",
+      "verdict": "Majoritariamente falso",
+      "explanation": "A afirmação de aumento do risco não é sustentada pelo grande estudo dinamarquês sobre câncer de endométrio: a primeira gestação, terminada em parto ou aborto induzido, esteve associada a risco menor do que nenhuma gestação. O estudo é observacional e trata do endométrio; não demonstra risco zero para todos os cânceres uterinos.",
+      "sources": [
+        "endometrio"
+      ]
+    },
+    {
+      "cueStart": 1848,
+      "cueEnd": 1856,
+      "title": "Aborto causa depressão, ansiedade e suicídio",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Turnawayprospectivo distingue efeitos de gestação indesejada, confusão e causalidade.",
+      "verdict": "Majoritariamente falso",
+      "explanation": "A revisão das National Academies de 2018 concluiu que abortar não aumenta o risco de depressão, ansiedade ou estresse pós-traumático. Estudos que controlam condições anteriores também não sustentam a causalidade ampla alegada. Isso não nega sofrimento individual nem autoriza dizer que qualquer associação observada com suicídio foi causada pelo procedimento.",
+      "sources": [
+        "nacem2018",
+        "turnaway"
+      ]
+    },
+    {
+      "cueStart": 1884,
+      "cueEnd": 1912,
+      "title": "Todos os abortos são eugenia e maioria global vitima meninas, negros ou deficientes",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Juízo de toda prática não é dado demográfico; não inferir composição global por relatos de seleção.",
+      "verdict": "repetition",
+      "explanation": "O trecho reúne um juízo moral sobre eugenia e três exemplos quantitativos. O juízo não é pontuado; as cifras e a alegação de maioria são examinadas nas entradas 69, 70 e 77, sem acrescentar outro voto pelo mesmo argumento.",
+      "sources": [],
+      "duplicateOf": 77
+    },
+    {
+      "cueStart": 1894,
+      "cueEnd": 1903,
+      "title": "A Islândia aborta 100% dos fetos diagnosticados com Down",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Séries oficiaisLandspitali/Iceland, diagnóstico pré-natal versus todos os nascimentos.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O percentual de 100% foi reportado para 38 diagnósticos pré-natais na Islândia entre 2007 e 2012. Isso não equivale a uma regra permanente em 2025, a todos os fetos com Down ou a toda a Europa. O próprio registro menciona nascimentos de crianças com a síndrome; diagnóstico pré-natal e total de nascimentos são universos diferentes.",
+      "sources": [
+        "down-islandia"
+      ]
+    },
+    {
+      "cueStart": 1904,
+      "cueEnd": 1910,
+      "title": "Mulheres negras têm 46% mais chance de abortar e seleção de sexo evitou 23 milhões de meninas desde 1970",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Separar PNA razãochance e PNASEstudo2019período1970-2017.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A PNA encontrou probabilidade de já ter abortado 46% maior entre mulheres negras na amostra combinada e ponderada. O estudo de seleção por sexo teve uma correção em junho de 2019 que alterou a estimativa de nascimentos femininos ausentes; repetir a cifra original sem essa ressalva é incompleto. Nenhum dos estudos demonstra que todo aborto seja eugenia.",
+      "sources": [
+        "pna-raca",
+        "chao-corr"
+      ]
+    },
+    {
+      "cueStart": 1940,
+      "cueEnd": 1950,
+      "title": "Aborto é permitido por estupro e anencefalia no Brasil",
+      "speaker": "Mandi Coelho",
+      "notes": "CP128 eADPF54; falta mencionar risco de vida não torna lista exaustiva.",
+      "verdict": "Verdadeiro",
+      "explanation": "O artigo 128 do Código Penal prevê não punição do aborto realizado por médico quando necessário para salvar a vida da gestante ou em gravidez resultante de estupro, com o consentimento exigido. Em 2012, o STF também afastou a criminalização da interrupção de gestação de feto anencéfalo na ADPF 54. As hipóteses mencionadas existem.",
+      "sources": [
+        "cp",
+        "adpf54"
+      ]
+    },
+    {
+      "cueStart": 2012,
+      "cueEnd": 2021,
+      "title": "Definição de mulher e pessoa que gesta",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Conceito de mulher/sexo/gênero deve ficar explícito; homens trans podem gestar se conservam órgãos funcionais.",
+      "verdict": "opinion",
+      "explanation": "O trecho define mulher pelo sexo e pelos órgãos reprodutivos; não afirma expressamente que só quem se identifica no gênero feminino possa gestar. A disputa terminológica é uma posição conceitual, não deve ser transformada em uma afirmação diferente para pontuação. A capacidade reprodutiva e sua relação com identidade de gênero são esclarecidas na entrada 76.",
+      "sources": []
+    },
+    {
+      "cueStart": 2021,
+      "cueEnd": 2026,
+      "title": "O catecismo católico protege a vida desde a concepção",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Vaticano2270, doutrina não regra estatal.",
+      "verdict": "Verdadeiro",
+      "explanation": "O parágrafo 2270 do Catecismo determina proteção da vida humana desde a concepção. A atribuição da doutrina à Igreja Católica está correta. Confirmar o conteúdo de uma crença não a transforma em regra jurídica geral ou em prova de consenso sobre o estatuto moral do embrião.",
+      "sources": [
+        "catecismo"
+      ]
+    },
+    {
+      "cueStart": 2027,
+      "cueEnd": 2035,
+      "title": "Jérôme Lejeune descobriu o gene da síndrome de Down e há consenso sobre início da vida",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Trissomia do21 não gene único; descoberta1959 comGautier/Turpin; biologia não fixa pessoa moral/jurídica.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Lejeune, Gautier e Turpin publicaram em 1959 a relação entre síndrome de Down e trissomia do cromossomo 21. Não se trata da descoberta de um único gene. Uma posição pessoal de Lejeune também não demonstra consenso médico sobre pessoa moral, direitos ou permissibilidade do aborto, questões distintas da descrição do desenvolvimento biológico.",
+      "sources": [
+        "trissomia"
+      ]
+    },
+    {
+      "cueStart": 2046,
+      "cueEnd": 2058,
+      "title": "O modelo mostrado reproduz exatamente um feto de 12 semanas",
+      "speaker": "Eduarda Campopiano",
+      "notes": "SRT não permite medir objeto; crescimento12sem aproximadamente5,4cmCRL.",
+      "verdict": "Inconclusivo",
+      "explanation": "O SRT registra a apresentação de um objeto, mas não fornece imagem, escala ou medidas. Um guia clínico descreve cerca de 5,4 cm da cabeça às nádegas na semana 12; sem examinar o modelo mostrado, não é possível conferir se ele reproduz exatamente tamanho e proporções.",
+      "sources": [
+        "feto12"
+      ]
+    },
+    {
+      "cueStart": 2080,
+      "cueEnd": 2086,
+      "title": "A capacidade de gestar depende do útero, não só da identidade declarada",
+      "speaker": "Mandi Coelho",
+      "notes": "Evitar dizer todo portador deútero é fértil; diretrizes de gestação trans.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A possibilidade de gestar depende da anatomia e da função reprodutiva, não apenas da identidade de gênero. A orientação clínica da FSRH considera risco de gravidez em homens trans e pessoas não binárias que conservam órgãos reprodutivos funcionais. Ter útero, isoladamente, não garante fertilidade nem capacidade de levar qualquer gestação adiante.",
+      "sources": [
+        "trans-gestacao"
+      ]
+    },
+    {
+      "cueStart": 2241,
+      "cueEnd": 2256,
+      "title": "A maioria dos fetos abortados no mundo é feminina, negra ou tem deficiência",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Sem registroglobal de sexo/raça/deficiência para todos os abortos; seleção23milhões em47anos não prova maioria global.",
+      "verdict": "Inconclusivo",
+      "explanation": "Pesquisas mostram seleção por sexo em países específicos e desigualdades raciais em amostras brasileiras. Elas não calculam a distribuição conjunta por sexo, raça e deficiência de todos os abortos no mundo. Não foi localizada uma base global que permita afirmar a maioria alegada, sem somar populações diferentes ou contar pessoas mais de uma vez.",
+      "sources": [
+        "pna-raca",
+        "chao-corr"
+      ]
+    },
+    {
+      "cueStart": 2284,
+      "cueEnd": 2300,
+      "title": "Mulheres negras são maioria das mortes por aborto clandestino e dos tipos de violência",
+      "speaker": "Mandi Coelho",
+      "notes": "Não confundir óbitos relacionados aaborto O00-O08 comclandestino identificado; indicadores e população.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Anuário registra maioria de vítimas negras em indicadores como feminicídio, mas isso não certifica todas as modalidades de violência. O boletim de mortalidade por aborto agrupa também perdas espontâneas e gravidez ectópica; essa categoria não identifica, por si, quais mortes decorreram de aborto clandestino. A generalização ultrapassa os recortes disponíveis.",
+      "sources": [
+        "fbsp2025",
+        "mortalidade-aborto"
+      ]
+    },
+    {
+      "cueStart": 2335,
+      "cueEnd": 2350,
+      "title": "Não há evidência histórica capaz de explicar a origem do patriarcado",
+      "speaker": "Mandi Coelho",
+      "notes": "Debate teórico sem definição única, não transformar discordância conceitual em número.",
+      "verdict": "opinion",
+      "explanation": "A fala discute interpretações teóricas sobre a origem do patriarcado e critica determinada definição do conceito. Sem um enunciado histórico delimitado ou um corpus indicado, essa avaliação do debate teórico não recebe voto de fato ou papo.",
+      "sources": []
+    },
+    {
+      "cueStart": 2376,
+      "cueEnd": 2388,
+      "title": "Estupradores precisam de celas separadas porque outros presos não os aceitam",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Prática de proteção e LEP84 não prova consenso de todos os presos.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A execução penal prevê separação de presos e proteção quando há ameaça à integridade física, moral ou psicológica. Isso pode justificar custódia diferenciada, mas não é uma regra que comprove rejeição por todos os presos nem ausência de violência sexual na sociedade. O comportamento universal alegado não decorre da norma.",
+      "sources": [
+        "lep"
+      ]
+    },
+    {
+      "cueStart": 2390,
+      "cueEnd": 2398,
+      "title": "Há pessoas presas pelo 8 de Janeiro desde 2022 e estupradores não ficam tanto tempo",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Atos8jan2023, penas penais e execução variam; contextualizar lapso cronológico.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os ataques ocorreram em 8 de janeiro de 2023; a referência a 2022 na legenda é incompatível com essa data e pode ser lapso ou erro de transcrição. Prisões e penas tiveram situações distintas. As penas de estupro variam conforme o crime, e não existe regra de que o condenado fique sempre menos tempo preso.",
+      "sources": [
+        "stf-balanco",
+        "cp"
+      ]
+    },
+    {
+      "cueStart": 2410,
+      "cueEnd": 2417,
+      "title": "Alguns deputados de esquerda foram contra projeto que aumentava pena de estupro",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Projeto e votação recente anterior11ago2025, não usar mudanças posteriores.",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica número, data, artigo alterado ou votação nominal do projeto. Sem esses elementos, não foi possível certificar quais deputados votaram contra a medida ou o motivo de seus votos. Rejeitar uma proposta específica também não demonstra apoio à prática do crime.",
+      "sources": []
+    },
+    {
+      "cueStart": 2416,
+      "cueEnd": 2450,
+      "title": "Toda vítima de estupro é apoiada e falsas acusações e linchamentos provam ausência de cultura de estupro",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Termo sociológico não aprovação universal; dados de subnotificação e discriminação.",
+      "verdict": "Majoritariamente falso",
+      "explanation": "A estimativa do Ipea mostra que só uma pequena parcela dos estupros chega ao registro policial, o que é incompatível com presumir acolhimento e resposta uniforme para toda vítima. A lei de 2021 também reconheceu a necessidade de impedir humilhações em audiências. Casos de linchamento ou denúncia falsa não demonstram a inexistência de tolerância, silenciamento ou culpabilização de vítimas.",
+      "sources": [
+        "ipea-estupro",
+        "mariana-lei"
+      ]
+    },
+    {
+      "cueStart": 2450,
+      "cueEnd": 2460,
+      "title": "Feminicídio não existe e é uma invenção",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Categoria legal CP121-A e mortesdocumentadas, prioridade política é opinião.",
+      "verdict": "Falso",
+      "explanation": "Feminicídio é um crime previsto no Código Penal e, desde a Lei 14.994/2024, tem tipo autônomo no artigo 121-A. Abrange matar mulher por razões da condição do sexo feminino, em violência doméstica e familiar ou menosprezo ou discriminação. Pode-se discutir a política penal, mas negar a existência da categoria legal e de seus registros é incorreto.",
+      "sources": [
+        "feminicidio"
+      ]
+    },
+    {
+      "cueStart": 2478,
+      "cueEnd": 2492,
+      "title": "Mariana Ferrer tinha material genético do acusado no vestido",
+      "speaker": "Mandi Coelho",
+      "notes": "DNA atesta contato, não automaticamente estupro, decisão absolutória e presunçãoinocência.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A existência de material genético, quando demonstrada, pode comprovar contato sexual, mas não resolve isoladamente a questão de consentimento ou de vulnerabilidade. Na data do debate, André Aranha havia sido absolvido também em segunda instância. A fala o apresenta como autor de crime já estabelecido; essa conclusão não correspondia ao resultado judicial então disponível.",
+      "sources": [
+        "mariana-recurso",
+        "mariana-lei"
+      ]
+    },
+    {
+      "cueStart": 2492,
+      "cueEnd": 2515,
+      "title": "Valeska Zanello estudou xingamentos a mulheres ligados à sexualidade",
+      "speaker": "Mandi Coelho",
+      "notes": "Estudo primárioUnB/Pepsic, não generalizar todo mundo.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O estudo de Zanello, Bukowitz e Coelho com adolescentes de Brasília encontrou, nos xingamentos dirigidos a mulheres, destaque ao comportamento sexual passivo e a atributos relacionais. Isso confirma a linha de pesquisa citada. A amostra não permite afirmar qual foi o principal insulto em toda a história ou em todas as sociedades.",
+      "sources": [
+        "zanello2011"
+      ]
+    },
+    {
+      "cueStart": 2535,
+      "cueEnd": 2548,
+      "title": "Feminicídio é morte de mulher por razões da condição feminina",
+      "speaker": "Mandi Coelho",
+      "notes": "Lei14994/2024 define doméstica/desprezo/discriminação, não qualquer morte de mulher.",
+      "verdict": "Verdadeiro",
+      "explanation": "A descrição corresponde ao núcleo do artigo 121-A: matar mulher por razões da condição do sexo feminino, caracterizadas por violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher. Nem toda morte de uma mulher recebe esse enquadramento; os elementos do caso precisam ser apurados.",
+      "sources": [
+        "feminicidio"
+      ]
+    },
+    {
+      "cueStart": 2551,
+      "cueEnd": 2567,
+      "title": "Só o Zodíaco matou mulheres por serem mulheres e já existe crime passional",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Zodíaco matou homens e mulheres, e crime passional não tipo penal autônomo.",
+      "verdict": "Falso",
+      "explanation": "O Código Penal não contém um crime autônomo chamado crime passional que substitua o feminicídio. Reação ao fim de uma relação pode integrar violência doméstica e não exclui esse enquadramento. O Zodíaco tampouco demonstra exclusividade de mortes motivadas por gênero: sua série envolveu vítimas e contextos distintos e não sustenta o superlativo universal.",
+      "sources": [
+        "feminicidio",
+        "cp",
+        "zodiac"
+      ]
+    },
+    {
+      "cueStart": 2574,
+      "cueEnd": 2590,
+      "title": "Em 2024 foram 1450 feminicídios e 38075 assassinatos",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Identificar fonte contemporânea e revisões estatísticas; diferenciar MVI e homicídios sem intervenções.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os 1.450 feminicídios aparecem no RASEAM divulgado em 2025, e 38.075 assassinatos foram noticiados no balanço preliminar do Sinesp, com dados estaduais incompletos. Os números têm fontes e momentos de consolidação próprios. Eles não tornam feminicídio sinônimo de crime passional, nem demonstram que desaparecimentos sejam incluídos automaticamente.",
+      "sources": [
+        "raseam",
+        "assassinatos2024",
+        "feminicidio"
+      ]
+    },
+    {
+      "cueStart": 2580,
+      "cueEnd": 2587,
+      "title": "Mulher desaparecida sem corpo nem suspeito é automaticamente contada como feminicídio",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Desaparecimento não equivale automaticamente ao tipo; morte pode ser provada sem corpo.",
+      "verdict": "Falso",
+      "explanation": "A ausência de corpo não impede provar uma morte por outros elementos, mas desaparecimento isolado não preenche automaticamente o crime de feminicídio. É necessário demonstrar a morte e as circunstâncias legais. O artigo 167 do CPP permite prova indireta quando vestígios desapareceram; não manda contabilizar toda mulher desaparecida como vítima desse crime.",
+      "sources": [
+        "cpp",
+        "feminicidio"
+      ]
+    },
+    {
+      "cueStart": 2590,
+      "cueEnd": 2600,
+      "title": "Mulher corre mais risco de morrer em latrocínio que em feminicídio",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Contagens nacionais feminicídio superam até latrocínios de ambos sexos, se mesma fonte/ano.",
+      "verdict": "Falso",
+      "explanation": "O Anuário 2025 registra 965 vítimas de latrocínio em 2024, somados todos os sexos, contra 1.492 vítimas de feminicídio. Mesmo o total de latrocínios é menor. Portanto, essa comparação nacional não sustenta dizer que mulheres correm risco muito maior de morrer em latrocínio do que em feminicídio.",
+      "sources": [
+        "fbsp2025"
+      ]
+    },
+    {
+      "cueStart": 2600,
+      "cueEnd": 2625,
+      "title": "Feminicídio se contrapõe a homicídio e representa menos de 10% dos assassinatos",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Categoria autônoma desde2024 mas sem contraposição à vítima humana; proporção total não mede risco para mulheres.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A proporção de feminicídios no conjunto de mortes violentas de homens e mulheres fica abaixo de 10%, mas esse denominador não mede o risco específico de uma mulher. A classificação separada existe na lei desde 2024; não é uma contraposição que exclua mulheres do conceito geral de homicídio nem prova de motivação meramente passional.",
+      "sources": [
+        "feminicidio",
+        "assassinatos2024"
+      ]
+    },
+    {
+      "cueStart": 2625,
+      "cueEnd": 2650,
+      "title": "Mariana Ferrer sumiu com vestido para exterior e a absolvição prova acusação falsa",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Perícia eDNA existentes; insuficiênciadeprova não condenação por denunciação caluniosa.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A absolvição de André Aranha estava vigente quando o debate ocorreu. Ela não constitui, por si, condenação de Mariana por denúncia deliberadamente falsa. A narrativa sobre desaparecimento e envio do vestido ao exterior não foi certificada com laudos ou peças processuais nesta revisão; não pode ser apresentada como fato estabelecido. A lei protege a dignidade em audiência, não decide a autoria desse caso.",
+      "sources": [
+        "mariana-recurso",
+        "mariana-lei"
+      ]
+    },
+    {
+      "cueStart": 2660,
+      "cueEnd": 2676,
+      "title": "A maioria dos casos de violência contra mulheres não chega à delegacia",
+      "speaker": "Mandi Coelho",
+      "notes": "DataSenado/FBSP e diferença denúnciaformal, relatoemquestionário; atribuiçãoDamares precisa fonte.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O DataSenado de 2023 encontrou que 61% das mulheres que sofreram violência doméstica ou familiar não procuraram uma delegacia. Isso sustenta a subnotificação mencionada para esse recorte. Não confirma a atribuição específica a Damares nem autoriza aplicar o mesmo percentual a todas as formas de agressão.",
+      "sources": [
+        "subnotificacao"
+      ]
+    },
+    {
+      "cueStart": 2685,
+      "cueEnd": 2696,
+      "title": "64% dos casos ocorrem em casa e 63% são praticados por parceiros",
+      "speaker": "Mandi Coelho",
+      "notes": "Identificar universo/ano/instituto, não transplantar a todos os casos.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "No Anuário 2025, 64,3% dos feminicídios com informação de local ocorreram na residência, e 79,8% foram cometidos por parceiro ou ex-parceiro. São recortes de feminicídio, não de toda violência contra mulheres. A fala não identifica a pesquisa dos 63%, e não se deve combinar percentuais de universos ou anos diferentes.",
+      "sources": [
+        "fbsp2025"
+      ]
+    },
+    {
+      "cueStart": 2700,
+      "cueEnd": 2710,
+      "title": "Há violência na maioria das relações íntimas",
+      "speaker": "Mandi Coelho",
+      "notes": "Percentuais entrevítimas não estimam todas as relações; definição e período.",
+      "verdict": "Inconclusivo",
+      "explanation": "O percentual de vítimas em um levantamento não é o percentual de todas as relações íntimas que apresentam violência. Não foi indicada pesquisa com definição de violência, universo de casais e período que permita demonstrar uma maioria. A existência e a gravidade do problema não tornam essa proporção automaticamente verdadeira.",
+      "sources": [
+        "subnotificacao"
+      ]
+    },
+    {
+      "cueStart": 2720,
+      "cueEnd": 2740,
+      "title": "A URSS criou creches e lavanderias públicas e hoje não há nada parecido em democracias liberais",
+      "speaker": "Mandi Coelho",
+      "notes": "Separar política histórica e falsa ausência global, exemplos municipais eHeadStartEUA.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Textos soviéticos de 1919 defendiam creches e serviços coletivos como meios de reduzir o trabalho doméstico. A afirmação de que hoje não existe nada semelhante em democracias liberais é ampla demais: o programa público americano Head Start existe desde 1965. Sua existência não significa que alcance universalmente as famílias ou que reproduza todo o sistema soviético.",
+      "sources": [
+        "lenin-cuidados",
+        "head-start"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 2872,
+          "cueEnd": 2882
+        }
+      ]
+    },
+    {
+      "cueStart": 2825,
+      "cueEnd": 2842,
+      "title": "Uma mulher nunca tem chance física contra um homem, qualquer que seja seu tamanho",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Médias de força não são relação universal entre cada pessoa; treino/massa/contexto.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Pesquisas de força muscular encontram diferenças médias entre homens e mulheres, com variação individual e influência de idade, composição corporal e treinamento. Médias populacionais não demonstram que qualquer mulher, independentemente de tamanho e preparo, seja incapaz de enfrentar qualquer homem. O resultado de uma agressão também não é medido por um teste isolado de força.",
+      "sources": [
+        "forca"
+      ]
+    },
+    {
+      "cueStart": 2872,
+      "cueEnd": 2882,
+      "title": "Hoje não existem creches e lavanderias públicas para socializar cuidados",
+      "speaker": "Mandi Coelho",
+      "notes": "Repetição da comparaçãohistórica, fontesgoverno municipal/headstart.",
+      "verdict": "repetition",
+      "explanation": "É a retomada da alegação sobre inexistência atual de creches e serviços públicos de cuidado, já analisada na entrada 97. Não recebe outro voto pelo mesmo enunciado.",
+      "sources": [],
+      "duplicateOf": 97
+    },
+    {
+      "cueStart": 2900,
+      "cueEnd": 2910,
+      "title": "A URSS stalinista cometeu atrocidades e foi ditatorial",
+      "speaker": "Mandi Coelho",
+      "notes": "Arquivos históricos e expurgos; não julgar pureza filosófica dos sistemas.",
+      "verdict": "Verdadeiro",
+      "explanation": "Os documentos dos arquivos soviéticos reunidos pela Library of Congress registram expurgos, repressão, campos de trabalho e execuções sob Stalin, além da concentração ditatorial de poder. A crítica histórica a essas práticas tem base documental. A classificação de um regime como socialismo verdadeiro ou falso é uma disputa política distinta.",
+      "sources": [
+        "urss-arquivos"
+      ]
+    },
+    {
+      "cueStart": 3034,
+      "cueEnd": 3043,
+      "title": "Eduarda é a vereadora mais jovem da história de Praia Grande e a mulher maisvotada",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Mesma alegação de abertura, guardar repetição sem duplicar contagem.",
+      "verdict": "repetition",
+      "explanation": "Os superlativos eleitorais repetem a apresentação examinada na entrada 1. A retomada no encerramento fica registrada, sem duplicar a contagem.",
+      "sources": [],
+      "duplicateOf": 1
+    },
+    {
+      "cueStart": 3067,
+      "cueEnd": 3077,
+      "title": "Eduarda atingiu 450 mil seguidores e 10 milhões de visualizações no último vídeo",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Dados históricos não inferíveis pelos contadores atuais, rede não identificada no trecho.",
+      "verdict": "Inconclusivo",
+      "explanation": "Seguidores e visualizações são contadores que mudam continuamente. Sem uma captura verificável da data do debate e identificação inequívoca do perfil e do vídeo citado, não é possível reconstruir esses dois valores históricos. O contador atual não comprovaria o número que aparecia naquele dia.",
+      "sources": []
+    },
+    {
+      "cueStart": 3085,
+      "cueEnd": 3096,
+      "title": "Se aborto é homicídio, aborto espontâneo é homicídio culposo",
+      "speaker": null,
+      "notes": "Inferência jurídica errada: aborto é tipo próprio e perde involuntária não é tipificada.",
+      "verdict": "opinion",
+      "explanation": "Trata-se de uma pergunta retórica enviada pela audiência, sem afirmação independente do apresentador ou das convidadas. A hipótese jurídica sobre aborto espontâneo é respondida na entrada 64; não adiciona voto a nenhum debatedor.",
+      "sources": []
+    },
+    {
+      "cueStart": 3100,
+      "cueEnd": 3115,
+      "title": "Em inglês se distinguem miscarriage e abortion",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Terminologia clínica também usa spontaneousabortion; semântica não altera penalização.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Miscarriage é o termo usual em inglês para perda espontânea da gestação; abortion costuma designar interrupção induzida no uso corrente. Em linguagem médica também existe spontaneous abortion. A distinção de vocabulário é útil, mas não define sozinha responsabilidade penal ou a causa de uma perda.",
+      "sources": [
+        "miscarriage"
+      ]
+    },
+    {
+      "cueStart": 3124,
+      "cueEnd": 3130,
+      "title": "Hamas é uma organização terrorista",
+      "speaker": "Eduarda Campopiano",
+      "notes": "Designações EUA/UE/ReinoUnido; ONU não possui classificação universal equivalente; organização política e armada não se excluem.",
+      "verdict": "Verdadeiro",
+      "explanation": "A União Europeia inclui o Hamas, inclusive sua ala militar, em sua lista de organizações terroristas desde 2003, como documentado pelo Conselho. A designação existe e não é anulada por atuação partidária ou eleitoral. O enquadramento aqui confirmado é o europeu; não se presume uma classificação jurídica idêntica em todos os países.",
+      "sources": [
+        "hamas-ue"
+      ]
+    },
+    {
+      "cueStart": 3130,
+      "cueEnd": 3140,
+      "title": "Existem exceções legais de aborto no Brasil",
+      "speaker": "Mandi Coelho",
+      "notes": "Repetição CP128/ADPF54; não chamar toda prática descriminalizada.",
+      "verdict": "repetition",
+      "explanation": "A existência de hipóteses legais de interrupção da gestação no Brasil já foi examinada na entrada 71. Esta resposta breve retoma o mesmo tema e não acrescenta voto.",
+      "sources": [],
+      "duplicateOf": 71
+    }
+  ],
+  "scannedThrough": 3173,
+  "video": {
+    "id": "l78NZP7riOA",
+    "url": "https://www.youtube.com/watch?v=l78NZP7riOA",
+    "title": "DEBATE: EDUARDA CAMPOPIANO VS MANDI COELHO",
+    "channel": "RedCast [Oficial]",
+    "thumbnailUrl": "https://i.ytimg.com/vi/l78NZP7riOA/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "eduarda",
+      "name": "Eduarda Campopiano",
+      "aliases": [
+        "Eduarda",
+        "Campopiano"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "mandi",
+      "name": "Mandi Coelho",
+      "aliases": [
+        "Mandi"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    }
+  ],
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "reviewedAt": "2026-10-29T19:28:46Z",
+  "transcriptSha256": "4d8527b9031c816b87feb298c6e34b6b58877ed4db7bce2274c334d92fde7d4c"
+}

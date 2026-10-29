@@ -1,0 +1,1672 @@
+{
+  "videoId": "C0ucX3GZo-c",
+  "referenceDate": "2025-09-19",
+  "claims": [
+    {
+      "cueStart": 31,
+      "cueEnd": 32,
+      "title": "O Flow é o maior podcast do Brasil",
+      "speaker": "Guilherme Cortez",
+      "notes": "Métrica de maior não especificada.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há métrica definida de audiência, receita ou alcance para esse superlativo. O título de maior podcast do país não pode ser estabelecido a partir da apresentação do programa.",
+      "sources": []
+    },
+    {
+      "cueStart": 49,
+      "cueEnd": 52,
+      "title": "Os dois debatedores têm 27 anos",
+      "speaker": null,
+      "notes": "Conferir idades na data; não usar idade atual.",
+      "verdict": "Inconclusivo",
+      "explanation": "A Câmara informa nascimento de Pavanato em 12/05/1998, compatível com 27 anos em setembro de 2025. O trecho mistura pergunta do apresentador e resposta de Cortez; a idade exata de ambos não foi confirmada com registros de nascimento nesta revisão.",
+      "sources": [
+        "pavanato"
+      ]
+    },
+    {
+      "cueStart": 68,
+      "cueEnd": 73,
+      "title": "Cortez foi eleito deputado estadual em 2022 com cerca de 45 mil votos",
+      "speaker": "Guilherme Cortez",
+      "notes": "TSE e ALESP.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Cortez foi eleito deputado estadual em 2022 com 45.094 votos, compatíveis com o arredondamento a 45 mil. O registro da ALESP confirma sua estreia e juventude; a expressão “um dos mais jovens da história” não define um ranking.",
+      "sources": [
+        "cortez",
+        "cortez-votos"
+      ]
+    },
+    {
+      "cueStart": 73,
+      "cueEnd": 77,
+      "title": "Cortez foi o eleito que menos recebeu dinheiro para campanha",
+      "speaker": "Guilherme Cortez",
+      "notes": "Ranking e universo não especificados; dados de contas eleitorais necessários.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi apresentada uma comparação das prestações de contas de todos os eleitos, com critério comum de receitas ou despesas. A origem familiar e o caráter militante da campanha não comprovam a posição no ranking de financiamento.",
+      "sources": []
+    },
+    {
+      "cueStart": 89,
+      "cueEnd": 91,
+      "title": "A oposição de esquerda é minoria na ALESP",
+      "speaker": "Guilherme Cortez",
+      "notes": "Bancadas na data.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A legislatura iniciada em 2023 tinha cinco deputados do PSOL e dezenove da federação PT–PCdoB–PV, abaixo da maioria dos 94 lugares. Isso sustenta o núcleo da afirmação de minoria, sem presumir que todos esses parlamentares votassem sempre juntos ou que cada legenda tivesse posição idêntica em toda matéria.",
+      "sources": [
+        "alesp-bancadas"
+      ]
+    },
+    {
+      "cueStart": 175,
+      "cueEnd": 177,
+      "title": "Charlie Kirk foi assassinado",
+      "speaker": "Lucas Pavanato",
+      "notes": "FBI / Utah, 10 setembro 2025.",
+      "verdict": "Verdadeiro",
+      "explanation": "Charlie Kirk foi morto a tiros em 10 de setembro de 2025, na Utah Valley University. O FBI publicou a investigação e as imagens da busca pelo autor.",
+      "sources": [
+        "fbi-kirk"
+      ]
+    },
+    {
+      "cueStart": 181,
+      "cueEnd": 184,
+      "title": "A mensagem de Charlie Kirk repercutiu dez vezes mais após sua morte",
+      "speaker": "Lucas Pavanato",
+      "notes": "Sem indicador ou série de audiência.",
+      "verdict": "Inconclusivo",
+      "explanation": "A repercussão foi expressiva, mas não foi indicado o indicador, o período de comparação ou a base que sustentaria o multiplicador de dez. A audiência anterior e a posterior não foram mensuradas neste trecho.",
+      "sources": []
+    },
+    {
+      "cueStart": 215,
+      "cueEnd": 222,
+      "title": "Um terço de cada lado e um terço de brancos, nulos ou ausentes em 2022",
+      "speaker": null,
+      "notes": "TSE segundo turno 2022; não inferir ideologia da abstenção.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "No segundo turno de 2022, Lula teve 60,35 milhões de votos e Bolsonaro 58,21 milhões. Abstenções, brancos e nulos somaram aproximadamente 38 milhões: perto de 24% do eleitorado, e não um terço. Esses grupos também não revelam automaticamente a posição política de cada eleitor.",
+      "sources": [
+        "tse2022"
+      ]
+    },
+    {
+      "cueStart": 245,
+      "cueEnd": 252,
+      "title": "Marielle era vereadora eleita, do PSOL, e foi assassinada por ameaçar interesses da milícia",
+      "speaker": "Guilherme Cortez",
+      "notes": "Separar fatos biográficos da linha de investigação da motivação; sem aplicar condenações posteriores.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Marielle era vereadora do PSOL e foi assassinada em 2018. A investigação da PF divulgada em 2024 relacionou o crime a interesses fundiários e milicianos. Essa era a conclusão investigativa disponível, sem transformar os investigados em condenados antes do julgamento.",
+      "sources": [
+        "marielle"
+      ]
+    },
+    {
+      "cueStart": 527,
+      "cueEnd": 541,
+      "title": "A PEC aprovada na Câmara exige autorização dos colegas para processar deputados",
+      "speaker": "Guilherme Cortez",
+      "notes": "PEC 3/2021 Câmara 16-17 setembro; proposta não lei.",
+      "verdict": "Verdadeiro",
+      "explanation": "A proposta aprovada na Câmara previa licença prévia da respectiva Casa, por voto secreto, para processar criminalmente parlamentares. Cortez ressalva no início que dependeria do Senado. Em 19/09/2025 ainda era proposta, sem efeito de emenda constitucional.",
+      "sources": [
+        "pec"
+      ]
+    },
+    {
+      "cueStart": 580,
+      "cueEnd": 585,
+      "title": "A urgência da anistia foi aprovada e depois avançou processo de dirigente partidário no STF",
+      "speaker": "Lucas Pavanato",
+      "notes": "Câmara urgência versus aprovação do Congresso; dirigente não nomeado e nexo não demonstrado.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Câmara aprovou em 17/09/2025 a urgência do projeto de anistia, por 311 a 163; não aprovou a anistia como lei. O dirigente e o processo citados não são identificados, e a sequência temporal não demonstra retaliação judicial.",
+      "sources": [
+        "urgencia"
+      ]
+    },
+    {
+      "cueStart": 593,
+      "cueEnd": 600,
+      "title": "MST invadiu o STF em 2014 e sindicatos promoveram quebra-quebra em 2017",
+      "speaker": "Lucas Pavanato",
+      "notes": "Pesquisar os episódios e não atribuir crimes automaticamente a todas as organizações.",
+      "verdict": "Inconclusivo",
+      "explanation": "Há referência a manifestações em anos diferentes, mas o trecho não individualiza autores, atos e processos. Não foi possível confirmar que a invasão e todos os danos descritos tenham sido praticados pelas organizações mencionadas, em vez de participantes específicos.",
+      "sources": []
+    },
+    {
+      "cueStart": 601,
+      "cueEnd": 605,
+      "title": "Nos episódios de 2014 e 2017 ninguém foi condenado por golpe, apenas por vandalismo",
+      "speaker": "Lucas Pavanato",
+      "notes": "Comparação exige processos identificados e elementos dos crimes.",
+      "verdict": "Inconclusivo",
+      "explanation": "A comparação exigiria identificar as ações e os réus de 2014 e 2017 e consultar seus desfechos. A ausência de um julgamento por golpe nesses eventos não demonstra, por si, que os elementos jurídicos sejam iguais aos de 8 de janeiro.",
+      "sources": []
+    },
+    {
+      "cueStart": 606,
+      "cueEnd": 611,
+      "title": "Os condenados de 8 de janeiro não tiveram individualização de conduta",
+      "speaker": "Lucas Pavanato",
+      "notes": "Acórdãos individuais STF e penas diferentes.",
+      "verdict": "Majoritariamente falso",
+      "explanation": "O balanço do STF registra penas diferentes, acordos e situações processuais distintas. Isso contraria a descrição de que todos receberam indistintamente 14 ou 17 anos. A defesa pode contestar a fundamentação de cada acórdão; a existência dessa controvérsia não comprova julgamento uniforme de todos os acusados.",
+      "sources": [
+        "stf-balanco"
+      ]
+    },
+    {
+      "cueStart": 612,
+      "cueEnd": 614,
+      "title": "Quem mata alguém fica seis anos preso",
+      "speaker": "Lucas Pavanato",
+      "notes": "CP art121: mínimo do homicídio simples versus execução e circunstâncias.",
+      "verdict": "Falso",
+      "explanation": "Seis anos é o mínimo legal do homicídio simples, cuja faixa é de seis a vinte anos. Homicídios qualificados têm faixas maiores; tempo efetivamente cumprido depende da sentença e das regras de execução. Não existe pena geral de seis anos para quem mata.",
+      "sources": [
+        "cp"
+      ]
+    },
+    {
+      "cueStart": 614,
+      "cueEnd": 617,
+      "title": "Mulher que pichou com batom recebeu 14 anos por golpe de Estado",
+      "speaker": "Lucas Pavanato",
+      "notes": "Débora; pena por cinco crimes, não somente a pichação.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Débora recebeu 14 anos, mas a decisão condenatória reúne cinco crimes, entre eles golpe, abolição violenta do Estado Democrático de Direito, associação criminosa e danos ao patrimônio. Apresentar a pichação isoladamente como causa da pena omite o fundamento da condenação.",
+      "sources": [
+        "debora"
+      ]
+    },
+    {
+      "cueStart": 637,
+      "cueEnd": 642,
+      "title": "A PGR pediu a liberdade de Clériston por saúde e ele morreu preso",
+      "speaker": "Lucas Pavanato",
+      "notes": "Conferir datas do pedido e motivo, sem atribuir causalidade médica não apurada.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Clériston morreu preso em novembro de 2023, após pedidos de liberdade que invocavam problemas de saúde. Os registros da audiência confirmam a controvérsia sobre a análise desses pedidos; não estabelecem, sozinhos, a causa médica da morte ou uma decisão de inocência.",
+      "sources": [
+        "cleriston"
+      ]
+    },
+    {
+      "cueStart": 639,
+      "cueEnd": 641,
+      "title": "Não havia prova de qualquer crime de Clériston",
+      "speaker": "Lucas Pavanato",
+      "notes": "Necessário distinguir pedido de liberdade de absolvição.",
+      "verdict": "Inconclusivo",
+      "explanation": "Pedido para responder em liberdade por razões de saúde não equivale a absolvição ou declaração de inexistência de prova. Sem o parecer integral e a apreciação das imputações, não é possível confirmar a frase atribuída à PGR.",
+      "sources": [
+        "cleriston"
+      ]
+    },
+    {
+      "cueStart": 663,
+      "cueEnd": 671,
+      "title": "Ruy Ferraz foi delegado-geral, investigou o PCC e foi assassinado naquela semana",
+      "speaker": "Guilherme Cortez",
+      "notes": "SSP São Paulo, setembro 2025.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Ruy Ferraz Fontes, ex-delegado-geral de São Paulo, foi assassinado em Praia Grande em 15/09/2025. A homenagem oficial da ALESP registra o episódio naquela semana. A posição de “pioneiro” não tem um critério de precedência definido no trecho.",
+      "sources": [
+        "ruy"
+      ]
+    },
+    {
+      "cueStart": 675,
+      "cueEnd": 685,
+      "title": "A autorização e o voto secreto da PEC já protegem os deputados a partir de agora",
+      "speaker": "Guilherme Cortez",
+      "notes": "Ainda proposta dependente Senado; contexto anterior era condicional.",
+      "verdict": "repetition",
+      "explanation": "A condição de aprovação pelo Senado já é explicitada na fala inicial e analisada na entrada 10. A formulação posterior sobre efeitos da PEC é lida nesse contexto; não recebe um segundo voto pelo mesmo tema.",
+      "sources": [],
+      "duplicateOf": 10
+    },
+    {
+      "cueStart": 696,
+      "cueEnd": 704,
+      "title": "Conselho de Ética da ALESP absolveu deputado processado por agredir mulher",
+      "speaker": "Guilherme Cortez",
+      "notes": "Pessoa e processo não identificados; não adivinhar.",
+      "verdict": "Inconclusivo",
+      "explanation": "O parlamentar e o procedimento disciplinar não são identificados nesse trecho. Arquivamento em conselho de ética e decisão judicial são atos distintos; não é seguro associar a alegação a uma pessoa por suposição.",
+      "sources": []
+    },
+    {
+      "cueStart": 728,
+      "cueEnd": 737,
+      "title": "Boulos livrou Janones de acusação de rachadinha apesar de áudio comprovado",
+      "speaker": "Lucas Pavanato",
+      "notes": "Conselho de Ética: relator do arquivamento não juízo criminal.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Boulos relatou e recomendou o arquivamento aprovado pelo Conselho de Ética em junho de 2024. Foi uma decisão disciplinar, sem poder de encerrar a investigação criminal. Em março de 2025, Janones firmou acordo com a PGR homologado no STF.",
+      "sources": [
+        "janones-etica",
+        "janones-anpp"
+      ]
+    },
+    {
+      "cueStart": 746,
+      "cueEnd": 753,
+      "title": "Nunca existem processos contra políticos de extrema esquerda",
+      "speaker": "Lucas Pavanato",
+      "notes": "Generalização, grupo não definido.",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho usa a categoria extrema esquerda sem delimitar partidos ou procedimentos. O caso de Janones teve apuração e acordo penal, mas isso não resolve a classificação ideológica nem uma negativa sobre todos os políticos de um campo. Não foi certificada a ausência universal alegada.",
+      "sources": [
+        "janones-anpp"
+      ]
+    },
+    {
+      "cueStart": 767,
+      "cueEnd": 775,
+      "title": "O CFM proibiu recentemente procedimentos hormonais em menores trans",
+      "speaker": "Lucas Pavanato",
+      "notes": "Resolução 2427/2025 e vigência em setembro.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O CFM editou a Resolução 2.427 em abril de 2025, com restrições a bloqueadores e hormônios. Porém, seus efeitos estavam suspensos por liminar de 25 de julho na data do debate. A norma só foi restabelecida pelo STF posteriormente, em outubro.",
+      "sources": [
+        "cfm",
+        "cfm-suspensao",
+        "cfm-restabelecimento"
+      ]
+    },
+    {
+      "cueStart": 776,
+      "cueEnd": 785,
+      "title": "Procedimentos hormonais em menores provocam câncer e esterilidade",
+      "speaker": "Lucas Pavanato",
+      "notes": "Distinguir GnRH e hormônios sexuais; não generalizar risco nem tratar toda indicação como veneno.",
+      "verdict": "Inconclusivo",
+      "explanation": "Hormônios sexuais e bloqueadores de puberdade têm efeitos e riscos diferentes, que dependem do fármaco, dose e acompanhamento. As diretrizes alertam sobre fertilidade e incertezas; não bastam para confirmar a formulação ampla sobre câncer e esterilidade em crianças, sem identificar o tratamento e os estudos alegados.",
+      "sources": [
+        "endocrine",
+        "nhs"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 925,
+          "cueEnd": 937
+        }
+      ]
+    },
+    {
+      "cueStart": 796,
+      "cueEnd": 805,
+      "title": "Janones está sendo investigado e o arquivamento ético não impede investigação judicial",
+      "speaker": "Guilherme Cortez",
+      "notes": "STF/PGR e Câmara.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O arquivamento no Conselho de Ética realmente não encerrava a esfera penal. Entretanto, o acordo referente à rachadinha já havia sido homologado em março de 2025; dizer apenas que Janones ainda seria investigado e eventualmente condenado omite esse desfecho específico disponível antes do debate.",
+      "sources": [
+        "janones-etica",
+        "janones-anpp"
+      ]
+    },
+    {
+      "cueStart": 808,
+      "cueEnd": 825,
+      "title": "A CPI da terapia hormonal em São Paulo durou seis meses e não encontrou irregularidades",
+      "speaker": "Guilherme Cortez",
+      "notes": "Relatório final da CPI e conclusões documentadas.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A CPI durou cerca de seis meses, mas teve relatórios divergentes. O texto que afirmava ausência de irregularidades era o relatório alternativo de Cortez e outras deputadas. A maioria aprovou outro relatório, crítico ao tratamento e favorável a restrições. A divergência parlamentar não substitui evidência clínica.",
+      "sources": [
+        "cpi",
+        "cpi-ata"
+      ]
+    },
+    {
+      "cueStart": 831,
+      "cueEnd": 838,
+      "title": "Nunca houve cirurgia de adequação de gênero em menores de 18 no Brasil",
+      "speaker": "Guilherme Cortez",
+      "notes": "Norma que veda não prova ausência universal de ocorrência.",
+      "verdict": "Inconclusivo",
+      "explanation": "As normas médicas estabelecem idades e requisitos para intervenções, mas uma vedação normativa não prova que um procedimento jamais ocorreu no país. Não foi localizado um levantamento completo que sustente o “nunca aconteceu” para toda a história brasileira.",
+      "sources": [
+        "cfm"
+      ]
+    },
+    {
+      "cueStart": 839,
+      "cueEnd": 850,
+      "title": "Bloqueadores na puberdade são um tratamento completamente reversível",
+      "speaker": "Guilherme Cortez",
+      "notes": "Evidência de longo prazo e recuperação da função hormonal são coisas diferentes.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A supressão hormonal pode cessar ao interromper o medicamento, mas isso não demonstra reversibilidade completa de todos os efeitos. Revisões de evidência apontam incertezas sobre desfechos de longo prazo, e diretrizes exigem aconselhamento sobre fertilidade e acompanhamento.",
+      "sources": [
+        "nhs",
+        "endocrine"
+      ]
+    },
+    {
+      "cueStart": 855,
+      "cueEnd": 865,
+      "title": "O medicamento também trata câncer de próstata, endometriose e puberdade precoce",
+      "speaker": "Guilherme Cortez",
+      "notes": "Bulas oficiais e indicações dos agonistas GnRH.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Análogos de GnRH, como a leuprorrelina, têm indicações para câncer de próstata, endometriose e puberdade precoce. A classe pode ser a mesma, mas apresentação, dose, duração e indicação são diferentes; isso não comprova segurança para qualquer uso ou pessoa.",
+      "sources": [
+        "lupron",
+        "lupron-bula"
+      ]
+    },
+    {
+      "cueStart": 875,
+      "cueEnd": 886,
+      "title": "Negar acolhimento leva o jovem à automedicação, automutilação e suicídio",
+      "speaker": "Guilherme Cortez",
+      "notes": "Associação e risco não são prognóstico individual ou causalidade demonstrada.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Acolhimento e avaliação de saúde mental fazem parte das diretrizes. Isso não permite prever que um jovem específico irá se automutilar ou morrer por suicídio se não receber determinada intervenção. Risco, associação e causalidade individual não são equivalentes.",
+      "sources": [
+        "endocrine"
+      ]
+    },
+    {
+      "cueStart": 887,
+      "cueEnd": 891,
+      "title": "Acompanhamento psicológico ajuda na avaliação de incongruência de gênero",
+      "speaker": "Guilherme Cortez",
+      "notes": "Diretrizes clínicas.",
+      "verdict": "Verdadeiro",
+      "explanation": "A diretriz da Endocrine Society exige avaliação por profissionais capacitados de saúde mental, incluindo diagnóstico diferencial e condições psicossociais. Essa avaliação integra o cuidado; não determina antecipadamente a identidade que a pessoa terá.",
+      "sources": [
+        "endocrine"
+      ]
+    },
+    {
+      "cueStart": 899,
+      "cueEnd": 906,
+      "title": "Janones fez acordo para devolver dinheiro e não ser preso",
+      "speaker": "Lucas Pavanato",
+      "notes": "ANPP não condenação nem imunidade absoluta; apurar homologação e valores.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O acordo homologado previa R$ 131 mil de reparação à Câmara e multa de R$ 26,3 mil, evitando a apresentação da denúncia naquele caso mediante condições. Não é uma condenação criminal nem promessa de que nada poderá acontecer em qualquer outro procedimento.",
+      "sources": [
+        "janones-anpp"
+      ]
+    },
+    {
+      "cueStart": 910,
+      "cueEnd": 919,
+      "title": "87,8% das crianças com disforia se identificam com seu sexo após a puberdade",
+      "speaker": "Lucas Pavanato",
+      "notes": "Singh 2021 amostra histórica de meninos encaminhados; não universal.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O número 87,8% vem de um seguimento de 139 meninos encaminhados a uma clínica, segundo critérios e contexto históricos específicos. Não representa todas as crianças e adolescentes trans, nem demonstra que a puberdade causou a mudança de identificação em cada participante.",
+      "sources": [
+        "singh"
+      ]
+    },
+    {
+      "cueStart": 925,
+      "cueEnd": 937,
+      "title": "Bloqueio hormonal pode causar câncer e esterilidade irreversível",
+      "speaker": "Lucas Pavanato",
+      "notes": "Especificar fármaco e distinguir efeitos de bloqueio e hormônios sexuais.",
+      "verdict": "repetition",
+      "explanation": "A mesma alegação sobre riscos hormonais foi reunida ao item 25, sem gerar voto adicional.",
+      "sources": [],
+      "duplicateOf": 25
+    },
+    {
+      "cueStart": 1011,
+      "cueEnd": 1020,
+      "title": "Houve contas da Sabesp que aumentaram 600% depois da privatização",
+      "speaker": "Guilherme Cortez",
+      "notes": "Relato individual: reajuste médio não prova nem exclui conta específica.",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala se refere a algumas faturas, sem informar município, consumo, período e documento de cobrança. Não foram confirmados esses casos individuais. Um reajuste tarifário médio não prova nem exclui que uma conta específica tenha subido 600%.",
+      "sources": []
+    },
+    {
+      "cueStart": 1016,
+      "cueEnd": 1020,
+      "title": "Executivos privados da Sabesp aumentaram a própria remuneração em 600%",
+      "speaker": "Guilherme Cortez",
+      "notes": "Proposta de remuneração global máxima versus salário individual aprovado.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A notícia disponível em abril tratava de elevar o teto global anual de remuneração de cerca de R$ 9,1 milhões para R$ 65 milhões, incluindo parcelas variáveis. Não significava aumento de 600% no salário de cada executivo nem comprovação de que o teto inteiro seria pago.",
+      "sources": [
+        "sabesp-remuneracao"
+      ]
+    },
+    {
+      "cueStart": 1032,
+      "cueEnd": 1037,
+      "title": "Pessoas da periferia receberam contas de água de dez mil reais",
+      "speaker": "Guilherme Cortez",
+      "notes": "Precisa de fatura/local/caso identificável.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados o consumidor, o local, o período ou a fatura de R$ 10 mil. Sem esses documentos, não é possível confirmar o caso nem atribuir a cobrança exclusivamente à mudança de controle da companhia.",
+      "sources": []
+    },
+    {
+      "cueStart": 1066,
+      "cueEnd": 1071,
+      "title": "São Paulo ainda não tem saneamento universal",
+      "speaker": "Lucas Pavanato",
+      "notes": "SNIS/SINISA, indicadores contemporâneos.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A universalização ainda era uma meta futura no material da desestatização, e não uma cobertura integral já alcançada. Água, coleta e tratamento de esgoto são indicadores distintos: ter ampla cobertura de água não equivale a saneamento completo para toda a população.",
+      "sources": [
+        "sabesp",
+        "sinisa"
+      ]
+    },
+    {
+      "cueStart": 1075,
+      "cueEnd": 1080,
+      "title": "A venda da Sabesp não foi privatização porque ainda há controle público",
+      "speaker": "Lucas Pavanato",
+      "notes": "Estado manteve participação minoritária e direitos especiais, sem controle acionário.",
+      "verdict": "Falso",
+      "explanation": "O relatório da própria Sabesp informa que, em julho de 2024, ela deixou de ser estatal e se tornou empresa privada sem controlador definido. A participação minoritária do Estado e direitos especiais não mantêm o controle acionário estatal nem descaracterizam a privatização.",
+      "sources": [
+        "sabesp"
+      ]
+    },
+    {
+      "cueStart": 1093,
+      "cueEnd": 1100,
+      "title": "Dilma quebrou o país sem haver crise internacional",
+      "speaker": "Lucas Pavanato",
+      "notes": "Separar metáfora política, recessão brasileira e cenário externo com datas.",
+      "verdict": "Inconclusivo",
+      "explanation": "“Quebrou o país” é uma avaliação política sem indicador definido. Verificar recessão, contas públicas e choques externos exigiria delimitar anos e séries; o trecho não demonstra que a situação decorreu de uma única causa ou que não existiu qualquer crise internacional.",
+      "sources": []
+    },
+    {
+      "cueStart": 1147,
+      "cueEnd": 1154,
+      "title": "Um trem da Linha 4-Amarela descarrilhou e se partiu ao meio",
+      "speaker": "Guilherme Cortez",
+      "notes": "Conferir se houve desacoplamento, descarrilamento e em qual linha, e se em teste.",
+      "verdict": "Verdadeiro",
+      "explanation": "Houve descarrilamento e separação de uma composição da Linha 4-Amarela em 9/09/2025, entre Vila Sônia e Morumbi. A reportagem contemporânea registra danos à sinalização e importação de peças. Isso confirma o episódio, sem estabelecer por si sua causa.",
+      "sources": [
+        "linha4"
+      ]
+    },
+    {
+      "cueStart": 1154,
+      "cueEnd": 1157,
+      "title": "A separação das linhas 7 e 10 acabou com a integração do serviço 710",
+      "speaker": "Guilherme Cortez",
+      "notes": "Distinguir viagem direta e integração física/tarifária.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Serviço 710, que permitia viagem direta entre Jundiaí e Rio Grande da Serra, terminou em 28 de agosto de 2025. As linhas passaram a operar separadamente, exigindo baldeação para esse percurso. A integração física e tarifária continuou disponível; o que terminou foi a operação direta unificada.",
+      "sources": [
+        "710"
+      ]
+    },
+    {
+      "cueStart": 1161,
+      "cueEnd": 1166,
+      "title": "A Sabesp foi vendida abaixo de seu valor de mercado à Equatorial",
+      "speaker": "Guilherme Cortez",
+      "notes": "Critério de avaliação e preço de oferta versus cotação.",
+      "verdict": "Inconclusivo",
+      "explanation": "A venda ocorreu por oferta de ações, com acionista de referência, e não pela compra de toda a companhia por uma única empresa. Para concluir que o preço ficou abaixo do valor econômico seria necessário indicar uma avaliação comparável, data e premissas. O trecho não as apresenta.",
+      "sources": [
+        "sabesp"
+      ]
+    },
+    {
+      "cueStart": 1165,
+      "cueEnd": 1171,
+      "title": "A Equatorial atua no Amapá, que tem dos piores índices de saneamento",
+      "speaker": "Guilherme Cortez",
+      "notes": "Temporalidade dos indicadores e concessão; não atribuir retrospectivamente todo o histórico.",
+      "verdict": "Inconclusivo",
+      "explanation": "O saneamento do Amapá exige comparar indicadores e a data de início da concessão, distinguindo energia de água e esgoto. Os dados históricos, isolados, não demonstram que um operador tenha causado o nível observado. A relação causal insinuada não foi estabelecida.",
+      "sources": [
+        "sinisa"
+      ]
+    },
+    {
+      "cueStart": 1211,
+      "cueEnd": 1218,
+      "title": "Não havia estudo sério que comprovasse aumentos na conta da Sabesp",
+      "speaker": "Lucas Pavanato",
+      "notes": "Universal negativo; dado regulatório e estudos de contas não são mesma coisa.",
+      "verdict": "Inconclusivo",
+      "explanation": "O próprio debatedor reconhece denúncias pontuais. Para afirmar que nenhum estudo sério existia seria preciso definir o universo de publicações e critérios de qualidade. Não foi estabelecida essa ausência, nem foram examinadas as contas individuais referidas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1241,
+      "cueEnd": 1249,
+      "title": "Mais de setenta projetos de Cortez tratam de tornar cidades pontos turísticos",
+      "speaker": "Lucas Pavanato",
+      "notes": "ALESP e coautorias.",
+      "verdict": "Inconclusivo",
+      "explanation": "A atividade de turismo aparece em proposições coletivas, mas não foi reconstituído o catálogo de autoria e coautoria até 19/09/2025. Não é possível confirmar “mais de setenta” projetos individuais de Cortez a partir desse registro.",
+      "sources": [
+        "turismo"
+      ]
+    },
+    {
+      "cueStart": 1255,
+      "cueEnd": 1275,
+      "title": "Projeto de Cortez multa pastor ou padre em até R$ 50 mil por aconselhar ou pregar",
+      "speaker": "Lucas Pavanato",
+      "notes": "Texto integral do projeto de terapias de conversão; não confundir pena administrativa e pregação.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O PL 1495/2023 inclui aconselhamento, cultos e outras práticas quando dirigidos à conversão da orientação sexual ou identidade de gênero, com sanções administrativas. Não prevê multa simplesmente por qualquer pregação ou recomendação religiosa. Sua constitucionalidade é uma controvérsia jurídica, não uma decisão judicial apresentada no trecho.",
+      "sources": [
+        "pl1495"
+      ]
+    },
+    {
+      "cueStart": 1296,
+      "cueEnd": 1305,
+      "title": "O esquema de auditores fiscais envolveu um bilhão de reais de propina em dois anos",
+      "speaker": "Guilherme Cortez",
+      "notes": "MPSP: distinguir propina estimada e prejuízo fiscal e responsabilidade individual.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A investigação divulgada em agosto de 2025 estimava movimentação bilionária em esquema iniciado em 2021. Isso não corresponde apenas a dois anos de governo Tarcísio, nem comprova participação do governador ou do secretário. Prisões e suspeitas também não equivalem a condenação definitiva.",
+      "sources": [
+        "icaro"
+      ]
+    },
+    {
+      "cueStart": 1307,
+      "cueEnd": 1316,
+      "title": "Projetos de municípios turísticos são de autoria coletiva, inclusive do PL",
+      "speaker": "Guilherme Cortez",
+      "notes": "Lista de coautores e proposições.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro da ALESP documenta a aprovação conjunta de municípios turísticos e a participação de deputados de diferentes bancadas. Isso dá contexto à coautoria, mas não confirma que toda proposição turística tenha exatamente o mesmo conjunto de autores.",
+      "sources": [
+        "turismo"
+      ]
+    },
+    {
+      "cueStart": 1320,
+      "cueEnd": 1331,
+      "title": "Cortez tem mais de 140 projetos e lei de acessibilidade escolar com Andrea Werner",
+      "speaker": "Guilherme Cortez",
+      "notes": "Separar contagem na data e sanção da lei.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Lei 18.182/2025, de coautoria de Andréa Werner e Guilherme Cortez, foi sancionada e prevê adaptações escolares. Essa parte está documentada. A contagem de mais de 140 projetos não foi reproduzida num catálogo encerrado na data do debate e não deve ser tomada como certificada pela existência de uma lei.",
+      "sources": [
+        "lei18182"
+      ]
+    },
+    {
+      "cueStart": 1331,
+      "cueEnd": 1336,
+      "title": "Vinte por cento dos projetos de Pavanato combatem direitos de pessoas trans",
+      "speaker": "Guilherme Cortez",
+      "notes": "Base de projetos e critério de categorização não apresentados.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram apresentados a lista de proposições até aquela data e o critério para enquadrar uma iniciativa como combate a direitos de pessoas trans. Sem numerador e denominador definidos, o percentual de 20% não pode ser reproduzido.",
+      "sources": []
+    },
+    {
+      "cueStart": 1351,
+      "cueEnd": 1360,
+      "title": "O Conselho Federal de Psicologia proíbe a chamada cura gay e homossexualidade não é doença",
+      "speaker": "Guilherme Cortez",
+      "notes": "Res CFP1/1999 e CID; distinguir todos os serviços versus profissão.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Resolução CFP 1/1999 afirma que homossexualidade não é doença e veda a colaboração de psicólogos com serviços de “cura”. A norma disciplina a profissão; não torna toda conduta religiosa automaticamente um crime de tortura, que tem requisitos penais próprios.",
+      "sources": [
+        "cfp"
+      ]
+    },
+    {
+      "cueStart": 1360,
+      "cueEnd": 1366,
+      "title": "Deputados estaduais não podem criar crimes e por isso a proposta prevê multas",
+      "speaker": "Guilherme Cortez",
+      "notes": "CF art22 I e texto projeto.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A competência para legislar sobre direito penal é privativa da União, conforme o artigo 22, I, da Constituição. O PL estadual consultado propõe responsabilização administrativa. Isso confirma a distinção, sem resolver antecipadamente a constitucionalidade de todos os seus dispositivos.",
+      "sources": [
+        "pl1495",
+        "constituicao"
+      ]
+    },
+    {
+      "cueStart": 1365,
+      "cueEnd": 1376,
+      "title": "Pressão para mudar orientação sexual pode causar morte por suicídio",
+      "speaker": "Guilherme Cortez",
+      "notes": "Risco associado, não prognóstico universal; estudo primário.",
+      "verdict": "Inconclusivo",
+      "explanation": "Práticas de conversão são objeto de preocupação profissional e de pesquisas de saúde mental. O trecho, porém, não identifica casos ou estudos que permitam atribuir mortes específicas à pressão mencionada. Uma associação de risco não comprova a causa individual de cada morte.",
+      "sources": [
+        "cfp"
+      ]
+    },
+    {
+      "cueStart": 1382,
+      "cueEnd": 1387,
+      "title": "O esquema dos fiscais investigado como propinão começou em 2021 antes de Tarcísio",
+      "speaker": "Lucas Pavanato",
+      "notes": "Distinguir início temporal e ausência de eventual responsabilidade pessoal.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A investigação divulgada pelo MP, segundo a reportagem contemporânea, situava o funcionamento do esquema desde 2021, antes da posse de Tarcísio em 2023. A data inicial, sozinha, não comprova nem exclui eventual responsabilidade de pessoas em períodos posteriores.",
+      "sources": [
+        "icaro"
+      ]
+    },
+    {
+      "cueStart": 1391,
+      "cueEnd": 1404,
+      "title": "Jesus disse que é preciso negar a si mesmo e tomar sua cruz para segui-lo",
+      "speaker": "Lucas Pavanato",
+      "notes": "Referência textual aos Evangelhos, não valida interpretação política.",
+      "verdict": "opinion",
+      "explanation": "A referência religiosa e sua interpretação prática foram preservadas na transcrição; não foram convertidas em juízo factual sobre fé, pecado ou dever de conversão.",
+      "sources": []
+    },
+    {
+      "cueStart": 1431,
+      "cueEnd": 1445,
+      "title": "Projetos de Libras e rastreamento de recém-nascidos passaram em primeira votação e receberam apoio do PSOL",
+      "speaker": "Lucas Pavanato",
+      "notes": "Câmara SP tramitação, coautores, rastreador em hospitais privados.",
+      "verdict": "Inconclusivo",
+      "explanation": "O PL 94/2025 confirma Libras nas escolas, coautoria de Keit Lima (PSOL) e primeira discussão em 27/08/2025. A afirmação reúne também outro projeto, de rastreamento de recém-nascidos, cuja primeira votação e apoio partidário não foram confirmados no mesmo estágio.",
+      "sources": [
+        "libras"
+      ]
+    },
+    {
+      "cueStart": 1455,
+      "cueEnd": 1460,
+      "title": "As propostas de municípios turísticos têm coautoria dos 94 deputados",
+      "speaker": "Guilherme Cortez",
+      "notes": "Confirmar assinatura conjunta, não contar como 94 votos.",
+      "verdict": "Inconclusivo",
+      "explanation": "Os registros mostram iniciativa coletiva e referências aos 94 parlamentares, mas não certificam que todas as propostas citadas tenham formalmente os 94 nomes na autoria. A generalização exige os processos legislativos individualizados.",
+      "sources": [
+        "turismo"
+      ]
+    },
+    {
+      "cueStart": 1470,
+      "cueEnd": 1473,
+      "title": "Pavanato é autor do dia de combate à cristofobia",
+      "speaker": "Guilherme Cortez",
+      "notes": "Câmara SP lei e autoria.",
+      "verdict": "Verdadeiro",
+      "explanation": "O PL 116/2025, apresentado em fevereiro de 2025 por Lucas Pavanato, propõe incluir o Dia de Combate à Cristofobia no calendário municipal. Confirma-se a autoria da proposta; sua apresentação não equivale à sanção de lei.",
+      "sources": [
+        "cristofobia"
+      ]
+    },
+    {
+      "cueStart": 1594,
+      "cueEnd": 1604,
+      "title": "A Turning Point USA de Charlie Kirk promove debates nas universidades",
+      "speaker": "Lucas Pavanato",
+      "notes": "Entidade original e eventos, universidade onde foi morto.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Kirk realizava eventos em universidades; o próprio FBI registra que foi morto durante uma atividade na Utah Valley University. A localização foi Utah, e não Kentucky, como o trecho sugere com ressalva. O fato de haver eventos não valida suas posições políticas.",
+      "sources": [
+        "fbi-kirk"
+      ]
+    },
+    {
+      "cueStart": 1658,
+      "cueEnd": 1665,
+      "title": "Déficit habitacional é ter mais pessoas sem casa que imóveis ociosos",
+      "speaker": "Guilherme Cortez",
+      "notes": "Definição Fundação João Pinheiro: componentes de necessidade de reposição/incremento, não comparação com vacância.",
+      "verdict": "Falso",
+      "explanation": "A metodologia da Fundação João Pinheiro mede necessidade de moradias por habitação precária, coabitação e ônus excessivo de aluguel. Não define déficit como diferença entre pessoas sem casa e imóveis ociosos. A vacância é um dado distinto.",
+      "sources": [
+        "fjp"
+      ]
+    },
+    {
+      "cueStart": 1665,
+      "cueEnd": 1669,
+      "title": "A população em situação de rua em São Paulo está aumentando",
+      "speaker": "Guilherme Cortez",
+      "notes": "Censo municipal/CadÚnico com universos compatíveis.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A série municipal passou de 24.344 pessoas em situação de rua em 2019 para 31.884 em 2021. Ela sustenta crescimento entre esses censos, mas não mede sozinha a variação até setembro de 2025; cadastros administrativos têm universos diferentes.",
+      "sources": [
+        "poprua"
+      ]
+    },
+    {
+      "cueStart": 1670,
+      "cueEnd": 1675,
+      "title": "A Constituição condiciona a propriedade à função social",
+      "speaker": "Guilherme Cortez",
+      "notes": "CF5XXIIXXIII 170III 182 184.",
+      "verdict": "Verdadeiro",
+      "explanation": "A Constituição protege a propriedade e exige que ela cumpra função social (artigo 5º, XXII e XXIII). Isso não autoriza automaticamente qualquer pessoa a desapropriar um imóvel: a aplicação segue requisitos e procedimentos previstos em lei.",
+      "sources": [
+        "constituicao"
+      ]
+    },
+    {
+      "cueStart": 1688,
+      "cueEnd": 1715,
+      "title": "O governo planeja transferir seu centro administrativo para o centro em projeto bilionário",
+      "speaker": "Guilherme Cortez",
+      "notes": "Projeto Campos Elíseos/PPP valor e fase; motivo de conluio especulativo não demonstrado.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O edital de junho de 2025 previa um centro administrativo em Campos Elíseos, com investimento estimado superior a R$ 5,4 bilhões. Isso confirma o projeto; não demonstra conluio com construtoras, nem que ninguém o tenha demandado. Essas imputações não estão provadas pelo edital.",
+      "sources": [
+        "centro"
+      ]
+    },
+    {
+      "cueStart": 1746,
+      "cueEnd": 1753,
+      "title": "Tarcísio está diminuindo verba para habitação social",
+      "speaker": "Guilherme Cortez",
+      "notes": "Exige série executada ou autorizada e exercício de comparação.",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação não define ano-base, valores autorizados, empenhados ou pagos. Sem uma série de execução comparável, não é possível concluir que a verba total de habitação social diminuiu. Projetos anunciados também não substituem essa comparação.",
+      "sources": []
+    },
+    {
+      "cueStart": 1768,
+      "cueEnd": 1775,
+      "title": "O estado tem mais de cem mil moradias em produção",
+      "speaker": "Lucas Pavanato",
+      "notes": "Balanço Casa Paulista, distinguir obras e entregas.",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho fala em moradias “em produção”, não em unidades já entregues. Não foi localizado um balanço datado até o debate com a contagem e os critérios desse estoque; não é possível certificar o total de cem mil.",
+      "sources": []
+    },
+    {
+      "cueStart": 1787,
+      "cueEnd": 1796,
+      "title": "Aumentar potencial construtivo faz cair o preço dos imóveis",
+      "speaker": "Lucas Pavanato",
+      "notes": "Modelo econômico condicional, sem comparação empírica específica.",
+      "verdict": "opinion",
+      "explanation": "Modelo econômico condicional sobre oferta, demanda e preços, sem estimativa observada delimitada. Mantido na transcrição como argumento de política habitacional, sem voto nos gráficos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1795,
+      "cueEnd": 1803,
+      "title": "O PSOL foi contra o aumento do potencial construtivo na revisão do Plano Diretor",
+      "speaker": "Lucas Pavanato",
+      "notes": "Votação nominal Câmara SP 2023.",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica a votação e as emendas específicas sobre potencial construtivo. Um voto contra a revisão completa do Plano Diretor não significa necessariamente rejeição a todo aumento de oferta; a alegação exige conferir o voto e sua justificativa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1805,
+      "cueEnd": 1816,
+      "title": "Execução de imóveis ociosos segue procedimento e movimentos não podem desapropriar por conta própria",
+      "speaker": "Lucas Pavanato",
+      "notes": "Estatuto da Cidade e CF; via administrativa pode existir.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Há instrumentos legais para exigir o cumprimento da função social e desapropriar, com requisitos administrativos e, conforme o caso, judiciais. Movimentos não recebem poder unilateral de desapropriação. Dizer que todo o procedimento necessariamente passa primeiro pela Justiça simplifica etapas que podem ser administrativas.",
+      "sources": [
+        "estatuto-cidade"
+      ]
+    },
+    {
+      "cueStart": 1820,
+      "cueEnd": 1825,
+      "title": "Toda invasão de imóvel é crime",
+      "speaker": "Lucas Pavanato",
+      "notes": "Elementos do esbulho penal versus litígio possessório civil; não afirmar automatismo.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O esbulho possessório penal tem elementos específicos no artigo 161 do Código Penal, como violência, grave ameaça ou concurso de mais de duas pessoas e finalidade de esbulho. Conflito de posse civil não torna automaticamente todos os envolvidos criminosos. A responsabilização exige apuração individual.",
+      "sources": [
+        "cp"
+      ]
+    },
+    {
+      "cueStart": 1841,
+      "cueEnd": 1854,
+      "title": "Imóveis abandonados geralmente decorrem de falência e a especulação não explica valorização",
+      "speaker": "Lucas Pavanato",
+      "notes": "Não há amostra ou critério para frequência e causalidade; não julgar opinião como número.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi apresentado levantamento sobre a frequência das causas de imóveis abandonados. Falência pode explicar alguns casos, mas não prova que seja a causa predominante nem que retenção especulativa não ocorra.",
+      "sources": []
+    },
+    {
+      "cueStart": 1856,
+      "cueEnd": 1865,
+      "title": "Bolsonaro foi o presidente que mais entregou títulos de propriedade na história",
+      "speaker": "Lucas Pavanato",
+      "notes": "Incra e categorias de títulos provisórios versus domínio.",
+      "verdict": "Inconclusivo",
+      "explanation": "O superlativo depende de comparar governos e distinguir títulos provisórios, definitivos e atos de regularização. Sem uma série histórica homogênea de cada categoria, não foi possível confirmar o recorde de títulos de propriedade efetiva.",
+      "sources": []
+    },
+    {
+      "cueStart": 1862,
+      "cueEnd": 1866,
+      "title": "O potencial construtivo de São Paulo é menor que o de grandes capitais mundiais",
+      "speaker": "Lucas Pavanato",
+      "notes": "Cidades, zonas e métrica não especificados.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são indicadas as cidades estrangeiras, os bairros, os limites urbanísticos ou a métrica de comparação. Potencial construtivo não é um valor único para toda uma cidade; a afirmação não pode ser reproduzida nesses termos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1901,
+      "cueEnd": 1911,
+      "title": "Um serviço público não precisa necessariamente de execução estatal",
+      "speaker": "Lucas Pavanato",
+      "notes": "CF175 delegação e LDB educação; não é tudo qualquer negócio privado.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Constituição permite prestação de serviços públicos por concessão ou permissão, além da prestação direta. Isso confirma que serviço público não precisa ter execução exclusivamente estatal. Porém, estar disponível ao público não transforma automaticamente qualquer serviço privado em serviço público jurídico.",
+      "sources": [
+        "constituicao"
+      ]
+    },
+    {
+      "cueStart": 1916,
+      "cueEnd": 1927,
+      "title": "Parcerias com creches privadas eliminaram a fila de creches em São Paulo",
+      "speaker": "Lucas Pavanato",
+      "notes": "Balanços SME e controle; convênios sem fins lucrativos e conceito de charter.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Prefeitura divulgava fila zerada em agosto de 2025 e utilizava creches parceiras. O dado é um balanço administrativo, não prova de que toda demanda potencial foi atendida nem de causalidade exclusiva das parcerias. Creches conveniadas também não são automaticamente o mesmo modelo de charter school.",
+      "sources": [
+        "creche",
+        "creche-tcm"
+      ]
+    },
+    {
+      "cueStart": 1981,
+      "cueEnd": 1990,
+      "title": "Cuba e Venezuela têm escolas totalmente estatais de baixíssima qualidade",
+      "speaker": "Lucas Pavanato",
+      "notes": "UNESCO/UNICEF, não equiparar alfabetização a todos os resultados ou países.",
+      "verdict": "Inconclusivo",
+      "explanation": "A generalização reúne dois países sem definir etapa escolar e indicador de qualidade. O ERCE 2019 tem resultados de Cuba, mas não da Venezuela no mesmo ciclo; ele não permite transformar toda a educação dos dois países em uma única comparação.",
+      "sources": [
+        "erce"
+      ]
+    },
+    {
+      "cueStart": 1990,
+      "cueEnd": 1994,
+      "title": "A Holanda tem um modelo educacional mais aberto que funciona melhor",
+      "speaker": "Lucas Pavanato",
+      "notes": "Modelo de financiamento público de escolas independentes e resultados PISA; comparação sem critério universal.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os Países Baixos financiam, sob requisitos legais, escolas públicas e de administração privada, com inspeção e padrões comuns. Isso confirma diversidade de gestão, mas não demonstra que esse fator isolado faça o modelo “funcionar melhor” em qualquer indicador ou contexto.",
+      "sources": [
+        "holanda"
+      ]
+    },
+    {
+      "cueStart": 2001,
+      "cueEnd": 2008,
+      "title": "A palavra grilagem vem do uso de grilos para envelhecer títulos falsos",
+      "speaker": "Guilherme Cortez",
+      "notes": "Incra definição histórica; nem toda grilagem exige grande fazendeiro.",
+      "verdict": "Verdadeiro",
+      "explanation": "O Incra explica a origem de “grilagem” pelo artifício de envelhecer documentos em caixas com grilos, dando aparência antiga a papéis falsos. Essa é a origem do termo, sem significar que toda fraude fundiária atual use esse método.",
+      "sources": [
+        "grilagem"
+      ]
+    },
+    {
+      "cueStart": 2008,
+      "cueEnd": 2020,
+      "title": "Tarcísio criou regularização de terras ocupadas com desconto de até 90%",
+      "speaker": "Guilherme Cortez",
+      "notes": "Lei estadual2022 governo anterior e regulamentação2023; desconto e regularização versus crime definido.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A regularização citada tem base na Lei 17.557, de julho de 2022, anterior ao governo Tarcísio. Descontos e critérios dependem da situação do imóvel. Regularização legal não equivale automaticamente a declarar lícita toda apropriação de terra nem comprova crime de cada beneficiário.",
+      "sources": [
+        "terras"
+      ]
+    },
+    {
+      "cueStart": 2036,
+      "cueEnd": 2050,
+      "title": "O piso de educação estadual caiu cinco pontos e retirou R$ 11 bilhões",
+      "speaker": "Guilherme Cortez",
+      "notes": "EC estadual54/2024: teto de remanejamento5p.p. para saúde e estimativa versus gasto efetivo.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A EC estadual 55/2024 reduziu o piso exclusivo da educação de 30% para 25% e permitiu aplicar outros 5 pontos em educação ou saúde. Isso é mudança do mínimo vinculante, não prova, por si, de R$ 11 bilhões efetivamente retirados das escolas no exercício.",
+      "sources": [
+        "ec55"
+      ]
+    },
+    {
+      "cueStart": 2058,
+      "cueEnd": 2063,
+      "title": "Cuba tem dos melhores indicadores de alfabetização do mundo",
+      "speaker": "Guilherme Cortez",
+      "notes": "UNESCO UIS; especificar indicador.",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala oscila entre qualidade de toda a educação e alfabetização, sem ano ou ranking. Os resultados do ERCE cobrem competências e séries específicas na região, não um ranking mundial de alfabetização. Não foi certificada a posição global alegada.",
+      "sources": [
+        "erce"
+      ]
+    },
+    {
+      "cueStart": 2067,
+      "cueEnd": 2075,
+      "title": "A maioria dos professores da rede estadual é categoria O",
+      "speaker": "Guilherme Cortez",
+      "notes": "Dados Seduc do vínculo O, não confundir todos os temporários.",
+      "verdict": "Inconclusivo",
+      "explanation": "Para demonstrar maioria seria necessário contar os docentes da categoria O e o total da rede na mesma data e com o mesmo vínculo. Não foi obtido um quadro de pessoal de setembro de 2025 que permita reproduzir essa proporção; temporários e categoria O não devem ser somados indistintamente.",
+      "sources": []
+    },
+    {
+      "cueStart": 2081,
+      "cueEnd": 2096,
+      "title": "Tarcísio entregou escolas estaduais à gestão privada",
+      "speaker": "Guilherme Cortez",
+      "notes": "PPP de infraestrutura de33novas escolas, não transferência da função pedagógica; fase na data.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O decreto da PPP abrange construção e serviços não pedagógicos de 33 novas escolas. Exclui expressamente serviços pedagógicos. Assim, a parceria existe, mas não confirma transferência da escolha de material didático e de toda a gestão do ensino, como o argumento sugere.",
+      "sources": [
+        "ppp-escolas"
+      ]
+    },
+    {
+      "cueStart": 2135,
+      "cueEnd": 2144,
+      "title": "As universidades estaduais paulistas estão entre as melhores do Brasil e da América Latina",
+      "speaker": "Guilherme Cortez",
+      "notes": "Rankings contemporâneos não reputação genérica.",
+      "verdict": "Verdadeiro",
+      "explanation": "No ranking regional QS 2025, USP, Unicamp e Unesp figuram entre as dez primeiras instituições da América Latina e Caribe. O ranking sustenta a posição relativa nesse levantamento, com metodologia própria; não é uma avaliação absoluta de todo curso.",
+      "sources": [
+        "qs"
+      ]
+    },
+    {
+      "cueStart": 2175,
+      "cueEnd": 2190,
+      "title": "Pavanato foi agredido por integrantes do DCE com barras de ferro na USP",
+      "speaker": "Lucas Pavanato",
+      "notes": "Relato pessoal e necessidade de registros e apuração independente.",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala remete a vídeos sem identificar data e registros específicos. Não foram confirmadas a autoria das agressões, a condição de membros do DCE ou o uso de barras de ferro. Relato pessoal e acusação não equivalem a uma conclusão investigativa.",
+      "sources": []
+    },
+    {
+      "cueStart": 2191,
+      "cueEnd": 2201,
+      "title": "Pavanato recebeu ameaças de professor do IFRS e de dois estudantes da USP",
+      "speaker": "Lucas Pavanato",
+      "notes": "Sem identificar pessoas ou presumir prova de autoria; requer mensagens/procedimentos.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados no trecho os procedimentos e registros das alegadas ameaças. Não é possível atribuir esses atos a professores ou estudantes específicos apenas pela narrativa, nem expor pessoas por associação presumida.",
+      "sources": []
+    },
+    {
+      "cueStart": 2201,
+      "cueEnd": 2221,
+      "title": "A USP nunca responsabilizou os autores e a Justiça nada fez",
+      "speaker": "Lucas Pavanato",
+      "notes": "Afirmação negativa absoluta sem processos nomeados.",
+      "verdict": "Inconclusivo",
+      "explanation": "A ausência de medidas divulgadas não comprova que nunca houve apuração ou responsabilização. Sem identificar os casos e consultar os procedimentos respectivos, a afirmação geral sobre inação da USP e da Justiça permanece sem conclusão.",
+      "sources": []
+    },
+    {
+      "cueStart": 2244,
+      "cueEnd": 2252,
+      "title": "O país investe quatro vezes mais no ensino superior que no básico",
+      "speaker": "Lucas Pavanato",
+      "notes": "Distinguir gasto por aluno e total; OCDE/INEP.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os indicadores do Inep distinguem gasto por estudante e volume total de recursos. A distância entre etapas pode chegar a várias vezes por aluno, mas isso não significa que o gasto total do país no superior seja quatro vezes o da educação básica. A fala não explicita essa unidade de comparação.",
+      "sources": [
+        "gasto-aluno"
+      ]
+    },
+    {
+      "cueStart": 2289,
+      "cueEnd": 2300,
+      "title": "USP, Unesp e Unicamp recebem 9,57% do ICMS desde 1995",
+      "speaker": "Guilherme Cortez",
+      "notes": "Quota-parte estadual líquida; ICMS não incide sobre qualquer serviço.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "As três universidades recebem 9,57% da quota-parte estadual do ICMS, patamar adotado desde 1995. A base não é toda a arrecadação do imposto, e ICMS não incide sobre qualquer serviço indistintamente. O percentual fixo também não significa valor anual congelado.",
+      "sources": [
+        "icms",
+        "icms1995"
+      ]
+    },
+    {
+      "cueStart": 2299,
+      "cueEnd": 2305,
+      "title": "As universidades dobraram de tamanho sem dobrar o investimento",
+      "speaker": "Guilherme Cortez",
+      "notes": "Métrica de tamanho e valores reais não especificados; quota percentual fixa não implica valor absoluto congelado.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são definidos o tamanho medido — matrículas, campi, pessoal ou pesquisa — e a correção monetária do investimento. A estabilidade da participação no ICMS não prova que o montante tenha permanecido estável ou que não tenha dobrado.",
+      "sources": [
+        "icms"
+      ]
+    },
+    {
+      "cueStart": 2307,
+      "cueEnd": 2314,
+      "title": "A UFRJ desenvolve medicamento para recuperação de lesão medular",
+      "speaker": "Guilherme Cortez",
+      "notes": "Polilaminina: pesquisa experimental não cura aprovada.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A UFRJ desenvolve polilaminina e divulgou resultados experimentais em lesão medular em setembro de 2025. Naquela data, ainda aguardava autorização para estudos clínicos maiores. Pesquisa promissora não equivale a medicamento aprovado ou cura disponível para todo paciente.",
+      "sources": [
+        "polilaminina"
+      ]
+    },
+    {
+      "cueStart": 2313,
+      "cueEnd": 2317,
+      "title": "A Unesp tem parceria para desenvolver tecnologias e próteses para pessoas com deficiência",
+      "speaker": "Guilherme Cortez",
+      "notes": "Unesp e Secretaria da Pessoa com Deficiência.",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica o convênio, o laboratório ou o dispositivo da parceria. Não foi confirmado nesta revisão o instrumento específico entre Unesp e Secretaria referido, embora isso não permita concluir que seja inexistente.",
+      "sources": []
+    },
+    {
+      "cueStart": 2317,
+      "cueEnd": 2321,
+      "title": "O salário de vereador de São Paulo é cerca de R$ 26 mil mensais",
+      "speaker": "Guilherme Cortez",
+      "notes": "Subsídio2025 bruto, não somar verbas de gabinete.",
+      "verdict": "Verdadeiro",
+      "explanation": "O subsídio mensal dos vereadores paulistanos passou a R$ 26.080,98 em fevereiro de 2025. O arredondamento para R$ 26 mil está correto; o valor bruto não demonstra a qualidade ou a carga de trabalho de um parlamentar.",
+      "sources": [
+        "salario"
+      ]
+    },
+    {
+      "cueStart": 2321,
+      "cueEnd": 2328,
+      "title": "A USP enviou médicos do Hospital das Clínicas para tratar Bolsonaro em Brasília naquela semana",
+      "speaker": "Guilherme Cortez",
+      "notes": "Distinguir vínculo acadêmico, missão institucional e hospital privado, data da viagem.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Cláudio Birolini atendia Bolsonaro e tinha vínculo de direção cirúrgica com o HC-USP. Isso confirma a formação e o vínculo profissional; não demonstra que a USP tenha enviado uma missão institucional ou custeado o atendimento privado descrito.",
+      "sources": [
+        "bolsonaro-medico"
+      ]
+    },
+    {
+      "cueStart": 2357,
+      "cueEnd": 2367,
+      "title": "A pesquisa universitária não acontece em departamentos de humanas",
+      "speaker": "Lucas Pavanato",
+      "notes": "Contexto pode se referir às pesquisas biomédicas citadas; evitar transformar crítica em negação de toda pesquisa social.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os exemplos biomédicos citados pertencem a áreas específicas, mas a pesquisa universitária também existe em humanidades. Estudos como o de Zanello e Gomes, em gênero e linguagem, são exemplos publicados. Desqualificar interlocutores ou áreas inteiras não substitui avaliação dos trabalhos.",
+      "sources": [
+        "zanello"
+      ]
+    },
+    {
+      "cueStart": 2393,
+      "cueEnd": 2414,
+      "title": "Aborto não é seguro porque toda cirurgia tem riscos físicos e psicológicos",
+      "speaker": "Lucas Pavanato",
+      "notes": "Segurança clínica não é risco zero, nem todo aborto é cirúrgico; risco de transtorno psicológico requer evidência causal.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Procedimento seguro não significa risco zero. A OMS reconhece métodos seguros, inclusive medicamentosos, e não apenas cirurgias. Estudos prospectivos também não sustentam que o aborto desejado cause inevitavelmente pior saúde mental; os riscos dependem das condições de atendimento e da situação clínica.",
+      "sources": [
+        "oms-aborto",
+        "turnaway"
+      ]
+    },
+    {
+      "cueStart": 2426,
+      "cueEnd": 2434,
+      "title": "O MBL difundiu que Marielle era esposa de Márcio VP",
+      "speaker": "Guilherme Cortez",
+      "notes": "Rumor é falso, mas autoria institucional requer registro da publicação, não transferir boato de terceiros.",
+      "verdict": "Inconclusivo",
+      "explanation": "O boato sobre Marielle não é tomado como verdade. Mas a afirmação específica de que o MBL o difundiu por anos exige publicações datadas e autoria verificável. Esses registros não foram identificados com segurança nesta revisão.",
+      "sources": []
+    },
+    {
+      "cueStart": 2437,
+      "cueEnd": 2444,
+      "title": "A imensa maioria dos projetos contra aborto é de autoria de homens",
+      "speaker": "Guilherme Cortez",
+      "notes": "Universo e levantamento legislativo não definidos.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são apresentados período, lista de proposições e critério de classificação como antiaborto. A distribuição por gênero dos autores pode ser apurada em um universo delimitado, mas não foi demonstrada pelo trecho ou por uma base anexada.",
+      "sources": []
+    },
+    {
+      "cueStart": 2445,
+      "cueEnd": 2451,
+      "title": "Pesquisa de 2017 mostrou que metade dos brasileiros conhece mulher que abortou",
+      "speaker": "Guilherme Cortez",
+      "notes": "Procurar instituto, data, universo e pergunta.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A pesquisa de 2017 citada na cobertura da época apontava 45%, e não 50%, dos entrevistados com conhecimento de uma mulher que interrompeu a gestação. Foram ouvidas 1.600 pessoas em regiões metropolitanas; não era um censo de todos os brasileiros.",
+      "sources": [
+        "pesquisa-aborto2017"
+      ]
+    },
+    {
+      "cueStart": 2456,
+      "cueEnd": 2466,
+      "title": "Projeto penalizaria vítima de estupro inclusive criança mais que o estuprador",
+      "speaker": "Guilherme Cortez",
+      "notes": "PL1904/2024:22semanas,6a20versuspenasdoestupro; menores penalmente inimputáveis.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O PL 1904/2024 propunha equiparar certos abortos após 22 semanas a homicídio, inclusive em gravidez por estupro. Porém, menores de 18 anos são penalmente inimputáveis e não recebem pena de cadeia de adulto. Comparar penas exige distinguir idade, crime, qualificadoras e projeto de lei ainda não vigente.",
+      "sources": [
+        "pl1904",
+        "constituicao"
+      ]
+    },
+    {
+      "cueStart": 2494,
+      "cueEnd": 2501,
+      "title": "Mortes por violência policial entre jovens de 10 a 19 cresceram 120% em São Paulo",
+      "speaker": "Guilherme Cortez",
+      "notes": "Distinguir letalidade e toda violência, idade e período.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O estudo UNICEF/FBSP registrou aumento de 35 para 77 mortos de 10 a 19 anos por intervenções policiais entre 2022 e 2024, alta de 120%. O indicador trata de mortes nesse recorte, não de todos os episódios de violência policial.",
+      "sources": [
+        "unicef120"
+      ]
+    },
+    {
+      "cueStart": 2530,
+      "cueEnd": 2540,
+      "title": "Desde a concepção já existe um bebê ou ser humano",
+      "speaker": "Lucas Pavanato",
+      "notes": "Separar organismo humano, embrião e personalidade/direitos jurídicos de juízo moral.",
+      "verdict": "opinion",
+      "explanation": "O trecho combina descrição biológica e posição moral sobre proteção e pessoa humana. A obrigação ética defendida não foi transformada em veredito científico; a fala permanece integralmente acessível na transcrição.",
+      "sources": []
+    },
+    {
+      "cueStart": 2575,
+      "cueEnd": 2581,
+      "title": "Dos mais de cinquenta projetos de Pavanato apenas dois são sobre aborto",
+      "speaker": "Lucas Pavanato",
+      "notes": "Base legislativa histórica em19set2025; critérios temáticos.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi reconstituído um catálogo fechado até 19/09/2025 com critério de tema e autoria. Sem essa lista, não se confirma a proporção de dois projetos entre mais de cinquenta, nem se infere a frequência pelo discurso de campanha.",
+      "sources": []
+    },
+    {
+      "cueStart": 2606,
+      "cueEnd": 2618,
+      "title": "O projeto de Sóstenes é o Estatuto do Nascituro e mandaria criança para a cadeia",
+      "speaker": "Guilherme Cortez",
+      "notes": "Confusão PL1904/2024 comPL478/2007; repetir núcleo penal sem duplicar, conferir iniciativa e liderançaPL.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O texto de Sóstenes é o PL 1904/2024; o Estatuto do Nascituro é outra proposição. O projeto amplia a punição de abortos após 22 semanas, mas não afasta a inimputabilidade penal de menores de 18 anos. A formulação mistura propostas e regime penal de adultos com o de crianças.",
+      "sources": [
+        "pl1904",
+        "constituicao"
+      ]
+    },
+    {
+      "cueStart": 2645,
+      "cueEnd": 2652,
+      "title": "O Brasil está sujeito à maior tarifa americana do mundo",
+      "speaker": "Guilherme Cortez",
+      "notes": "Alíquota50% e exceções; Índia também50% em setembro, não generalizar a todos os produtos.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O adicional sobre certos produtos brasileiros levou a alíquota anunciada a 50%, com exceções. Isso não era tarifa uniforme sobre o Brasil inteiro ou todos os produtos. Comparar a “maior do mundo” exige distinguir tarifas por país, por produto e medidas cumulativas.",
+      "sources": [
+        "tarifas",
+        "tarifas-nota"
+      ]
+    },
+    {
+      "cueStart": 2656,
+      "cueEnd": 2663,
+      "title": "São Paulo lidera as exportações brasileiras aos EUA e exportou 6,4 bilhões no semestre",
+      "speaker": "Guilherme Cortez",
+      "notes": "Conferir moeda: legenda diz reais, dado costuma serUS$. Não corrigir a fala por inferência.",
+      "verdict": "Inconclusivo",
+      "explanation": "A publicação consultada registra US$ 6,4 bilhões, enquanto a legenda fornecida registra reais. Sem validação do áudio, não se atribui essa possível troca de moeda ao locutor nem se pontua como erro comprovado. O indicador de exportações também não significa que todo produto receberia a mesma tarifa.",
+      "sources": [
+        "exportacoes-sp"
+      ]
+    },
+    {
+      "cueStart": 2663,
+      "cueEnd": 2667,
+      "title": "Cerca de 120 mil empregos paulistas estão ameaçados pela tarifa",
+      "speaker": "Guilherme Cortez",
+      "notes": "Estimativa não perdas consumadas; entidade e cenário.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Tarcísio divulgou uma simulação de 44 mil a 120 mil empregos a menos em São Paulo. A cifra superior foi realmente citada como risco, não como número de demissões já ocorridas. O resultado dependia das hipóteses do cenário tarifário.",
+      "sources": [
+        "empregos-sp"
+      ]
+    },
+    {
+      "cueStart": 2681,
+      "cueEnd": 2696,
+      "title": "O documento americano justifica a tarifa por ações do STF e do governo brasileiro",
+      "speaker": "Lucas Pavanato",
+      "notes": "Descrição da justificativa oficial americana não prova a veracidade das acusações.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A ordem e a nota da Casa Branca invocam ações do governo brasileiro, do Judiciário e o processo de Bolsonaro como justificativas políticas. Confirmar que esse é o argumento oficial americano não equivale a provar que as acusações sejam verdadeiras ou que a responsabilidade econômica seja das pessoas apontadas.",
+      "sources": [
+        "tarifas",
+        "tarifas-nota"
+      ]
+    },
+    {
+      "cueStart": 2714,
+      "cueEnd": 2721,
+      "title": "Crime de menor potencial ofensivo não justifica busca e apreensão",
+      "speaker": "Lucas Pavanato",
+      "notes": "CPP240 não contém vedação geral por pena; decisão exige motivos/proporcionalidade.",
+      "verdict": "Falso",
+      "explanation": "O artigo 240 do Código de Processo Penal condiciona a busca a fundamentos e finalidades legais. Não estabelece proibição geral de busca para infração de menor potencial ofensivo. A legalidade de uma diligência específica depende da decisão e das circunstâncias do caso.",
+      "sources": [
+        "cpp"
+      ]
+    },
+    {
+      "cueStart": 2736,
+      "cueEnd": 2745,
+      "title": "Bolsonaro sugeriu que a China produziu uma guerra biológica e a China é o principal destino das exportações",
+      "speaker": "Guilherme Cortez",
+      "notes": "Separar registro de fala e dado comercial da verdade da hipótese de origem.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Bolsonaro sugeriu, em 2021, relação entre a pandemia e guerra biológica, referência entendida como ataque à China. Isso comprova a declaração, não a origem do vírus. A posição da China como destino comercial exige o recorte anual; o trecho formula ainda uma hipótese de retaliação, não um evento ocorrido.",
+      "sources": [
+        "china-declaracao"
+      ]
+    },
+    {
+      "cueStart": 2746,
+      "cueEnd": 2755,
+      "title": "Eduardo Bolsonaro está fora do país há meses recebendo salário e houve manobra de trabalho remoto",
+      "speaker": "Guilherme Cortez",
+      "notes": "Cronologia de licença, descontos por faltas e proposta emset2025.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Eduardo permaneceu nos EUA após encerrar a licença e voltou a receber remuneração em julho. Isso não significa salário integral contínuo durante todos os meses de licença. Também não comprova, sem examinar a proposta citada, que a mudança de trabalho remoto já tivesse sido aprovada.",
+      "sources": [
+        "eduardo-salario"
+      ]
+    },
+    {
+      "cueStart": 2762,
+      "cueEnd": 2774,
+      "title": "Rubens Paiva foi assassinado pelo regime militar sem julgamento",
+      "speaker": "Guilherme Cortez",
+      "notes": "Comissão Nacional da Verdade, registro histórico.",
+      "verdict": "Verdadeiro",
+      "explanation": "O CNDH registra prisão sem mandado em janeiro de 1971, tortura até a morte e ocultação do corpo de Rubens Paiva. Não houve julgamento criminal regular que justificasse sua execução. A documentação confirma o núcleo histórico da comparação.",
+      "sources": [
+        "rubens"
+      ]
+    },
+    {
+      "cueStart": 2781,
+      "cueEnd": 2790,
+      "title": "Produtor de pescado paulista tem 2500 empregos ameaçados",
+      "speaker": "Guilherme Cortez",
+      "notes": "Empresa não nomeada, não atribuir caso particular a um produtor por adivinhação.",
+      "verdict": "Inconclusivo",
+      "explanation": "O produtor visitado não é nomeado e não há demonstrativo de empregos diretos e indiretos ou estudo de impacto anexado. Não foi possível confirmar os 2.500 postos específicos nem a proporção efetivamente exposta à tarifa.",
+      "sources": []
+    },
+    {
+      "cueStart": 2796,
+      "cueEnd": 2803,
+      "title": "Trump quer taxar o Pix dos comerciantes da 25 de Março",
+      "speaker": "Guilherme Cortez",
+      "notes": "Investigação comercial301 sobre pagamentos versus imposto sobre Pix no Brasil.",
+      "verdict": "Falso",
+      "explanation": "A investigação comercial americana incluiu serviços de pagamento eletrônico. Não era uma cobrança de imposto dos EUA sobre cada Pix realizado por comerciantes no Brasil. Tarifas de importação e investigação de práticas comerciais são instrumentos distintos.",
+      "sources": [
+        "ustr",
+        "tarifas"
+      ]
+    },
+    {
+      "cueStart": 2831,
+      "cueEnd": 2839,
+      "title": "Eduardo saiu do Brasil por ordem de apreensão de passaporte apenas por opinião",
+      "speaker": "Lucas Pavanato",
+      "notes": "Sequência temporal das decisões e acusações de coação/obstrução versus opinião.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Houve pedido de apreensão do passaporte, mas Moraes o rejeitou em março de 2025. Pedido de adversários e ordem judicial vigente são coisas diferentes. Não se comprova a narrativa de saída em cumprimento ou fuga de uma ordem de apreensão por simples opinião.",
+      "sources": [
+        "eduardo-passaporte"
+      ]
+    },
+    {
+      "cueStart": 2855,
+      "cueEnd": 2864,
+      "title": "Militantes do PSOL agrediram PMs na ALESP e fingiram ferimentos com batom",
+      "speaker": "Lucas Pavanato",
+      "notes": "Registros de enfrentamento não comprovam filiação nem simulação de lesões; identificar investigação.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados com precisão a manifestação, as pessoas ou os laudos a que se refere a alegação de maquiagem com batom. Imagens isoladas e alinhamento partidário não provam simulação ou autoria de agressão.",
+      "sources": []
+    },
+    {
+      "cueStart": 2871,
+      "cueEnd": 2880,
+      "title": "O policial tem direito de matar quem reage à abordagem para defender sua vida",
+      "speaker": "Lucas Pavanato",
+      "notes": "CP25: agressão injusta atual/iminente, necessidade e moderação; reação genérica não basta.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O artigo 25 admite legítima defesa contra agressão injusta atual ou iminente, com meios necessários e uso moderado. Isso pode abranger a defesa da vida de um policial, como o cenário enunciado, mas não autoriza matar por qualquer reação a uma abordagem.",
+      "sources": [
+        "cp"
+      ]
+    },
+    {
+      "cueStart": 2896,
+      "cueEnd": 2911,
+      "title": "Doadores de Tarcísio são investigados por PCC e um segurança da Casa Militar foi preso por lavagem",
+      "speaker": "Guilherme Cortez",
+      "notes": "Casos e processos; vínculo de terceiros não prova culpa do governador. Sem dados privados de agentes.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são nomeados os doadores, os procedimentos nem o agente mencionado. Não foi possível vincular com segurança todos os casos. Investigar um doador ou servidor também não demonstra automaticamente participação do governador em organização criminosa.",
+      "sources": []
+    },
+    {
+      "cueStart": 2940,
+      "cueEnd": 2955,
+      "title": "Operação na Faria Lima encontrou fundos e fintechs do PCC beneficiados pelo fim do monitoramento do Pix",
+      "speaker": "Guilherme Cortez",
+      "notes": "Carbono Oculto, Receita: separar achados de lavagem, obrigação e-Financeira e causalidade de vídeo político.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Receita descreveu fintechs e fundos usados na estrutura de lavagem investigada na Operação Carbono Oculto. O documento não estabelece que um vídeo de Nikolas tenha criado ou causado o esquema, já existente em anos anteriores. Criticar ou revogar uma obrigação de informação não prova cumplicidade criminal.",
+      "sources": [
+        "carbono"
+      ]
+    },
+    {
+      "cueStart": 2956,
+      "cueEnd": 2963,
+      "title": "Quatro em cada dez mortes violentas na capital em 2024 foram causadas por policiais",
+      "speaker": "Guilherme Cortez",
+      "notes": "Universo MVI inclui intervenções; não só homicídio doloso registrado.",
+      "verdict": "Inconclusivo",
+      "explanation": "É necessário definir se o denominador são homicídios dolosos ou mortes violentas intencionais, que incluem intervenções policiais. O número do trecho não veio acompanhado da tabela da capital e não foi reproduzido com segurança nesta revisão; não deve ser confundido com a proporção estadual ou entre adolescentes.",
+      "sources": [
+        "unicef120"
+      ]
+    },
+    {
+      "cueStart": 2996,
+      "cueEnd": 3001,
+      "title": "Não há nenhuma investigação relacionando Tarcísio ao crime organizado",
+      "speaker": "Lucas Pavanato",
+      "notes": "Impossível demonstrar ausência universal; investigação de terceiros não implica pessoalmente governador.",
+      "verdict": "Inconclusivo",
+      "explanation": "Sem delimitar procedimento, período e tipo de investigação, não é possível certificar a inexistência universal afirmada. Por outro lado, acusações a doadores ou funcionários não provam investigação ou culpa do governador por associação.",
+      "sources": []
+    },
+    {
+      "cueStart": 3001,
+      "cueEnd": 3006,
+      "title": "Tarcísio foi alvo de tentativa de homicídio em comunidade na campanha de 2022",
+      "speaker": "Lucas Pavanato",
+      "notes": "Tiroteio de Paraisópolis é documentado; atentado contra candidato precisa de conclusão investigativa.",
+      "verdict": "Inconclusivo",
+      "explanation": "Houve tiroteio durante a visita de campanha em 2022. A SSP afirmou na ocasião que não podia caracterizá-lo como atentado contra Tarcísio. O episódio não basta para confirmar uma tentativa de homicídio dirigida ao então candidato.",
+      "sources": [
+        "paraisopolis"
+      ]
+    },
+    {
+      "cueStart": 3014,
+      "cueEnd": 3018,
+      "title": "Flávio Dino entrou em comunidade ocupada pelo crime",
+      "speaker": "Lucas Pavanato",
+      "notes": "Visita oficial à Maré não prova permissão/aliança de criminosos.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Dino visitou a Maré em março de 2023 para atividade da ONG Redes da Maré, com escolta. A presença em território com atuação de grupos armados é verificável; ela não demonstra encontro ou vínculo com líderes criminosos.",
+      "sources": [
+        "dino-mare"
+      ]
+    },
+    {
+      "cueStart": 3018,
+      "cueEnd": 3025,
+      "title": "Vídeos mostram presidiários celebrando a eleição de Lula",
+      "speaker": "Lucas Pavanato",
+      "notes": "Vídeos não identificados; distinguir imagens antigas, voto de preso provisório e inferência de alinhamento ao crime.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados os vídeos, as unidades prisionais e as datas. Sem verificar autenticidade e contexto, não é possível confirmar as cenas. Mesmo uma comemoração real de alguns presos não prova apoio de todo o sistema prisional ou aliança de um candidato com o crime.",
+      "sources": []
+    },
+    {
+      "cueStart": 3035,
+      "cueEnd": 3050,
+      "title": "El Salvador resolveu o crime organizado prendendo e matando quem reage",
+      "speaker": "Lucas Pavanato",
+      "notes": "Queda de homicídios não erradicação de todo crime, e nexo único não comprovado.",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "El Salvador registrou forte redução dos homicídios, mas isso não significa erradicação de todo crime organizado. O relatório também registra detenções arbitrárias e problemas de devido processo. A queda, isoladamente, não prova que matar quem reage seja sua única causa ou solução transferível ao Brasil.",
+      "sources": [
+        "elsalvador"
+      ]
+    },
+    {
+      "cueStart": 3076,
+      "cueEnd": 3085,
+      "title": "Câmeras corporais ajudam a proteger policiais e conter violência",
+      "speaker": "Guilherme Cortez",
+      "notes": "Estudos de uso de força e mortes, sem garantia em cada caso.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O estudo UNICEF/FBSP documenta redução de mortes em período de expansão das câmeras e aponta importância de protocolos e controle do uso da força. A tecnologia pode contribuir para proteção e fiscalização; seus efeitos dependem da política e não garantem ausência de violência em todo caso.",
+      "sources": [
+        "unicef120"
+      ]
+    },
+    {
+      "cueStart": 3157,
+      "cueEnd": 3165,
+      "title": "74,4% dos feminicídios usam arma de fogo",
+      "speaker": null,
+      "notes": "Pode confundir homicídios totais e feminicídios; AnuárioFBSP2025.",
+      "verdict": "Falso",
+      "explanation": "O Anuário 2025 informa armas de fogo em 23,6% dos feminicídios de 2024; armas brancas representam 48,4%. A cifra de 74,4% não corresponde ao indicador nacional de feminicídio citado na pergunta. Não se deve transplantar a proporção de outras mortes violentas.",
+      "sources": [
+        "fbsp2025"
+      ]
+    },
+    {
+      "cueStart": 3166,
+      "cueEnd": 3172,
+      "title": "Os feminicídios caíram no governo Bolsonaro mesmo com acesso maior às armas",
+      "speaker": "Lucas Pavanato",
+      "notes": "Série2018-2022; não atribuir causalidade só pela correlação.",
+      "verdict": "Majoritariamente falso",
+      "explanation": "A série não sustenta queda no conjunto de 2019 a 2022. Houve redução pontual entre 2020 e 2021, seguida de alta em 2022. Além disso, coincidência temporal com regras de armas não demonstra que essas regras tenham causado uma variação nos feminicídios.",
+      "sources": [
+        "fbsp2022",
+        "fbsp2023"
+      ]
+    },
+    {
+      "cueStart": 3231,
+      "cueEnd": 3254,
+      "title": "Políticos de esquerda andam sempre armados ou com escolta armada",
+      "speaker": "Lucas Pavanato",
+      "notes": "Porte pessoal não é escolta; não há políticos e registros identificados que permitam a generalização.",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala generaliza para todos os políticos de esquerda sem nomes ou levantamento de segurança e porte de armas. Escolta institucional, posse privada e opinião sobre regras de armamento são situações distintas; não se confirma o “sempre” a partir de exemplos não identificados.",
+      "sources": []
+    },
+    {
+      "cueStart": 3273,
+      "cueEnd": 3280,
+      "title": "A política de acesso às armas causou o assassinato de Charlie Kirk",
+      "speaker": "Guilherme Cortez",
+      "notes": "Caso específico não identifica causalidade contrafactual de política pública.",
+      "verdict": "Inconclusivo",
+      "explanation": "O assassinato por arma de fogo é confirmado, mas atribuir a ocorrência a uma política específica exige uma demonstração causal adicional. A investigação criminal disponível não prova esse contrafactual. Acesso a armas como fator de risco não resolve sozinho a causa individual.",
+      "sources": [
+        "fbi-kirk"
+      ]
+    },
+    {
+      "cueStart": 3285,
+      "cueEnd": 3290,
+      "title": "Charlie Kirk dizia que algumas mortes anuais eram preço aceitável pelo direito às armas",
+      "speaker": "Guilherme Cortez",
+      "notes": "Declaração original2023 e contexto.",
+      "verdict": "Verdadeiro",
+      "explanation": "Há registro de Kirk, em 2023, admitindo mortes por armas como custo para preservar a Segunda Emenda. O vídeo sustenta a atribuição da fala, sem significar que ele aceitasse ou desejasse qualquer assassinato específico.",
+      "sources": [
+        "kirk-armas"
+      ]
+    },
+    {
+      "cueStart": 3291,
+      "cueEnd": 3296,
+      "title": "Bolsonaro falou em fuzilar FHC, desejou morte de Dilma e falou em fuzilar petralhada",
+      "speaker": "Guilherme Cortez",
+      "notes": "Três alegações históricas distintas, conferir registros e não atribuir frase apócrifa.",
+      "verdict": "Inconclusivo",
+      "explanation": "A frase agrupa episódios diferentes. Sem registro integral e datado de cada um, em especial o desejo de morte de Dilma por câncer ou infarto, não foi certificada a atribuição conjunta. Uma declaração documentada não valida automaticamente as demais.",
+      "sources": []
+    },
+    {
+      "cueStart": 3307,
+      "cueEnd": 3316,
+      "title": "O suspeito de matar Charlie Kirk era de extrema direita e achava Trump moderado",
+      "speaker": "Guilherme Cortez",
+      "notes": "PromotoriaUtah2025 relato de parentes e mensagens; motivação não fixada por sentença.",
+      "verdict": "Inconclusivo",
+      "explanation": "Os relatos iniciais reunidos pelas autoridades não confirmavam a tese de extrema direita nem a motivação de considerar Trump moderado. A apuração ainda buscava estabelecer o motivo; a revisão não certifica como resolvida a interpretação política apresentada no debate.",
+      "sources": [
+        "utah"
+      ]
+    },
+    {
+      "cueStart": 3321,
+      "cueEnd": 3331,
+      "title": "Tarcísio reteve 96% de 26 milhões da verba para mulheres e aplicou 900 mil em 2024",
+      "speaker": "Guilherme Cortez",
+      "notes": "Ano, ação orçamentária e modalidade de execução, não confundir programa e todo orçamento.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O levantamento reproduzido pela reportagem registrou R$ 900 mil liberados de R$ 26 milhões em programas específicos em 2024, com contingenciamento próximo de 96%. Esse recorte não equivale ao orçamento de todas as políticas para mulheres, distribuídas também por outras pastas.",
+      "sources": [
+        "orcamento-mulheres"
+      ]
+    },
+    {
+      "cueStart": 3505,
+      "cueEnd": 3511,
+      "title": "Pavanato foi o vereador mais votado do Brasil e o terceiro da história",
+      "speaker": "Lucas Pavanato",
+      "notes": "TSE2024 e comparação histórica por votos absolutos.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A eleição de 2024 e a votação de 161.386 aparecem nos registros contemporâneos. A colocação de terceiro é apresentada em cobertura e pelo próprio eleito; o superlativo exige cuidado com ano, número absoluto e histórico de candidaturas, sem somar votos de cargos diferentes.",
+      "sources": [
+        "pavanato-eleicao",
+        "pavanato"
+      ]
+    },
+    {
+      "cueStart": 3555,
+      "cueEnd": 3563,
+      "title": "A arma usada contra Kirk era legal e a de Marielle era do crime organizado",
+      "speaker": "Lucas Pavanato",
+      "notes": "Legalidade individual da posse não comprovada apenas por tipo de arma; separar casos.",
+      "verdict": "Inconclusivo",
+      "explanation": "O tipo da arma não comprova, isoladamente, posse ou uso legal no caso Kirk. A comparação envolve também a origem da arma do assassinato de Marielle. Não foi obtida documentação suficiente para certificar as duas qualificações na forma enunciada.",
+      "sources": [
+        "fbi-kirk",
+        "marielle"
+      ]
+    },
+    {
+      "cueStart": 3570,
+      "cueEnd": 3577,
+      "title": "Munição do caso Kirk tinha inscrição antifascista e parentes relataram posições à esquerda",
+      "speaker": "Lucas Pavanato",
+      "notes": "Documento/declaração oficial da promotoria em16set2025; não rotular todo um campo político.",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Autoridades relataram inscrições antifascistas na munição e familiares descreveram uma mudança das posições do suspeito à esquerda. Esses elementos foram divulgados, mas eram indícios e depoimentos da investigação, não uma conclusão definitiva sobre motivação ou responsabilidade de um campo político.",
+      "sources": [
+        "utah"
+      ]
+    },
+    {
+      "cueStart": 3673,
+      "cueEnd": 3681,
+      "title": "Cortez nunca fiscalizou unidade de saúde, enquanto Pavanato gerou investigação do TCM",
+      "speaker": "Lucas Pavanato",
+      "notes": "Verificar duas alegações de atuação parlamentar separadamente.",
+      "verdict": "Inconclusivo",
+      "explanation": "A negativa sobre toda a atividade de fiscalização de Cortez exigiria um histórico completo. O outro enunciado exige identificar o processo do TCM gerado pela fiscalização de Pavanato. Nenhum desses dois conjuntos foi demonstrado de forma suficiente pelo trecho.",
+      "sources": []
+    },
+    {
+      "cueStart": 3681,
+      "cueEnd": 3689,
+      "title": "Pavanato está entre vereadores que mais protocolam projetos sem honrarias ou nomes de ruas",
+      "speaker": "Lucas Pavanato",
+      "notes": "Ranking, período e universo não apresentados.",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há lista comparativa com todos os vereadores e regra para excluir honrarias e nomes de ruas até a data. Sem esses critérios, não foi reproduzida a colocação alegada nem quantos projetos já haviam virado lei.",
+      "sources": []
+    }
+  ],
+  "scannedThrough": 3803,
+  "video": {
+    "id": "C0ucX3GZo-c",
+    "url": "https://www.youtube.com/watch?v=C0ucX3GZo-c",
+    "title": "CORTEZ x PAVANATO - Flow Debate #001",
+    "channel": "Flow Podcast",
+    "thumbnailUrl": "https://i.ytimg.com/vi/C0ucX3GZo-c/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "cortez",
+      "name": "Guilherme Cortez",
+      "aliases": [
+        "Cortez",
+        "Guilherme"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "pavanato",
+      "name": "Lucas Pavanato",
+      "aliases": [
+        "Pavanato",
+        "Lucas"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    }
+  ],
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "reviewedAt": "2026-10-29T19:28:46Z",
+  "transcriptSha256": "a8f67433f4d34c6d5cce44554f59e2840c29027fb51cf01f583b8293723513d4"
+}
