@@ -1,5 +1,12 @@
 import { test, expect } from '@playwright/test'
 
+test.beforeEach(async ({ page }) => {
+  // Keep browser tests independent of Analytics and avoid sending test visits.
+  await page.route('https://www.googletagmanager.com/gtag/js?**', (route) => route.fulfill({
+    status: 200, contentType: 'application/javascript', body: '',
+  }))
+})
+
 test('carrossel na primeira tela move para a esquerda, destaca o centro e abre o debate', async ({ page }, testInfo) => {
   await page.goto('./')
   const carousel = page.getByRole('region', { name: 'Debates em destaque' })
