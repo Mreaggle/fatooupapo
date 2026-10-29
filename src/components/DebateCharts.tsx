@@ -6,7 +6,7 @@ export function DebateCharts({ report, speakers }: { report: AnalysisReport; spe
   if (!stats.speakers.length) return null
   return <section aria-labelledby="debate-charts-title" className="mb-8 rounded-xl border border-line p-4 sm:p-6">
     <h2 id="debate-charts-title" className="font-serif text-xl">Classificações por debatedor</h2>
-    <p className="mt-2 text-xs leading-6 text-muted">{report.coverage?.kind === 'selected-claims' ? 'Cobertura parcial. ' : ''}Contagem das afirmações deste relatório com locutor detectado automaticamente, indicado pelas fontes ou revisado por você. Não é uma nota do debate inteiro nem mede intenção de mentir.</p>
+    <p className="mt-2 text-xs leading-6 text-muted">{report.coverage?.kind === 'selected-claims' ? 'Cobertura parcial. ' : ''}Distribuição das afirmações atribuídas a cada debatedor.</p>
     <div className="mt-6 grid gap-7 sm:grid-cols-2">
       {stats.speakers.map((speaker) => {
         const angle = speaker.factPercent === null ? 0 : 180 - speaker.factPercent * 1.8
@@ -16,7 +16,8 @@ export function DebateCharts({ report, speakers }: { report: AnalysisReport; spe
         const talkLabel = `${speaker.talk} ${speaker.talk === 1 ? 'Papo' : 'Papos'}`
         return <div key={speaker.name} role="group" aria-label={`Resumo de ${speaker.name}`} className="min-w-0">
           <h3 className="text-sm font-medium">{speaker.name}</h3>
-          <p className="mt-2 text-[11px] leading-5 text-muted">{speaker.attributionScoreAverage === null ? 'Identificação do locutor sem índice numérico.' : <>Precisão média estimada de identificação: <span className="font-medium text-foreground">{new Intl.NumberFormat('pt-BR', { minimumFractionDigits: 1, maximumFractionDigits: 1 }).format(speaker.attributionScoreAverage)}%</span><br />Média de {speaker.scoredAttributions} de {speaker.total} afirmações atribuídas.</>}</p>
+          <p className="mt-2 text-[11px] leading-5 text-muted">{speaker.attributionScoreAverage === null ? 'Identificação do locutor sem índice numérico.' : <>Precisão média estimada de identificação: <span className="font-medium text-foreground">{new Intl.NumberFormat('pt-BR', { minimumFractionDigits: 1, maximumFractionDigits: 1 }).format(speaker.attributionScoreAverage)}%</span></>}</p>
+          {speaker.attributionScoreAverage !== null && <details className="mt-1 text-[11px] leading-5 text-muted"><summary className="cursor-pointer">Sobre a identificação</summary><p className="mt-2">Média de {speaker.scoredAttributions} de {speaker.total} afirmações atribuídas. Índice textual estimado, sujeito a revisão.</p></details>}
           <figure className="mt-4" aria-label={`Medidor de ${speaker.name}`}>
             <svg viewBox="0 0 200 115" role="img" aria-label={speaker.factPercent === null ? `${speaker.name}: sem Fatos ou Papos com autoria atribuída` : `${speaker.name}: ${factsLabel} e ${talkLabel}; ${speaker.factPercent}% de Fatos entre essas classificações`} className="mx-auto w-full max-w-56">
               <path d="M 20 90 A 80 80 0 0 1 180 90" fill="none" stroke="#94a3b8" strokeWidth="14" opacity={speaker.factPercent === null ? 0.25 : 0.12} />
@@ -40,8 +41,14 @@ export function DebateCharts({ report, speakers }: { report: AnalysisReport; spe
         </div>
       })}
     </div>
-    <p className="mt-5 text-[11px] leading-5 text-muted">O medidor calcula Fatos ÷ (Fatos + Papos), incluindo “majoritariamente” nos respectivos grupos. Imprecisas e inconclusivas aparecem nas barras e ficam fora do medidor. Cada afirmação conta uma vez; fontes adicionais não somam votos.</p>
-    <p className="mt-2 text-[11px] leading-5 text-muted">A precisão média de identificação é a média aritmética dos índices textuais de autoria das falas contabilizadas. É uma estimativa não calibrada, independente da veracidade das afirmações. Atribuições sem índice numérico ficam fora dessa média. Ao trocar o locutor, o índice da detecção original não é transferido para a outra pessoa.</p>
-    {stats.unattributed > 0 && <p className="mt-2 text-[11px] leading-5 text-muted">{stats.unattributed} afirmações fora dos gráficos por não terem atribuição a um debatedor. As detecções automáticas são contabilizadas e podem ser corrigidas em “Revisar locutor”.</p>}
+    {stats.unattributed > 0 && <p className="mt-4 text-[11px] text-muted">{stats.unattributed} afirmações sem locutor identificado.</p>}
+    <details className="mt-4 text-[11px] leading-5 text-muted">
+      <summary className="cursor-pointer">Metodologia dos gráficos</summary>
+      <div className="mt-3 space-y-2">
+        <p>O medidor calcula Fatos ÷ (Fatos + Papos), incluindo “majoritariamente” nos respectivos grupos. Imprecisas e inconclusivas aparecem nas barras e ficam fora do medidor. Cada afirmação conta uma vez; fontes adicionais não somam votos.</p>
+        <p>A precisão média de identificação é a média aritmética dos índices textuais de autoria das falas contabilizadas. É uma estimativa não calibrada, independente da veracidade das afirmações. Atribuições sem índice numérico ficam fora dessa média. Ao trocar o locutor, o índice da detecção original não é transferido para a outra pessoa.</p>
+        <p>As detecções automáticas são contabilizadas e podem ser corrigidas em “Revisar locutor”. As contagens descrevem as afirmações analisadas, não uma nota do debate inteiro nem a intenção de quem falou.</p>
+      </div>
+    </details>
   </section>
 }

@@ -31,8 +31,8 @@ function ClaimItem({ claim, videoId, number, participants, onSpeakerReview }: { 
       </div>
       {claim.title && <h3 className="mb-3 font-serif text-xl leading-7 font-semibold tracking-tight">{claim.title}</h3>}
       <SpeakerLabel claim={claim} videoId={videoId} participants={participants} onReview={(name) => onSpeakerReview(claim.id, name)} />
-      <blockquote className="border-l-2 border-line pl-4 font-serif text-lg leading-7 text-muted">“{claim.quote}”</blockquote>
-      <p className="mt-4 text-sm leading-7 text-foreground/90">{claim.explanation}</p>
+      <blockquote className={`claim-quote ${verdictStyle[claim.verdict].replace('verdict--', 'claim-quote--')} rounded-r-lg px-4 py-3 font-serif text-lg leading-7`}>“{claim.quote}”</blockquote>
+      <p className="claim-conclusion mt-4 text-sm leading-7">{claim.explanation}</p>
 
       <details className="group mt-4">
         <summary className="inline-flex list-none items-center gap-2 rounded text-xs text-muted hover:text-foreground">{claim.evidence.length ? `Fontes e contexto (${claim.evidence.length})` : 'Limitações da checagem'}<ChevronDown size={14} className="transition-transform group-open:rotate-180" /></summary>
@@ -88,8 +88,7 @@ export function Report({ report }: { report: AnalysisReport }) {
       <div className="my-8 border-y border-line py-6">
         <p className="font-serif text-lg leading-7 text-muted">{report.summary}</p>
         <p className="mt-4 text-sm"><span className="font-medium">{report.claims.length} afirmações analisadas</span><span className="px-2 text-faint">·</span><span className="text-muted">{inconclusive} inconclusivas</span></p>
-        {report.coverage && <details className="group mt-3"><summary className="list-none text-xs text-muted hover:text-foreground">Cobertura e origem <ChevronDown size={12} className="ml-1 inline transition-transform group-open:rotate-180" /></summary><p className="mt-3 text-xs leading-6 text-muted">{report.coverage.description} Transcrição: {report.coverage.cueCount.toLocaleString('pt-BR')} blocos, de {formatTimestamp(report.coverage.firstTimestamp)} a {formatTimestamp(report.coverage.lastTimestamp)}.</p></details>}
-        {report.coverage?.kind === 'selected-claims' && <p className="mt-3 text-xs leading-6 text-muted">Este recorte parcial não permite comparar participantes nem inferir intenção de mentir.</p>}
+        {report.coverage && <details className="group mt-3"><summary className="list-none text-xs text-muted hover:text-foreground">Cobertura e origem <ChevronDown size={12} className="ml-1 inline transition-transform group-open:rotate-180" /></summary><p className="mt-3 text-xs leading-6 text-muted">{report.coverage.description} Transcrição: {report.coverage.cueCount.toLocaleString('pt-BR')} blocos, de {formatTimestamp(report.coverage.firstTimestamp)} a {formatTimestamp(report.coverage.lastTimestamp)}.{report.coverage.kind === 'selected-claims' && ' Este recorte parcial não representa o debate inteiro nem permite inferir intenção de mentir.'}</p></details>}
       </div>
 
       <DebateCharts report={report} speakers={speakers} />

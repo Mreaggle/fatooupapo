@@ -32,6 +32,6 @@ describe('gráficos acessíveis das checagens importadas', () => {
     expect(kim).toHaveTextContent('11 afirmações atribuídas')
     expect(kim).toHaveTextContent('Precisão média estimada de identificação: 79,6%')
     expect(within(kim).getByRole('img')).toHaveAccessibleName(/1 Fato e 3 Papos/)
-    expect(screen.getByText(/20 afirmações fora dos gráficos/)).toBeInTheDocument()
+    expect(screen.getByText(/20 afirmações sem locutor identificado/)).toBeInTheDocument()
   })
 })

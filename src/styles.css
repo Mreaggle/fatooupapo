@@ -82,3 +82,14 @@
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
+
+/* Pastel tones distinguish the quoted statement from the sourced conclusion. */
+@layer components {
+  .claim-quote { border-left: 2px solid currentColor; background: color-mix(in srgb, currentColor 6%, transparent); }
+  .claim-quote--true { color: #b4dfbb; }
+  .claim-quote--false { color: #edb4b4; }
+  .claim-quote--mostly-true, .claim-quote--mostly-false { color: #e5d19a; }
+  .claim-quote--misleading { color: #e4c29f; }
+  .claim-quote--inconclusive { color: #bdc7d4; }
+  .claim-conclusion { color: #82bd91; }
+}

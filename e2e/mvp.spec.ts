@@ -10,7 +10,7 @@ test('galeria no fim da página inicial abre a análise publicada', async ({ pag
   await expect(debate).toBeVisible()
   await expect(debate).toHaveAttribute('href', '?v=q4T7plSBdJE')
   await expect(debate).toContainText('48 afirmações analisadas')
-  await expect(debate).toContainText('Checagem parcial')
+  await expect(debate).not.toContainText('Checagem parcial')
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
   await gallery.screenshot({ path: testInfo.outputPath('galeria-debates.png') })
   await debate.click()

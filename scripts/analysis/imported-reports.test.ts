@@ -6,6 +6,13 @@ import { reportSchema } from '../../src/lib/report-schema.ts'
 const load = (id: string) => reportSchema.parse(JSON.parse(readFileSync(`snapshots/${id}.md`, 'utf8').match(/fato-ou-papo:json\n([\s\S]*?)\n-->/)![1]))
 
 describe('integridade editorial das importações', () => {
+  it('atribui as checagens aos veículos citados, sem prefixo ou menção ao agregador nos relatórios', () => {
+    for (const id of ['RugVB17uRVM', '6BBZWwq2juE']) {
+      const report = load(id)
+      expect(JSON.stringify(report)).not.toMatch(/quem\s*mentiu|quemmentiu/i)
+      expect(report.claims.some((claim) => claim.evidence.some((source) => source.publisher === 'Lupa'))).toBe(true)
+    }
+  })
   it.each([['RugVB17uRVM', 74, 3172], ['6BBZWwq2juE', 175, 3285]] as const)('preserva %s integral e declara o recorte sem inventar checagem exaustiva', (id, count, cueCount) => {
     const report = load(id)
     expect(report.claims).toHaveLength(count)

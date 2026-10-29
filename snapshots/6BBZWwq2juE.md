@@ -10,7 +10,7 @@
   },
   "analyzedAt": "2026-10-29T00:00:00.000Z",
   "status": "completed",
-  "summary": "Checagens reunidas do Quem Mentiu e alinhadas à transcrição integral fornecida. 175 afirmações com trechos localizados; registros repetidos foram agrupados. As classificações são atribuídas às fontes citadas. Divergências, erros relevantes de legenda e registros sem apuração editorial específica permanecem inconclusivos.",
+  "summary": "O debate discute economia, segurança, políticas sociais e serviços públicos. Cada afirmação tem sua conclusão e as fontes citadas, com as divergências e incertezas indicadas.",
   "participants": [
     {
       "id": "flavio-bolsonaro",
@@ -33,7 +33,7 @@
   ],
   "coverage": {
     "kind": "selected-claims",
-    "description": "A transcrição completa de 3285 blocos foi preservada. Foram alinhados 195 dos 207 registros do acervo de origem, resultando em 175 afirmações após reunir duplicatas. 12 registros sem correspondência textual segura ficaram fora do relatório e dos gráficos, registrados em imports/quemmentiu. Isso não certifica que todas as afirmações do vídeo tenham sido checadas.",
+    "description": "A transcrição completa de 3285 blocos foi preservada. Foram alinhados 195 dos 207 registros do acervo de origem, resultando em 175 afirmações após reunir duplicatas. 12 registros sem correspondência textual segura ficaram fora do relatório e dos gráficos e foram registrados na revisão editorial. Isso não certifica que todas as afirmações do vídeo tenham sido checadas.",
     "transcriptPath": "transcripts/6BBZWwq2juE.md",
     "firstTimestamp": 8.515,
     "lastTimestamp": 7045.72,
@@ -51,7 +51,7 @@
       "cueStart": 178,
       "cueEnd": 183,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de g1 · Fato ou Fake. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Tribunal de Contas da União (TCU) mantém um painel interativo de Acompanhamento de Obras Paralisadas, mas a ferramenta não apresenta dados de 2019. Naquele ano, uma auditoria do órgão, registrada no Acórdão 1079/2019, identificou 14.403 empreendimentos paralisados, o equivalente a aproximadamente 37,5% do total.",
+      "explanation": "Classificação reaproveitada de g1 · Fato ou Fake. Esta importação não representa uma nova apuração independente. O Tribunal de Contas da União (TCU) mantém um painel interativo de Acompanhamento de Obras Paralisadas, mas a ferramenta não apresenta dados de 2019. Naquele ano, uma auditoria do órgão, registrada no Acórdão 1079/2019, identificou 14.403 empreendimentos paralisados, o equivalente a aproximadamente 37,5% do total.",
       "evidence": [
         {
           "title": "Checagem de g1 · Fato ou Fake",
@@ -81,7 +81,7 @@
       "cueStart": 184,
       "cueEnd": 187,
       "verdict": "Inconclusivo",
-      "explanation": "As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Apuração registrada no Quem Mentiu: A segunda edição da Lista de Alto Risco (LAR) da Administração Pública Federal, elaborada pelo Tribunal de Contas da União (TCU), mostra que o número de obras paralisadas aumentou entre 2022 e 2024, chegando a 11.944 empreendimentos. Ou seja, o dado se refere ao conjunto de obras financiadas com recursos federais, e não exclusivamente a obras do atual governo.",
+      "explanation": "As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. A segunda edição da Lista de Alto Risco (LAR) da Administração Pública Federal, elaborada pelo Tribunal de Contas da União (TCU), mostra que o número de obras paralisadas aumentou entre 2022 e 2024, chegando a 11.944 empreendimentos. Ou seja, o dado se refere ao conjunto de obras financiadas com recursos federais, e não exclusivamente a obras do atual governo.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -147,7 +147,7 @@
       "cueStart": 212,
       "cueEnd": 221,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de g1 · Fato ou Fake. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Principal aposta do governo Lula para estimular a economia, o novo Programa de Aceleração do Crescimento (PAC) previa investimentos de R$ 1,3 trilhão até o fim de 2026. Segundo os balanços do programa, o presidente acertou o valor inicialmente previsto. O montante executado citado pelo candidato (R$ 800 bilhões) é até inferior ao foi alcançado até o momento. Conforme mostra o painel, R$ 1,3 trilhão já havia sido executado até junho de 2026.",
+      "explanation": "Classificação reaproveitada de g1 · Fato ou Fake. Esta importação não representa uma nova apuração independente. Principal aposta do governo Lula para estimular a economia, o novo Programa de Aceleração do Crescimento (PAC) previa investimentos de R$ 1,3 trilhão até o fim de 2026. Segundo os balanços do programa, o presidente acertou o valor inicialmente previsto. O montante executado citado pelo candidato (R$ 800 bilhões) é até inferior ao foi alcançado até o momento. Conforme mostra o painel, R$ 1,3 trilhão já havia sido executado até junho de 2026.",
       "evidence": [
         {
           "title": "Checagem de g1 · Fato ou Fake",
@@ -189,7 +189,7 @@
       "cueStart": 231,
       "cueEnd": 234,
       "verdict": "Inconclusivo",
-      "explanation": "As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Apuração registrada no Quem Mentiu: Segundo o painel de Obras Paralisadas do Tribunal de Contas da União (TCU), em abril de 2023 existiam 8.603 obras paralisadas. No ano anterior, o contingente de obras ativas somava 21.005.",
+      "explanation": "As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Segundo o painel de Obras Paralisadas do Tribunal de Contas da União (TCU), em abril de 2023 existiam 8.603 obras paralisadas. No ano anterior, o contingente de obras ativas somava 21.005.",
       "evidence": [
         {
           "title": "Checagem de g1 · Fato ou Fake",
@@ -243,7 +243,7 @@
       "cueStart": 252,
       "cueEnd": 260,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em agosto de 2021, o Ministério da Infraestrutura sob Jair Bolsonaro publicou uma portaria estabelecendo a isenção do pedágio para motocicletas em rodovias federais que já estavam em fase de licitação, ou seja, somente em novas concessões federais. A medida não valia para todas as rodovias federais, nem para as estaduais.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Em agosto de 2021, o Ministério da Infraestrutura sob Jair Bolsonaro publicou uma portaria estabelecendo a isenção do pedágio para motocicletas em rodovias federais que já estavam em fase de licitação, ou seja, somente em novas concessões federais. A medida não valia para todas as rodovias federais, nem para as estaduais.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -273,7 +273,7 @@
       "cueStart": 261,
       "cueEnd": 270,
       "verdict": "Inconclusivo",
-      "explanation": "Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Apuração registrada no Quem Mentiu: Até dezembro de 2022, o governo havia instalado mais de 21,3 mil pontos de internet gratuita banda larga via satélite e por conexões terrestres, como registra o site mantido pelo do Comitê Gestor da Internet no Brasil. O Programa Wi-Fi Brasil, coordenado pelo Ministério das Comunicações, atingia 3,2 mil cidades no País na época.",
+      "explanation": "Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Até dezembro de 2022, o governo havia instalado mais de 21,3 mil pontos de internet gratuita banda larga via satélite e por conexões terrestres, como registra o site mantido pelo do Comitê Gestor da Internet no Brasil. O Programa Wi-Fi Brasil, coordenado pelo Ministério das Comunicações, atingia 3,2 mil cidades no País na época.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -315,7 +315,7 @@
       "cueStart": 310,
       "cueEnd": 313,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A BR-319 começou a ser construída em 1968, durante a Ditadura Militar (1964-1985), e foi inaugurada oficialmente em 1976, no governo Ernesto Geisel, já pavimentada, para ligar Manaus (AM) a Porto Velho (RO). Com a deterioração e falta de manutenção, tornou-se intrafegável em 1988. Logo, as intervenções posteriores são de recuperação e reconstrução de uma estrada existente.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. A BR-319 começou a ser construída em 1968, durante a Ditadura Militar (1964-1985), e foi inaugurada oficialmente em 1976, no governo Ernesto Geisel, já pavimentada, para ligar Manaus (AM) a Porto Velho (RO). Com a deterioração e falta de manutenção, tornou-se intrafegável em 1988. Logo, as intervenções posteriores são de recuperação e reconstrução de uma estrada existente.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -357,7 +357,7 @@
       "cueStart": 314,
       "cueEnd": 316,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há obras em andamento nas três ferrovias, embora nem todos os trechos estejam em execução ou sem problemas.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há obras em andamento nas três ferrovias, embora nem todos os trechos estejam em execução ou sem problemas.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -387,7 +387,7 @@
       "cueStart": 321,
       "cueEnd": 325,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O governo federal não paga a obra sozinho. Dos R$ 6,8 bilhões estimados para a conclusão do túnel, R$ 5,1 bilhões virão de aportes públicos divididos igualmente entre a União e o Estado de São Paulo. O restante será coberto pela iniciativa privada. O governo do Estado de São Paulo tem reclamado de atrasos na liberação de empréstimos do Banco Nacional de Desenvolvimento Econômico e Social e do Banco do Brasil para investimentos na obra, como noticiou a CNN.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. O governo federal não paga a obra sozinho. Dos R$ 6,8 bilhões estimados para a conclusão do túnel, R$ 5,1 bilhões virão de aportes públicos divididos igualmente entre a União e o Estado de São Paulo. O restante será coberto pela iniciativa privada. O governo do Estado de São Paulo tem reclamado de atrasos na liberação de empréstimos do Banco Nacional de Desenvolvimento Econômico e Social e do Banco do Brasil para investimentos na obra, como noticiou a CNN.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -429,7 +429,7 @@
       "cueStart": 326,
       "cueEnd": 327,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão informa que as obras do novo Porto da Manaus Moderna já haviam começado na data da fala com investimento é de R$ 916 milhões",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão informa que as obras do novo Porto da Manaus Moderna já haviam começado na data da fala com investimento é de R$ 916 milhões",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -459,7 +459,7 @@
       "cueStart": 330,
       "cueEnd": 333,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há obras complementares em estágio avançado.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há obras complementares em estágio avançado.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -489,7 +489,7 @@
       "cueStart": 372,
       "cueEnd": 377,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de aperto financeiro e de fatores fiscais que podem pressionar os juros, mas não de que os gastos governamentais expliquem todo esse aumento; além disso, o rendimento real médio cresceu, contrariando uma perda generalizada do poder de compra.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de aperto financeiro e de fatores fiscais que podem pressionar os juros, mas não de que os gastos governamentais expliquem todo esse aumento; além disso, o rendimento real médio cresceu, contrariando uma perda generalizada do poder de compra.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -519,7 +519,7 @@
       "cueStart": 388,
       "cueEnd": 394,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A valorização real do salário mínimo nos governos petistas é sustentada, mas os R$ 900 para 2026 não são confirmados, e a afirmação sobre Temer e Bolsonaro ignora o ganho real de 2019.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A valorização real do salário mínimo nos governos petistas é sustentada, mas os R$ 900 para 2026 não são confirmados, e a afirmação sobre Temer e Bolsonaro ignora o ganho real de 2019.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -549,7 +549,7 @@
       "cueStart": 454,
       "cueEnd": 457,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que a medida já havia sido aprovada e promulgada na data da fala; a aplicação dos dois dias de descanso começaria posteriormente.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que a medida já havia sido aprovada e promulgada na data da fala; a aplicação dos dois dias de descanso começaria posteriormente.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -579,7 +579,7 @@
       "cueStart": 462,
       "cueEnd": 464,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório afirma que Lula propôs tarifa zero nos fins de semana e que a medida ainda dependia de aprovação parlamentar.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório afirma que Lula propôs tarifa zero nos fins de semana e que a medida ainda dependia de aprovação parlamentar.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -609,7 +609,7 @@
       "cueStart": 469,
       "cueEnd": 474,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Flávio Bolsonaro (PL) criticou e se opôs à proposta do presidente Luiz Inácio Lula da Silva (PT) de implementar a tarifa zero no transporte público aos fins de semana",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Flávio Bolsonaro (PL) criticou e se opôs à proposta do presidente Luiz Inácio Lula da Silva (PT) de implementar a tarifa zero no transporte público aos fins de semana",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -639,7 +639,7 @@
       "cueStart": 479,
       "cueEnd": 486,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A carga tributária bruta do governo geral (governo central, Estados e municípios) cresceu de 32,22% para 32,40% do Produto Interno Bruto (PIB), entre 2024 e 2025. As estimativas são do Tesouro Nacional e indicam o maior nível da série histórica disponibilizada pelo órgão, que vai de 2010 até o ano passado. Conforme mostrou o Estadão (aqui), o aumento geral foi puxado pelo governo central, que teve crescimento de 21,34% para 21,60% do PIB na carga tributária bruta, uma alta de 0,26 ponto percentual.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. A carga tributária bruta do governo geral (governo central, Estados e municípios) cresceu de 32,22% para 32,40% do Produto Interno Bruto (PIB), entre 2024 e 2025. As estimativas são do Tesouro Nacional e indicam o maior nível da série histórica disponibilizada pelo órgão, que vai de 2010 até o ano passado. Conforme mostrou o Estadão (aqui), o aumento geral foi puxado pelo governo central, que teve crescimento de 21,34% para 21,60% do PIB na carga tributária bruta, uma alta de 0,26 ponto percentual.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -681,7 +681,7 @@
       "cueStart": 482,
       "cueEnd": 486,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A estimativa de 27,91% respalda o arredondamento para 28%, mas não representa uma alíquota definitiva nem a cobrança integral em 2027.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A estimativa de 27,91% respalda o arredondamento para 28%, mas não representa uma alíquota definitiva nem a cobrança integral em 2027.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -711,7 +711,7 @@
       "cueStart": 489,
       "cueEnd": 491,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A projeção sustenta que o IVA brasileiro poderá ser o mais alto, mas a alíquota final e sua posição mundial ainda não estão confirmadas.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A projeção sustenta que o IVA brasileiro poderá ser o mais alto, mas a alíquota final e sua posição mundial ainda não estão confirmadas.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -741,7 +741,7 @@
       "cueStart": 491,
       "cueEnd": 492,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há fundamento para dizer que o Brasil poderá ter a maior alíquota-padrão de IVA, mas a taxa ainda não está definida, sua implantação completa será em 2033 e ela não se aplicará indistintamente a todos.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há fundamento para dizer que o Brasil poderá ter a maior alíquota-padrão de IVA, mas a taxa ainda não está definida, sua implantação completa será em 2033 e ela não se aplicará indistintamente a todos.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -771,7 +771,7 @@
       "cueStart": 498,
       "cueEnd": 502,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os dados sustentam a perda de poder de compra dos mesmos R$ 600, mas o benefício já havia sido reajustado para R$ 691, e a afirmação literal sobre encher um carrinho não pode ser confirmada sem especificar produtos, quantidades e local.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os dados sustentam a perda de poder de compra dos mesmos R$ 600, mas o benefício já havia sido reajustado para R$ 691, e a afirmação literal sobre encher um carrinho não pode ser confirmada sem especificar produtos, quantidades e local.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -801,7 +801,7 @@
       "cueStart": 502,
       "cueEnd": 506,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há respaldo para afirmar que o governo tem déficit e elevou impostos para reforçar as contas públicas, mas isso não torna o aumento de tributos uma consequência inevitável dos gastos.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há respaldo para afirmar que o governo tem déficit e elevou impostos para reforçar as contas públicas, mas isso não torna o aumento de tributos uma consequência inevitável dos gastos.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -831,7 +831,7 @@
       "cueStart": 509,
       "cueEnd": 510,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Brasil tem a maior taxa de juros real do mundo, de 9,3%, segundo levantamento feito pela MoneYou e pela Lev Intelligence divulgado em setembro deste ano. O juro real é formado pela taxa de juros nominal subtraída da inflação. Considerando os juros nominais, que não descontam a inflação, o Brasil ocupa a terceira posição no ranking.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. O Brasil tem a maior taxa de juros real do mundo, de 9,3%, segundo levantamento feito pela MoneYou e pela Lev Intelligence divulgado em setembro deste ano. O juro real é formado pela taxa de juros nominal subtraída da inflação. Considerando os juros nominais, que não descontam a inflação, o Brasil ocupa a terceira posição no ranking.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -873,7 +873,7 @@
       "cueStart": 510,
       "cueEnd": 513,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Selic influencia os juros de empréstimos e financiamentos, mas não reajusta automaticamente toda dívida já contratada; isso depende das condições do contrato.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Selic influencia os juros de empréstimos e financiamentos, mas não reajusta automaticamente toda dívida já contratada; isso depende das condições do contrato.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -903,7 +903,7 @@
       "cueStart": 516,
       "cueEnd": 518,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de embalagens de dez ovos, mas não de caixas anunciadas como dúzia contendo apenas dez.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de embalagens de dez ovos, mas não de caixas anunciadas como dúzia contendo apenas dez.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -933,7 +933,7 @@
       "cueStart": 518,
       "cueEnd": 521,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A redução de 1 kg para 800 g está documentada; a mudança ocorreu em 2019, não em 2026. A inflação de alimentos acumulada durante o governo de Jair Bolsonaro é quase três vezes maior do que a observada entre o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), em janeiro de 2023, e setembro de 2026, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE)",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A redução de 1 kg para 800 g está documentada; a mudança ocorreu em 2019, não em 2026. A inflação de alimentos acumulada durante o governo de Jair Bolsonaro é quase três vezes maior do que a observada entre o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), em janeiro de 2023, e setembro de 2026, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE)",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -963,7 +963,7 @@
       "cueStart": 522,
       "cueEnd": 526,
       "verdict": "Falso",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Desde 2022, algumas barras de chocolate já eram comercializadas em embalagens de 80 gramas. Na época, o Jair Bolsonaro (PL) era presidente do país.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Desde 2022, algumas barras de chocolate já eram comercializadas em embalagens de 80 gramas. Na época, o Jair Bolsonaro (PL) era presidente do país.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -993,7 +993,7 @@
       "cueStart": 526,
       "cueEnd": 527,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há histórico de redução da metragem de rolos, mas a Reduflação vem acontecendo antes do governo do candidato Lula.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há histórico de redução da metragem de rolos, mas a Reduflação vem acontecendo antes do governo do candidato Lula.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1023,7 +1023,7 @@
       "cueStart": 552,
       "cueEnd": 553,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Centro-Oeste registra o maior Valor Bruto da Produção Agropecuária (VBP) entre as regiões brasileiras, com estimativa de R$ 431,2 bilhões, conforme o Ministério da Agricultura e Pecuária, em boletim divulgado nesta sexta-feira (23).",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. O Centro-Oeste registra o maior Valor Bruto da Produção Agropecuária (VBP) entre as regiões brasileiras, com estimativa de R$ 431,2 bilhões, conforme o Ministério da Agricultura e Pecuária, em boletim divulgado nesta sexta-feira (23).",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1065,7 +1065,7 @@
       "cueStart": 557,
       "cueEnd": 566,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de crédito caro e dificuldades para parte dos produtores, mas também de contratações expressivas; isso não sustenta uma impossibilidade generalizada de obter financiamento.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de crédito caro e dificuldades para parte dos produtores, mas também de contratações expressivas; isso não sustenta uma impossibilidade generalizada de obter financiamento.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1095,7 +1095,7 @@
       "cueStart": 564,
       "cueEnd": 566,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Em entrevista ao Jornal Nacional, em 25/08/2022, Lula utilizou a expressão 'agronegócio fascista e direitista' para se referir ao agro que não defende preservação ambiental mesmo que em seu governo, no Plano Safra 2024/2025, Lula tenha destinado impressionantes R$ 476 bilhões ao setor, somando os recursos para grandes produtores e agricultura familiar — o maior montante já registrado na história do programa.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Em entrevista ao Jornal Nacional, em 25/08/2022, Lula utilizou a expressão 'agronegócio fascista e direitista' para se referir ao agro que não defende preservação ambiental mesmo que em seu governo, no Plano Safra 2024/2025, Lula tenha destinado impressionantes R$ 476 bilhões ao setor, somando os recursos para grandes produtores e agricultura familiar — o maior montante já registrado na história do programa.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -1125,7 +1125,7 @@
       "cueStart": 590,
       "cueEnd": 591,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Lupa, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Brasil registrou em 2025 o maior valor anual de exportações da série histórica, iniciada em 1997. Os dados consolidados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços apontam US$ 348,3 bilhões em exportações naquele ano, acima dos US$ 339,7 bilhões de 2023, recorde anterior. O resultado representa crescimento de 3,3% sobre 2024.",
+      "explanation": "Classificação reaproveitada de Lupa, Estadão Verifica. Esta importação não representa uma nova apuração independente. O Brasil registrou em 2025 o maior valor anual de exportações da série histórica, iniciada em 1997. Os dados consolidados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços apontam US$ 348,3 bilhões em exportações naquele ano, acima dos US$ 339,7 bilhões de 2023, recorde anterior. O resultado representa crescimento de 3,3% sobre 2024.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1167,7 +1167,7 @@
       "cueStart": 599,
       "cueEnd": 599,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Este mês, o Ministério da Agricultura e Pecuária anunciou que atingiu o marco da abertura de 700 novos mercados para produtos agropecuários brasileiros desde o início de 2023, primeiro ano do atual mandato de Lula. De acordo com o governo, as aberturas ocorreram em 99 destinos, entre países e blocos econômicos, após autorizações sanitárias para a entrada de produtos brasileiros.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Este mês, o Ministério da Agricultura e Pecuária anunciou que atingiu o marco da abertura de 700 novos mercados para produtos agropecuários brasileiros desde o início de 2023, primeiro ano do atual mandato de Lula. De acordo com o governo, as aberturas ocorreram em 99 destinos, entre países e blocos econômicos, após autorizações sanitárias para a entrada de produtos brasileiros.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1209,7 +1209,7 @@
       "cueStart": 601,
       "cueEnd": 604,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Lula confundiu a moeda e apresentou uma projeção como resultado já alcançado. Os “quase 85 bilhões” mencionados correspondem à estimativa de US$ 84,4 bilhões para o superávit da balança comercial brasileira de todo o ano de 2026, divulgada pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), em 6 de outubro deste ano. Ou seja, o valor é em dólares, e não em reais.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Lula confundiu a moeda e apresentou uma projeção como resultado já alcançado. Os “quase 85 bilhões” mencionados correspondem à estimativa de US$ 84,4 bilhões para o superávit da balança comercial brasileira de todo o ano de 2026, divulgada pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), em 6 de outubro deste ano. Ou seja, o valor é em dólares, e não em reais.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1251,7 +1251,7 @@
       "cueStart": 616,
       "cueEnd": 620,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A formação em Direito e as especializações mencionadas são sustentadas, mas o mestrado em Gestão Pública não foi comprovado.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A formação em Direito e as especializações mencionadas são sustentadas, mas o mestrado em Gestão Pública não foi comprovado.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1293,7 +1293,7 @@
       "cueStart": 639,
       "cueEnd": 645,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de dificuldades para obter financiamento, mas os dados de crédito concedido não sustentam que seja impossível de forma generalizada.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de dificuldades para obter financiamento, mas os dados de crédito concedido não sustentam que seja impossível de forma generalizada.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1323,7 +1323,7 @@
       "cueStart": 646,
       "cueEnd": 651,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há respaldo para taxas nominais de 18% a 20% ao ano em alguns financiamentos com critérios específicos, o que não comprova juros reais próximos de 20% nem caracteriza as linhas subsidiadas.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há respaldo para taxas nominais de 18% a 20% ao ano em alguns financiamentos com critérios específicos, o que não comprova juros reais próximos de 20% nem caracteriza as linhas subsidiadas.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1353,7 +1353,7 @@
       "cueStart": 655,
       "cueEnd": 661,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Houve restrições históricas à subvenção e a linhas do Pronaf, mas as informações apresentadas não demonstram que continuassem na data do debate; além disso, uma lei posterior tornou a subvenção despesa obrigatória.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Houve restrições históricas à subvenção e a linhas do Pronaf, mas as informações apresentadas não demonstram que continuassem na data do debate; além disso, uma lei posterior tornou a subvenção despesa obrigatória.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1383,7 +1383,7 @@
       "cueStart": 681,
       "cueEnd": 684,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os fatos mostram que o Governo Lula fortaleceu o combate ao tráfico, bateu recordes em apreensão de drogas e reduziu os crimes graves.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os fatos mostram que o Governo Lula fortaleceu o combate ao tráfico, bateu recordes em apreensão de drogas e reduziu os crimes graves.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1413,7 +1413,7 @@
       "cueStart": 698,
       "cueEnd": 702,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As taxas do Pronaf citadas são específicas e não correspondem automaticamente à Selic; isso não significa que todo financiamento agrícola seja subsidiado.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As taxas do Pronaf citadas são específicas e não correspondem automaticamente à Selic; isso não significa que todo financiamento agrícola seja subsidiado.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1443,7 +1443,7 @@
       "cueStart": 721,
       "cueEnd": 723,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em 2014, não em 2012, o relatório da Organização das Nações Unidas para Alimentação e Agricultura (FAO) indicou que o Brasil tinha saído do Mapa da Fome. Isso não significa, contudo, que a fome tinha sido 100% erradicada.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Em 2014, não em 2012, o relatório da Organização das Nações Unidas para Alimentação e Agricultura (FAO) indicou que o Brasil tinha saído do Mapa da Fome. Isso não significa, contudo, que a fome tinha sido 100% erradicada.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1473,7 +1473,7 @@
       "cueStart": 721,
       "cueEnd": 726,
       "verdict": "Inconclusivo",
-      "explanation": "Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Apuração registrada no Quem Mentiu: O “II Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid-19 no Brasil”, produzido pela Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede Penssan) e divulgado em junho de 2022, apontou que 33,1 milhões enfrentavam insegurança alimentar grave, condição caracterizada pela fome. O levantamento também mostrou que 125,2 milhões de pessoas viviam em algum grau de insegurança alimentar.",
+      "explanation": "Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. O “II Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid-19 no Brasil”, produzido pela Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede Penssan) e divulgado em junho de 2022, apontou que 33,1 milhões enfrentavam insegurança alimentar grave, condição caracterizada pela fome. O levantamento também mostrou que 125,2 milhões de pessoas viviam em algum grau de insegurança alimentar.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1503,7 +1503,7 @@
       "cueStart": 757,
       "cueEnd": 758,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Dados do Instituto Nacional de Estadísticas y Censo (Indec), publicados em setembro de 2024 — primeiro ano de Javier Milei à frente da Casa Rosada —, mostraram que a pobreza havia alcançado 52,4% da população no primeiro semestre daquele ano. Na segunda metade, a taxa caiu para 38%.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Dados do Instituto Nacional de Estadísticas y Censo (Indec), publicados em setembro de 2024 — primeiro ano de Javier Milei à frente da Casa Rosada —, mostraram que a pobreza havia alcançado 52,4% da população no primeiro semestre daquele ano. Na segunda metade, a taxa caiu para 38%.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1569,7 +1569,7 @@
       "cueStart": 769,
       "cueEnd": 776,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O presidente Luiz Inácio Lula da Silva reside no Palácio da Alvorada, que é a residência oficial dos chefes de Estado do Brasil. O Alvorada é um patrimônio público e histórico da União, inaugurado em 1958 durante o governo de Juscelino Kubitschek. Ele não pertence a nenhum presidente em caráter pessoal: trata-se do mesmo local onde moraram praticamente todos os ex-presidentes da República, incluindo Jair Bolsonaro, que viveu no palácio com sua família de 2019 a 2022 durante todo o seu mandato.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O presidente Luiz Inácio Lula da Silva reside no Palácio da Alvorada, que é a residência oficial dos chefes de Estado do Brasil. O Alvorada é um patrimônio público e histórico da União, inaugurado em 1958 durante o governo de Juscelino Kubitschek. Ele não pertence a nenhum presidente em caráter pessoal: trata-se do mesmo local onde moraram praticamente todos os ex-presidentes da República, incluindo Jair Bolsonaro, que viveu no palácio com sua família de 2019 a 2022 durante todo o seu mandato.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -1611,7 +1611,7 @@
       "cueStart": 783,
       "cueEnd": 784,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação de que a esquerda governou a Argentina por 20 anos ignora o mandato de Mauricio Macri, presidente de centro-direita. Na história recente do país (no recorte de 2003 a 2023), o espectro político de centro-esquerda, representado pelo Kirchnerismo e pelo peronismo, esteve no poder por 16 anos, e não de forma ininterrupta.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação de que a esquerda governou a Argentina por 20 anos ignora o mandato de Mauricio Macri, presidente de centro-direita. Na história recente do país (no recorte de 2003 a 2023), o espectro político de centro-esquerda, representado pelo Kirchnerismo e pelo peronismo, esteve no poder por 16 anos, e não de forma ininterrupta.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -1665,7 +1665,7 @@
       "cueStart": 785,
       "cueEnd": 786,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O acumulado de 211,4% corresponde ao ano de 2023 até dezembro, não à inflação no momento da posse de Milei; em novembro, a inflação em 12 meses era de 160,9%.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O acumulado de 211,4% corresponde ao ano de 2023 até dezembro, não à inflação no momento da posse de Milei; em novembro, a inflação em 12 meses era de 160,9%.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1695,7 +1695,7 @@
       "cueStart": 793,
       "cueEnd": 795,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Os gastos do governo federal com medidas de impacto orçamentário durante o ano eleitoral somam R$ 405 bilhões, segundo ferramenta do jornal Estado de S. Paulo.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Os gastos do governo federal com medidas de impacto orçamentário durante o ano eleitoral somam R$ 405 bilhões, segundo ferramenta do jornal Estado de S. Paulo.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1773,7 +1773,7 @@
       "cueStart": 796,
       "cueEnd": 797,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em agosto de 2026, a dívida bruta do governo geral do Brasil — que inclui governo federal, INSS, governos estaduais e municipais — atingiu R$ 11,1 trilhões, o que corresponde a 82,9% do Produto Interno Bruto (PIB), segundo dados oficiais divulgados pelo Banco Central do Brasil. É o maior nível desde 2021, durante a pandemia de Covid-19. No entanto, isso não quer dizer que o país está “quebrado”, já que o país registra índices econômicos positivos.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Em agosto de 2026, a dívida bruta do governo geral do Brasil — que inclui governo federal, INSS, governos estaduais e municipais — atingiu R$ 11,1 trilhões, o que corresponde a 82,9% do Produto Interno Bruto (PIB), segundo dados oficiais divulgados pelo Banco Central do Brasil. É o maior nível desde 2021, durante a pandemia de Covid-19. No entanto, isso não quer dizer que o país está “quebrado”, já que o país registra índices econômicos positivos.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -1803,7 +1803,7 @@
       "cueStart": 843,
       "cueEnd": 850,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que reportagens da Folha e da GZH confirmam a visita de Flávio Bolsonaro ao bairro Sarandi, acompanhado do prefeito Sebastião Melo.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que reportagens da Folha e da GZH confirmam a visita de Flávio Bolsonaro ao bairro Sarandi, acompanhado do prefeito Sebastião Melo.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1833,7 +1833,7 @@
       "cueStart": 843,
       "cueEnd": 850,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é falsa: diante das enchentes históricas que atingiram o Rio Grande do Sul em maio de 2024, o governo federal executou uma das maiores mobilizações orçamentárias e logísticas de resposta a desastres da história do país. A atuação incluiu a criação de uma secretaria extraordinária para apoiar o estado, o envio imediato das Forças Armadas e da Força Nacional do SUS para resgates, a suspensão do pagamento e abatimento dos juros da dívida do estado com a União, além da liberação de pacotes que ultrapassaram R$ 100 bilhões entre socorro a fundo perdido, crédito subsidiado a empresas e produtores e programas diretos como o Auxílio…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é falsa: diante das enchentes históricas que atingiram o Rio Grande do Sul em maio de 2024, o governo federal executou uma das maiores mobilizações orçamentárias e logísticas de resposta a desastres da história do país. A atuação incluiu a criação de uma secretaria extraordinária para apoiar o estado, o envio imediato das Forças Armadas e da Força Nacional do SUS para resgates, a suspensão do pagamento e abatimento dos juros da dívida do estado com a União, além da liberação de pacotes que ultrapassaram R$ 100 bilhões entre socorro a fundo perdido, crédito subsidiado a empresas e produtores e programas diretos como o Auxílio…",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -1911,7 +1911,7 @@
       "cueStart": 877,
       "cueEnd": 881,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório apresenta evidências de tráfico de drogas e armas envolvendo o Porto de Paranaguá; a ressalva sobre a tropa de elite diz respeito a uma proposta futura.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório apresenta evidências de tráfico de drogas e armas envolvendo o Porto de Paranaguá; a ressalva sobre a tropa de elite diz respeito a uma proposta futura.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -1941,7 +1941,7 @@
       "cueStart": 896,
       "cueEnd": 897,
       "verdict": "Inconclusivo",
-      "explanation": "As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Apuração registrada no Quem Mentiu: O novo marco legal do saneamento, sancionado em 2020, é oriundo do projeto de lei (PL) 4.162/2019, de autoria do Executivo, ou seja, foi apresentado pelo ex-presidente Jair Bolsonaro (PL) no primeiro ano de seu mandato. Entre outros pontos, o texto prevê a universalização dos serviços de água e esgoto no Brasil. Embora seja chamado de “marco legal”, o país já contava com uma lei específica que determinava as diretrizes nacionais para o setor, a Lei nº 11.445, de 5 de janeiro de 2007. O projeto da gestão de Bolsonaro revisou a legislação anterior e estabeleceu metas de atendimento de 99% da população com água potável e de 90% da população com…",
+      "explanation": "As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. O novo marco legal do saneamento, sancionado em 2020, é oriundo do projeto de lei (PL) 4.162/2019, de autoria do Executivo, ou seja, foi apresentado pelo ex-presidente Jair Bolsonaro (PL) no primeiro ano de seu mandato. Entre outros pontos, o texto prevê a universalização dos serviços de água e esgoto no Brasil. Embora seja chamado de “marco legal”, o país já contava com uma lei específica que determinava as diretrizes nacionais para o setor, a Lei nº 11.445, de 5 de janeiro de 2007. O projeto da gestão de Bolsonaro revisou a legislação anterior e estabeleceu metas de atendimento de 99% da população com água potável e de 90% da população com…",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -2031,7 +2031,7 @@
       "cueStart": 904,
       "cueEnd": 909,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A bancada do PT orientou voto contrário ao projeto na Câmara, e os seis senadores do partido também votaram contra no Senado.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A bancada do PT orientou voto contrário ao projeto na Câmara, e os seis senadores do partido também votaram contra no Senado.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -2061,7 +2061,7 @@
       "cueStart": 916,
       "cueEnd": 918,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A imitação de uma pessoa com falta de ar foi registrada durante live na internet do então presidente, Jair Bolsonaro, ainda durante pandemia de COVID-19",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A imitação de uma pessoa com falta de ar foi registrada durante live na internet do então presidente, Jair Bolsonaro, ainda durante pandemia de COVID-19",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -2091,7 +2091,7 @@
       "cueStart": 928,
       "cueEnd": 935,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão apresenta registros de investimentos nas quatro áreas na Amazônia no período indicado.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão apresenta registros de investimentos nas quatro áreas na Amazônia no período indicado.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -2121,7 +2121,7 @@
       "cueStart": 966,
       "cueEnd": 969,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A meta legal permanece para 2033; a extensão excepcional até 2040 já estava prevista desde 2020.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A meta legal permanece para 2033; a extensão excepcional até 2040 já estava prevista desde 2020.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -2151,7 +2151,7 @@
       "cueStart": 985,
       "cueEnd": 995,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não, a atuação dos órgãos ambientais não é o único e nem o principal motivo pelo qual a Rodovia Transamazônica (BR-230) não é totalmente asfaltada. A falta de pavimentação completa decorre de uma combinação complexa de desafios técnicos, geográficos, financeiros e de planejamento, que persistem desde a sua construção na década de 1970",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não, a atuação dos órgãos ambientais não é o único e nem o principal motivo pelo qual a Rodovia Transamazônica (BR-230) não é totalmente asfaltada. A falta de pavimentação completa decorre de uma combinação complexa de desafios técnicos, geográficos, financeiros e de planejamento, que persistem desde a sua construção na década de 1970",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -2181,7 +2181,7 @@
       "cueStart": 1000,
       "cueEnd": 1010,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Durante a votação da Reforma Tributária em 2023, Flávio apresentou emendas para limitar as vantagens constitucionais concedidas à região amazônica — alegando na ocasião o risco de \"migração predatória\" de empresas do restante do país para Manaus gerando desemprego em outros estados —, além de ter apoiado publicamente as medidas do governo Jair Bolsonaro (como os decretos que cortaram o IPI nacional em até 35%, decisão que desidratava os incentivos da ZFM e que acabou travada pelo STF). Fontes: Amazonas Atual – Contrário à ZFM, Flávio Bolsonaro diz em Manaus que a Zona Franca é 'sagrada' | Revista Fórum – Flávio pediu retirada de benefícios…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Durante a votação da Reforma Tributária em 2023, Flávio apresentou emendas para limitar as vantagens constitucionais concedidas à região amazônica — alegando na ocasião o risco de \"migração predatória\" de empresas do restante do país para Manaus gerando desemprego em outros estados —, além de ter apoiado publicamente as medidas do governo Jair Bolsonaro (como os decretos que cortaram o IPI nacional em até 35%, decisão que desidratava os incentivos da ZFM e que acabou travada pelo STF). Fontes: Amazonas Atual – Contrário à ZFM, Flávio Bolsonaro diz em Manaus que a Zona Franca é 'sagrada' | Revista Fórum – Flávio pediu retirada de benefícios…",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -2211,7 +2211,7 @@
       "cueStart": 1025,
       "cueEnd": 1033,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O ex-ministro do Meio Ambiente era Ricardo Salles, que ficou conhecido pela frase 'ir passando a boiada' dita em uma reunião ministerial em 22 de abril de 2020. Na reunião gravada e divulgada por decisão do Supremo Tribunal Federal (STF), ele defendeu aproveitar o foco da imprensa na pandemia de COVID-19 para 'ir passando a boiada e mudando todo o regramento e simplificando normas' ambientais.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O ex-ministro do Meio Ambiente era Ricardo Salles, que ficou conhecido pela frase 'ir passando a boiada' dita em uma reunião ministerial em 22 de abril de 2020. Na reunião gravada e divulgada por decisão do Supremo Tribunal Federal (STF), ele defendeu aproveitar o foco da imprensa na pandemia de COVID-19 para 'ir passando a boiada e mudando todo o regramento e simplificando normas' ambientais.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -2241,7 +2241,7 @@
       "cueStart": 1037,
       "cueEnd": 1043,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Sim, a economia verde já consegue superar o faturamento da pecuária convencional e das culturas tradicionais em vários cenários rurais do Brasil. A grande mudança está no fato de que atividades sustentáveis deixaram de ser apenas 'preservação' e se transformaram em negócios de alto rendimento.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Sim, a economia verde já consegue superar o faturamento da pecuária convencional e das culturas tradicionais em vários cenários rurais do Brasil. A grande mudança está no fato de que atividades sustentáveis deixaram de ser apenas 'preservação' e se transformaram em negócios de alto rendimento.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -2283,7 +2283,7 @@
       "cueStart": 1052,
       "cueEnd": 1056,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Fundo Amazônia, criado em 2008 como um mecanismo de captação de doações para prevenir, monitorar e combater o desmatamento na região amazônica, foi abandonado pelo governo do ex-presidente Jair Bolsonaro em 2019, após um “revogaço” de 250 decretos acabar com o Comitê Orientador (COFA) e com o Comitê Técnico (CFTA), o que levou à paralisação do fundo. Em janeiro de 2023, Lula assinou um decreto para retomar a iniciativa.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. O Fundo Amazônia, criado em 2008 como um mecanismo de captação de doações para prevenir, monitorar e combater o desmatamento na região amazônica, foi abandonado pelo governo do ex-presidente Jair Bolsonaro em 2019, após um “revogaço” de 250 decretos acabar com o Comitê Orientador (COFA) e com o Comitê Técnico (CFTA), o que levou à paralisação do fundo. Em janeiro de 2023, Lula assinou um decreto para retomar a iniciativa.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -2325,7 +2325,7 @@
       "cueStart": 1083,
       "cueEnd": 1090,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: De acordo com o Mapa da Pobreza e Desigualdade, lançado em 2003 pelo Instituto Brasileiro de Geografia e Estatística (IBGE), 77% dos municípios nordestinos tinham mais da metade de sua população vivendo na pobreza naquele ano. Além disso, o Mapa da Exclusão, elaborado pelo Ministério da Educação, apontou que, do total de crianças fora da escola no país, 41% (cerca de 615 mil) viviam na Região Nordeste.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. De acordo com o Mapa da Pobreza e Desigualdade, lançado em 2003 pelo Instituto Brasileiro de Geografia e Estatística (IBGE), 77% dos municípios nordestinos tinham mais da metade de sua população vivendo na pobreza naquele ano. Além disso, o Mapa da Exclusão, elaborado pelo Ministério da Educação, apontou que, do total de crianças fora da escola no país, 41% (cerca de 615 mil) viviam na Região Nordeste.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -2367,7 +2367,7 @@
       "cueStart": 1094,
       "cueEnd": 1096,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Transposição do Rio São Francisco (Projeto de Integração do Rio São Francisco - PISF) é considerada a maior obra de infraestrutura hídrica do Brasil e uma das maiores do mundo, mas não é a maior obra de engenharia do planeta em termos globais.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Transposição do Rio São Francisco (Projeto de Integração do Rio São Francisco - PISF) é considerada a maior obra de infraestrutura hídrica do Brasil e uma das maiores do mundo, mas não é a maior obra de engenharia do planeta em termos globais.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -2433,7 +2433,7 @@
       "cueStart": 1104,
       "cueEnd": 1111,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As gestões do PT foram decisivas para consolidar, expandir e renovar esse parque industrial: em 2010, o governo Lula articulou com o então governador Eduardo Campos a atração do complexo da Fiat/Jeep (atual Stellantis) em Goiana (Pernambuco), prorrogou incentivos fiscais do setor e, mais recentemente no terceiro mandato, participou ativamente das negociações para atrair a chinesa BYD para assumir e eletrificar a antiga planta desativada pela Ford na Bahia.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As gestões do PT foram decisivas para consolidar, expandir e renovar esse parque industrial: em 2010, o governo Lula articulou com o então governador Eduardo Campos a atração do complexo da Fiat/Jeep (atual Stellantis) em Goiana (Pernambuco), prorrogou incentivos fiscais do setor e, mais recentemente no terceiro mandato, participou ativamente das negociações para atrair a chinesa BYD para assumir e eletrificar a antiga planta desativada pela Ford na Bahia.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -2463,7 +2463,7 @@
       "cueStart": 1104,
       "cueEnd": 1110,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A Paraíba recebeu um centro de computação quântica, fruto de uma parceria entre os governos estadual e federal. O centro tem o primeiro computador quântico do Brasil e o acesso inicial será destinado a pesquisadores da Universidade Federal da Paraíba (UFPB), da Universidade Federal de Campina Grande (UFCG) e do Instituto Federal da Paraíba (IFPB).",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. A Paraíba recebeu um centro de computação quântica, fruto de uma parceria entre os governos estadual e federal. O centro tem o primeiro computador quântico do Brasil e o acesso inicial será destinado a pesquisadores da Universidade Federal da Paraíba (UFPB), da Universidade Federal de Campina Grande (UFCG) e do Instituto Federal da Paraíba (IFPB).",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -2493,7 +2493,7 @@
       "cueStart": 1104,
       "cueEnd": 1110,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Lula possibilitou a implantação de supercomputador de R$ 1 bilhão no RN para processamento de dados e IA.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Lula possibilitou a implantação de supercomputador de R$ 1 bilhão no RN para processamento de dados e IA.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -2535,7 +2535,7 @@
       "cueStart": 1131,
       "cueEnd": 1141,
       "verdict": "Falso",
-      "explanation": "Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O ex-presidente Jair Bolsonaro imitou uma pessoa com falta de ar em duas ocasiões, ambas em 2021 – pico da pandemia de Covid-19 –, durante transmissões ao vivo em 18 de março e 6 de maio. Na época, os casos repercutiram na imprensa nacional, por terem sido feitos em um momento em que a falta de ar era um sintoma comum de Covid, antes da disseminação da vacina contra a doença.",
+      "explanation": "Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. O ex-presidente Jair Bolsonaro imitou uma pessoa com falta de ar em duas ocasiões, ambas em 2021 – pico da pandemia de Covid-19 –, durante transmissões ao vivo em 18 de março e 6 de maio. Na época, os casos repercutiram na imprensa nacional, por terem sido feitos em um momento em que a falta de ar era um sintoma comum de Covid, antes da disseminação da vacina contra a doença.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -2601,7 +2601,7 @@
       "cueStart": 1153,
       "cueEnd": 1159,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de expansão do Comando Vermelho no Nordeste, mas elas não demonstram que Lula e governadores aliados tenham permitido esse avanço. Também são citadas ações de enfrentamento, sem que isso prove serem suficientes.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de expansão do Comando Vermelho no Nordeste, mas elas não demonstram que Lula e governadores aliados tenham permitido esse avanço. Também são citadas ações de enfrentamento, sem que isso prove serem suficientes.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -2655,7 +2655,7 @@
       "cueStart": 1153,
       "cueEnd": 1155,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O Nordeste tem taxa elevada de mortes violentas intencionais, mas a generalização não se sustenta: o Amapá lidera e o Piauí fica abaixo da média nacional. Os dados se referem à violência letal.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O Nordeste tem taxa elevada de mortes violentas intencionais, mas a generalização não se sustenta: o Amapá lidera e o Piauí fica abaixo da média nacional. Os dados se referem à violência letal.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -2685,7 +2685,7 @@
       "cueStart": 1171,
       "cueEnd": 1175,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Considerando as cidades com mais estudantes aprovados na primeira fase do vestibular do Instituto Tecnológico de Aeronáutica (ITA) neste ano, Fortaleza, capital do estado do Ceará, ocupa a primeira posição, com 281 aprovados. Em segundo lugar está São José dos Campos (SP), seguido de São Paulo. O vestibular é considerado um dos mais difíceis do país.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Considerando as cidades com mais estudantes aprovados na primeira fase do vestibular do Instituto Tecnológico de Aeronáutica (ITA) neste ano, Fortaleza, capital do estado do Ceará, ocupa a primeira posição, com 281 aprovados. Em segundo lugar está São José dos Campos (SP), seguido de São Paulo. O vestibular é considerado um dos mais difíceis do país.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -2739,7 +2739,7 @@
       "cueStart": 1178,
       "cueEnd": 1180,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As evidências indicam expansão educacional, mas não confirmam integralmente a quantidade nem o estágio de implantação sugeridos pela fala.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As evidências indicam expansão educacional, mas não confirmam integralmente a quantidade nem o estágio de implantação sugeridos pela fala.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -2769,7 +2769,7 @@
       "cueStart": 1224,
       "cueEnd": 1226,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O governo de Jair Bolsonaro inaugurou trechos específicos do Projeto de Integração do Rio São Francisco (PISF) durante o seu mandato – como o Eixo Norte em junho de 2020 e outras etapas em 2022 –, mas o ex-presidente não concluiu a obra, que segue em andamento.",
+      "explanation": "Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. O governo de Jair Bolsonaro inaugurou trechos específicos do Projeto de Integração do Rio São Francisco (PISF) durante o seu mandato – como o Eixo Norte em junho de 2020 e outras etapas em 2022 –, mas o ex-presidente não concluiu a obra, que segue em andamento.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -2847,7 +2847,7 @@
       "cueStart": 1227,
       "cueEnd": 1232,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Antigamente, o Bolsa Família pagava em média R$ 190, quando o salário mínimo ficava entre R$ 1.045 e R$ 1.212. Hoje, com a nova política de valorização e o auxílio reformulado (que garante o piso de R$ 600), o salário mínimo atual de R$ 1.621 e o programa social deram um salto importante para fortalecer a renda de quem mais precisa.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Antigamente, o Bolsa Família pagava em média R$ 190, quando o salário mínimo ficava entre R$ 1.045 e R$ 1.212. Hoje, com a nova política de valorização e o auxílio reformulado (que garante o piso de R$ 600), o salário mínimo atual de R$ 1.621 e o programa social deram um salto importante para fortalecer a renda de quem mais precisa.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -2877,7 +2877,7 @@
       "cueStart": 1232,
       "cueEnd": 1233,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em agosto de 2021, o ex-presidente Jair Bolsonaro (PL) enviou uma Medida Provisória ao Congresso que criava o Auxílio Brasil, em substituição ao Bolsa Família. O valor mínimo proposto na época, entretanto, foi de R$ 400. O governo só decidiu aumentar o valor do benefício para R$ 600 em junho de 2022, o que foi considerada uma estratégia para atrair os eleitores mais pobres, tendo em vista a disputa presidencial naquele ano.",
+      "explanation": "Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. Em agosto de 2021, o ex-presidente Jair Bolsonaro (PL) enviou uma Medida Provisória ao Congresso que criava o Auxílio Brasil, em substituição ao Bolsa Família. O valor mínimo proposto na época, entretanto, foi de R$ 400. O governo só decidiu aumentar o valor do benefício para R$ 600 em junho de 2022, o que foi considerada uma estratégia para atrair os eleitores mais pobres, tendo em vista a disputa presidencial naquele ano.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -2967,7 +2967,7 @@
       "cueStart": 1336,
       "cueEnd": 1342,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Conforme mostrou o Estadão (aqui), em 2009, Flávio Bolsonaro foi o único deputado estadual a votar contra a proposta que estendia de quatro para seis meses a licença-maternidade para servidoras públicas do Rio de Janeiro. O então deputado pelo PP afirmou que “bastava se colocar no lugar do empresário” para entender que ampliar a licença-maternidade prejudicaria as mulheres no mercado de trabalho. Foram 54 votos favoráveis à aprovação da Proposta de Emenda à Constituição de autoria do então deputado estadual Marcelo Freixo, à época filiado ao PSOL.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Conforme mostrou o Estadão (aqui), em 2009, Flávio Bolsonaro foi o único deputado estadual a votar contra a proposta que estendia de quatro para seis meses a licença-maternidade para servidoras públicas do Rio de Janeiro. O então deputado pelo PP afirmou que “bastava se colocar no lugar do empresário” para entender que ampliar a licença-maternidade prejudicaria as mulheres no mercado de trabalho. Foram 54 votos favoráveis à aprovação da Proposta de Emenda à Constituição de autoria do então deputado estadual Marcelo Freixo, à época filiado ao PSOL.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -3033,7 +3033,7 @@
       "cueStart": 1375,
       "cueEnd": 1376,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A expressão foi usada por Flávio Bolsonaro em publicações no X (então Twitter). Em novembro de 2011, o então deputado estadual pelo Rio de Janeiro chamou de “bolsa farelo” projeto estadual para complementar o Bolsa Família. Ele usou a expressão novamente em comentário na rede social, em que dizia que “o PT perpetua a pobreza com o bolsa-farelo”, conforme registrado pelo g1.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. A expressão foi usada por Flávio Bolsonaro em publicações no X (então Twitter). Em novembro de 2011, o então deputado estadual pelo Rio de Janeiro chamou de “bolsa farelo” projeto estadual para complementar o Bolsa Família. Ele usou a expressão novamente em comentário na rede social, em que dizia que “o PT perpetua a pobreza com o bolsa-farelo”, conforme registrado pelo g1.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -3087,7 +3087,7 @@
       "cueStart": 1427,
       "cueEnd": 1430,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Em 2000, aos 19 anos, Flávio Bolsonaro foi nomeado para o cargo comissionado de assistente técnico de gabinete na Liderança do Partido Progressista Brasileiro, à época mesmo partido de Jair Bolsonaro, na Câmara dos Deputados, função que exerceu entre 2000 e 2002.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Em 2000, aos 19 anos, Flávio Bolsonaro foi nomeado para o cargo comissionado de assistente técnico de gabinete na Liderança do Partido Progressista Brasileiro, à época mesmo partido de Jair Bolsonaro, na Câmara dos Deputados, função que exerceu entre 2000 e 2002.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3129,7 +3129,7 @@
       "cueStart": 1438,
       "cueEnd": 1442,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Lula trabalhou em regime noturno aos 17 anos na Indústria Metalúrgica Independência",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Lula trabalhou em regime noturno aos 17 anos na Indústria Metalúrgica Independência",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3159,7 +3159,7 @@
       "cueStart": 1452,
       "cueEnd": 1462,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é parcialmente verdadeira (com contexto metodológico essencial): os números brutos do Cadastro Único (CadÚnico) de fato quase dobraram ao longo do terceiro mandato de Lula, saltando de 198,7 mil pessoas em dezembro de 2022 para cerca de 392,4 mil em 2026 (uma alta de 97,4%). Contudo, especialistas do Ipea, pesquisadores de assistência social e o Ministério do Desenvolvimento e Assistência Social (MDS) apontam que essa explosão nas estatísticas não significa necessariamente que a população física nas ruas duplicou de forma repentina, mas reflete em grande parte a busca ativa municipal, a superação de subnotificações dos anos…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é parcialmente verdadeira (com contexto metodológico essencial): os números brutos do Cadastro Único (CadÚnico) de fato quase dobraram ao longo do terceiro mandato de Lula, saltando de 198,7 mil pessoas em dezembro de 2022 para cerca de 392,4 mil em 2026 (uma alta de 97,4%). Contudo, especialistas do Ipea, pesquisadores de assistência social e o Ministério do Desenvolvimento e Assistência Social (MDS) apontam que essa explosão nas estatísticas não significa necessariamente que a população física nas ruas duplicou de forma repentina, mas reflete em grande parte a busca ativa municipal, a superação de subnotificações dos anos…",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -3189,7 +3189,7 @@
       "cueStart": 1459,
       "cueEnd": 1462,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não, o CadÚnico (Cadastro Único) não é um benefício social em si. Ele funciona como um instrumento de registro e coleta de dados criado pelo Governo Federal para identificar e mapear as famílias de baixa renda que vivem no país. Na prática, o CadÚnico atua como a porta de entrada para diversos programas e políticas públicas. Estar inscrito não significa receber um valor financeiro automaticamente, mas é o requisito fundamental e obrigatório para poder solicitar e ter acesso a esses auxílios.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não, o CadÚnico (Cadastro Único) não é um benefício social em si. Ele funciona como um instrumento de registro e coleta de dados criado pelo Governo Federal para identificar e mapear as famílias de baixa renda que vivem no país. Na prática, o CadÚnico atua como a porta de entrada para diversos programas e políticas públicas. Estar inscrito não significa receber um valor financeiro automaticamente, mas é o requisito fundamental e obrigatório para poder solicitar e ter acesso a esses auxílios.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -3219,7 +3219,7 @@
       "cueStart": 1467,
       "cueEnd": 1476,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em outubro, o governo federal anunciou um reajuste de 15,04% no programa. O valor mínimo por família passou de R$ 600 para R$ 691. Segundo o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, foi a primeira atualização dos valores pela inflação desde março de 2023.",
+      "explanation": "Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Em outubro, o governo federal anunciou um reajuste de 15,04% no programa. O valor mínimo por família passou de R$ 600 para R$ 691. Segundo o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, foi a primeira atualização dos valores pela inflação desde março de 2023.",
       "evidence": [
         {
           "title": "Checagem de Estadão Verifica",
@@ -3249,7 +3249,7 @@
       "cueStart": 1468,
       "cueEnd": 1475,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório aponta que adicionais ao Bolsa Família foram introduzidos em 2023, contrariando a ideia de que só houve melhorias às vésperas da eleição de 2026.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório aponta que adicionais ao Bolsa Família foram introduzidos em 2023, contrariando a ideia de que só houve melhorias às vésperas da eleição de 2026.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3279,7 +3279,7 @@
       "cueStart": 1487,
       "cueEnd": 1490,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os registros de agressões aumentaram nos anos analisados, mas não medem diretamente o total de mulheres espancadas nem demonstram que o aumento continuou em 2026.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os registros de agressões aumentaram nos anos analisados, mas não medem diretamente o total de mulheres espancadas nem demonstram que o aumento continuou em 2026.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3309,7 +3309,7 @@
       "cueStart": 1498,
       "cueEnd": 1507,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Salário mínimo comprava 1,8 cesta básica durante o governo Jair Bolsonaro (2019-2022) e passou a comprar 2,2 cestas básicas no atual governo Lula, segundo declarações do próprio presidente em debate eleitoral, com base em dados do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Os preços subiram (~19% desde 2023), mas bem menos que no mandato anterior (~27%) e menos que a renda: o salário mínimo real subiu ~11% e o rendimento médio ~13%, então o poder de compra médio aumentou.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Salário mínimo comprava 1,8 cesta básica durante o governo Jair Bolsonaro (2019-2022) e passou a comprar 2,2 cestas básicas no atual governo Lula, segundo declarações do próprio presidente em debate eleitoral, com base em dados do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Os preços subiram (~19% desde 2023), mas bem menos que no mandato anterior (~27%) e menos que a renda: o salário mínimo real subiu ~11% e o rendimento médio ~13%, então o poder de compra médio aumentou.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -3339,7 +3339,7 @@
       "cueStart": 1525,
       "cueEnd": 1531,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é falsa: a Cracolândia em São Paulo não acabou, nem houve uma resolução estrutural no tratamento de saúde dessa população. Dados de monitoramento da Prefeitura de São Paulo, do Laboratório de Estudos sobre Espaço Público e Direito à Cidade (LabCidade/USP) e de relatórios do Ministério Público de São Paulo (MPSP) apontam que as ações policiais e urbanísticas dos últimos anos resultaram na dispersão territorial do fluxo de usuários — que antes se concentrava em pontos como a Praça Princesa Isabel e a Rua Helvétia — em dezenas de pequenos agrupamentos ('minicracolândias') espalhados por bairros centrais como Santa Cecília, Campos…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é falsa: a Cracolândia em São Paulo não acabou, nem houve uma resolução estrutural no tratamento de saúde dessa população. Dados de monitoramento da Prefeitura de São Paulo, do Laboratório de Estudos sobre Espaço Público e Direito à Cidade (LabCidade/USP) e de relatórios do Ministério Público de São Paulo (MPSP) apontam que as ações policiais e urbanísticas dos últimos anos resultaram na dispersão territorial do fluxo de usuários — que antes se concentrava em pontos como a Praça Princesa Isabel e a Rua Helvétia — em dezenas de pequenos agrupamentos ('minicracolândias') espalhados por bairros centrais como Santa Cecília, Campos…",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -3393,7 +3393,7 @@
       "cueStart": 1550,
       "cueEnd": 1556,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Universidade do Rio de Janeiro, atual Universidade Federal do Rio de Janeiro (UFRJ), foi oficialmente criada em 7 de setembro de 1920, pelo Decreto nº 14.343, durante o governo de Epitácio Pessoa. Considerando 1500 como o ano da chegada dos portugueses ao Brasil, a criação ocorreu exatamente 420 anos depois.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Universidade do Rio de Janeiro, atual Universidade Federal do Rio de Janeiro (UFRJ), foi oficialmente criada em 7 de setembro de 1920, pelo Decreto nº 14.343, durante o governo de Epitácio Pessoa. Considerando 1500 como o ano da chegada dos portugueses ao Brasil, a criação ocorreu exatamente 420 anos depois.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3423,7 +3423,7 @@
       "cueStart": 1564,
       "cueEnd": 1568,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Com a implementação de dezenas de programas sociais de grande impacto (como Bolsa Família, Minha Casa Minha Vida, ProUni, Luz para Todos e Farmácia Popular), os governos de Lula reduziram drasticamente a pobreza e a desigualdade por meio de transferência de renda em massa e da valorização real do salário mínimo.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Com a implementação de dezenas de programas sociais de grande impacto (como Bolsa Família, Minha Casa Minha Vida, ProUni, Luz para Todos e Farmácia Popular), os governos de Lula reduziram drasticamente a pobreza e a desigualdade por meio de transferência de renda em massa e da valorização real do salário mínimo.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3453,7 +3453,7 @@
       "cueStart": 1593,
       "cueEnd": 1597,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Lei Sansão foi sancionada por Jair Bolsonaro e aumentou as penas por maus-tratos a cães e gatos; a limitação a essas espécies não contradiz a fala, que promete ampliar a lei.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Lei Sansão foi sancionada por Jair Bolsonaro e aumentou as penas por maus-tratos a cães e gatos; a limitação a essas espécies não contradiz a fala, que promete ampliar a lei.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3483,7 +3483,7 @@
       "cueStart": 1594,
       "cueEnd": 1601,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Sua atuação legislativa no Congresso Nacional é historicamente marcada por posições vistas por ambientalistas e biólogos como contrárias à proteção da vida silvestre: o senador votou e atuou a favor de projetos da bancada ruralista que flexibilizam o licenciamento ambiental, apoiou medidas que enfraquecem a fiscalização de órgãos como o Ibama e o ICMBio, e assinou propostas polêmicas voltadas à facilitação da caça esportiva e de controle de fauna silvestre (como a caça ao javali e a regulamentação de armas para atiradores/caçadores - CACs), além de ter defendido no passado pautas controversas como a liberação de cassinos em resorts…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Sua atuação legislativa no Congresso Nacional é historicamente marcada por posições vistas por ambientalistas e biólogos como contrárias à proteção da vida silvestre: o senador votou e atuou a favor de projetos da bancada ruralista que flexibilizam o licenciamento ambiental, apoiou medidas que enfraquecem a fiscalização de órgãos como o Ibama e o ICMBio, e assinou propostas polêmicas voltadas à facilitação da caça esportiva e de controle de fauna silvestre (como a caça ao javali e a regulamentação de armas para atiradores/caçadores - CACs), além de ter defendido no passado pautas controversas como a liberação de cassinos em resorts…",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -3513,7 +3513,7 @@
       "cueStart": 1597,
       "cueEnd": 1605,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As fontes sustentam uma associação geral entre maus-tratos a animais e violência contra pessoas, mas não comprovam que regiões com mais maus-tratos tenham moradores mais violentos.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As fontes sustentam uma associação geral entre maus-tratos a animais e violência contra pessoas, mas não comprovam que regiões com mais maus-tratos tenham moradores mais violentos.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3543,7 +3543,7 @@
       "cueStart": 1615,
       "cueEnd": 1619,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O dado citado pelo candidato faz alusão à dívida bruta do governo geral do Brasil — que inclui governo federal, INSS, governos estaduais e municipais. Em agosto deste ano, ela atingiu R$ 11,1 trilhões, o que corresponde a 82,9% do Produto Interno Bruto (PIB), segundo dados oficiais divulgados pelo Banco Central do Brasil.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. O dado citado pelo candidato faz alusão à dívida bruta do governo geral do Brasil — que inclui governo federal, INSS, governos estaduais e municipais. Em agosto deste ano, ela atingiu R$ 11,1 trilhões, o que corresponde a 82,9% do Produto Interno Bruto (PIB), segundo dados oficiais divulgados pelo Banco Central do Brasil.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -3597,7 +3597,7 @@
       "cueStart": 1623,
       "cueEnd": 1624,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A taxa básica de juros (Selic) está em 13,75% ao ano, percentual próximo dos 14% mencionados pelo candidato.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. A taxa básica de juros (Selic) está em 13,75% ao ano, percentual próximo dos 14% mencionados pelo candidato.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -3651,7 +3651,7 @@
       "cueStart": 1628,
       "cueEnd": 1632,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A dívida do governo não faz a dívida das famílias crescer de forma direta ou automática. Embora o aumento da dívida pública possa pressionar os juros, o endividamento das famílias brasileiras é impulsionado por um conjunto de outros fatores: perda do poder de compra pela inflação, juros altos no cartão de crédito, necessidade de cobrir gastos básicos e, recentemente, o forte impacto financeiro das apostas online (bets) no orçamento doméstico.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A dívida do governo não faz a dívida das famílias crescer de forma direta ou automática. Embora o aumento da dívida pública possa pressionar os juros, o endividamento das famílias brasileiras é impulsionado por um conjunto de outros fatores: perda do poder de compra pela inflação, juros altos no cartão de crédito, necessidade de cobrir gastos básicos e, recentemente, o forte impacto financeiro das apostas online (bets) no orçamento doméstico.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3681,7 +3681,7 @@
       "cueStart": 1667,
       "cueEnd": 1674,
       "verdict": "Impreciso ou fora de contexto",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Boletim Focus, relatório do Banco Central que reúne as projeções do mercado financeiro para a economia, estimava, em outubro de 2022, que a taxa básica de juros (Selic) seria de 7,75% ao ano em 2025. A projeção constava do relatório divulgado em 7 de outubro daquele ano.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. O Boletim Focus, relatório do Banco Central que reúne as projeções do mercado financeiro para a economia, estimava, em outubro de 2022, que a taxa básica de juros (Selic) seria de 7,75% ao ano em 2025. A projeção constava do relatório divulgado em 7 de outubro daquele ano.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -3735,7 +3735,7 @@
       "cueStart": 1724,
       "cueEnd": 1726,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão informa que a medida provisória já havia sido apresentada; a imprecisão sobre o destino do envio não altera esse ponto central.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão informa que a medida provisória já havia sido apresentada; a imprecisão sobre o destino do envio não altera esse ponto central.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3765,7 +3765,7 @@
       "cueStart": 1727,
       "cueEnd": 1732,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Houve renegociações com descontos elevados, mas a compra das carteiras de dívida pela União ainda estava em preparação na data da fala.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Houve renegociações com descontos elevados, mas a compra das carteiras de dívida pela União ainda estava em preparação na data da fala.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3795,7 +3795,7 @@
       "cueStart": 1727,
       "cueEnd": 1732,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Sim. O presidente Luiz Inácio Lula da Silva anunciou formalmente uma medida nesse sentido por meio da fase Desenrola 3.0, voltada para que o governo passe a comprar diretamente carteiras de dívidas de pessoas físicas e MEIs junto ao sistema bancário.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Sim. O presidente Luiz Inácio Lula da Silva anunciou formalmente uma medida nesse sentido por meio da fase Desenrola 3.0, voltada para que o governo passe a comprar diretamente carteiras de dívidas de pessoas físicas e MEIs junto ao sistema bancário.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -3825,7 +3825,7 @@
       "cueStart": 1733,
       "cueEnd": 1743,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O presidente Luiz Inácio Lula da Silva sancionou em 21 de outubro de 2026 a Lei Complementar nº 238/2026 (parte do pacote Prospera MEI), que traz mudanças importantes para os Microempreendedores Individuais, incluindo perdão de dívidas.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O presidente Luiz Inácio Lula da Silva sancionou em 21 de outubro de 2026 a Lei Complementar nº 238/2026 (parte do pacote Prospera MEI), que traz mudanças importantes para os Microempreendedores Individuais, incluindo perdão de dívidas.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -3939,7 +3939,7 @@
       "cueStart": 1749,
       "cueEnd": 1752,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A taxa de juros era pouco mais de 13% em 2022, oscilou durante todo o período e hoje é de 13,75%",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A taxa de juros era pouco mais de 13% em 2022, oscilou durante todo o período e hoje é de 13,75%",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -3981,7 +3981,7 @@
       "cueStart": 1770,
       "cueEnd": 1772,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que o salário mínimo aumentou nominalmente no período e que a política de valorização prevê ganho real relacionado ao PIB, com ressalva de teto desde 2025.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que o salário mínimo aumentou nominalmente no período e que a política de valorização prevê ganho real relacionado ao PIB, com ressalva de teto desde 2025.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4011,7 +4011,7 @@
       "cueStart": 1782,
       "cueEnd": 1783,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O crédito saltou de R$ 360 bilhões em FHC para mais de R$ 3 trilhões sob Lula e Dilma, desacelerou nos governos Temer e Bolsonaro, e voltou a expandir e bater recordes na gestão atual de Lula.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O crédito saltou de R$ 360 bilhões em FHC para mais de R$ 3 trilhões sob Lula e Dilma, desacelerou nos governos Temer e Bolsonaro, e voltou a expandir e bater recordes na gestão atual de Lula.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4053,7 +4053,7 @@
       "cueStart": 1791,
       "cueEnd": 1793,
       "verdict": "Inconclusivo",
-      "explanation": "As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Apuração registrada no Quem Mentiu: A economia do Brasil cresceu 3% ou mais em outros governos e não apenas nas gestões de Lula. Em 2011, por exemplo, primeiro ano do governo de Dilma Rousseff (PT), o Produto Interno Bruto (PIB) brasileiro cresceu 3,9%. Em 2013, cresceu 3,0%.",
+      "explanation": "As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. A economia do Brasil cresceu 3% ou mais em outros governos e não apenas nas gestões de Lula. Em 2011, por exemplo, primeiro ano do governo de Dilma Rousseff (PT), o Produto Interno Bruto (PIB) brasileiro cresceu 3,9%. Em 2013, cresceu 3,0%.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -4095,7 +4095,7 @@
       "cueStart": 1825,
       "cueEnd": 1829,
       "verdict": "Inconclusivo",
-      "explanation": "Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Apuração registrada no Quem Mentiu: Registros refoçam que negacionismo do governo federal entre 2020 e 2022 contribuiu para a escalada de quase 700 mil mortes no país, amplificando tragédias como o colapso em Manaus e evidenciando óbitos que poderiam ter sido evitados.",
+      "explanation": "Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Registros refoçam que negacionismo do governo federal entre 2020 e 2022 contribuiu para a escalada de quase 700 mil mortes no país, amplificando tragédias como o colapso em Manaus e evidenciando óbitos que poderiam ter sido evitados.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4125,7 +4125,7 @@
       "cueStart": 1833,
       "cueEnd": 1838,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é exagerada e enganosa do ponto de vista tributário formal, embora tenha base no avanço da arrecadação: o governo Lula não criou 30 tributos novos — o sistema tributário brasileiro possui cerca de uma dúzia de tributos federais principais previstos na Constituição —, mas implementou mais de 20 medidas arrecadatórias focadas em recompor receitas fiscais. Entre elas destacam-se o fim da isenção de compras internacionais até US$ 50 ('taxa das blusinhas'), a tributação de fundos exclusivos (super-ricos) e offshores, a volta da reoneração de combustíveis (PIS/Cofins), mudanças no Carf, limitação de benefícios do ICMS em subvenções e a…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é exagerada e enganosa do ponto de vista tributário formal, embora tenha base no avanço da arrecadação: o governo Lula não criou 30 tributos novos — o sistema tributário brasileiro possui cerca de uma dúzia de tributos federais principais previstos na Constituição —, mas implementou mais de 20 medidas arrecadatórias focadas em recompor receitas fiscais. Entre elas destacam-se o fim da isenção de compras internacionais até US$ 50 ('taxa das blusinhas'), a tributação de fundos exclusivos (super-ricos) e offshores, a volta da reoneração de combustíveis (PIS/Cofins), mudanças no Carf, limitação de benefícios do ICMS em subvenções e a…",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -4155,7 +4155,7 @@
       "cueStart": 1838,
       "cueEnd": 1845,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não há uma falta, há janela de reposição de estoques pontuais como acontece com qualquer serviço além de que a responsabilidade é do governo Municipal. Fora que essa reposição não é de responsabilidade direta do governo federal.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não há uma falta, há janela de reposição de estoques pontuais como acontece com qualquer serviço além de que a responsabilidade é do governo Municipal. Fora que essa reposição não é de responsabilidade direta do governo federal.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -4185,7 +4185,7 @@
       "cueStart": 1853,
       "cueEnd": 1855,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Apesar de terem discordâncias com pontos do texto da redação final, Lula e os outros 15 parlamentares da bancada do PT assinaram o documento da promulgação da Constituição Federal de 1988.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apesar de terem discordâncias com pontos do texto da redação final, Lula e os outros 15 parlamentares da bancada do PT assinaram o documento da promulgação da Constituição Federal de 1988.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4215,7 +4215,7 @@
       "cueStart": 1872,
       "cueEnd": 1878,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Bolsonaro promoveu o uso e apoiou a produção de medicamentos já existentes, mas não há evidência que sustente a acusação de que inventou remédio para vender.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Bolsonaro promoveu o uso e apoiou a produção de medicamentos já existentes, mas não há evidência que sustente a acusação de que inventou remédio para vender.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4257,7 +4257,7 @@
       "cueStart": 1904,
       "cueEnd": 1909,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O cenário trágico da gestão da pandemia no país evidenciou-se quando levantamentos estatísticos apontaram que o Brasil, possuindo cerca de 3% da população mundial, concentrou aproximadamente 11% de todas as mortes globais por Covid-19, um reflexo crítico duramente contrastado pelo episódio em que o então presidente Jair Bolsonaro ironizou a gravidade da doença e imitou pacientes com falta de ar durante transmissão ao vivo na internet em 18 de março de 2021. Este Bolsonaro imita falta de ar por Covid-19 demonstra o momento em que o então presidente simulou a falta de ar de pacientes da doença durante uma transmissão ao vivo.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O cenário trágico da gestão da pandemia no país evidenciou-se quando levantamentos estatísticos apontaram que o Brasil, possuindo cerca de 3% da população mundial, concentrou aproximadamente 11% de todas as mortes globais por Covid-19, um reflexo crítico duramente contrastado pelo episódio em que o então presidente Jair Bolsonaro ironizou a gravidade da doença e imitou pacientes com falta de ar durante transmissão ao vivo na internet em 18 de março de 2021. Este Bolsonaro imita falta de ar por Covid-19 demonstra o momento em que o então presidente simulou a falta de ar de pacientes da doença durante uma transmissão ao vivo.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4299,7 +4299,7 @@
       "cueStart": 1913,
       "cueEnd": 1917,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O médico Claudio Lottenberg, anunciado por Flávio Bolsonaro como possível ministro da Saúde em um eventual governo, realmente declarou que não destinaria mais dinheiro ao SUS antes de melhorar a utilização dos recursos existentes.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O médico Claudio Lottenberg, anunciado por Flávio Bolsonaro como possível ministro da Saúde em um eventual governo, realmente declarou que não destinaria mais dinheiro ao SUS antes de melhorar a utilização dos recursos existentes.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4329,7 +4329,7 @@
       "cueStart": 1924,
       "cueEnd": 1925,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Santa Casa é uma instituição privada, filantrópica e sem fins lucrativos, e não um hospital público estatal. Porém a santa casa atende demandas do SUS.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Santa Casa é uma instituição privada, filantrópica e sem fins lucrativos, e não um hospital público estatal. Porém a santa casa atende demandas do SUS.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -4359,7 +4359,7 @@
       "cueStart": 1931,
       "cueEnd": 1933,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A espera superior a 700 dias foi constatada no conjunto analisado, mas os dados não representam necessariamente todo o SUS nem o cenário atual.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A espera superior a 700 dias foi constatada no conjunto analisado, mas os dados não representam necessariamente todo o SUS nem o cenário atual.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4389,7 +4389,7 @@
       "cueStart": 1934,
       "cueEnd": 1935,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório registra mortes de pacientes enquanto aguardavam transferência para atendimento oncológico especializado, sustentando a afirmação.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório registra mortes de pacientes enquanto aguardavam transferência para atendimento oncológico especializado, sustentando a afirmação.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4419,7 +4419,7 @@
       "cueStart": 1937,
       "cueEnd": 1947,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O plano de governo de Flávio Bolsonaro não faz qualquer menção ao INCA (Instituto Nacional de Câncer) nem prevê investimentos direcionados especificamente à instituição.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O plano de governo de Flávio Bolsonaro não faz qualquer menção ao INCA (Instituto Nacional de Câncer) nem prevê investimentos direcionados especificamente à instituição.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4461,7 +4461,7 @@
       "cueStart": 1945,
       "cueEnd": 1958,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é falsa: o governo Lula adotou medidas legislativas e financeiras de socorro às Santas Casas e hospitais filantrópicos, como a liberação de cerca de R$ 2 bilhões em auxílios emergenciais pelo Ministério da Saúde em 2023 e a sanção da lei que prorrogou o uso de recursos do FGTS até 2030 para linhas de crédito especiais, liberando mais de R$ 2 bilhões para refinanciar e alongar débitos com prazos estendidos e juros reduzidos; contudo, entidades como a Confederação das Santas Casas (CMB) ressalvam que o socorro é paliativo e não extingue a crise estrutural, mantendo o setor com endividamento bilionário devido à defasagem histórica…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é falsa: o governo Lula adotou medidas legislativas e financeiras de socorro às Santas Casas e hospitais filantrópicos, como a liberação de cerca de R$ 2 bilhões em auxílios emergenciais pelo Ministério da Saúde em 2023 e a sanção da lei que prorrogou o uso de recursos do FGTS até 2030 para linhas de crédito especiais, liberando mais de R$ 2 bilhões para refinanciar e alongar débitos com prazos estendidos e juros reduzidos; contudo, entidades como a Confederação das Santas Casas (CMB) ressalvam que o socorro é paliativo e não extingue a crise estrutural, mantendo o setor com endividamento bilionário devido à defasagem histórica…",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -4539,7 +4539,7 @@
       "cueStart": 1957,
       "cueEnd": 1959,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O valor de R$ 10 consta na tabela SUS, mas é uma referência de financiamento ao estabelecimento, não comprovação do pagamento direto ao médico.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O valor de R$ 10 consta na tabela SUS, mas é uma referência de financiamento ao estabelecimento, não comprovação do pagamento direto ao médico.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4569,7 +4569,7 @@
       "cueStart": 1962,
       "cueEnd": 1964,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: R$ 443,40 é o valor total de referência do procedimento, não o pagamento individual à obstetra; a tabela separa os valores hospitalares e profissionais.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. R$ 443,40 é o valor total de referência do procedimento, não o pagamento individual à obstetra; a tabela separa os valores hospitalares e profissionais.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4599,7 +4599,7 @@
       "cueStart": 1966,
       "cueEnd": 1968,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O investimento federal na área da saúde registrou uma expansão de 30% nos últimos anos, saltando de R$ 179,1 bilhões para R$ 233,3 bilhões.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O investimento federal na área da saúde registrou uma expansão de 30% nos últimos anos, saltando de R$ 179,1 bilhões para R$ 233,3 bilhões.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4629,7 +4629,7 @@
       "cueStart": 1969,
       "cueEnd": 1977,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de redução em filas específicas e de contribuição da Tabela SUS Paulista, mas não se demonstra quanto da redução geral das filas decorreu da medida.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de redução em filas específicas e de contribuição da Tabela SUS Paulista, mas não se demonstra quanto da redução geral das filas decorreu da medida.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4671,7 +4671,7 @@
       "cueStart": 2015,
       "cueEnd": 2017,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Lula orientou evitar produtos considerados caros, mas a afirmação generaliza a fala e omite a sugestão de substituí-los por similares mais baratos.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Lula orientou evitar produtos considerados caros, mas a afirmação generaliza a fala e omite a sugestão de substituí-los por similares mais baratos.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4713,7 +4713,7 @@
       "cueStart": 2024,
       "cueEnd": 2030,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é verdadeira: o governo Lula lançou o primeiro Desenrola Brasil em 2023, que beneficiou cerca de 15 milhões de pessoas (entre dívidas quitadas, desnegativações de até R$ 100 e renegociações com desconto), e ampliou a iniciativa com novas edições e fases (Desenrola 2.0 / Pequenos Negócios / Fies), atingindo mais milhões de pessoas físicas, estudantes e microempreendedores.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é verdadeira: o governo Lula lançou o primeiro Desenrola Brasil em 2023, que beneficiou cerca de 15 milhões de pessoas (entre dívidas quitadas, desnegativações de até R$ 100 e renegociações com desconto), e ampliou a iniciativa com novas edições e fases (Desenrola 2.0 / Pequenos Negócios / Fies), atingindo mais milhões de pessoas físicas, estudantes e microempreendedores.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -4743,7 +4743,7 @@
       "cueStart": 2041,
       "cueEnd": 2042,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Dados do Serasa mostram que, em agosto deste ano, o país apresentava 83,9 milhões de inadimplentes (página 4) — cerca de 51,06% da população adulta do país.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Dados do Serasa mostram que, em agosto deste ano, o país apresentava 83,9 milhões de inadimplentes (página 4) — cerca de 51,06% da população adulta do país.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -4797,7 +4797,7 @@
       "cueStart": 2051,
       "cueEnd": 2053,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidência de que o iFood oferece parcelamento e de que a opção foi usada, mas os dados não confirmam especificamente pedidos de pizza pagos em seis parcelas.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidência de que o iFood oferece parcelamento e de que a opção foi usada, mas os dados não confirmam especificamente pedidos de pizza pagos em seis parcelas.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4827,7 +4827,7 @@
       "cueStart": 2060,
       "cueEnd": 2067,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A possibilidade de o saldo aumentar apesar dos pagamentos é sustentada, mas não há dados que confirmem que essa seja a principal reclamação da Ouvidoria.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A possibilidade de o saldo aumentar apesar dos pagamentos é sustentada, mas não há dados que confirmem que essa seja a principal reclamação da Ouvidoria.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4857,7 +4857,7 @@
       "cueStart": 2061,
       "cueEnd": 2064,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O número de contratos informado diverge dos dados da Caixa; a cifra de pessoas abrangidas não foi confirmada.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O número de contratos informado diverge dos dados da Caixa; a cifra de pessoas abrangidas não foi confirmada.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4887,7 +4887,7 @@
       "cueStart": 2080,
       "cueEnd": 2088,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não, o brasileiro não perdeu poder de compra nos últimos quatro anos (2022-2026): o rendimento médio real do trabalho subiu de cerca de R$ 3.100-3.300 em 2022 para cerca de R$ 3.777 em meados de 2026 (PNAD Contínua/IBGE), o salário mínimo avançou de R$ 1.212 para R$ 1.621 com ganhos reais acima da inflação, e o mínimo compra mais cestas básicas hoje do que em 2022 (ex.: 1,8 vs. 1,62 em São Paulo), enquanto a inflação (IPCA) desacelerou após os picos de 2021-2022, embora o poder de compra de alimentos ainda esteja abaixo dos níveis pré-pandemia em algumas medições.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não, o brasileiro não perdeu poder de compra nos últimos quatro anos (2022-2026): o rendimento médio real do trabalho subiu de cerca de R$ 3.100-3.300 em 2022 para cerca de R$ 3.777 em meados de 2026 (PNAD Contínua/IBGE), o salário mínimo avançou de R$ 1.212 para R$ 1.621 com ganhos reais acima da inflação, e o mínimo compra mais cestas básicas hoje do que em 2022 (ex.: 1,8 vs. 1,62 em São Paulo), enquanto a inflação (IPCA) desacelerou após os picos de 2021-2022, embora o poder de compra de alimentos ainda esteja abaixo dos níveis pré-pandemia em algumas medições.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -4917,7 +4917,7 @@
       "cueStart": 2127,
       "cueEnd": 2132,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A medida provisória criou a 3ª fase do Programa Desenrola. O programa tem como meta atingir um volume total estimado de até R$ 150 bilhões em dívidas para renegociação,",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A medida provisória criou a 3ª fase do Programa Desenrola. O programa tem como meta atingir um volume total estimado de até R$ 150 bilhões em dívidas para renegociação,",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -4947,7 +4947,7 @@
       "cueStart": 2145,
       "cueEnd": 2147,
       "verdict": "Verdadeiro",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O presidente não menciona que a lei citada não é nova. Há 20 anos, Lula sancionou a Lei Complementar nº 123/2006, conhecida como a Lei Geral da Micro e Pequena Empresa. A legislação simplificou o recolhimento de impostos federais, estaduais e municipais, instituindo oficialmente o Simples Nacional.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. O presidente não menciona que a lei citada não é nova. Há 20 anos, Lula sancionou a Lei Complementar nº 123/2006, conhecida como a Lei Geral da Micro e Pequena Empresa. A legislação simplificou o recolhimento de impostos federais, estaduais e municipais, instituindo oficialmente o Simples Nacional.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -5001,7 +5001,7 @@
       "cueStart": 2159,
       "cueEnd": 2168,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório sustenta que as apostas foram proibidas legalmente e que podem causar os danos mencionados, sem afirmar que isso ocorra com todos os apostadores ou que as operações clandestinas tenham desaparecido.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório sustenta que as apostas foram proibidas legalmente e que podem causar os danos mencionados, sem afirmar que isso ocorra com todos os apostadores ou que as operações clandestinas tenham desaparecido.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5043,7 +5043,7 @@
       "cueStart": 2171,
       "cueEnd": 2178,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é parcialmente verdadeira (com distinção de modalidades): Flávio Bolsonaro se posicionou contra a proibição total das apostas esportivas (as bets de futebol), alegando respeito à segurança jurídica e a regras vigentes, mas defendeu proibir terminantemente os cassinos online (como o 'jogo do tigrinho'), apontando-os como causadores do endividamento das famílias.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é parcialmente verdadeira (com distinção de modalidades): Flávio Bolsonaro se posicionou contra a proibição total das apostas esportivas (as bets de futebol), alegando respeito à segurança jurídica e a regras vigentes, mas defendeu proibir terminantemente os cassinos online (como o 'jogo do tigrinho'), apontando-os como causadores do endividamento das famílias.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5073,7 +5073,7 @@
       "cueStart": 2223,
       "cueEnd": 2224,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O governo transferiu o custeio da política de escolas em tempo integral para dentro do Fundeb (Fundo de Manutenção e Desenvolvimento da Educação Básica), mantendo-o dentro da área da educação.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O governo transferiu o custeio da política de escolas em tempo integral para dentro do Fundeb (Fundo de Manutenção e Desenvolvimento da Educação Básica), mantendo-o dentro da área da educação.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5103,7 +5103,7 @@
       "cueStart": 2231,
       "cueEnd": 2231,
       "verdict": "Falso",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Diferentemente do que aponta Flávio, a Lei 13.756/2018, que permite apostas no Brasil, foi sancionada pelo ex-presidente Michel Temer, em 2018. A legislação criou o sistema de apostas de quota fixa esportivas e deixou um prazo de até quatro anos para que o Ministério da Fazenda regulamentasse o mercado no país.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Diferentemente do que aponta Flávio, a Lei 13.756/2018, que permite apostas no Brasil, foi sancionada pelo ex-presidente Michel Temer, em 2018. A legislação criou o sistema de apostas de quota fixa esportivas e deixou um prazo de até quatro anos para que o Ministério da Fazenda regulamentasse o mercado no país.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -5157,7 +5157,7 @@
       "cueStart": 2242,
       "cueEnd": 2242,
       "verdict": "Falso",
-      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: As casas de apostas online foram legalizadas no Brasil em 2018, no final da gestão de Michel Temer (MDB). A legislação criou o sistema de apostas de quota fixa esportivas e deixou um prazo de até quatro anos para que o Ministério da Fazenda regulamentasse o mercado no país.",
+      "explanation": "Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. As casas de apostas online foram legalizadas no Brasil em 2018, no final da gestão de Michel Temer (MDB). A legislação criou o sistema de apostas de quota fixa esportivas e deixou um prazo de até quatro anos para que o Ministério da Fazenda regulamentasse o mercado no país.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -5211,7 +5211,7 @@
       "cueStart": 2287,
       "cueEnd": 2293,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é exagerada: dados do Ministério da Educação (MEC) e do FNDE registraram cerca de 3,6 mil obras da educação básica paralisadas ou inacabadas ao fim de 2022 (e não 5 mil). A cifra de 5 mil infla o dado somando quadras e reformas, e auditorias do TCU mostram que boa parte dos entraves vinha se arrastando desde gestões anteriores por abandono de empreiteiras.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é exagerada: dados do Ministério da Educação (MEC) e do FNDE registraram cerca de 3,6 mil obras da educação básica paralisadas ou inacabadas ao fim de 2022 (e não 5 mil). A cifra de 5 mil infla o dado somando quadras e reformas, e auditorias do TCU mostram que boa parte dos entraves vinha se arrastando desde gestões anteriores por abandono de empreiteiras.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5277,7 +5277,7 @@
       "cueStart": 2314,
       "cueEnd": 2317,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As evidências não sustentam que 66% das crianças deixaram de desistir da escola: o estudo citado estima que o programa evitaria cerca de uma em cada quatro evasões, e a fala também generaliza o público atendido.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As evidências não sustentam que 66% das crianças deixaram de desistir da escola: o estudo citado estima que o programa evitaria cerca de uma em cada quatro evasões, e a fala também generaliza o público atendido.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5307,7 +5307,7 @@
       "cueStart": 2333,
       "cueEnd": 2336,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Embora o reajuste de 33,24% fosse do piso do magistério, e não um aumento geral, Bolsonaro o oficializou; por isso, a negativa literal é contrariada.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Embora o reajuste de 33,24% fosse do piso do magistério, e não um aumento geral, Bolsonaro o oficializou; por isso, a negativa literal é contrariada.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5337,7 +5337,7 @@
       "cueStart": 2337,
       "cueEnd": 2344,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O número de crianças com dificuldades de acesso à creche é sustentado, mas os dados não confirmam quantas têm mães impedidas de trabalhar por essa falta.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O número de crianças com dificuldades de acesso à creche é sustentado, mas os dados não confirmam quantas têm mães impedidas de trabalhar por essa falta.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5367,7 +5367,7 @@
       "cueStart": 2360,
       "cueEnd": 2374,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Enganosa. Os Jogos Escolares Brasileiros tradicionais deixaram de ser realizados após 2004, durante o primeiro governo Lula, mas a interrupção se estendeu por diferentes governos e ocorreu em meio a mudanças no formato das competições escolares nacionais. Outras competições ocuparam esse espaço nesse período. Os JEBs foram retomados em 2021, durante o governo Bolsonaro. Assim, dizer que “o PT acabou com os JEBs” simplifica a história e atribui exclusivamente a um partido uma interrupção de 17 anos.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Enganosa. Os Jogos Escolares Brasileiros tradicionais deixaram de ser realizados após 2004, durante o primeiro governo Lula, mas a interrupção se estendeu por diferentes governos e ocorreu em meio a mudanças no formato das competições escolares nacionais. Outras competições ocuparam esse espaço nesse período. Os JEBs foram retomados em 2021, durante o governo Bolsonaro. Assim, dizer que “o PT acabou com os JEBs” simplifica a história e atribui exclusivamente a um partido uma interrupção de 17 anos.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5409,7 +5409,7 @@
       "cueStart": 2370,
       "cueEnd": 2374,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório sustenta que e-sports pode ser uma atividade profissional remunerada; as ressalvas sobre regulamentação não contradizem essa afirmação.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório sustenta que e-sports pode ser uma atividade profissional remunerada; as ressalvas sobre regulamentação não contradizem essa afirmação.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5439,7 +5439,7 @@
       "cueStart": 2383,
       "cueEnd": 2388,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é falsa: o baixo desempenho no Pisa é um problema histórico e estrutural do Brasil desde o início da avaliação em 2000, e não exclusividade de um governo. Os testes avaliam alunos de 15 anos — reflexo de toda a trajetória na educação básica —, com notas estagnadas sob FHC, Lula, Dilma, Temer e Bolsonaro, mantendo o país historicamente no terço inferior do ranking da OCDE.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é falsa: o baixo desempenho no Pisa é um problema histórico e estrutural do Brasil desde o início da avaliação em 2000, e não exclusividade de um governo. Os testes avaliam alunos de 15 anos — reflexo de toda a trajetória na educação básica —, com notas estagnadas sob FHC, Lula, Dilma, Temer e Bolsonaro, mantendo o país historicamente no terço inferior do ranking da OCDE.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5481,7 +5481,7 @@
       "cueStart": 2411,
       "cueEnd": 2415,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é desatualizada: historicamente, Lula e o PT sempre se opuseram à redução da maioridade penal. Contudo, em sabatina recente em outubro de 2026, Lula mudou de posição e declarou ser a favor de reduzir a maioridade para 16 anos exclusivamente em casos de crimes hediondos (como estupro e latrocínio), defendendo que o debate ocorra em texto separado da PEC da Segurança.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é desatualizada: historicamente, Lula e o PT sempre se opuseram à redução da maioridade penal. Contudo, em sabatina recente em outubro de 2026, Lula mudou de posição e declarou ser a favor de reduzir a maioridade para 16 anos exclusivamente em casos de crimes hediondos (como estupro e latrocínio), defendendo que o debate ocorra em texto separado da PEC da Segurança.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5547,7 +5547,7 @@
       "cueStart": 2413,
       "cueEnd": 2415,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que Lula e seu governo rejeitaram o enquadramento legal do PCC e do Comando Vermelho como organizações terroristas, embora reconheçam os efeitos de suas ações sobre comunidades.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que Lula e seu governo rejeitaram o enquadramento legal do PCC e do Comando Vermelho como organizações terroristas, embora reconheçam os efeitos de suas ações sobre comunidades.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5577,7 +5577,7 @@
       "cueStart": 2430,
       "cueEnd": 2440,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Verdadeira, com ressalvas. Flávio Bolsonaro integrou a defesa do policial militar Bruno Dias Delaroli, acusado pelo Ministério Público do Rio de Janeiro de matar Ana Clara Gomes Machado, de cinco anos, com um disparo de fuzil em Niterói, em 2021. Em 2024, Flávio assinou um recurso contra a decisão de levar o caso a júri popular, mas o STJ rejeitou o pedido. A afirmação de que ele defendeu juridicamente o policial é comprovada.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Verdadeira, com ressalvas. Flávio Bolsonaro integrou a defesa do policial militar Bruno Dias Delaroli, acusado pelo Ministério Público do Rio de Janeiro de matar Ana Clara Gomes Machado, de cinco anos, com um disparo de fuzil em Niterói, em 2021. Em 2024, Flávio assinou um recurso contra a decisão de levar o caso a júri popular, mas o STJ rejeitou o pedido. A afirmação de que ele defendeu juridicamente o policial é comprovada.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5619,7 +5619,7 @@
       "cueStart": 2430,
       "cueEnd": 2433,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Embora o julgamento tenha sido remarcado, não há evidência de que Flávio Bolsonaro tenha causado o adiamento; a justificativa informada foi outro compromisso da juíza.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Embora o julgamento tenha sido remarcado, não há evidência de que Flávio Bolsonaro tenha causado o adiamento; a justificativa informada foi outro compromisso da juíza.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5649,7 +5649,7 @@
       "cueStart": 2444,
       "cueEnd": 2446,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não há registro de Lula defendendo facções criminosas.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não há registro de Lula defendendo facções criminosas.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5679,7 +5679,7 @@
       "cueStart": 2447,
       "cueEnd": 2455,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Porém Ana Clara foi a vítima e não estava presente.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Porém Ana Clara foi a vítima e não estava presente.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5721,7 +5721,7 @@
       "cueStart": 2451,
       "cueEnd": 2454,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Ana Clara Gomes Machado, de apenas cinco anos, morreu em 2 de fevereiro de 2021, após ser atingida por um tiro de fuzil enquanto brincava na porta de casa com o irmão de dois anos, na comunidade Monan Pequeno, em Niterói (RJ). A perícia não encontrou evidências de confronto armado: não havia marcas de tiros na viatura policial e foram recolhidos apenas estojos de munição de fuzil compatíveis com o armamento dos policiais. Testemunhas também relataram que os policiais chegaram atirando",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Ana Clara Gomes Machado, de apenas cinco anos, morreu em 2 de fevereiro de 2021, após ser atingida por um tiro de fuzil enquanto brincava na porta de casa com o irmão de dois anos, na comunidade Monan Pequeno, em Niterói (RJ). A perícia não encontrou evidências de confronto armado: não havia marcas de tiros na viatura policial e foram recolhidos apenas estojos de munição de fuzil compatíveis com o armamento dos policiais. Testemunhas também relataram que os policiais chegaram atirando",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5751,7 +5751,7 @@
       "cueStart": 2478,
       "cueEnd": 2482,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há déficit de vagas e o plano prevê alternativas à prisão nos casos previstos em lei, mas isso não significa soltar todos por falta de vagas.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há déficit de vagas e o plano prevê alternativas à prisão nos casos previstos em lei, mas isso não significa soltar todos por falta de vagas.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5781,7 +5781,7 @@
       "cueStart": 2486,
       "cueEnd": 2495,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A audiência de custódia não impede a prisão: a decisão depende da análise judicial das circunstâncias e dos requisitos legais.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A audiência de custódia não impede a prisão: a decisão depende da análise judicial das circunstâncias e dos requisitos legais.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5811,7 +5811,7 @@
       "cueStart": 2508,
       "cueEnd": 2511,
       "verdict": "Falso",
-      "explanation": "Classificação reaproveitada de Lupa, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Lula não defendeu o roubo de celulares para “tomar uma cervejinha” nem a impunidade dos responsáveis. A alegação é falsa e já foi desmentida pela Lupa em 2020.",
+      "explanation": "Classificação reaproveitada de Lupa, Estadão Verifica. Esta importação não representa uma nova apuração independente. Lula não defendeu o roubo de celulares para “tomar uma cervejinha” nem a impunidade dos responsáveis. A alegação é falsa e já foi desmentida pela Lupa em 2020.",
       "evidence": [
         {
           "title": "Checagem de Lupa",
@@ -5877,7 +5877,7 @@
       "cueStart": 2529,
       "cueEnd": 2535,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Em 2003, quando era deputado estadual no Rio de Janeiro, Flávio apresentou uma moção de louvor ao policial militar Adriano da Nóbrega. Em 2005, concedeu a ele a Medalha Tiradentes, maior honraria da Assembleia Legislativa do Rio de Janeiro (Alerj). Na época da condecoração, Adriano estava preso por acusação de homicídio. Anos depois, foi apontado pelo Ministério Público do Rio de Janeiro como líder de milícia e do grupo conhecido como Escritório do Crime. Flávio empregou a mãe e a esposa de Adriano da Nóbrega. As duas trabalharam no gabinete de Flávio na Alerj.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Em 2003, quando era deputado estadual no Rio de Janeiro, Flávio apresentou uma moção de louvor ao policial militar Adriano da Nóbrega. Em 2005, concedeu a ele a Medalha Tiradentes, maior honraria da Assembleia Legislativa do Rio de Janeiro (Alerj). Na época da condecoração, Adriano estava preso por acusação de homicídio. Anos depois, foi apontado pelo Ministério Público do Rio de Janeiro como líder de milícia e do grupo conhecido como Escritório do Crime. Flávio empregou a mãe e a esposa de Adriano da Nóbrega. As duas trabalharam no gabinete de Flávio na Alerj.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5907,7 +5907,7 @@
       "cueStart": 2529,
       "cueEnd": 2535,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Em 7 de fevereiro de 2007, durante discurso na tribuna da Assembleia Legislativa do Rio de Janeiro (Alerj), o então deputado estadual Flávio Bolsonaro defendeu publicamente a atuação de grupos milicianos, classificando-os à época como uma suposta \"nova forma de policiamento\" que traria benefícios aparentes à população. Esse histórico também engloba a entrega de homenagens, como a Medalha Tiradentes em setembro de 2005, e a nomeação de familiares de Adriano da Nóbrega — ex-capitão do Bope e apontado como chefe de milícia —, cujas mãe e ex-esposa integraram o quadro de assessores de seu gabinete parlamentar entre 2015 e 2018.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Em 7 de fevereiro de 2007, durante discurso na tribuna da Assembleia Legislativa do Rio de Janeiro (Alerj), o então deputado estadual Flávio Bolsonaro defendeu publicamente a atuação de grupos milicianos, classificando-os à época como uma suposta \"nova forma de policiamento\" que traria benefícios aparentes à população. Esse histórico também engloba a entrega de homenagens, como a Medalha Tiradentes em setembro de 2005, e a nomeação de familiares de Adriano da Nóbrega — ex-capitão do Bope e apontado como chefe de milícia —, cujas mãe e ex-esposa integraram o quadro de assessores de seu gabinete parlamentar entre 2015 e 2018.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5937,7 +5937,7 @@
       "cueStart": 2616,
       "cueEnd": 2623,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Apesar de conter o tópico chamado Tolerância Zero ao Feminicídio, o plano de governo do candidato Flavio Bolsonaro não especifica quais medidas irá tomar para combate a violência contra mulheres.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apesar de conter o tópico chamado Tolerância Zero ao Feminicídio, o plano de governo do candidato Flavio Bolsonaro não especifica quais medidas irá tomar para combate a violência contra mulheres.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -5967,7 +5967,7 @@
       "cueStart": 2622,
       "cueEnd": 2623,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Este programa já existe desde 2015, tendo sido implementado originalmente no governo Dilma Rousseff, e reúne em um mesmo espaço serviços especializados para mulheres vítimas de violência.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Este programa já existe desde 2015, tendo sido implementado originalmente no governo Dilma Rousseff, e reúne em um mesmo espaço serviços especializados para mulheres vítimas de violência.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -5997,7 +5997,7 @@
       "cueStart": 2668,
       "cueEnd": 2678,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: parcialmente verdade, há uma disputa judicial em andamento para a apuração dos fatos. O processo de posse que geralmente demora muito tempo foi feito em menos de uma semana para Willer Tomaz. Referencias: https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. parcialmente verdade, há uma disputa judicial em andamento para a apuração dos fatos. O processo de posse que geralmente demora muito tempo foi feito em menos de uma semana para Willer Tomaz. Referencias: https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6027,7 +6027,7 @@
       "cueStart": 2672,
       "cueEnd": 2674,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A fala cita o jogador Richarlison, conhecido nas redes sociais como \"O pai do bebê\". O jogador relata que não aceitou proposta de venda da propriedade e foi supreendido por uma manobra judicial de Willer Tomaz, que conseguiu a posse da ilha em 24h.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A fala cita o jogador Richarlison, conhecido nas redes sociais como \"O pai do bebê\". O jogador relata que não aceitou proposta de venda da propriedade e foi supreendido por uma manobra judicial de Willer Tomaz, que conseguiu a posse da ilha em 24h.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6057,7 +6057,7 @@
       "cueStart": 2681,
       "cueEnd": 2686,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Existe uma disputa judicial mas não comprova que todas as possíveis irregularidades já tenham sido investigadas e definitivamente esclarecidas. Pelo contrário, a Polícia Federal iniciou uma nova apuração para verificar as circunstâncias da transferência dos direitos sobre o imóvel e a atuação da SPU. Porém, há documentos relativos à aquisição de direitos possessórios, e o encerramento da ação sem julgamento do mérito não comprova que Richarlison nunca teve esses direitos. A Polícia Federal investiga a suspeita de que Flávio Bolsonaro tenha mantido uma participação econômica ou societária não declarada em negócios do advogado e empresário…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Existe uma disputa judicial mas não comprova que todas as possíveis irregularidades já tenham sido investigadas e definitivamente esclarecidas. Pelo contrário, a Polícia Federal iniciou uma nova apuração para verificar as circunstâncias da transferência dos direitos sobre o imóvel e a atuação da SPU. Porém, há documentos relativos à aquisição de direitos possessórios, e o encerramento da ação sem julgamento do mérito não comprova que Richarlison nunca teve esses direitos. A Polícia Federal investiga a suspeita de que Flávio Bolsonaro tenha mantido uma participação econômica ou societária não declarada em negócios do advogado e empresário…",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6087,7 +6087,7 @@
       "cueStart": 2684,
       "cueEnd": 2689,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há vínculos documentados entre Willer e Flávio, a relação entre eles é alvo de investigações da Polícia Federal (PF) e tramita no Supremo Tribunal Federal (STF).",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há vínculos documentados entre Willer e Flávio, a relação entre eles é alvo de investigações da Polícia Federal (PF) e tramita no Supremo Tribunal Federal (STF).",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6117,7 +6117,7 @@
       "cueStart": 2693,
       "cueEnd": 2694,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Polícia Federal investiga a suspeita de que Flávio Bolsonaro tenha mantido uma participação econômica ou societária não declarada em negócios do advogado e empresário Willer Tomaz. Segundo relatório da PF encaminhado ao Supremo Tribunal Federal (STF), Flávio aparecia como “usuário master” de uma conta bancária da Alcazar Holdings, empresa ligada a Willer e registrada na Ilha da Madeira, em Portugal. Esse tipo de acesso poderia permitir ao senador um nível elevado de gerenciamento da conta. A investigação também identificou viagens em jatos particulares custeadas por empresas ligadas a Willer, além de outros vínculos comerciais e pessoais…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Polícia Federal investiga a suspeita de que Flávio Bolsonaro tenha mantido uma participação econômica ou societária não declarada em negócios do advogado e empresário Willer Tomaz. Segundo relatório da PF encaminhado ao Supremo Tribunal Federal (STF), Flávio aparecia como “usuário master” de uma conta bancária da Alcazar Holdings, empresa ligada a Willer e registrada na Ilha da Madeira, em Portugal. Esse tipo de acesso poderia permitir ao senador um nível elevado de gerenciamento da conta. A investigação também identificou viagens em jatos particulares custeadas por empresas ligadas a Willer, além de outros vínculos comerciais e pessoais…",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6147,7 +6147,7 @@
       "cueStart": 2718,
       "cueEnd": 2719,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O governo de Lula não defende o fim das forças policiais, mas sim a integração das polícias por meio de propostas como a PEC da Segurança Pública (que busca ampliar a atuação conjunta da União, Polícia Federal, Polícia Rodoviária Federal e Polícia Penal) e o estímulo a mecanismos de controle e transparência, como o uso de câmeras corporais - https://noticias.uol.com.br/confere/ultimas-noticias/2023/01/20/flavio-dino-extincao-policia-militar-checagem.htm",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O governo de Lula não defende o fim das forças policiais, mas sim a integração das polícias por meio de propostas como a PEC da Segurança Pública (que busca ampliar a atuação conjunta da União, Polícia Federal, Polícia Rodoviária Federal e Polícia Penal) e o estímulo a mecanismos de controle e transparência, como o uso de câmeras corporais - https://noticias.uol.com.br/confere/ultimas-noticias/2023/01/20/flavio-dino-extincao-policia-militar-checagem.htm",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6189,7 +6189,7 @@
       "cueStart": 2719,
       "cueEnd": 2722,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A proposta foi endurecida no Congresso, mas o combate ao crime já constava do texto original; por isso, a oposição entre controlar as polícias e combater criminosos não se sustenta.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A proposta foi endurecida no Congresso, mas o combate ao crime já constava do texto original; por isso, a oposição entre controlar as polícias e combater criminosos não se sustenta.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6219,7 +6219,7 @@
       "cueStart": 2738,
       "cueEnd": 2741,
       "verdict": "Inconclusivo",
-      "explanation": "Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Apuração registrada no Quem Mentiu: A afirmação é falsa: o coronel do Exército Paulo da Silva Medeiros, que chefiou a Superintendência do Patrimônio da União no Rio de Janeiro (SPU-RJ) a partir de 2019 e durante as decisões sobre o imóvel em Angra dos Reis, foi alçado ao cargo por apadrinhamento e indicação política direta de Flávio Bolsonaro: https://revistaforum.com.br/politica/mansao-em-angra-favorecimento-willer-tomaz-flavio-bolsonaro/",
+      "explanation": "Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. A afirmação é falsa: o coronel do Exército Paulo da Silva Medeiros, que chefiou a Superintendência do Patrimônio da União no Rio de Janeiro (SPU-RJ) a partir de 2019 e durante as decisões sobre o imóvel em Angra dos Reis, foi alçado ao cargo por apadrinhamento e indicação política direta de Flávio Bolsonaro: https://revistaforum.com.br/politica/mansao-em-angra-favorecimento-willer-tomaz-flavio-bolsonaro/",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6249,7 +6249,7 @@
       "cueStart": 2744,
       "cueEnd": 2749,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há mensagens liberadas pela policia federal de uma encomenda do Daniel Vorcaro, mas não há provas que o presente foi entregue. https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há mensagens liberadas pela policia federal de uma encomenda do Daniel Vorcaro, mas não há provas que o presente foi entregue. https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6279,7 +6279,7 @@
       "cueStart": 2856,
       "cueEnd": 2865,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Investigação identificou que empresa de Fabiano Zettel, ex-pastor e braço-direito de Vorcaro, mandou R$ 12 milhões para a Entre Investimentos na véspera da primeira remessa aos EUA para pagar o filme sobre Jair Bolsonaro. Parte do dinheiro que Daniel Vorcaro enviou para os Estados Unidos para bancar o filme “Dark Horse”, a cinebiografia do ex-presidente Jair Bolsonaro, saiu de uma empresa de Fabiano Zettel ligada diretamente à fraude do banco Master. A conclusão é da Polícia Federal, em um despacho de 15 de outubro de 2026, obtido pelo Intercept Brasil. -…",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Investigação identificou que empresa de Fabiano Zettel, ex-pastor e braço-direito de Vorcaro, mandou R$ 12 milhões para a Entre Investimentos na véspera da primeira remessa aos EUA para pagar o filme sobre Jair Bolsonaro. Parte do dinheiro que Daniel Vorcaro enviou para os Estados Unidos para bancar o filme “Dark Horse”, a cinebiografia do ex-presidente Jair Bolsonaro, saiu de uma empresa de Fabiano Zettel ligada diretamente à fraude do banco Master. A conclusão é da Polícia Federal, em um despacho de 15 de outubro de 2026, obtido pelo Intercept Brasil. -…",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6321,7 +6321,7 @@
       "cueStart": 2863,
       "cueEnd": 2865,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os registros citados não apontavam contrapartida, mas isso não equivale a uma conclusão definitiva da PF; a investigação permanecia aberta.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os registros citados não apontavam contrapartida, mas isso não equivale a uma conclusão definitiva da PF; a investigação permanecia aberta.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6351,7 +6351,7 @@
       "cueStart": 2871,
       "cueEnd": 2876,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Falso, os próprios advogados de Daniel Vorcaro negaram a afirmação - https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Falso, os próprios advogados de Daniel Vorcaro negaram a afirmação - https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6381,7 +6381,7 @@
       "cueStart": 2918,
       "cueEnd": 2931,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de tentativas de captar recursos e de articulações, mas os valores e a cobrança de propina são relatos não confirmados independentemente. Os investimentos pretendidos não se concretizaram, e há confusões sobre os fundos e a medida governamental citados.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de tentativas de captar recursos e de articulações, mas os valores e a cobrança de propina são relatos não confirmados independentemente. Os investimentos pretendidos não se concretizaram, e há confusões sobre os fundos e a medida governamental citados.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6411,7 +6411,7 @@
       "cueStart": 2943,
       "cueEnd": 2951,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O episódio refere-se a uma investigação jornalística detalhada sobre um passeio de barco no Lago Paranoá (Brasília) em 17 de julho de 2020, no auge da pandemia de Covid-19, quando o país registrava mais de mil mortes diárias pela doença (1.299 mortes registradas pelo consórcio de imprensa na véspera e 1.110 no próprio dia) - https://piaui.uol.com.br/web/flavio-bolsonaro-churrasco-lancha-vacina/",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O episódio refere-se a uma investigação jornalística detalhada sobre um passeio de barco no Lago Paranoá (Brasília) em 17 de julho de 2020, no auge da pandemia de Covid-19, quando o país registrava mais de mil mortes diárias pela doença (1.299 mortes registradas pelo consórcio de imprensa na véspera e 1.110 no próprio dia) - https://piaui.uol.com.br/web/flavio-bolsonaro-churrasco-lancha-vacina/",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6441,7 +6441,7 @@
       "cueStart": 2967,
       "cueEnd": 2976,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O endereço e a propriedade são corroborados, mas o valor de R$ 15 milhões não foi avaliado especificamente, e o endereço declarado não comprova residência efetiva em São Paulo.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O endereço e a propriedade são corroborados, mas o valor de R$ 15 milhões não foi avaliado especificamente, e o endereço declarado não comprova residência efetiva em São Paulo.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6471,7 +6471,7 @@
       "cueStart": 2974,
       "cueEnd": 2980,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Jonas Suassuna é proprietário de uma das áreas do sítio de Atibaia, não do imóvel inteiro.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Jonas Suassuna é proprietário de uma das áreas do sítio de Atibaia, não do imóvel inteiro.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6501,7 +6501,7 @@
       "cueStart": 3007,
       "cueEnd": 3007,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Flávio Bolsonaro sinalizou autorizações para abertura de sigilos, mas os dados propriamente ditos não foram disponibilizados; assim, não se confirma que documentação mencionada esteja disponível.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Flávio Bolsonaro sinalizou autorizações para abertura de sigilos, mas os dados propriamente ditos não foram disponibilizados; assim, não se confirma que documentação mencionada esteja disponível.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6531,7 +6531,7 @@
       "cueStart": 3013,
       "cueEnd": 3014,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Parcialmente verdadeiro, apesar do presidente Lula ter sido condenado, o STF anulou todas as condenações impostas pela 13ª Vara Federal de Curitiba, declarando que o juízo de Curitiba era incompetente para julgar esses casos..",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Parcialmente verdadeiro, apesar do presidente Lula ter sido condenado, o STF anulou todas as condenações impostas pela 13ª Vara Federal de Curitiba, declarando que o juízo de Curitiba era incompetente para julgar esses casos..",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6597,7 +6597,7 @@
       "cueStart": 3052,
       "cueEnd": 3053,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A compra da mansão está comprovada, o valor varia conforme fonte.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A compra da mansão está comprovada, o valor varia conforme fonte.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6627,7 +6627,7 @@
       "cueStart": 3054,
       "cueEnd": 3057,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os registros citados não sustentam 24 anos de atividade empresarial, a origem dos recursos para a compra não foi integralmente comprovada. Levantamentos apontam que Flávio Bolsonaro construiu patrimônio antes de ser empresário.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os registros citados não sustentam 24 anos de atividade empresarial, a origem dos recursos para a compra não foi integralmente comprovada. Levantamentos apontam que Flávio Bolsonaro construiu patrimônio antes de ser empresário.",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6657,7 +6657,7 @@
       "cueStart": 3096,
       "cueEnd": 3104,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Verdadeiro, Fábio Luís Lula da Silva, o Lulinha, mora no bairro de La Moraleja, uma área residencial de alto padrão no município de Alcobendas, na região metropolitana de Madri, na Espanha.",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Verdadeiro, Fábio Luís Lula da Silva, o Lulinha, mora no bairro de La Moraleja, uma área residencial de alto padrão no município de Alcobendas, na região metropolitana de Madri, na Espanha.",
       "evidence": [
         {
           "title": "Checagem de Verifique os Fatos",
@@ -6687,7 +6687,7 @@
       "cueStart": 3173,
       "cueEnd": 3174,
       "verdict": "Inconclusivo",
-      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que Lula começou a trabalhar aos 12 anos numa tinturaria;",
+      "explanation": "Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que Lula começou a trabalhar aos 12 anos numa tinturaria;",
       "evidence": [
         {
           "title": "Checagem de Checagem Ao Vivo (IA)",
@@ -6708,7 +6708,7 @@
     }
   ],
   "limitations": [
-    "Importação solicitada pelo responsável pelo Quem Mentiu. Os juízos pertencem aos veículos citados; não houve nova apuração independente de todas as fontes primárias.",
+    "Os juízos pertencem aos veículos citados; não houve nova apuração independente de todas as fontes primárias.",
     "A transcrição fornecida é automática e foi mantida integralmente, sem revisão integral do áudio. Números, nomes, negações e identificação de voz podem conter erros.",
     "O acervo de origem já agrupa fontes. Não use maioria de veículos como prova factual. Divergências editoriais foram mantidas inconclusivas.",
     "Uma checagem automatizada isolada e uma página inicial sem permalink não sustentam conclusão própria; aparecem como contexto com classificação inconclusiva.",
@@ -6720,19 +6720,13 @@
 
 # DEBATE COMPLETO na Globo | LULA e FLÁVIO BOLSONARO | 24 de Outubro, 2026 | SEGUNDO TURNO ao vivo
 
-Checagens reunidas do Quem Mentiu e alinhadas à transcrição integral fornecida. 175 afirmações com trechos localizados; registros repetidos foram agrupados. As classificações são atribuídas às fontes citadas. Divergências, erros relevantes de legenda e registros sem apuração editorial específica permanecem inconclusivos.
+O debate discute economia, segurança, políticas sociais e serviços públicos. Cada afirmação tem sua conclusão e as fontes citadas, com as divergências e incertezas indicadas.
 
 ## Origem e revisão
 
-Acervo: https://mreaggle.github.io/quemmentiu/data/feed-globo.json
-
-SHA-256 do feed de origem: 5e1979ab6d13105173666736e3d9f73fb11361fd3b0f29ab6d6078897a54d01a
-
-Revisão de intervalos, agrupamentos e exclusões: [registro da importação](../imports/quemmentiu/6BBZWwq2juE.json).
-
 Transcrição integral: [6BBZWwq2juE.md](../transcripts/6BBZWwq2juE.md).
 
-A transcrição completa de 3285 blocos foi preservada. Foram alinhados 195 dos 207 registros do acervo de origem, resultando em 175 afirmações após reunir duplicatas. 12 registros sem correspondência textual segura ficaram fora do relatório e dos gráficos, registrados em imports/quemmentiu. Isso não certifica que todas as afirmações do vídeo tenham sido checadas.
+A transcrição completa de 3285 blocos foi preservada. Foram alinhados 195 dos 207 registros do acervo de origem, resultando em 175 afirmações após reunir duplicatas. 12 registros sem correspondência textual segura ficaram fora do relatório e dos gráficos e foram registrados na revisão editorial. Isso não certifica que todas as afirmações do vídeo tenham sido checadas.
 
 ## import-fdcfe865de7ebc06279a · Fato · blocos 178–183
 
@@ -6740,7 +6734,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Bom, nós pegamos o Brasil lá em 2019 com cerca de 14.000 obras inacabadas. E apesar de todos os problemas, a gente entregou o Brasil com um pouco mais de 8.000 obras inacabadas.
 
-Classificação reaproveitada de g1 · Fato ou Fake. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Tribunal de Contas da União (TCU) mantém um painel interativo de Acompanhamento de Obras Paralisadas, mas a ferramenta não apresenta dados de 2019. Naquele ano, uma auditoria do órgão, registrada no Acórdão 1079/2019, identificou 14.403 empreendimentos paralisados, o equivalente a aproximadamente 37,5% do total.
+Classificação reaproveitada de g1 · Fato ou Fake. Esta importação não representa uma nova apuração independente. O Tribunal de Contas da União (TCU) mantém um painel interativo de Acompanhamento de Obras Paralisadas, mas a ferramenta não apresenta dados de 2019. Naquele ano, uma auditoria do órgão, registrada no Acórdão 1079/2019, identificou 14.403 empreendimentos paralisados, o equivalente a aproximadamente 37,5% do total.
 
 - [g1 · Fato ou Fake](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml#chunk-5t1o1)
 
@@ -6752,7 +6746,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Agora, neste ano, o TCU, o Tribunal de Contas da União, acaba de soltar um relatório que existem mais de 11.500 obras paralisadas do atual governo. Ou
 
-As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Apuração registrada no Quem Mentiu: A segunda edição da Lista de Alto Risco (LAR) da Administração Pública Federal, elaborada pelo Tribunal de Contas da União (TCU), mostra que o número de obras paralisadas aumentou entre 2022 e 2024, chegando a 11.944 empreendimentos. Ou seja, o dado se refere ao conjunto de obras financiadas com recursos federais, e não exclusivamente a obras do atual governo.
+As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. A segunda edição da Lista de Alto Risco (LAR) da Administração Pública Federal, elaborada pelo Tribunal de Contas da União (TCU), mostra que o número de obras paralisadas aumentou entre 2022 e 2024, chegando a 11.944 empreendimentos. Ou seja, o dado se refere ao conjunto de obras financiadas com recursos federais, e não exclusivamente a obras do atual governo.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-b796276f)
@@ -6767,7 +6761,7 @@ Locutor conforme fonte: Lula.
 
 > todos os partidos políticos, nós anunciamos um programa de aceleração do crescimento de 1 trilhão e 700 milhões, dos quais quase 800 já foram executados nesse país. Criando ferrovia, rodovia, hidrovia, estrada e portos e aeroportos. Para que a gente possa fazer com que o Brasil se transforme num grande país produtor de alimento. Mas num grande
 
-Classificação reaproveitada de g1 · Fato ou Fake. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Principal aposta do governo Lula para estimular a economia, o novo Programa de Aceleração do Crescimento (PAC) previa investimentos de R$ 1,3 trilhão até o fim de 2026. Segundo os balanços do programa, o presidente acertou o valor inicialmente previsto. O montante executado citado pelo candidato (R$ 800 bilhões) é até inferior ao foi alcançado até o momento. Conforme mostra o painel, R$ 1,3 trilhão já havia sido executado até junho de 2026.
+Classificação reaproveitada de g1 · Fato ou Fake. Esta importação não representa uma nova apuração independente. Principal aposta do governo Lula para estimular a economia, o novo Programa de Aceleração do Crescimento (PAC) previa investimentos de R$ 1,3 trilhão até o fim de 2026. Segundo os balanços do programa, o presidente acertou o valor inicialmente previsto. O montante executado citado pelo candidato (R$ 800 bilhões) é até inferior ao foi alcançado até o momento. Conforme mostra o painel, R$ 1,3 trilhão já havia sido executado até junho de 2026.
 
 - [g1 · Fato ou Fake](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml#chunk-eomqk)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#8c6d815b-a225-42ee-8f24-310ddd23e0bc)
@@ -6780,7 +6774,7 @@ Locutor conforme fonte: Lula.
 
 > >> é que nós herdamos 6.000 obras paradas. E obviamente que você não consegue fazer uma obra de infraestrutura no mesmo ano que você começa. As obras que estão
 
-As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Apuração registrada no Quem Mentiu: Segundo o painel de Obras Paralisadas do Tribunal de Contas da União (TCU), em abril de 2023 existiam 8.603 obras paralisadas. No ano anterior, o contingente de obras ativas somava 21.005.
+As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Segundo o painel de Obras Paralisadas do Tribunal de Contas da União (TCU), em abril de 2023 existiam 8.603 obras paralisadas. No ano anterior, o contingente de obras ativas somava 21.005.
 
 - [g1 · Fato ou Fake](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml#chunk-cdufm)
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-f38d01a5)
@@ -6794,7 +6788,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > barata, mais rápida e com menos desperdício. Eu vou fazer, de novo, eu vou investir muito aqui na concessão de rodovias, como fez o presidente Bolsonaro. Eu vou manter uma regra que ele colocou lá. Todas as concessões de rodovias que forem feitas no Brasil vão garantir que é pedágio zero para motociclistas. E muito mais do que isso,
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em agosto de 2021, o Ministério da Infraestrutura sob Jair Bolsonaro publicou uma portaria estabelecendo a isenção do pedágio para motocicletas em rodovias federais que já estavam em fase de licitação, ou seja, somente em novas concessões federais. A medida não valia para todas as rodovias federais, nem para as estaduais.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Em agosto de 2021, o Ministério da Infraestrutura sob Jair Bolsonaro publicou uma portaria estabelecendo a isenção do pedágio para motocicletas em rodovias federais que já estavam em fase de licitação, ou seja, somente em novas concessões federais. A medida não valia para todas as rodovias federais, nem para as estaduais.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-d87abeb2)
 
@@ -6806,7 +6800,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > eu vou investir e vou tratar a internet como infraestrutura. Como fez, como começou a fazer o presidente Bolsonaro. Nós instalamos mais de 21.300 pontos de internet em vários locais do Brasil, atingindo mais 3.100 cidades e abrangendo mais de 11 milhões, atendendo a mais de 11 milhões de brasileiros. Aonde, gente? Em escolas, em unidades de saúde. Nós vamos
 
-Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Apuração registrada no Quem Mentiu: Até dezembro de 2022, o governo havia instalado mais de 21,3 mil pontos de internet gratuita banda larga via satélite e por conexões terrestres, como registra o site mantido pelo do Comitê Gestor da Internet no Brasil. O Programa Wi-Fi Brasil, coordenado pelo Ministério das Comunicações, atingia 3,2 mil cidades no País na época.
+Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Até dezembro de 2022, o governo havia instalado mais de 21,3 mil pontos de internet gratuita banda larga via satélite e por conexões terrestres, como registra o site mantido pelo do Comitê Gestor da Internet no Brasil. O Programa Wi-Fi Brasil, coordenado pelo Ministério das Comunicações, atingia 3,2 mil cidades no País na época.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-19054f96)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#e2241f35-ba10-408c-bd48-78718851b025)
@@ -6819,7 +6813,7 @@ Locutor conforme fonte: Lula.
 
 > Nós estamos fazendo uma rodovia muito importante que ninguém teve coragem de fazer, que liga Porto Velho a Manaus, que é a BR 319.
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A BR-319 começou a ser construída em 1968, durante a Ditadura Militar (1964-1985), e foi inaugurada oficialmente em 1976, no governo Ernesto Geisel, já pavimentada, para ligar Manaus (AM) a Porto Velho (RO). Com a deterioração e falta de manutenção, tornou-se intrafegável em 1988. Logo, as intervenções posteriores são de recuperação e reconstrução de uma estrada existente.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. A BR-319 começou a ser construída em 1968, durante a Ditadura Militar (1964-1985), e foi inaugurada oficialmente em 1976, no governo Ernesto Geisel, já pavimentada, para ligar Manaus (AM) a Porto Velho (RO). Com a deterioração e falta de manutenção, tornou-se intrafegável em 1988. Logo, as intervenções posteriores são de recuperação e reconstrução de uma estrada existente.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#18f57250-9542-4551-91d7-b30e373fefb6)
@@ -6832,7 +6826,7 @@ Locutor conforme fonte: Lula.
 
 > Nós estamos fazendo a Transnordestina, a Fiol e a Fico. Não é que vão fazer, estamos fazendo. Nós estamos fazendo a
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há obras em andamento nas três ferrovias, embora nem todos os trechos estejam em execução ou sem problemas.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há obras em andamento nas três ferrovias, embora nem todos os trechos estejam em execução ou sem problemas.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#50146104-d34b-4103-9012-42b91abb2f39)
 
@@ -6844,7 +6838,7 @@ Locutor conforme fonte: Lula.
 
 > Florianópolis. Nós estamos investindo, aliás, o túnel de o túnel o o túnel de Santos, quem está colocando ele para fazer somos nós, tanto do orçamento quanto financiamento do BNDS.
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O governo federal não paga a obra sozinho. Dos R$ 6,8 bilhões estimados para a conclusão do túnel, R$ 5,1 bilhões virão de aportes públicos divididos igualmente entre a União e o Estado de São Paulo. O restante será coberto pela iniciativa privada. O governo do Estado de São Paulo tem reclamado de atrasos na liberação de empréstimos do Banco Nacional de Desenvolvimento Econômico e Social e do Banco do Brasil para investimentos na obra, como noticiou a CNN.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. O governo federal não paga a obra sozinho. Dos R$ 6,8 bilhões estimados para a conclusão do túnel, R$ 5,1 bilhões virão de aportes públicos divididos igualmente entre a União e o Estado de São Paulo. O restante será coberto pela iniciativa privada. O governo do Estado de São Paulo tem reclamado de atrasos na liberação de empréstimos do Banco Nacional de Desenvolvimento Econômico e Social e do Banco do Brasil para investimentos na obra, como noticiou a CNN.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-64817546)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#dc3d279a-0c33-49b5-aae5-8d9234b1c4f1)
@@ -6857,7 +6851,7 @@ Locutor conforme fonte: Lula.
 
 > Estamos fazendo o novo porto da nova Manaus.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão informa que as obras do novo Porto da Manaus Moderna já haviam começado na data da fala com investimento é de R$ 916 milhões
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão informa que as obras do novo Porto da Manaus Moderna já haviam começado na data da fala com investimento é de R$ 916 milhões
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#00132f45-7b0e-413d-af04-abbb36e75ab8)
 
@@ -6869,7 +6863,7 @@ Locutor conforme fonte: Lula.
 
 > Belo Horizonte, VLT no Rio de Janeiro, ou seja, todas as obras de infraestrutura, além de estar muito próximo de concluir a tão
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há obras complementares em estágio avançado.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há obras complementares em estágio avançado.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#1396c2f1-a665-41d3-a6e5-91f7a6da93f6)
 
@@ -6881,7 +6875,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > O seu poder de compra foi destruído pelo atual governo? Porque ele gasta tanto, ele joga a taxa de juro lá em cima e puxa a sua dívida junto. Lula, por que que você endividou o povo brasileiro desse jeito?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de aperto financeiro e de fatores fiscais que podem pressionar os juros, mas não de que os gastos governamentais expliquem todo esse aumento; além disso, o rendimento real médio cresceu, contrariando uma perda generalizada do poder de compra.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de aperto financeiro e de fatores fiscais que podem pressionar os juros, mas não de que os gastos governamentais expliquem todo esse aumento; além disso, o rendimento real médio cresceu, contrariando uma perda generalizada do poder de compra.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#07eaac12-e366-4cf3-8b58-d61809626ded)
 
@@ -6893,7 +6887,7 @@ Locutor conforme fonte: Lula.
 
 > >> Por conta do seu pai e do Temer que não aumentaram, seria 900 reais. Eu vou repetir Se não fosse os governos do PT aumentar o salário mínimo acima da inflação, colocando o PIB no orçamento, o salário mínimo teria apenas 900 reais.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A valorização real do salário mínimo nos governos petistas é sustentada, mas os R$ 900 para 2026 não são confirmados, e a afirmação sobre Temer e Bolsonaro ignora o ganho real de 2019.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A valorização real do salário mínimo nos governos petistas é sustentada, mas os R$ 900 para 2026 não são confirmados, e a afirmação sobre Temer e Bolsonaro ignora o ganho real de 2019.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#ac9cefdf-da25-48e2-bd2c-61c5e62c5639)
 
@@ -6905,7 +6899,7 @@ Locutor conforme fonte: Lula.
 
 > Porque eu disse que como nós aprovamos o fim das carências por um, os trabalhadores vão ter dois dias para ficar em casa, é justo que a gente possa
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que a medida já havia sido aprovada e promulgada na data da fala; a aplicação dos dois dias de descanso começaria posteriormente.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que a medida já havia sido aprovada e promulgada na data da fala; a aplicação dos dois dias de descanso começaria posteriormente.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#29a94b88-d9ce-441d-ab6c-a59b12fce760)
 
@@ -6917,7 +6911,7 @@ Locutor conforme fonte: Lula.
 
 > nem sempre tem o recurso. Então, nós propusemos tarifa zero para os trabalhadores no final de semana.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório afirma que Lula propôs tarifa zero nos fins de semana e que a medida ainda dependia de aprovação parlamentar.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório afirma que Lula propôs tarifa zero nos fins de semana e que a medida ainda dependia de aprovação parlamentar.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#ac587339-51ff-4621-9493-8df1832e0c44)
 
@@ -6929,7 +6923,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > >> Bom candidato, eu sou a favor da tarifa zero para os ônibus nos finais de semana. Sou super a favor disso. Eu acho que o trabalhador, você que não usa as suas horas de lazer, merece sim ter o transporte gratuito. Agora, não adianta
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Flávio Bolsonaro (PL) criticou e se opôs à proposta do presidente Luiz Inácio Lula da Silva (PT) de implementar a tarifa zero no transporte público aos fins de semana
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Flávio Bolsonaro (PL) criticou e se opôs à proposta do presidente Luiz Inácio Lula da Silva (PT) de implementar a tarifa zero no transporte público aos fins de semana
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -6941,7 +6935,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > contribuinte. Você implementou a carga tributária mais alta desse país na história. Até agora, com a reforma tributária, ninguém sabe quanto vai ser o valor do imposto de valor agregado, o IVA, que é o novo imposto que ele vai começar a cobrar a partir do ano que vem. Estima-se que seja de
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A carga tributária bruta do governo geral (governo central, Estados e municípios) cresceu de 32,22% para 32,40% do Produto Interno Bruto (PIB), entre 2024 e 2025. As estimativas são do Tesouro Nacional e indicam o maior nível da série histórica disponibilizada pelo órgão, que vai de 2010 até o ano passado. Conforme mostrou o Estadão (aqui), o aumento geral foi puxado pelo governo central, que teve crescimento de 21,34% para 21,60% do PIB na carga tributária bruta, uma alta de 0,26 ponto percentual.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. A carga tributária bruta do governo geral (governo central, Estados e municípios) cresceu de 32,22% para 32,40% do Produto Interno Bruto (PIB), entre 2024 e 2025. As estimativas são do Tesouro Nacional e indicam o maior nível da série histórica disponibilizada pelo órgão, que vai de 2010 até o ano passado. Conforme mostrou o Estadão (aqui), o aumento geral foi puxado pelo governo central, que teve crescimento de 21,34% para 21,60% do PIB na carga tributária bruta, uma alta de 0,26 ponto percentual.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-a689d452)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#173ced32-d3e7-428c-827d-3855756be914)
@@ -6954,7 +6948,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > tributária, ninguém sabe quanto vai ser o valor do imposto de valor agregado, o IVA, que é o novo imposto que ele vai começar a cobrar a partir do ano que vem. Estima-se que seja de
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A estimativa de 27,91% respalda o arredondamento para 28%, mas não representa uma alíquota definitiva nem a cobrança integral em 2027.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A estimativa de 27,91% respalda o arredondamento para 28%, mas não representa uma alíquota definitiva nem a cobrança integral em 2027.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#ecbfd226-5dd0-44d4-b6d5-d7919653181c)
 
@@ -6966,7 +6960,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > falando qual é a alíquota. Sabe por que ele não fez? Porque vai ser o maior IVA do mundo. O brasileiro vai pagar o maior
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A projeção sustenta que o IVA brasileiro poderá ser o mais alto, mas a alíquota final e sua posição mundial ainda não estão confirmadas.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A projeção sustenta que o IVA brasileiro poderá ser o mais alto, mas a alíquota final e sua posição mundial ainda não estão confirmadas.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#74ea3ed6-3a70-4a7d-86d2-a97fc7975c0c)
 
@@ -6978,7 +6972,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > do mundo. O brasileiro vai pagar o maior imposto do mundo na era Lula. Eu sei o
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há fundamento para dizer que o Brasil poderá ter a maior alíquota-padrão de IVA, mas a taxa ainda não está definida, sua implantação completa será em 2033 e ela não se aplicará indistintamente a todos.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há fundamento para dizer que o Brasil poderá ter a maior alíquota-padrão de IVA, mas a taxa ainda não está definida, sua implantação completa será em 2033 e ela não se aplicará indistintamente a todos.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#bbd69792-b8b2-4bf3-a40f-4a0d1bcf1e9a)
 
@@ -6990,7 +6984,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Bolsonaro que deu no mínimo 600 reais e você conseguia encher um carrinho de compra. Hoje os 600 reais não enche mais o carrinho. Você sabe porque que não enche? Por causa desse governo. Porque
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os dados sustentam a perda de poder de compra dos mesmos R$ 600, mas o benefício já havia sido reajustado para R$ 691, e a afirmação literal sobre encher um carrinho não pode ser confirmada sem especificar produtos, quantidades e local.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os dados sustentam a perda de poder de compra dos mesmos R$ 600, mas o benefício já havia sido reajustado para R$ 691, e a afirmação literal sobre encher um carrinho não pode ser confirmada sem especificar produtos, quantidades e local.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#08b5d472-8a1d-43a0-9301-4013e24a65c1)
 
@@ -7002,7 +6996,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > enche? Por causa desse governo. Porque como ele gasta muito mais do que ele arrecada e ele precisa aumentar impostos para cobrir o que ele tá gastando, tirando o dinheiro do seu bolso. Sabe
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há respaldo para afirmar que o governo tem déficit e elevou impostos para reforçar as contas públicas, mas isso não torna o aumento de tributos uma consequência inevitável dos gastos.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há respaldo para afirmar que o governo tem déficit e elevou impostos para reforçar as contas públicas, mas isso não torna o aumento de tributos uma consequência inevitável dos gastos.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#a91038a3-8f7a-4922-8baa-b283bef219d7)
 
@@ -7014,7 +7008,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > força. Nós temos uma das maiores taxas de juros do mundo. É a mesma taxa que
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Brasil tem a maior taxa de juros real do mundo, de 9,3%, segundo levantamento feito pela MoneYou e pela Lev Intelligence divulgado em setembro deste ano. O juro real é formado pela taxa de juros nominal subtraída da inflação. Considerando os juros nominais, que não descontam a inflação, o Brasil ocupa a terceira posição no ranking.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. O Brasil tem a maior taxa de juros real do mundo, de 9,3%, segundo levantamento feito pela MoneYou e pela Lev Intelligence divulgado em setembro deste ano. O juro real é formado pela taxa de juros nominal subtraída da inflação. Considerando os juros nominais, que não descontam a inflação, o Brasil ocupa a terceira posição no ranking.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-c191dd63)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#ff67989e-62dc-4ca1-8500-45dacdab5bc9)
@@ -7027,7 +7021,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > de juros do mundo. É a mesma taxa que reajusta a sua dívida. Sim. A dívida que você tá devendo pro banco ela é atrelada a essa taxa de juro oficial e é por isso
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Selic influencia os juros de empréstimos e financiamentos, mas não reajusta automaticamente toda dívida já contratada; isso depende das condições do contrato.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Selic influencia os juros de empréstimos e financiamentos, mas não reajusta automaticamente toda dívida já contratada; isso depende das condições do contrato.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#6cd2ba24-6890-49b0-8d5d-5d7ebb114758)
 
@@ -7039,7 +7033,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > uma caixa de ovo, uma dúzia de ovos com 10 ovos. A dúzia virou 10. É por isso que você
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de embalagens de dez ovos, mas não de caixas anunciadas como dúzia contendo apenas dez.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de embalagens de dez ovos, mas não de caixas anunciadas como dúzia contendo apenas dez.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#adae73de-6334-4bcb-b0d0-280da43e44cf)
 
@@ -7051,7 +7045,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > A dúzia virou 10. É por isso que você chega lá, tem um sabão em pó de 1 kg que na verdade era de 1 kg, agora é de 800 gramas que rende 1 kg. Sabe por quê?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A redução de 1 kg para 800 g está documentada; a mudança ocorreu em 2019, não em 2026. A inflação de alimentos acumulada durante o governo de Jair Bolsonaro é quase três vezes maior do que a observada entre o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), em janeiro de 2023, e setembro de 2026, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE)
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A redução de 1 kg para 800 g está documentada; a mudança ocorreu em 2019, não em 2026. A inflação de alimentos acumulada durante o governo de Jair Bolsonaro é quase três vezes maior do que a observada entre o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), em janeiro de 2023, e setembro de 2026, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#196245a5-8e9e-4f5c-bb02-f85cd1255b96)
 
@@ -7063,7 +7057,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Porque as indústrias tem que reduzir a quantidade de mercadoria que elas estão colocando nas embalagens. A barra de chocolate que antes tinha 120 gramas agora tem só 80. O rolo de papel
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Desde 2022, algumas barras de chocolate já eram comercializadas em embalagens de 80 gramas. Na época, o Jair Bolsonaro (PL) era presidente do país.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Desde 2022, algumas barras de chocolate já eram comercializadas em embalagens de 80 gramas. Na época, o Jair Bolsonaro (PL) era presidente do país.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 
@@ -7075,7 +7069,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > agora tem só 80. O rolo de papel higiênico que só tinha 40 metros hoje
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há histórico de redução da metragem de rolos, mas a Reduflação vem acontecendo antes do governo do candidato Lula.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há histórico de redução da metragem de rolos, mas a Reduflação vem acontecendo antes do governo do candidato Lula.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#35232d78-f20b-4dcf-b2bf-a935b51c33c4)
 
@@ -7087,7 +7081,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > >> A região Centro-Oeste é a região que mais produz alimentos no nosso Brasil.
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Centro-Oeste registra o maior Valor Bruto da Produção Agropecuária (VBP) entre as regiões brasileiras, com estimativa de R$ 431,2 bilhões, conforme o Ministério da Agricultura e Pecuária, em boletim divulgado nesta sexta-feira (23).
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. O Centro-Oeste registra o maior Valor Bruto da Produção Agropecuária (VBP) entre as regiões brasileiras, com estimativa de R$ 431,2 bilhões, conforme o Ministério da Agricultura e Pecuária, em boletim divulgado nesta sexta-feira (23).
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#2cecebc6-c0fb-443a-aeec-ac5f42221e56)
@@ -7100,7 +7094,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > sufocado, tá intimidado, não consegue tomar crédito porque tá muito caro. Lula, por que que você trata o agro com tanta raiva? Por que você humilha tantas pessoas que produzem alimento no nosso país? Você diz que as pessoas têm que se ajoelhar aos seus pés. Por que tanta arrogância? Por que tanta petulância, Lula? Por que você chama o agro de fascista?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de crédito caro e dificuldades para parte dos produtores, mas também de contratações expressivas; isso não sustenta uma impossibilidade generalizada de obter financiamento.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de crédito caro e dificuldades para parte dos produtores, mas também de contratações expressivas; isso não sustenta uma impossibilidade generalizada de obter financiamento.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#3c92740e-054e-46e6-afff-05e50bd934a5)
 
@@ -7112,7 +7106,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > arrogância? Por que tanta petulância, Lula? Por que você chama o agro de fascista?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Em entrevista ao Jornal Nacional, em 25/08/2022, Lula utilizou a expressão 'agronegócio fascista e direitista' para se referir ao agro que não defende preservação ambiental mesmo que em seu governo, no Plano Safra 2024/2025, Lula tenha destinado impressionantes R$ 476 bilhões ao setor, somando os recursos para grandes produtores e agricultura familiar — o maior montante já registrado na história do programa.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Em entrevista ao Jornal Nacional, em 25/08/2022, Lula utilizou a expressão 'agronegócio fascista e direitista' para se referir ao agro que não defende preservação ambiental mesmo que em seu governo, no Plano Safra 2024/2025, Lula tenha destinado impressionantes R$ 476 bilhões ao setor, somando os recursos para grandes produtores e agricultura familiar — o maior montante já registrado na história do programa.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7124,7 +7118,7 @@ Locutor conforme fonte: Lula.
 
 > Então, é o seguinte, nunca se exportou tanto nesse país.
 
-Classificação reaproveitada de Lupa, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Brasil registrou em 2025 o maior valor anual de exportações da série histórica, iniciada em 1997. Os dados consolidados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços apontam US$ 348,3 bilhões em exportações naquele ano, acima dos US$ 339,7 bilhões de 2023, recorde anterior. O resultado representa crescimento de 3,3% sobre 2024.
+Classificação reaproveitada de Lupa, Estadão Verifica. Esta importação não representa uma nova apuração independente. O Brasil registrou em 2025 o maior valor anual de exportações da série histórica, iniciada em 1997. Os dados consolidados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços apontam US$ 348,3 bilhões em exportações naquele ano, acima dos US$ 339,7 bilhões de 2023, recorde anterior. O resultado representa crescimento de 3,3% sobre 2024.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-f2a5f286)
@@ -7137,7 +7131,7 @@ Locutor conforme fonte: Lula.
 
 > abrimos 700 novos mercados nesse país
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Este mês, o Ministério da Agricultura e Pecuária anunciou que atingiu o marco da abertura de 700 novos mercados para produtos agropecuários brasileiros desde o início de 2023, primeiro ano do atual mandato de Lula. De acordo com o governo, as aberturas ocorreram em 99 destinos, entre países e blocos econômicos, após autorizações sanitárias para a entrada de produtos brasileiros.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Este mês, o Ministério da Agricultura e Pecuária anunciou que atingiu o marco da abertura de 700 novos mercados para produtos agropecuários brasileiros desde o início de 2023, primeiro ano do atual mandato de Lula. De acordo com o governo, as aberturas ocorreram em 99 destinos, entre países e blocos econômicos, após autorizações sanitárias para a entrada de produtos brasileiros.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#d0ce8467-94ab-414c-962f-28423cd8376a)
@@ -7150,7 +7144,7 @@ Locutor conforme fonte: Lula.
 
 > 10,5. E é por isso que o nosso superávit comercial foi para quase 85 [limpando a garganta] bilhões de reais.
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Lula confundiu a moeda e apresentou uma projeção como resultado já alcançado. Os “quase 85 bilhões” mencionados correspondem à estimativa de US$ 84,4 bilhões para o superávit da balança comercial brasileira de todo o ano de 2026, divulgada pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), em 6 de outubro deste ano. Ou seja, o valor é em dólares, e não em reais.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Lula confundiu a moeda e apresentou uma projeção como resultado já alcançado. Os “quase 85 bilhões” mencionados correspondem à estimativa de US$ 84,4 bilhões para o superávit da balança comercial brasileira de todo o ano de 2026, divulgada pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), em 6 de outubro deste ano. Ou seja, o valor é em dólares, e não em reais.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#97f2a3ed-c0ae-4f48-938a-2246beed1851)
@@ -7163,7 +7157,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > junto com o presidente Jair Bolsonaro. Eu sou advogado, sou empresário, sou pós-graduado em políticas públicas e de governo, sou pós-graduado em empreendedorismo e novos negócios. Eu
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A formação em Direito e as especializações mencionadas são sustentadas, mas o mestrado em Gestão Pública não foi comprovado.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A formação em Direito e as especializações mencionadas são sustentadas, mas o mestrado em Gestão Pública não foi comprovado.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#a240d1bd-dc9d-4fe2-b437-dd671365d565)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -7176,7 +7170,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > um financiamento para comprar semente para plantar, para poder comprar maquinário, para poder investir no seu negócio, para poder comprar animal, fica é simplesmente impossível, é tanta burocracia, Lula, e o dinheiro que você coloca não é suficiente,
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de dificuldades para obter financiamento, mas os dados de crédito concedido não sustentam que seja impossível de forma generalizada.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de dificuldades para obter financiamento, mas os dados de crédito concedido não sustentam que seja impossível de forma generalizada.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#837e6cc9-e86f-4910-9eff-5bfb0b5a3a40)
 
@@ -7188,7 +7182,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > tanto é que não consegue os não consegue tomar o financiamento dando que você coloca no Plano Safra de garantia, que o juro real chega fica próximo de 20%. É impossível você plantar e produzir nesse Brasil com uma taxa de juro tão alta.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há respaldo para taxas nominais de 18% a 20% ao ano em alguns financiamentos com critérios específicos, o que não comprova juros reais próximos de 20% nem caracteriza as linhas subsidiadas.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há respaldo para taxas nominais de 18% a 20% ao ano em alguns financiamentos com critérios específicos, o que não comprova juros reais próximos de 20% nem caracteriza as linhas subsidiadas.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#ece86af7-c8cd-4292-ae31-7252c0880c87)
 
@@ -7200,7 +7194,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > dinheiro lá, vou aprovar, sancionar a lei garantindo que esse dinheiro não possa ser contingenciado, porque tem mais essa, você ainda contingencia os recursos do seguro rural e do e do do Plano Safra, inclusive para os agricultores familiares. Eu quero falar
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Houve restrições históricas à subvenção e a linhas do Pronaf, mas as informações apresentadas não demonstram que continuassem na data do debate; além disso, uma lei posterior tornou a subvenção despesa obrigatória.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Houve restrições históricas à subvenção e a linhas do Pronaf, mas as informações apresentadas não demonstram que continuassem na data do debate; além disso, uma lei posterior tornou a subvenção despesa obrigatória.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#24116f14-1fba-4183-8426-1b9bb8d28995)
 
@@ -7212,7 +7206,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > atual governo, liberou geral nas fronteiras, está aí, voltou a criminalidade com força, as rotas de tráfico de armas, drogas continuam.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os fatos mostram que o Governo Lula fortaleceu o combate ao tráfico, bateu recordes em apreensão de drogas e reduziu os crimes graves.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os fatos mostram que o Governo Lula fortaleceu o combate ao tráfico, bateu recordes em apreensão de drogas e reduziu os crimes graves.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#86ac043c-8dfa-448d-9ac1-c29d49191762)
 
@@ -7224,7 +7218,7 @@ Locutor conforme fonte: Lula.
 
 > recursos, muito mais financiamento, não apenas do governo, mas do BNDS, do Banco do Brasil. Ele precisa saber que o juro que esses bancos pagam na agricultura não é a taxa Selic.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As taxas do Pronaf citadas são específicas e não correspondem automaticamente à Selic; isso não significa que todo financiamento agrícola seja subsidiado.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As taxas do Pronaf citadas são específicas e não correspondem automaticamente à Selic; isso não significa que todo financiamento agrícola seja subsidiado.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#08229ce8-6be2-4f4b-a84e-6f1b9a37deed)
 
@@ -7236,7 +7230,7 @@ Locutor conforme fonte: Lula.
 
 > Para o que acontece, eu tenho que eu tinha acabado com a fome neste país em 2012.
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em 2014, não em 2012, o relatório da Organização das Nações Unidas para Alimentação e Agricultura (FAO) indicou que o Brasil tinha saído do Mapa da Fome. Isso não significa, contudo, que a fome tinha sido 100% erradicada.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Em 2014, não em 2012, o relatório da Organização das Nações Unidas para Alimentação e Agricultura (FAO) indicou que o Brasil tinha saído do Mapa da Fome. Isso não significa, contudo, que a fome tinha sido 100% erradicada.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 
@@ -7248,7 +7242,7 @@ Locutor conforme fonte: Lula.
 
 > Para o que acontece, eu tenho que eu tinha acabado com a fome neste país em 2012. Eu voltei em 2023 com 33.000 pessoas passando fome. Ele se importa com isso? Não.
 
-Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Apuração registrada no Quem Mentiu: O “II Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid-19 no Brasil”, produzido pela Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede Penssan) e divulgado em junho de 2022, apontou que 33,1 milhões enfrentavam insegurança alimentar grave, condição caracterizada pela fome. O levantamento também mostrou que 125,2 milhões de pessoas viviam em algum grau de insegurança alimentar.
+Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. O “II Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid-19 no Brasil”, produzido pela Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede Penssan) e divulgado em junho de 2022, apontou que 33,1 milhões enfrentavam insegurança alimentar grave, condição caracterizada pela fome. O levantamento também mostrou que 125,2 milhões de pessoas viviam em algum grau de insegurança alimentar.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 
@@ -7260,7 +7254,7 @@ Locutor conforme fonte: Lula.
 
 > Porque na Argentina a pobreza chegou a 40% e o povo está comendo carne de burro
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Dados do Instituto Nacional de Estadísticas y Censo (Indec), publicados em setembro de 2024 — primeiro ano de Javier Milei à frente da Casa Rosada —, mostraram que a pobreza havia alcançado 52,4% da população no primeiro semestre daquele ano. Na segunda metade, a taxa caiu para 38%.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Dados do Instituto Nacional de Estadísticas y Censo (Indec), publicados em setembro de 2024 — primeiro ano de Javier Milei à frente da Casa Rosada —, mostraram que a pobreza havia alcançado 52,4% da população no primeiro semestre daquele ano. Na segunda metade, a taxa caiu para 38%.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#983dcf91-4794-4068-a8f3-4255d78fd5b6)
@@ -7275,7 +7269,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > aposentadoria acima da inflação. Eu não vou privatizar Banco do Brasil, Caixa e Petrobras. São essas as fake news que ele tá contando. Ele nem lembra a última vez que ele foi no mercado, porque ele mora num palácio de luxo agora. Então ele não sabe como é que a comida tá cara, ele tá achando que tá barato, que
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O presidente Luiz Inácio Lula da Silva reside no Palácio da Alvorada, que é a residência oficial dos chefes de Estado do Brasil. O Alvorada é um patrimônio público e histórico da União, inaugurado em 1958 durante o governo de Juscelino Kubitschek. Ele não pertence a nenhum presidente em caráter pessoal: trata-se do mesmo local onde moraram praticamente todos os ex-presidentes da República, incluindo Jair Bolsonaro, que viveu no palácio com sua família de 2019 a 2022 durante todo o seu mandato.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O presidente Luiz Inácio Lula da Silva reside no Palácio da Alvorada, que é a residência oficial dos chefes de Estado do Brasil. O Alvorada é um patrimônio público e histórico da União, inaugurado em 1958 durante o governo de Juscelino Kubitschek. Ele não pertence a nenhum presidente em caráter pessoal: trata-se do mesmo local onde moraram praticamente todos os ex-presidentes da República, incluindo Jair Bolsonaro, que viveu no palácio com sua família de 2019 a 2022 durante todo o seu mandato.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#543690d7-5d24-4882-af69-fbd86f21a9e0)
@@ -7288,7 +7282,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > lá na Argentina, a esquerda governou por 20 anos. Vocês destruíram a Argentina.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação de que a esquerda governou a Argentina por 20 anos ignora o mandato de Mauricio Macri, presidente de centro-direita. Na história recente do país (no recorte de 2003 a 2023), o espectro político de centro-esquerda, representado pelo Kirchnerismo e pelo peronismo, esteve no poder por 16 anos, e não de forma ininterrupta.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação de que a esquerda governou a Argentina por 20 anos ignora o mandato de Mauricio Macri, presidente de centro-direita. Na história recente do país (no recorte de 2003 a 2023), o espectro político de centro-esquerda, representado pelo Kirchnerismo e pelo peronismo, esteve no poder por 16 anos, e não de forma ininterrupta.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#fd950e66-97e9-4df0-a9b2-ec72666832b7)
@@ -7302,7 +7296,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > O Milei começou um governo com 211% de inflação.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O acumulado de 211,4% corresponde ao ano de 2023 até dezembro, não à inflação no momento da posse de Milei; em novembro, a inflação em 12 meses era de 160,9%.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O acumulado de 211,4% corresponde ao ano de 2023 até dezembro, não à inflação no momento da posse de Milei; em novembro, a inflação em 12 meses era de 160,9%.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#819918d4-a7b6-4cf7-912c-e2bc2ebc2afc)
 
@@ -7314,7 +7308,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Você pegou quatro Você já gastou mais de 400 bilhões de reais pra tentar se reeleger.
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Os gastos do governo federal com medidas de impacto orçamentário durante o ano eleitoral somam R$ 405 bilhões, segundo ferramenta do jornal Estado de S. Paulo.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Os gastos do governo federal com medidas de impacto orçamentário durante o ano eleitoral somam R$ 405 bilhões, segundo ferramenta do jornal Estado de S. Paulo.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -7330,7 +7324,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > O Lula, você não tem vergonha de deixar o país quebrado desse jeito não?
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em agosto de 2026, a dívida bruta do governo geral do Brasil — que inclui governo federal, INSS, governos estaduais e municipais — atingiu R$ 11,1 trilhões, o que corresponde a 82,9% do Produto Interno Bruto (PIB), segundo dados oficiais divulgados pelo Banco Central do Brasil. É o maior nível desde 2021, durante a pandemia de Covid-19. No entanto, isso não quer dizer que o país está “quebrado”, já que o país registra índices econômicos positivos.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Em agosto de 2026, a dívida bruta do governo geral do Brasil — que inclui governo federal, INSS, governos estaduais e municipais — atingiu R$ 11,1 trilhões, o que corresponde a 82,9% do Produto Interno Bruto (PIB), segundo dados oficiais divulgados pelo Banco Central do Brasil. É o maior nível desde 2021, durante a pandemia de Covid-19. No entanto, isso não quer dizer que o país está “quebrado”, já que o país registra índices econômicos positivos.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 
@@ -7342,7 +7336,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > nem 30% do que ele prometeu que ia entregar. Eu fui a essa Arandi junto com o prefeito de Porto Alegre, conheci a realidade da cidade que ficou embaixo d'água. Casas até o segundo andar embaixo d'água, pessoas que perderam tudo e foram abandonadas por você, Lula.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que reportagens da Folha e da GZH confirmam a visita de Flávio Bolsonaro ao bairro Sarandi, acompanhado do prefeito Sebastião Melo.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que reportagens da Folha e da GZH confirmam a visita de Flávio Bolsonaro ao bairro Sarandi, acompanhado do prefeito Sebastião Melo.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#f410ae67-e7d9-4995-bfdf-99f5066968e3)
 
@@ -7354,7 +7348,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > nem 30% do que ele prometeu que ia entregar. Eu fui a essa Arandi junto com o prefeito de Porto Alegre, conheci a realidade da cidade que ficou embaixo d'água. Casas até o segundo andar embaixo d'água, pessoas que perderam tudo e foram abandonadas por você, Lula.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é falsa: diante das enchentes históricas que atingiram o Rio Grande do Sul em maio de 2024, o governo federal executou uma das maiores mobilizações orçamentárias e logísticas de resposta a desastres da história do país. A atuação incluiu a criação de uma secretaria extraordinária para apoiar o estado, o envio imediato das Forças Armadas e da Força Nacional do SUS para resgates, a suspensão do pagamento e abatimento dos juros da dívida do estado com a União, além da liberação de pacotes que ultrapassaram R$ 100 bilhões entre socorro a fundo perdido, crédito subsidiado a empresas e produtores e programas diretos como o Auxílio…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é falsa: diante das enchentes históricas que atingiram o Rio Grande do Sul em maio de 2024, o governo federal executou uma das maiores mobilizações orçamentárias e logísticas de resposta a desastres da história do país. A atuação incluiu a criação de uma secretaria extraordinária para apoiar o estado, o envio imediato das Forças Armadas e da Força Nacional do SUS para resgates, a suspensão do pagamento e abatimento dos juros da dívida do estado com a União, além da liberação de pacotes que ultrapassaram R$ 100 bilhões entre socorro a fundo perdido, crédito subsidiado a empresas e produtores e programas diretos como o Auxílio…
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -7370,7 +7364,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > estar junto, Moro, para combater essa rota de tráfico de armas e drogas, por exemplo, que passa pelo porto de Paranaguá. A gente vai botar a marinha lá com a sua tropa de elite para a
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório apresenta evidências de tráfico de drogas e armas envolvendo o Porto de Paranaguá; a ressalva sobre a tropa de elite diz respeito a uma proposta futura.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório apresenta evidências de tráfico de drogas e armas envolvendo o Porto de Paranaguá; a ressalva sobre a tropa de elite diz respeito a uma proposta futura.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#a7e1779f-cbaa-4d5e-a3a7-baef0804e52b)
 
@@ -7382,7 +7376,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > E nós fizemos o marco legal do saneamento básico. Porque hoje tem
 
-As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Apuração registrada no Quem Mentiu: O novo marco legal do saneamento, sancionado em 2020, é oriundo do projeto de lei (PL) 4.162/2019, de autoria do Executivo, ou seja, foi apresentado pelo ex-presidente Jair Bolsonaro (PL) no primeiro ano de seu mandato. Entre outros pontos, o texto prevê a universalização dos serviços de água e esgoto no Brasil. Embora seja chamado de “marco legal”, o país já contava com uma lei específica que determinava as diretrizes nacionais para o setor, a Lei nº 11.445, de 5 de janeiro de 2007. O projeto da gestão de Bolsonaro revisou a legislação anterior e estabeleceu metas de atendimento de 99% da população com água potável e de 90% da população com…
+As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. O novo marco legal do saneamento, sancionado em 2020, é oriundo do projeto de lei (PL) 4.162/2019, de autoria do Executivo, ou seja, foi apresentado pelo ex-presidente Jair Bolsonaro (PL) no primeiro ano de seu mandato. Entre outros pontos, o texto prevê a universalização dos serviços de água e esgoto no Brasil. Embora seja chamado de “marco legal”, o país já contava com uma lei específica que determinava as diretrizes nacionais para o setor, a Lei nº 11.445, de 5 de janeiro de 2007. O projeto da gestão de Bolsonaro revisou a legislação anterior e estabeleceu metas de atendimento de 99% da população com água potável e de 90% da população com…
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [g1 · Fato ou Fake](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml#chunk-4tacg)
@@ -7399,7 +7393,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > houvesse o investimento e até 2033 nós pudéssemos garantir que mais de 90% dos brasileiros tivessem acesso a esses dois bens básicos. Sabe quem votou contra isso lá no Congresso Nacional? A bancada do PT. Lula, por que que vocês
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A bancada do PT orientou voto contrário ao projeto na Câmara, e os seis senadores do partido também votaram contra no Senado.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A bancada do PT orientou voto contrário ao projeto na Câmara, e os seis senadores do partido também votaram contra no Senado.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#f5635f0d-840f-4c1c-88df-809850cd3ba4)
 
@@ -7411,7 +7405,7 @@ Locutor conforme fonte: Lula.
 
 > quando o pai dele apareceu na televisão rindo e imitando a pessoa morrendo asfixiada porque não tinha oxigênio.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A imitação de uma pessoa com falta de ar foi registrada durante live na internet do então presidente, Jair Bolsonaro, ainda durante pandemia de COVID-19
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A imitação de uma pessoa com falta de ar foi registrada durante live na internet do então presidente, Jair Bolsonaro, ainda durante pandemia de COVID-19
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#ed40aee4-09a1-4652-86b1-c68328786f99)
 
@@ -7423,7 +7417,7 @@ Locutor conforme fonte: Lula.
 
 > Quando você não souber, Flávio, pergunta para o Google tudo que nós fizemos no Amazonas nesses últimos 24 anos. Você vai perceber que foi mais investimento na internet, mais mais mais investimento em saúde, mais investimento em portos, mais investimento em aeroportos, mais investimento em estradas. É só perguntar
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão apresenta registros de investimentos nas quatro áreas na Amazônia no período indicado.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão apresenta registros de investimentos nas quatro áreas na Amazônia no período indicado.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#439412a3-a971-4353-8b15-60641ff4936c)
 
@@ -7435,7 +7429,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > a ter essa essa meta de entrega de mais de 90% pra população até 2033, porque por causa do atual governo essa meta já foi pra depois de 2050.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A meta legal permanece para 2033; a extensão excepcional até 2040 já estava prevista desde 2020.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A meta legal permanece para 2033; a extensão excepcional até 2040 já estava prevista desde 2020.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#99c532a4-cd7c-409f-90aa-6d961bd2e00a)
 
@@ -7447,7 +7441,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > eh que também fica ali, mora às margens da Transamazônica, que ele também nos faltou. A Transamazônica tá lá aberta, a estrada de terra cortada, mas por causa de dos órgãos ambientais do atual governo, simplesmente eles inviabilizam que se asfalte, você fica aí no lamaçal quando chove, você fica desconectado do país quando chove, os caminhões ficam, ficam atolados. Eu vou garantir que você vai
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não, a atuação dos órgãos ambientais não é o único e nem o principal motivo pelo qual a Rodovia Transamazônica (BR-230) não é totalmente asfaltada. A falta de pavimentação completa decorre de uma combinação complexa de desafios técnicos, geográficos, financeiros e de planejamento, que persistem desde a sua construção na década de 1970
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não, a atuação dos órgãos ambientais não é o único e nem o principal motivo pelo qual a Rodovia Transamazônica (BR-230) não é totalmente asfaltada. A falta de pavimentação completa decorre de uma combinação complexa de desafios técnicos, geográficos, financeiros e de planejamento, que persistem desde a sua construção na década de 1970
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7459,7 +7453,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > você que é de Manaus, você que é do Amazonas, melhor dizendo, a Zona Franca é sagrada, tá garantida. Eu vou fazer é ampliar ainda mais, porque o Brasil hoje tem um grande, é um grande tem um grande celeiro de oportunidades para o mundo, para que existam investimentos aqui, por exemplo, em data centers. Eu vou também trabalhar para que isso vá para a Zona Franca de Manaus. O gás que existe também em
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Durante a votação da Reforma Tributária em 2023, Flávio apresentou emendas para limitar as vantagens constitucionais concedidas à região amazônica — alegando na ocasião o risco de "migração predatória" de empresas do restante do país para Manaus gerando desemprego em outros estados —, além de ter apoiado publicamente as medidas do governo Jair Bolsonaro (como os decretos que cortaram o IPI nacional em até 35%, decisão que desidratava os incentivos da ZFM e que acabou travada pelo STF). Fontes: Amazonas Atual – Contrário à ZFM, Flávio Bolsonaro diz em Manaus que a Zona Franca é 'sagrada' | Revista Fórum – Flávio pediu retirada de benefícios…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Durante a votação da Reforma Tributária em 2023, Flávio apresentou emendas para limitar as vantagens constitucionais concedidas à região amazônica — alegando na ocasião o risco de "migração predatória" de empresas do restante do país para Manaus gerando desemprego em outros estados —, além de ter apoiado publicamente as medidas do governo Jair Bolsonaro (como os decretos que cortaram o IPI nacional em até 35%, decisão que desidratava os incentivos da ZFM e que acabou travada pelo STF). Fontes: Amazonas Atual – Contrário à ZFM, Flávio Bolsonaro diz em Manaus que a Zona Franca é 'sagrada' | Revista Fórum – Flávio pediu retirada de benefícios…
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7471,7 +7465,7 @@ Locutor conforme fonte: Lula.
 
 > Porque é tudo contrário o que eles fizeram no governo. Vocês tão lembrados que eles tinham um secretário do ministro do meio ambiente que dizia que era preciso abrir a porteira passar em, por cima de tudo e não atendeu os indígenas, atendeu os quilombolas, fez aquilo de fazer
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O ex-ministro do Meio Ambiente era Ricardo Salles, que ficou conhecido pela frase 'ir passando a boiada' dita em uma reunião ministerial em 22 de abril de 2020. Na reunião gravada e divulgada por decisão do Supremo Tribunal Federal (STF), ele defendeu aproveitar o foco da imprensa na pandemia de COVID-19 para 'ir passando a boiada e mudando todo o regramento e simplificando normas' ambientais.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O ex-ministro do Meio Ambiente era Ricardo Salles, que ficou conhecido pela frase 'ir passando a boiada' dita em uma reunião ministerial em 22 de abril de 2020. Na reunião gravada e divulgada por decisão do Supremo Tribunal Federal (STF), ele defendeu aproveitar o foco da imprensa na pandemia de COVID-19 para 'ir passando a boiada e mudando todo o regramento e simplificando normas' ambientais.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7483,7 +7477,7 @@ Locutor conforme fonte: Lula.
 
 > Se ele conhecesse ele sabia que hoje a economia verde pode trazer muito mais dinheiro com a floresta em pé do que com a floresta caída. Pode trazer muito mais dinheiro do que plantar capim ou criar gado.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Sim, a economia verde já consegue superar o faturamento da pecuária convencional e das culturas tradicionais em vários cenários rurais do Brasil. A grande mudança está no fato de que atividades sustentáveis deixaram de ser apenas 'preservação' e se transformaram em negócios de alto rendimento.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Sim, a economia verde já consegue superar o faturamento da pecuária convencional e das culturas tradicionais em vários cenários rurais do Brasil. A grande mudança está no fato de que atividades sustentáveis deixaram de ser apenas 'preservação' e se transformaram em negócios de alto rendimento.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#23986df4-48fc-4576-b352-ea45f10c2ba5)
@@ -7496,7 +7490,7 @@ Locutor conforme fonte: Lula.
 
 > Ele não sabe o que o Fundo Amazônia está significando para o Brasil. Aliás, eles anularam o Fundo Amazônia. Fomos nós que entramos e que fazemos o fundo funcionar.
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Fundo Amazônia, criado em 2008 como um mecanismo de captação de doações para prevenir, monitorar e combater o desmatamento na região amazônica, foi abandonado pelo governo do ex-presidente Jair Bolsonaro em 2019, após um “revogaço” de 250 decretos acabar com o Comitê Orientador (COFA) e com o Comitê Técnico (CFTA), o que levou à paralisação do fundo. Em janeiro de 2023, Lula assinou um decreto para retomar a iniciativa.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. O Fundo Amazônia, criado em 2008 como um mecanismo de captação de doações para prevenir, monitorar e combater o desmatamento na região amazônica, foi abandonado pelo governo do ex-presidente Jair Bolsonaro em 2019, após um “revogaço” de 250 decretos acabar com o Comitê Orientador (COFA) e com o Comitê Técnico (CFTA), o que levou à paralisação do fundo. Em janeiro de 2023, Lula assinou um decreto para retomar a iniciativa.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-fa26d630)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#9909a2c8-e6e3-425f-a9c5-0c49fdfa69c3)
@@ -7509,7 +7503,7 @@ Locutor conforme fonte: Lula.
 
 > qualidade. Eu quando assumi a presidência da República, o Nordeste era a região que tinha mais pobre, mais desnutrido, mais analfabeto, mais evasão escolar, menos universidade, menos doutor, menos mestre. Era isso que era o Nordeste.
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: De acordo com o Mapa da Pobreza e Desigualdade, lançado em 2003 pelo Instituto Brasileiro de Geografia e Estatística (IBGE), 77% dos municípios nordestinos tinham mais da metade de sua população vivendo na pobreza naquele ano. Além disso, o Mapa da Exclusão, elaborado pelo Ministério da Educação, apontou que, do total de crianças fora da escola no país, 41% (cerca de 615 mil) viviam na Região Nordeste.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. De acordo com o Mapa da Pobreza e Desigualdade, lançado em 2003 pelo Instituto Brasileiro de Geografia e Estatística (IBGE), 77% dos municípios nordestinos tinham mais da metade de sua população vivendo na pobreza naquele ano. Além disso, o Mapa da Exclusão, elaborado pelo Ministério da Educação, apontou que, do total de crianças fora da escola no país, 41% (cerca de 615 mil) viviam na Região Nordeste.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-c5d00e17)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#4df2bdf7-c3ab-46ad-83fc-fc6b05f7b7d7)
@@ -7522,7 +7516,7 @@ Locutor conforme fonte: Lula.
 
 > Levamos a transposição do Rio São Francisco, que é hoje a maior obra hídrica em funcionamento no mundo.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Transposição do Rio São Francisco (Projeto de Integração do Rio São Francisco - PISF) é considerada a maior obra de infraestrutura hídrica do Brasil e uma das maiores do mundo, mas não é a maior obra de engenharia do planeta em termos globais.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Transposição do Rio São Francisco (Projeto de Integração do Rio São Francisco - PISF) é considerada a maior obra de infraestrutura hídrica do Brasil e uma das maiores do mundo, mas não é a maior obra de engenharia do planeta em termos globais.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#f560155b-2755-447c-b84d-7d663e695ce7)
@@ -7537,7 +7531,7 @@ Locutor conforme fonte: Lula.
 
 > A quantidade de universidades. Nós fizemos mais universidades, mais institutos federais. Levamos supercomputador para Natal. Levamos supercomputador quântico para Paraíba. Levamos indústria automobilística. Ou seja, o nordeste no nosso governo ganhou cidadania. Ganhou respeito. Eu queria
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As gestões do PT foram decisivas para consolidar, expandir e renovar esse parque industrial: em 2010, o governo Lula articulou com o então governador Eduardo Campos a atração do complexo da Fiat/Jeep (atual Stellantis) em Goiana (Pernambuco), prorrogou incentivos fiscais do setor e, mais recentemente no terceiro mandato, participou ativamente das negociações para atrair a chinesa BYD para assumir e eletrificar a antiga planta desativada pela Ford na Bahia.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As gestões do PT foram decisivas para consolidar, expandir e renovar esse parque industrial: em 2010, o governo Lula articulou com o então governador Eduardo Campos a atração do complexo da Fiat/Jeep (atual Stellantis) em Goiana (Pernambuco), prorrogou incentivos fiscais do setor e, mais recentemente no terceiro mandato, participou ativamente das negociações para atrair a chinesa BYD para assumir e eletrificar a antiga planta desativada pela Ford na Bahia.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7549,7 +7543,7 @@ Locutor conforme fonte: Lula.
 
 > A quantidade de universidades. Nós fizemos mais universidades, mais institutos federais. Levamos supercomputador para Natal. Levamos supercomputador quântico para Paraíba. Levamos indústria automobilística. Ou seja, o nordeste no nosso governo ganhou
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A Paraíba recebeu um centro de computação quântica, fruto de uma parceria entre os governos estadual e federal. O centro tem o primeiro computador quântico do Brasil e o acesso inicial será destinado a pesquisadores da Universidade Federal da Paraíba (UFPB), da Universidade Federal de Campina Grande (UFCG) e do Instituto Federal da Paraíba (IFPB).
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. A Paraíba recebeu um centro de computação quântica, fruto de uma parceria entre os governos estadual e federal. O centro tem o primeiro computador quântico do Brasil e o acesso inicial será destinado a pesquisadores da Universidade Federal da Paraíba (UFPB), da Universidade Federal de Campina Grande (UFCG) e do Instituto Federal da Paraíba (IFPB).
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-3e556edd)
 
@@ -7561,7 +7555,7 @@ Locutor conforme fonte: Lula.
 
 > A quantidade de universidades. Nós fizemos mais universidades, mais institutos federais. Levamos supercomputador para Natal. Levamos supercomputador quântico para Paraíba. Levamos indústria automobilística. Ou seja, o nordeste no nosso governo ganhou
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Lula possibilitou a implantação de supercomputador de R$ 1 bilhão no RN para processamento de dados e IA.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Lula possibilitou a implantação de supercomputador de R$ 1 bilhão no RN para processamento de dados e IA.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#fb51b51f-3d5a-4f6b-bb80-b3227f1c6c6d)
@@ -7574,7 +7568,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > o vídeo real sobre o Bolsonaro ter aquele vídeo dele suspirando e ele fala que estava debochando das pessoas que estavam Senhor, é mentira. Se você pegar 10 segundos antes e 10 segundos depois, você vai ver que é exatamente o contrário. É o presidente Bolsonaro criticando que à época se defendia que as pessoas precisavam esperar sentir falta de ar para depois irem para o hospital.
 
-Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O ex-presidente Jair Bolsonaro imitou uma pessoa com falta de ar em duas ocasiões, ambas em 2021 – pico da pandemia de Covid-19 –, durante transmissões ao vivo em 18 de março e 6 de maio. Na época, os casos repercutiram na imprensa nacional, por terem sido feitos em um momento em que a falta de ar era um sintoma comum de Covid, antes da disseminação da vacina contra a doença.
+Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. O ex-presidente Jair Bolsonaro imitou uma pessoa com falta de ar em duas ocasiões, ambas em 2021 – pico da pandemia de Covid-19 –, durante transmissões ao vivo em 18 de março e 6 de maio. Na época, os casos repercutiram na imprensa nacional, por terem sido feitos em um momento em que a falta de ar era um sintoma comum de Covid, antes da disseminação da vacina contra a doença.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [g1 · Fato ou Fake](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml#chunk-76efo)
@@ -7589,7 +7583,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > os estados nordestes são administrados pelos pelo PT e pelos seus parceiros. São os estados mais violentos do Brasil. Lula, por que que você deixou o Comando Vermelho se proliferar pelo Nordeste junto com os governadores que são seus apoiadores?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de expansão do Comando Vermelho no Nordeste, mas elas não demonstram que Lula e governadores aliados tenham permitido esse avanço. Também são citadas ações de enfrentamento, sem que isso prove serem suficientes.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de expansão do Comando Vermelho no Nordeste, mas elas não demonstram que Lula e governadores aliados tenham permitido esse avanço. Também são citadas ações de enfrentamento, sem que isso prove serem suficientes.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#9ea36216-c3b9-4587-acce-1b0c69cc517d)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#a8d77fe0-a3d9-4acd-8542-5539776b98f1)
@@ -7603,7 +7597,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > os estados nordestes são administrados pelos pelo PT e pelos seus parceiros. São os estados mais violentos do Brasil.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O Nordeste tem taxa elevada de mortes violentas intencionais, mas a generalização não se sustenta: o Amapá lidera e o Piauí fica abaixo da média nacional. Os dados se referem à violência letal.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O Nordeste tem taxa elevada de mortes violentas intencionais, mas a generalização não se sustenta: o Amapá lidera e o Piauí fica abaixo da média nacional. Os dados se referem à violência letal.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#5ac41902-05fd-47fc-bc16-01723c7d1003)
 
@@ -7615,7 +7609,7 @@ Locutor conforme fonte: Lula.
 
 > Instituto Tecnológico da Aeronáutica para o Ceará como prêmio ao estado do Ceará porque é o estado que mais aprova jovens para fazer curso no ITA.
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Considerando as cidades com mais estudantes aprovados na primeira fase do vestibular do Instituto Tecnológico de Aeronáutica (ITA) neste ano, Fortaleza, capital do estado do Ceará, ocupa a primeira posição, com 281 aprovados. Em segundo lugar está São José dos Campos (SP), seguido de São Paulo. O vestibular é considerado um dos mais difíceis do país.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Considerando as cidades com mais estudantes aprovados na primeira fase do vestibular do Instituto Tecnológico de Aeronáutica (ITA) neste ano, Fortaleza, capital do estado do Ceará, ocupa a primeira posição, com 281 aprovados. Em segundo lugar está São José dos Campos (SP), seguido de São Paulo. O vestibular é considerado um dos mais difíceis do país.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-566e4d7b)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -7629,7 +7623,7 @@ Locutor conforme fonte: Lula.
 
 > Ao mesmo tempo, nós fizemos 40 novos institutos federais e novas universidades.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As evidências indicam expansão educacional, mas não confirmam integralmente a quantidade nem o estágio de implantação sugeridos pela fala.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As evidências indicam expansão educacional, mas não confirmam integralmente a quantidade nem o estágio de implantação sugeridos pela fala.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#e445a741-1798-4554-b8ee-899b6440bd79)
 
@@ -7641,7 +7635,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > quem concluiu as obras e fez finalmente chegar água até o nordeste? Jair Messias Bolsonaro. E quer ver outra coisa que o
 
-Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O governo de Jair Bolsonaro inaugurou trechos específicos do Projeto de Integração do Rio São Francisco (PISF) durante o seu mandato – como o Eixo Norte em junho de 2020 e outras etapas em 2022 –, mas o ex-presidente não concluiu a obra, que segue em andamento.
+Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. O governo de Jair Bolsonaro inaugurou trechos específicos do Projeto de Integração do Rio São Francisco (PISF) durante o seu mandato – como o Eixo Norte em junho de 2020 e outras etapas em 2022 –, mas o ex-presidente não concluiu a obra, que segue em andamento.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [g1 · Fato ou Fake](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml#chunk-25r3p)
@@ -7657,7 +7651,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Bolsonaro fez? É principalmente para aquelas pessoas que precisam aí do Bolsa Família. Antigamente, no governo dele, o Bolsa Família era ali 75 reais, 120 reais que você recebia. Em média era 190. O presidente Bolsonaro
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Antigamente, o Bolsa Família pagava em média R$ 190, quando o salário mínimo ficava entre R$ 1.045 e R$ 1.212. Hoje, com a nova política de valorização e o auxílio reformulado (que garante o piso de R$ 600), o salário mínimo atual de R$ 1.621 e o programa social deram um salto importante para fortalecer a renda de quem mais precisa.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Antigamente, o Bolsa Família pagava em média R$ 190, quando o salário mínimo ficava entre R$ 1.045 e R$ 1.212. Hoje, com a nova política de valorização e o auxílio reformulado (que garante o piso de R$ 600), o salário mínimo atual de R$ 1.621 e o programa social deram um salto importante para fortalecer a renda de quem mais precisa.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#f7416945-d985-4895-a8e0-53824e54d273)
 
@@ -7669,7 +7663,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Em média era 190. O presidente Bolsonaro passou para no mínimo 600 reais, no
 
-Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em agosto de 2021, o ex-presidente Jair Bolsonaro (PL) enviou uma Medida Provisória ao Congresso que criava o Auxílio Brasil, em substituição ao Bolsa Família. O valor mínimo proposto na época, entretanto, foi de R$ 400. O governo só decidiu aumentar o valor do benefício para R$ 600 em junho de 2022, o que foi considerada uma estratégia para atrair os eleitores mais pobres, tendo em vista a disputa presidencial naquele ano.
+Classificação reaproveitada de Lupa, g1 · Fato ou Fake, Estadão Verifica. Esta importação não representa uma nova apuração independente. Em agosto de 2021, o ex-presidente Jair Bolsonaro (PL) enviou uma Medida Provisória ao Congresso que criava o Auxílio Brasil, em substituição ao Bolsa Família. O valor mínimo proposto na época, entretanto, foi de R$ 400. O governo só decidiu aumentar o valor do benefício para R$ 600 em junho de 2022, o que foi considerada uma estratégia para atrair os eleitores mais pobres, tendo em vista a disputa presidencial naquele ano.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [g1 · Fato ou Fake](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml#chunk-386rk)
@@ -7686,7 +7680,7 @@ Locutor conforme fonte: Lula.
 
 > para me dizer o seguinte: por quê que ele foi o único deputado estadual do Rio de Janeiro a votar contra o aumento do da licença maternidade? >> Quero agradecer o meu concorrente aqui
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Conforme mostrou o Estadão (aqui), em 2009, Flávio Bolsonaro foi o único deputado estadual a votar contra a proposta que estendia de quatro para seis meses a licença-maternidade para servidoras públicas do Rio de Janeiro. O então deputado pelo PP afirmou que “bastava se colocar no lugar do empresário” para entender que ampliar a licença-maternidade prejudicaria as mulheres no mercado de trabalho. Foram 54 votos favoráveis à aprovação da Proposta de Emenda à Constituição de autoria do então deputado estadual Marcelo Freixo, à época filiado ao PSOL.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Conforme mostrou o Estadão (aqui), em 2009, Flávio Bolsonaro foi o único deputado estadual a votar contra a proposta que estendia de quatro para seis meses a licença-maternidade para servidoras públicas do Rio de Janeiro. O então deputado pelo PP afirmou que “bastava se colocar no lugar do empresário” para entender que ampliar a licença-maternidade prejudicaria as mulheres no mercado de trabalho. Foram 54 votos favoráveis à aprovação da Proposta de Emenda à Constituição de autoria do então deputado estadual Marcelo Freixo, à época filiado ao PSOL.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-1657bdaa)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#4464e495-1179-43f7-be4b-a61fec4907d2)
@@ -7701,7 +7695,7 @@ Locutor conforme fonte: Lula.
 
 > Por que que você chamou o Bolsa Família de Bolsa Farelo?
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A expressão foi usada por Flávio Bolsonaro em publicações no X (então Twitter). Em novembro de 2011, o então deputado estadual pelo Rio de Janeiro chamou de “bolsa farelo” projeto estadual para complementar o Bolsa Família. Ele usou a expressão novamente em comentário na rede social, em que dizia que “o PT perpetua a pobreza com o bolsa-farelo”, conforme registrado pelo g1.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. A expressão foi usada por Flávio Bolsonaro em publicações no X (então Twitter). Em novembro de 2011, o então deputado estadual pelo Rio de Janeiro chamou de “bolsa farelo” projeto estadual para complementar o Bolsa Família. Ele usou a expressão novamente em comentário na rede social, em que dizia que “o PT perpetua a pobreza com o bolsa-farelo”, conforme registrado pelo g1.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -7715,7 +7709,7 @@ Locutor conforme fonte: Lula.
 
 > profissional, o primeiro emprego que ele teve foi um emprego falso pelo pai dele, ele trabalhava com o pai mas ficava em Brasília.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Em 2000, aos 19 anos, Flávio Bolsonaro foi nomeado para o cargo comissionado de assistente técnico de gabinete na Liderança do Partido Progressista Brasileiro, à época mesmo partido de Jair Bolsonaro, na Câmara dos Deputados, função que exerceu entre 2000 e 2002.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Em 2000, aos 19 anos, Flávio Bolsonaro foi nomeado para o cargo comissionado de assistente técnico de gabinete na Liderança do Partido Progressista Brasileiro, à época mesmo partido de Jair Bolsonaro, na Câmara dos Deputados, função que exerceu entre 2000 e 2002.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#17f13040-afc8-46f2-ad1f-bc0f8e5f6216)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -7728,7 +7722,7 @@ Locutor conforme fonte: Lula.
 
 > por irresponsabilidade patronal que obriga a gente a trabalhar em jornada que a gente tem que trabalhar. Eu era de menor e trabalhava à noite porque ou trabalhava ou não comia.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Lula trabalhou em regime noturno aos 17 anos na Indústria Metalúrgica Independência
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Lula trabalhou em regime noturno aos 17 anos na Indústria Metalúrgica Independência
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#7e2c1520-ff9f-420c-a39e-be99869c96c5)
 
@@ -7740,7 +7734,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Te peço desculpa de verdade. Agora eu quero saber se você vai pedir desculpas pros moradores de rua que dobraram durante seu governo. Que combate à pobreza é esse que você faz? Se o Brasil tinha 199 mil moradores de rua recebendo CadÚnico e agora quase dobrou isso aí.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é parcialmente verdadeira (com contexto metodológico essencial): os números brutos do Cadastro Único (CadÚnico) de fato quase dobraram ao longo do terceiro mandato de Lula, saltando de 198,7 mil pessoas em dezembro de 2022 para cerca de 392,4 mil em 2026 (uma alta de 97,4%). Contudo, especialistas do Ipea, pesquisadores de assistência social e o Ministério do Desenvolvimento e Assistência Social (MDS) apontam que essa explosão nas estatísticas não significa necessariamente que a população física nas ruas duplicou de forma repentina, mas reflete em grande parte a busca ativa municipal, a superação de subnotificações dos anos…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é parcialmente verdadeira (com contexto metodológico essencial): os números brutos do Cadastro Único (CadÚnico) de fato quase dobraram ao longo do terceiro mandato de Lula, saltando de 198,7 mil pessoas em dezembro de 2022 para cerca de 392,4 mil em 2026 (uma alta de 97,4%). Contudo, especialistas do Ipea, pesquisadores de assistência social e o Ministério do Desenvolvimento e Assistência Social (MDS) apontam que essa explosão nas estatísticas não significa necessariamente que a população física nas ruas duplicou de forma repentina, mas reflete em grande parte a busca ativa municipal, a superação de subnotificações dos anos…
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7752,7 +7746,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > tinha 199 mil moradores de rua recebendo CadÚnico e agora quase dobrou isso aí.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não, o CadÚnico (Cadastro Único) não é um benefício social em si. Ele funciona como um instrumento de registro e coleta de dados criado pelo Governo Federal para identificar e mapear as famílias de baixa renda que vivem no país. Na prática, o CadÚnico atua como a porta de entrada para diversos programas e políticas públicas. Estar inscrito não significa receber um valor financeiro automaticamente, mas é o requisito fundamental e obrigatório para poder solicitar e ter acesso a esses auxílios.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não, o CadÚnico (Cadastro Único) não é um benefício social em si. Ele funciona como um instrumento de registro e coleta de dados criado pelo Governo Federal para identificar e mapear as famílias de baixa renda que vivem no país. Na prática, o CadÚnico atua como a porta de entrada para diversos programas e políticas públicas. Estar inscrito não significa receber um valor financeiro automaticamente, mas é o requisito fundamental e obrigatório para poder solicitar e ter acesso a esses auxílios.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7764,7 +7758,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Você foi esquecido pelo atual governo por quatro anos. Sabe quando ele lembrou de você? Há 17 dias. Ele lembrou de você porque você vota. Ele passou quatro anos e te deixou de lado. Faltando um pouquinho tempo pra eleição, ele te lembrou de você e te deu um reajuste de três reais por dia. Três reais por dia.
 
-Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Em outubro, o governo federal anunciou um reajuste de 15,04% no programa. O valor mínimo por família passou de R$ 600 para R$ 691. Segundo o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, foi a primeira atualização dos valores pela inflação desde março de 2023.
+Classificação reaproveitada de Estadão Verifica. Esta importação não representa uma nova apuração independente. Em outubro, o governo federal anunciou um reajuste de 15,04% no programa. O valor mínimo por família passou de R$ 600 para R$ 691. Segundo o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, foi a primeira atualização dos valores pela inflação desde março de 2023.
 
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-a833f8c0)
 
@@ -7776,7 +7770,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > pelo atual governo por quatro anos. Sabe quando ele lembrou de você? Há 17 dias. Ele lembrou de você porque você vota. Ele passou quatro anos e te deixou de lado. Faltando um pouquinho tempo pra eleição, ele te lembrou de você e te deu um reajuste de três reais por dia.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório aponta que adicionais ao Bolsa Família foram introduzidos em 2023, contrariando a ideia de que só houve melhorias às vésperas da eleição de 2026.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório aponta que adicionais ao Bolsa Família foram introduzidos em 2023, contrariando a ideia de que só houve melhorias às vésperas da eleição de 2026.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#e297d86f-34ed-4f85-8895-19392e2d2476)
 
@@ -7788,7 +7782,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Você vai pedir desculpa para as mulheres que são espancadas todos os dias e no seu governo a quantidade de mulheres espancadas só aumenta.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os registros de agressões aumentaram nos anos analisados, mas não medem diretamente o total de mulheres espancadas nem demonstram que o aumento continuou em 2026.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os registros de agressões aumentaram nos anos analisados, mas não medem diretamente o total de mulheres espancadas nem demonstram que o aumento continuou em 2026.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#3727dc2d-b0cb-4052-abb4-1950451dd22f)
 
@@ -7800,7 +7794,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > além da data de vencimento do seu boleto. Você vai pedir desculpa para essas pessoas, Lula? Você vai pedir desculpas, Lula, para quem vai no mercado e enfrenta aquela prateleira com os produtos caros, arroz, feijão, carne? Tá tudo mais caro no seu governo. Você vai pedir desculpas ao povo brasileiro. Sabe o que eu ouvi muito
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Salário mínimo comprava 1,8 cesta básica durante o governo Jair Bolsonaro (2019-2022) e passou a comprar 2,2 cestas básicas no atual governo Lula, segundo declarações do próprio presidente em debate eleitoral, com base em dados do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Os preços subiram (~19% desde 2023), mas bem menos que no mandato anterior (~27%) e menos que a renda: o salário mínimo real subiu ~11% e o rendimento médio ~13%, então o poder de compra médio aumentou.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Salário mínimo comprava 1,8 cesta básica durante o governo Jair Bolsonaro (2019-2022) e passou a comprar 2,2 cestas básicas no atual governo Lula, segundo declarações do próprio presidente em debate eleitoral, com base em dados do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Os preços subiram (~19% desde 2023), mas bem menos que no mandato anterior (~27%) e menos que a renda: o salário mínimo real subiu ~11% e o rendimento médio ~13%, então o poder de compra médio aumentou.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7812,7 +7806,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > E olha o exemplo que deu o governador Tarcísio junto com o prefeito Ricardo Nunes e o Guilherme Derrite, eles acabaram com a Cracolândia. Pessoas que estavam ali morando nas ruas foram acolhidas, tratadas e hoje tem esperança de novo.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é falsa: a Cracolândia em São Paulo não acabou, nem houve uma resolução estrutural no tratamento de saúde dessa população. Dados de monitoramento da Prefeitura de São Paulo, do Laboratório de Estudos sobre Espaço Público e Direito à Cidade (LabCidade/USP) e de relatórios do Ministério Público de São Paulo (MPSP) apontam que as ações policiais e urbanísticas dos últimos anos resultaram na dispersão territorial do fluxo de usuários — que antes se concentrava em pontos como a Praça Princesa Isabel e a Rua Helvétia — em dezenas de pequenos agrupamentos ('minicracolândias') espalhados por bairros centrais como Santa Cecília, Campos…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é falsa: a Cracolândia em São Paulo não acabou, nem houve uma resolução estrutural no tratamento de saúde dessa população. Dados de monitoramento da Prefeitura de São Paulo, do Laboratório de Estudos sobre Espaço Público e Direito à Cidade (LabCidade/USP) e de relatórios do Ministério Público de São Paulo (MPSP) apontam que as ações policiais e urbanísticas dos últimos anos resultaram na dispersão territorial do fluxo de usuários — que antes se concentrava em pontos como a Praça Princesa Isabel e a Rua Helvétia — em dezenas de pequenos agrupamentos ('minicracolândias') espalhados por bairros centrais como Santa Cecília, Campos…
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#207fa782-f999-4ddb-8223-3e60e9e90244)
@@ -7826,7 +7820,7 @@ Locutor conforme fonte: Lula.
 
 > Porque esse país é um país que peca. O mundo inteiro teve universidade pelo que que o Brasil, o Brasil teve muito tempo a primeira universidade 420 anos depois da descoberta. Então quem tem que pedir desculpas ao
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Universidade do Rio de Janeiro, atual Universidade Federal do Rio de Janeiro (UFRJ), foi oficialmente criada em 7 de setembro de 1920, pelo Decreto nº 14.343, durante o governo de Epitácio Pessoa. Considerando 1500 como o ano da chegada dos portugueses ao Brasil, a criação ocorreu exatamente 420 anos depois.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Universidade do Rio de Janeiro, atual Universidade Federal do Rio de Janeiro (UFRJ), foi oficialmente criada em 7 de setembro de 1920, pelo Decreto nº 14.343, durante o governo de Epitácio Pessoa. Considerando 1500 como o ano da chegada dos portugueses ao Brasil, a criação ocorreu exatamente 420 anos depois.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#d740a359-150c-486f-8c8c-343e9dca2c03)
 
@@ -7838,7 +7832,7 @@ Locutor conforme fonte: Lula.
 
 > Mas se pegar todos os poderes da República e for saber quem fez mais política de inclusão social, todos juntos não fizeram o que nós fizemos em 16 anos.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Com a implementação de dezenas de programas sociais de grande impacto (como Bolsa Família, Minha Casa Minha Vida, ProUni, Luz para Todos e Farmácia Popular), os governos de Lula reduziram drasticamente a pobreza e a desigualdade por meio de transferência de renda em massa e da valorização real do salário mínimo.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Com a implementação de dezenas de programas sociais de grande impacto (como Bolsa Família, Minha Casa Minha Vida, ProUni, Luz para Todos e Farmácia Popular), os governos de Lula reduziram drasticamente a pobreza e a desigualdade por meio de transferência de renda em massa e da valorização real do salário mínimo.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#7bd813a9-4d45-4f5f-a760-564a17eaf8e9)
 
@@ -7850,7 +7844,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Nós sancionamos a lei Sansão para aumentar as penas para os maus-tratos animais. Eu quero me comprometer com essa causa, ampliar essa lei, para que
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Lei Sansão foi sancionada por Jair Bolsonaro e aumentou as penas por maus-tratos a cães e gatos; a limitação a essas espécies não contradiz a fala, que promete ampliar a lei.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Lei Sansão foi sancionada por Jair Bolsonaro e aumentou as penas por maus-tratos a cães e gatos; a limitação a essas espécies não contradiz a fala, que promete ampliar a lei.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#06e3c93b-0083-48c2-a4c2-f382cbbae7f1)
 
@@ -7862,7 +7856,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > aumentar as penas para os maus-tratos animais. Eu quero me comprometer com essa causa, ampliar essa lei, para que não só cachorros e gatos, mas também animais silvestres e outros maus-tratos possam ser ter suas penas ampliadas. Tem um estudo do FBI que diz que aonde há,
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Sua atuação legislativa no Congresso Nacional é historicamente marcada por posições vistas por ambientalistas e biólogos como contrárias à proteção da vida silvestre: o senador votou e atuou a favor de projetos da bancada ruralista que flexibilizam o licenciamento ambiental, apoiou medidas que enfraquecem a fiscalização de órgãos como o Ibama e o ICMBio, e assinou propostas polêmicas voltadas à facilitação da caça esportiva e de controle de fauna silvestre (como a caça ao javali e a regulamentação de armas para atiradores/caçadores - CACs), além de ter defendido no passado pautas controversas como a liberação de cassinos em resorts…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Sua atuação legislativa no Congresso Nacional é historicamente marcada por posições vistas por ambientalistas e biólogos como contrárias à proteção da vida silvestre: o senador votou e atuou a favor de projetos da bancada ruralista que flexibilizam o licenciamento ambiental, apoiou medidas que enfraquecem a fiscalização de órgãos como o Ibama e o ICMBio, e assinou propostas polêmicas voltadas à facilitação da caça esportiva e de controle de fauna silvestre (como a caça ao javali e a regulamentação de armas para atiradores/caçadores - CACs), além de ter defendido no passado pautas controversas como a liberação de cassinos em resorts…
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7874,7 +7868,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > lei, para que não só cachorros e gatos, mas também animais silvestres e outros maus-tratos possam ser ter suas penas ampliadas. Tem um estudo do FBI que diz que aonde há, na região onde há um grande maus-tratos de animais, há também um grande potencial de pessoas mais violentas. Vamos usar esse parâmetro para proteger
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As fontes sustentam uma associação geral entre maus-tratos a animais e violência contra pessoas, mas não comprovam que regiões com mais maus-tratos tenham moradores mais violentos.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As fontes sustentam uma associação geral entre maus-tratos a animais e violência contra pessoas, mas não comprovam que regiões com mais maus-tratos tenham moradores mais violentos.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#59b5f24b-ea0a-4971-b1de-b16d25ed56e9)
 
@@ -7886,7 +7880,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > >> Bom, o atual governo tá deixando uma dívida aí de 11 trilhões de reais para você, trabalhador, pagar.
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O dado citado pelo candidato faz alusão à dívida bruta do governo geral do Brasil — que inclui governo federal, INSS, governos estaduais e municipais. Em agosto deste ano, ela atingiu R$ 11,1 trilhões, o que corresponde a 82,9% do Produto Interno Bruto (PIB), segundo dados oficiais divulgados pelo Banco Central do Brasil.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. O dado citado pelo candidato faz alusão à dívida bruta do governo geral do Brasil — que inclui governo federal, INSS, governos estaduais e municipais. Em agosto deste ano, ela atingiu R$ 11,1 trilhões, o que corresponde a 82,9% do Produto Interno Bruto (PIB), segundo dados oficiais divulgados pelo Banco Central do Brasil.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#2dae33e3-37b3-4792-b983-e55b70cf936c)
@@ -7900,7 +7894,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > a taxa de juro oficial no Brasil hoje está aí em torno de 14% porque é um
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: A taxa básica de juros (Selic) está em 13,75% ao ano, percentual próximo dos 14% mencionados pelo candidato.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. A taxa básica de juros (Selic) está em 13,75% ao ano, percentual próximo dos 14% mencionados pelo candidato.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#a04a515d-7d83-493f-865d-3d0525ea8766)
@@ -7914,7 +7908,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > aumentar os impostos. Lula, por que você tá deixando as famílias brasileiras tão endividadas, já que uma vez que a dívida do governo cresce, a dívida das famílias cresce junto?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A dívida do governo não faz a dívida das famílias crescer de forma direta ou automática. Embora o aumento da dívida pública possa pressionar os juros, o endividamento das famílias brasileiras é impulsionado por um conjunto de outros fatores: perda do poder de compra pela inflação, juros altos no cartão de crédito, necessidade de cobrir gastos básicos e, recentemente, o forte impacto financeiro das apostas online (bets) no orçamento doméstico.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A dívida do governo não faz a dívida das famílias crescer de forma direta ou automática. Embora o aumento da dívida pública possa pressionar os juros, o endividamento das famílias brasileiras é impulsionado por um conjunto de outros fatores: perda do poder de compra pela inflação, juros altos no cartão de crédito, necessidade de cobrir gastos básicos e, recentemente, o forte impacto financeiro das apostas online (bets) no orçamento doméstico.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#80726ca0-6471-4bf2-b104-f3b7d57e7191)
 
@@ -7926,7 +7920,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > lá em outubro de 2022, nas eleições anteriores, a previsão de taxa de juros se o presidente Bolsonaro continuasse no governo era que hoje nós tivéssemos uma taxa em torno de 7%. Nós estamos falando de que hoje nós temos uma taxa em torno de 14, são sete pontos percentuais de diferença. Com
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O Boletim Focus, relatório do Banco Central que reúne as projeções do mercado financeiro para a economia, estimava, em outubro de 2022, que a taxa básica de juros (Selic) seria de 7,75% ao ano em 2025. A projeção constava do relatório divulgado em 7 de outubro daquele ano.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. O Boletim Focus, relatório do Banco Central que reúne as projeções do mercado financeiro para a economia, estimava, em outubro de 2022, que a taxa básica de juros (Selic) seria de 7,75% ao ano em 2025. A projeção constava do relatório divulgado em 7 de outubro daquele ano.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -7940,7 +7934,7 @@ Locutor conforme fonte: Lula.
 
 > quando ele fala que vai comprar dívida dos endividados, ele está copiando uma coisa que eu já mandei para o Senado.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão informa que a medida provisória já havia sido apresentada; a imprecisão sobre o destino do envio não altera esse ponto central.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão informa que a medida provisória já havia sido apresentada; a imprecisão sobre o destino do envio não altera esse ponto central.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#b4c9041a-9787-4f56-9e13-d6d27d9792b1)
 
@@ -7952,7 +7946,7 @@ Locutor conforme fonte: Lula.
 
 > E ele sabe disso, que nós vamos comprar a dívida das pessoas que estão devendo, fazer um leilão nos bancos e vamos vender essa, comprar essa dívida com 90, 92% até 95% de deságio. Isso nós já fizemos.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Houve renegociações com descontos elevados, mas a compra das carteiras de dívida pela União ainda estava em preparação na data da fala.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Houve renegociações com descontos elevados, mas a compra das carteiras de dívida pela União ainda estava em preparação na data da fala.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#1c4c2c27-8f1f-441a-83d7-8f3f7763f293)
 
@@ -7964,7 +7958,7 @@ Locutor conforme fonte: Lula.
 
 > E ele sabe disso, que nós vamos comprar a dívida das pessoas que estão devendo, fazer um leilão nos bancos e vamos vender essa, comprar essa dívida com 90, 92% até 95% de deságio. Isso nós já fizemos.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Sim. O presidente Luiz Inácio Lula da Silva anunciou formalmente uma medida nesse sentido por meio da fase Desenrola 3.0, voltada para que o governo passe a comprar diretamente carteiras de dívidas de pessoas físicas e MEIs junto ao sistema bancário.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Sim. O presidente Luiz Inácio Lula da Silva anunciou formalmente uma medida nesse sentido por meio da fase Desenrola 3.0, voltada para que o governo passe a comprar diretamente carteiras de dívidas de pessoas físicas e MEIs junto ao sistema bancário.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -7976,7 +7970,7 @@ Locutor conforme fonte: Lula.
 
 > Nós já fizemos. Como nós fizemos antes de ontem, sabe, um perdão de quase 15 bilhões de 4 milhões e meio que estavam devendo uma dívida ativa com o governo, que as pessoas não iam pagar mais. Não só nós perdoamos essa dívida, como nós aumentamos de um para dois funcionários e aumentamos também o mínimo, o piso de, oi, que hoje é 81 para 110 e depois para 140 em 2028. Isso nós já fizemos.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O presidente Luiz Inácio Lula da Silva sancionou em 21 de outubro de 2026 a Lei Complementar nº 238/2026 (parte do pacote Prospera MEI), que traz mudanças importantes para os Microempreendedores Individuais, incluindo perdão de dívidas.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O presidente Luiz Inácio Lula da Silva sancionou em 21 de outubro de 2026 a Lei Complementar nº 238/2026 (parte do pacote Prospera MEI), que traz mudanças importantes para os Microempreendedores Individuais, incluindo perdão de dívidas.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#cccffe35-5f88-4c09-b8fa-bb2db09c6668)
@@ -7995,7 +7989,7 @@ Locutor conforme fonte: Lula.
 
 > A dívida pública brasileira, ela está muito a ver com a taxa de juro mesmo. Uma taxa de juro que nós perdemos por 13% e que está 13,75%
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A taxa de juros era pouco mais de 13% em 2022, oscilou durante todo o período e hoje é de 13,75%
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A taxa de juros era pouco mais de 13% em 2022, oscilou durante todo o período e hoje é de 13,75%
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#0c715526-4318-467b-a924-1e0eac465a9e)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -8008,7 +8002,7 @@ Locutor conforme fonte: Lula.
 
 > empregos necessários. É por isso que o salário mínimo cresceu no nosso governo, porque quando o PIB cresce, e o PIB é a
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que o salário mínimo aumentou nominalmente no período e que a política de valorização prevê ganho real relacionado ao PIB, com ressalva de teto desde 2025.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que o salário mínimo aumentou nominalmente no período e que a política de valorização prevê ganho real relacionado ao PIB, com ressalva de teto desde 2025.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#1756d126-cda0-4d54-87db-c0ec6b9a0f22)
 
@@ -8020,7 +8014,7 @@ Locutor conforme fonte: Lula.
 
 > ninguém, em nenhum momento da história fez mais crédito do que nós fizemos. E o
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O crédito saltou de R$ 360 bilhões em FHC para mais de R$ 3 trilhões sob Lula e Dilma, desacelerou nos governos Temer e Bolsonaro, e voltou a expandir e bater recordes na gestão atual de Lula.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O crédito saltou de R$ 360 bilhões em FHC para mais de R$ 3 trilhões sob Lula e Dilma, desacelerou nos governos Temer e Bolsonaro, e voltou a expandir e bater recordes na gestão atual de Lula.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#41692c6d-0a07-459d-94a0-4c9d654afad2)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -8033,7 +8027,7 @@ Locutor conforme fonte: Lula.
 
 > Vocês perceberam que a economia não crescia acima de 3% desde que eu deixei a presidência em 2010 e ela voltou a
 
-As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. Apuração registrada no Quem Mentiu: A economia do Brasil cresceu 3% ou mais em outros governos e não apenas nas gestões de Lula. Em 2011, por exemplo, primeiro ano do governo de Dilma Rousseff (PT), o Produto Interno Bruto (PIB) brasileiro cresceu 3,9%. Em 2013, cresceu 3,0%.
+As fontes editoriais reunidas divergem na classificação. A divergência foi preservada; não foi escolhido um vencedor por maioria. A economia do Brasil cresceu 3% ou mais em outros governos e não apenas nas gestões de Lula. Em 2011, por exemplo, primeiro ano do governo de Dilma Rousseff (PT), o Produto Interno Bruto (PIB) brasileiro cresceu 3,9%. Em 2013, cresceu 3,0%.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-882fccc8)
@@ -8046,7 +8040,7 @@ Locutor conforme fonte: Lula.
 
 > Que não funcionou quando o tempo era presidente, porque ele optou de deixar morrer 70 26.000 pessoas para o Covid, ao invés de atender a demanda científica,
 
-Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Apuração registrada no Quem Mentiu: Registros refoçam que negacionismo do governo federal entre 2020 e 2022 contribuiu para a escalada de quase 700 mil mortes no país, amplificando tragédias como o colapso em Manaus e evidenciando óbitos que poderiam ter sido evitados.
+Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Registros refoçam que negacionismo do governo federal entre 2020 e 2022 contribuiu para a escalada de quase 700 mil mortes no país, amplificando tragédias como o colapso em Manaus e evidenciando óbitos que poderiam ter sido evitados.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#b9dcfcc3-31ca-459c-ac93-c954cd6b27f3)
 
@@ -8058,7 +8052,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > >> Não, Lula. O tesouraço vai ser na corrupção do atual governo. O tesouraço vai ser na burocracia. O tesouraço vai ser nos impostos que você criou, foram mais de 30 que você criou ou aumentou. E eu quero falar para você que é do SUS. O
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é exagerada e enganosa do ponto de vista tributário formal, embora tenha base no avanço da arrecadação: o governo Lula não criou 30 tributos novos — o sistema tributário brasileiro possui cerca de uma dúzia de tributos federais principais previstos na Constituição —, mas implementou mais de 20 medidas arrecadatórias focadas em recompor receitas fiscais. Entre elas destacam-se o fim da isenção de compras internacionais até US$ 50 ('taxa das blusinhas'), a tributação de fundos exclusivos (super-ricos) e offshores, a volta da reoneração de combustíveis (PIS/Cofins), mudanças no Carf, limitação de benefícios do ICMS em subvenções e a…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é exagerada e enganosa do ponto de vista tributário formal, embora tenha base no avanço da arrecadação: o governo Lula não criou 30 tributos novos — o sistema tributário brasileiro possui cerca de uma dúzia de tributos federais principais previstos na Constituição —, mas implementou mais de 20 medidas arrecadatórias focadas em recompor receitas fiscais. Entre elas destacam-se o fim da isenção de compras internacionais até US$ 50 ('taxa das blusinhas'), a tributação de fundos exclusivos (super-ricos) e offshores, a volta da reoneração de combustíveis (PIS/Cofins), mudanças no Carf, limitação de benefícios do ICMS em subvenções e a…
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8070,7 +8064,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > eu quero falar para você que é do SUS. O dinheiro hoje que é investido aí é mal aplicado. Tá faltando até dipirona na unidade básica de saúde. Você chega num um hospital e é fila para tudo.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não há uma falta, há janela de reposição de estoques pontuais como acontece com qualquer serviço além de que a responsabilidade é do governo Municipal. Fora que essa reposição não é de responsabilidade direta do governo federal.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não há uma falta, há janela de reposição de estoques pontuais como acontece com qualquer serviço além de que a responsabilidade é do governo Municipal. Fora que essa reposição não é de responsabilidade direta do governo federal.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8082,7 +8076,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > SUS é um orgulho nacional. Agora, o Lula votou contra a Constituição de 88 que criou o SUS.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Apesar de terem discordâncias com pontos do texto da redação final, Lula e os outros 15 parlamentares da bancada do PT assinaram o documento da promulgação da Constituição Federal de 1988.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apesar de terem discordâncias com pontos do texto da redação final, Lula e os outros 15 parlamentares da bancada do PT assinaram o documento da promulgação da Constituição Federal de 1988.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#dd184bbf-b31a-4b03-8c69-670456411a90)
 
@@ -8094,7 +8088,7 @@ Locutor conforme fonte: Lula.
 
 > que morresse mais gente da Covid, depois da responsabilidade do governo do pai dele. Porque no governo do pai dele, no governo do pai dele, sabe, quem tomasse vacina ia virar gay, ia virar jacaré.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Bolsonaro promoveu o uso e apoiou a produção de medicamentos já existentes, mas não há evidência que sustente a acusação de que inventou remédio para vender.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Bolsonaro promoveu o uso e apoiou a produção de medicamentos já existentes, mas não há evidência que sustente a acusação de que inventou remédio para vender.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#3b64b2de-cb0d-464f-9422-e048ae1aa476)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#1954dda3-8b39-4111-9d18-e8acb037a701)
@@ -8107,7 +8101,7 @@ Locutor conforme fonte: Lula.
 
 > Poderia ter salvado pelo menos metade das pessoas que morreram, mas não, ele preferiu debochar, debochar e >> [limpando a garganta] >> imitar as pessoas sufocando, sabe? Era isso que ele fez nesse país.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O cenário trágico da gestão da pandemia no país evidenciou-se quando levantamentos estatísticos apontaram que o Brasil, possuindo cerca de 3% da população mundial, concentrou aproximadamente 11% de todas as mortes globais por Covid-19, um reflexo crítico duramente contrastado pelo episódio em que o então presidente Jair Bolsonaro ironizou a gravidade da doença e imitou pacientes com falta de ar durante transmissão ao vivo na internet em 18 de março de 2021. Este Bolsonaro imita falta de ar por Covid-19 demonstra o momento em que o então presidente simulou a falta de ar de pacientes da doença durante uma transmissão ao vivo.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O cenário trágico da gestão da pandemia no país evidenciou-se quando levantamentos estatísticos apontaram que o Brasil, possuindo cerca de 3% da população mundial, concentrou aproximadamente 11% de todas as mortes globais por Covid-19, um reflexo crítico duramente contrastado pelo episódio em que o então presidente Jair Bolsonaro ironizou a gravidade da doença e imitou pacientes com falta de ar durante transmissão ao vivo na internet em 18 de março de 2021. Este Bolsonaro imita falta de ar por Covid-19 demonstra o momento em que o então presidente simulou a falta de ar de pacientes da doença durante uma transmissão ao vivo.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#c265d4c0-5901-4d1c-ac95-f078d27a8156)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#bbd9cc69-3746-444c-bdea-7caaa1b93c56)
@@ -8120,7 +8114,7 @@ Locutor conforme fonte: Lula.
 
 > Porque você está colocando uma pessoa que não quer colocar dinheiro no SUS, já disse que não quer, ainda disse que vai, que vai, vai privatizar Vai privatizar o SUS? Vai cobrar do SUS?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O médico Claudio Lottenberg, anunciado por Flávio Bolsonaro como possível ministro da Saúde em um eventual governo, realmente declarou que não destinaria mais dinheiro ao SUS antes de melhorar a utilização dos recursos existentes.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O médico Claudio Lottenberg, anunciado por Flávio Bolsonaro como possível ministro da Saúde em um eventual governo, realmente declarou que não destinaria mais dinheiro ao SUS antes de melhorar a utilização dos recursos existentes.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#2439e2f5-9171-458f-9c9c-2606b8971528)
 
@@ -8132,7 +8126,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Se vão se lembrar, o meu pai foi salvo de uma facada, foi dada por um
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Santa Casa é uma instituição privada, filantrópica e sem fins lucrativos, e não um hospital público estatal. Porém a santa casa atende demandas do SUS.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Santa Casa é uma instituição privada, filantrópica e sem fins lucrativos, e não um hospital público estatal. Porém a santa casa atende demandas do SUS.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8144,7 +8138,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > concreto, candidato? O fato concreto é que a espera para uma cirurgia de câncer de tireoide ultrapassou os 700 dias.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A espera superior a 700 dias foi constatada no conjunto analisado, mas os dados não representam necessariamente todo o SUS nem o cenário atual.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A espera superior a 700 dias foi constatada no conjunto analisado, mas os dados não representam necessariamente todo o SUS nem o cenário atual.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#f2147989-bb46-452f-8380-0ebc75fb66ce)
 
@@ -8156,7 +8150,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > As pessoas estão na fila morrendo, esperando tratamento de câncer. Eu quero
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório registra mortes de pacientes enquanto aguardavam transferência para atendimento oncológico especializado, sustentando a afirmação.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório registra mortes de pacientes enquanto aguardavam transferência para atendimento oncológico especializado, sustentando a afirmação.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#5ef2662b-3fdb-4c21-8224-fd851010765c)
 
@@ -8168,7 +8162,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > com o Instituto Nacional do Câncer, o Inca, que eu vou investir nas obras de ampliação do Inca para atender mais gente com mais qualidade. Aquela emenda que eu coloquei aí, para aqueles aparelhos que conservam os rins por mais tempo e podem fazer com que alguma pessoa que está na fila de transplante, ao invés de fazer hemodiálise, tenha mais chance de ter um rim rim
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O plano de governo de Flávio Bolsonaro não faz qualquer menção ao INCA (Instituto Nacional de Câncer) nem prevê investimentos direcionados especificamente à instituição.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O plano de governo de Flávio Bolsonaro não faz qualquer menção ao INCA (Instituto Nacional de Câncer) nem prevê investimentos direcionados especificamente à instituição.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#0da632d0-bb39-4b86-b6bc-dbcab817f6a5)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#c0f88e79-6b60-4842-89f7-e5c1fefdfae0)
@@ -8181,7 +8175,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > está na fila de transplante, ao invés de fazer hemodiálise, tenha mais chance de ter um rim rim transplantado, eu vou investir ainda mais nisso. Eu quero dar um recado a todas as Santas Casas do Brasil. Hoje vocês estão sufocados, estão devendo. E sabe quem é credor das Santas Casas, candidato? A Caixa Econômica Federal. E você não fez nada para ajudar a reduzir a dívida das Santas Casas. Eu vou ajudar a refinanciar essas dívidas. E mais, eu vou atualizar a tabela SUS. Porque hoje a tabela SUS, caso você não saiba, paga
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é falsa: o governo Lula adotou medidas legislativas e financeiras de socorro às Santas Casas e hospitais filantrópicos, como a liberação de cerca de R$ 2 bilhões em auxílios emergenciais pelo Ministério da Saúde em 2023 e a sanção da lei que prorrogou o uso de recursos do FGTS até 2030 para linhas de crédito especiais, liberando mais de R$ 2 bilhões para refinanciar e alongar débitos com prazos estendidos e juros reduzidos; contudo, entidades como a Confederação das Santas Casas (CMB) ressalvam que o socorro é paliativo e não extingue a crise estrutural, mantendo o setor com endividamento bilionário devido à defasagem histórica…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é falsa: o governo Lula adotou medidas legislativas e financeiras de socorro às Santas Casas e hospitais filantrópicos, como a liberação de cerca de R$ 2 bilhões em auxílios emergenciais pelo Ministério da Saúde em 2023 e a sanção da lei que prorrogou o uso de recursos do FGTS até 2030 para linhas de crédito especiais, liberando mais de R$ 2 bilhões para refinanciar e alongar débitos com prazos estendidos e juros reduzidos; contudo, entidades como a Confederação das Santas Casas (CMB) ressalvam que o socorro é paliativo e não extingue a crise estrutural, mantendo o setor com endividamento bilionário devido à defasagem histórica…
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#bae68e3e-e196-4e30-9eff-d93618d92716)
@@ -8197,7 +8191,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > vou atualizar a tabela SUS. Porque hoje a tabela SUS, caso você não saiba, paga 10 reais para um médico por consulta.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O valor de R$ 10 consta na tabela SUS, mas é uma referência de financiamento ao estabelecimento, não comprovação do pagamento direto ao médico.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O valor de R$ 10 consta na tabela SUS, mas é uma referência de financiamento ao estabelecimento, não comprovação do pagamento direto ao médico.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#1f3cd9b7-96d0-4014-9e61-7ac6f72b797c)
 
@@ -8209,7 +8203,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Uma uma médica que uma obstetra que faz um parto, por exemplo, recebe 443 reais só por um parto. E você não atualizou a
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: R$ 443,40 é o valor total de referência do procedimento, não o pagamento individual à obstetra; a tabela separa os valores hospitalares e profissionais.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. R$ 443,40 é o valor total de referência do procedimento, não o pagamento individual à obstetra; a tabela separa os valores hospitalares e profissionais.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#a3a0c015-c3d4-4afa-b261-8548c30de797)
 
@@ -8221,7 +8215,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Cada vez é menor o percentual que o Governo Federal coloca para o tratamento da saúde em todo o Brasil.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O investimento federal na área da saúde registrou uma expansão de 30% nos últimos anos, saltando de R$ 179,1 bilhões para R$ 233,3 bilhões.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O investimento federal na área da saúde registrou uma expansão de 30% nos últimos anos, saltando de R$ 179,1 bilhões para R$ 233,3 bilhões.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#46aefe2b-0e52-4836-bec3-9d7164f165d9)
 
@@ -8233,7 +8227,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Eu vou fazer como fez o Governador Tarcísio lá em São Paulo, que ele que o que criou a tabela SUS paulista. Com isso ele conseguiu reduzir em muito as filas. Ele conseguiu estimular os profissionais da saúde a trabalharem melhor. Ele deu dignidade para os profissionais e dignidade para os paulistas e paulistanos com um
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de redução em filas específicas e de contribuição da Tabela SUS Paulista, mas não se demonstra quanto da redução geral das filas decorreu da medida.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de redução em filas específicas e de contribuição da Tabela SUS Paulista, mas não se demonstra quanto da redução geral das filas decorreu da medida.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#6e29cb74-1055-45bb-a233-c14a78f09762)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -8246,7 +8240,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Chegou ao ponto de de falar a seguinte frase: "Se a comida tá cara, não compra".
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Lula orientou evitar produtos considerados caros, mas a afirmação generaliza a fala e omite a sugestão de substituí-los por similares mais baratos.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Lula orientou evitar produtos considerados caros, mas a afirmação generaliza a fala e omite a sugestão de substituí-los por similares mais baratos.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#0ce75dc5-eeb9-4825-a43f-08e929d0495f)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -8259,7 +8253,7 @@ Locutor conforme fonte: Lula.
 
 > e nós, desde o primeiro mês de mandato, nós criamos o primeiro Desenrola para resolver o problema da dívida, depois criamos o segundo e agora estamos criando o terceiro tema para fazer com que o povo se livre da dívida que ele contraiu por N motivos.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é verdadeira: o governo Lula lançou o primeiro Desenrola Brasil em 2023, que beneficiou cerca de 15 milhões de pessoas (entre dívidas quitadas, desnegativações de até R$ 100 e renegociações com desconto), e ampliou a iniciativa com novas edições e fases (Desenrola 2.0 / Pequenos Negócios / Fies), atingindo mais milhões de pessoas físicas, estudantes e microempreendedores.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é verdadeira: o governo Lula lançou o primeiro Desenrola Brasil em 2023, que beneficiou cerca de 15 milhões de pessoas (entre dívidas quitadas, desnegativações de até R$ 100 e renegociações com desconto), e ampliou a iniciativa com novas edições e fases (Desenrola 2.0 / Pequenos Negócios / Fies), atingindo mais milhões de pessoas físicas, estudantes e microempreendedores.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8271,7 +8265,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > São mais de 80 milhões de brasileiros que tão com as contas atrasadas
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Dados do Serasa mostram que, em agosto deste ano, o país apresentava 83,9 milhões de inadimplentes (página 4) — cerca de 51,06% da população adulta do país.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Dados do Serasa mostram que, em agosto deste ano, o país apresentava 83,9 milhões de inadimplentes (página 4) — cerca de 51,06% da população adulta do país.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#3ee164aa-ea71-4920-bcca-ad376155fa7f)
@@ -8285,7 +8279,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Que mundo você vive, candidato? Você não tá vendo que as pessoas tão parcelando até pizza no iFood em seis vezes.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidência de que o iFood oferece parcelamento e de que a opção foi usada, mas os dados não confirmam especificamente pedidos de pizza pagos em seis parcelas.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidência de que o iFood oferece parcelamento e de que a opção foi usada, mas os dados não confirmam especificamente pedidos de pizza pagos em seis parcelas.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#dcc26d2a-f903-41ab-95a8-aa88e0c54b17)
 
@@ -8297,7 +8291,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Por exemplo, a Caixa Econômica Federal tem mais de 11 milhões de contratos imobiliários. São mais de 30 milhões de pessoas atingidas. Sabe qual a maior reclamação lá na ouvidoria da Caixa Econômica Federal? Que eles estão pagando as parcelas há
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A possibilidade de o saldo aumentar apesar dos pagamentos é sustentada, mas não há dados que confirmem que essa seja a principal reclamação da Ouvidoria.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A possibilidade de o saldo aumentar apesar dos pagamentos é sustentada, mas não há dados que confirmem que essa seja a principal reclamação da Ouvidoria.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#8443981d-d2fa-47ef-b467-3b4d5576d760)
 
@@ -8309,7 +8303,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > tem mais de 11 milhões de contratos imobiliários. São mais de 30 milhões de pessoas atingidas. Sabe qual a maior reclamação
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O número de contratos informado diverge dos dados da Caixa; a cifra de pessoas abrangidas não foi confirmada.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O número de contratos informado diverge dos dados da Caixa; a cifra de pessoas abrangidas não foi confirmada.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#7984f7b0-9aa8-4273-a7c9-9722129abe92)
 
@@ -8321,7 +8315,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > você não vai entregar, como você prometeu a picanha e não entregou a picanha. Você prometeu devolver o poder de compra do brasileiro e não entregou, tá entregando dívida. Eu quero te falar que eu vou, eu tenho um plano para resolver a sua dívida. A Caixa Econômica Federal vai ser o banco
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não, o brasileiro não perdeu poder de compra nos últimos quatro anos (2022-2026): o rendimento médio real do trabalho subiu de cerca de R$ 3.100-3.300 em 2022 para cerca de R$ 3.777 em meados de 2026 (PNAD Contínua/IBGE), o salário mínimo avançou de R$ 1.212 para R$ 1.621 com ganhos reais acima da inflação, e o mínimo compra mais cestas básicas hoje do que em 2022 (ex.: 1,8 vs. 1,62 em São Paulo), enquanto a inflação (IPCA) desacelerou após os picos de 2021-2022, embora o poder de compra de alimentos ainda esteja abaixo dos níveis pré-pandemia em algumas medições.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não, o brasileiro não perdeu poder de compra nos últimos quatro anos (2022-2026): o rendimento médio real do trabalho subiu de cerca de R$ 3.100-3.300 em 2022 para cerca de R$ 3.777 em meados de 2026 (PNAD Contínua/IBGE), o salário mínimo avançou de R$ 1.212 para R$ 1.621 com ganhos reais acima da inflação, e o mínimo compra mais cestas básicas hoje do que em 2022 (ex.: 1,8 vs. 1,62 em São Paulo), enquanto a inflação (IPCA) desacelerou após os picos de 2021-2022, embora o poder de compra de alimentos ainda esteja abaixo dos níveis pré-pandemia em algumas medições.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8333,7 +8327,7 @@ Locutor conforme fonte: Lula.
 
 > Nós já mandamos a medida provisória, vamos fazer um leilão esse mês, um leilão que pode chegar a mais de 150 bilhões de reais para comprar as dívidas dos bancos dessas pessoas.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A medida provisória criou a 3ª fase do Programa Desenrola. O programa tem como meta atingir um volume total estimado de até R$ 150 bilhões em dívidas para renegociação,
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A medida provisória criou a 3ª fase do Programa Desenrola. O programa tem como meta atingir um volume total estimado de até R$ 150 bilhões em dívidas para renegociação,
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#b4a7990a-b881-4b71-b783-a5cdf9a064aa)
 
@@ -8345,7 +8339,7 @@ Locutor conforme fonte: Lula.
 
 > Nós fizemos a lei geral da pequena e média empresa. Porque nós queremos que o empreendedorismo vença nesse país. Nós
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: O presidente não menciona que a lei citada não é nova. Há 20 anos, Lula sancionou a Lei Complementar nº 123/2006, conhecida como a Lei Geral da Micro e Pequena Empresa. A legislação simplificou o recolhimento de impostos federais, estaduais e municipais, instituindo oficialmente o Simples Nacional.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. O presidente não menciona que a lei citada não é nova. Há 20 anos, Lula sancionou a Lei Complementar nº 123/2006, conhecida como a Lei Geral da Micro e Pequena Empresa. A legislação simplificou o recolhimento de impostos federais, estaduais e municipais, instituindo oficialmente o Simples Nacional.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#d26a7dea-bef6-47e3-8b62-8d1b38612a9b)
@@ -8359,7 +8353,7 @@ Locutor conforme fonte: Lula.
 
 > bets. Que eu sei que meu adversário não gostou, que eu sei que outras pessoas não gostaram, mas nós acabamos com as bets porque elas estavam virando um inferno na vida das pessoas, não só consumindo parte do dinheiro das pessoas, do leite, do pão da criança, mas também levando as pessoas a se orientarem, a tentarem se matar, a se enforcarem. Há pessoas que que que
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório sustenta que as apostas foram proibidas legalmente e que podem causar os danos mencionados, sem afirmar que isso ocorra com todos os apostadores ou que as operações clandestinas tenham desaparecido.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório sustenta que as apostas foram proibidas legalmente e que podem causar os danos mencionados, sem afirmar que isso ocorra com todos os apostadores ou que as operações clandestinas tenham desaparecido.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#823712b0-660f-4c64-b64a-e39b4b93c048)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#4f55dccd-4f0f-4e59-b2ea-9b4eb156ccfe)
@@ -8372,7 +8366,7 @@ Locutor conforme fonte: Lula.
 
 > ver se a gente consegue fazer com que o dinheiro que a pessoa ganha sobra para cuidar da família. E isso nós vamos levar muito a sério. Eu sei que vai ter muita briga. Eu sei que você poderá me ver contra acabar com as bets, mas nós vamos acabar com as bets para que sobre dinheiro para as pessoas viverem com a
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é parcialmente verdadeira (com distinção de modalidades): Flávio Bolsonaro se posicionou contra a proibição total das apostas esportivas (as bets de futebol), alegando respeito à segurança jurídica e a regras vigentes, mas defendeu proibir terminantemente os cassinos online (como o 'jogo do tigrinho'), apontando-os como causadores do endividamento das famílias.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é parcialmente verdadeira (com distinção de modalidades): Flávio Bolsonaro se posicionou contra a proibição total das apostas esportivas (as bets de futebol), alegando respeito à segurança jurídica e a regras vigentes, mas defendeu proibir terminantemente os cassinos online (como o 'jogo do tigrinho'), apontando-os como causadores do endividamento das famílias.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8384,7 +8378,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > candidato. Você zerou o orçamento federal para ensino integral
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O governo transferiu o custeio da política de escolas em tempo integral para dentro do Fundeb (Fundo de Manutenção e Desenvolvimento da Educação Básica), mantendo-o dentro da área da educação.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O governo transferiu o custeio da política de escolas em tempo integral para dentro do Fundeb (Fundo de Manutenção e Desenvolvimento da Educação Básica), mantendo-o dentro da área da educação.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8396,7 +8390,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Ele é o pai do Tigrinho, ele é o pai do
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Diferentemente do que aponta Flávio, a Lei 13.756/2018, que permite apostas no Brasil, foi sancionada pelo ex-presidente Michel Temer, em 2018. A legislação criou o sistema de apostas de quota fixa esportivas e deixou um prazo de até quatro anos para que o Ministério da Fazenda regulamentasse o mercado no país.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Diferentemente do que aponta Flávio, a Lei 13.756/2018, que permite apostas no Brasil, foi sancionada pelo ex-presidente Michel Temer, em 2018. A legislação criou o sistema de apostas de quota fixa esportivas e deixou um prazo de até quatro anos para que o Ministério da Fazenda regulamentasse o mercado no país.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -8410,7 +8404,7 @@ Locutor conforme fonte: Lula.
 
 > O Tigrinho foi criado por você em 2022.
 
-Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: As casas de apostas online foram legalizadas no Brasil em 2018, no final da gestão de Michel Temer (MDB). A legislação criou o sistema de apostas de quota fixa esportivas e deixou um prazo de até quatro anos para que o Ministério da Fazenda regulamentasse o mercado no país.
+Classificação reaproveitada de Lupa. Esta importação não representa uma nova apuração independente. As casas de apostas online foram legalizadas no Brasil em 2018, no final da gestão de Michel Temer (MDB). A legislação criou o sistema de apostas de quota fixa esportivas e deixou um prazo de até quatro anos para que o Ministério da Fazenda regulamentasse o mercado no país.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -8424,7 +8418,7 @@ Locutor conforme fonte: Lula.
 
 > porque é o financiamento mais barato. Todo mundo sabe que nós encontramos 5.600 creches paralisadas, escolas escolas de tempo integral, institutos federais paralisados. O ministro Camilo sabe o que ele teve
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é exagerada: dados do Ministério da Educação (MEC) e do FNDE registraram cerca de 3,6 mil obras da educação básica paralisadas ou inacabadas ao fim de 2022 (e não 5 mil). A cifra de 5 mil infla o dado somando quadras e reformas, e auditorias do TCU mostram que boa parte dos entraves vinha se arrastando desde gestões anteriores por abandono de empreiteiras.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é exagerada: dados do Ministério da Educação (MEC) e do FNDE registraram cerca de 3,6 mil obras da educação básica paralisadas ou inacabadas ao fim de 2022 (e não 5 mil). A cifra de 5 mil infla o dado somando quadras e reformas, e auditorias do TCU mostram que boa parte dos entraves vinha se arrastando desde gestões anteriores por abandono de empreiteiras.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -8439,7 +8433,7 @@ Locutor conforme fonte: Lula.
 
 > Inclusive, com o pé de meia fazendo com que 66% das crianças não desistissem mais da escola, o que é um avanço extraordinário.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: As evidências não sustentam que 66% das crianças deixaram de desistir da escola: o estudo citado estima que o programa evitaria cerca de uma em cada quatro evasões, e a fala também generaliza o público atendido.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. As evidências não sustentam que 66% das crianças deixaram de desistir da escola: o estudo citado estima que o programa evitaria cerca de uma em cada quatro evasões, e a fala também generaliza o público atendido.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#641cb0aa-a2fa-4d84-8de9-a6f199cdcb91)
 
@@ -8451,7 +8445,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > ensino superior. Não foi o presidente Bolsonaro, fomos nós que demos o maior reajuste da história para os professores, 33%.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Embora o reajuste de 33,24% fosse do piso do magistério, e não um aumento geral, Bolsonaro o oficializou; por isso, a negativa literal é contrariada.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Embora o reajuste de 33,24% fosse do piso do magistério, e não um aumento geral, Bolsonaro o oficializou; por isso, a negativa literal é contrariada.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#929f5ab0-4424-4cf6-a1b5-f9042956d7dc)
 
@@ -8463,7 +8457,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Eu quero falar para você que é mãe que precisa de uma vaga na creche. Você é uma dessas mães das mais de 1 milhão de crianças que não tem aonde deixar o seu filho, por isso você não consegue trabalhar, você tem dificuldade de de levar sustento para sua casa, eu vou garantir um auxílio creche para você.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O número de crianças com dificuldades de acesso à creche é sustentado, mas os dados não confirmam quantas têm mães impedidas de trabalhar por essa falta.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O número de crianças com dificuldades de acesso à creche é sustentado, mas os dados não confirmam quantas têm mães impedidas de trabalhar por essa falta.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#faf8be9e-8d2e-49a2-8153-ec52bfed8a16)
 
@@ -8475,7 +8469,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > desenvolvimento de aplicativos, tudo isso no contraturno, porque assim você vai ficar mais tempo na escola fazendo algo que vai ser importante para você. Fazer mais uma vez o governador Darcísio, lá em [limpando a garganta] São Paulo, eu vou retomar de uma forma integral os jogos estudantis brasileiros, os famosos JEBS, que nós resgatamos e esse é o atual governo minguou de novo. Eu vou retomar, inclusive garantindo que nos jogos estudantis brasileiros tenham os esportes eletrônicos, os e-sports, que hoje virou uma profissão. Isso também
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Enganosa. Os Jogos Escolares Brasileiros tradicionais deixaram de ser realizados após 2004, durante o primeiro governo Lula, mas a interrupção se estendeu por diferentes governos e ocorreu em meio a mudanças no formato das competições escolares nacionais. Outras competições ocuparam esse espaço nesse período. Os JEBs foram retomados em 2021, durante o governo Bolsonaro. Assim, dizer que “o PT acabou com os JEBs” simplifica a história e atribui exclusivamente a um partido uma interrupção de 17 anos.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Enganosa. Os Jogos Escolares Brasileiros tradicionais deixaram de ser realizados após 2004, durante o primeiro governo Lula, mas a interrupção se estendeu por diferentes governos e ocorreu em meio a mudanças no formato das competições escolares nacionais. Outras competições ocuparam esse espaço nesse período. Os JEBs foram retomados em 2021, durante o governo Bolsonaro. Assim, dizer que “o PT acabou com os JEBs” simplifica a história e atribui exclusivamente a um partido uma interrupção de 17 anos.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#ed55dbc3-f2ec-4bc6-904c-12f3cdbf68e3)
@@ -8488,7 +8482,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > governo minguou de novo. Eu vou retomar, inclusive garantindo que nos jogos estudantis brasileiros tenham os esportes eletrônicos, os e-sports, que hoje virou uma profissão. Isso também
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O relatório sustenta que e-sports pode ser uma atividade profissional remunerada; as ressalvas sobre regulamentação não contradizem essa afirmação.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O relatório sustenta que e-sports pode ser uma atividade profissional remunerada; as ressalvas sobre regulamentação não contradizem essa afirmação.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#446c3ea7-f26d-4f3b-ad18-4045ad93b01f)
 
@@ -8500,7 +8494,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > porque hoje, vocês sabem, né, que grande parte dos alunos concluem o ensino fundamental ou o ensino médio tem dificuldade, tanto é que a nota do PISA no Brasil é uma das piores da história com o atual governo. Então, eu vou
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é falsa: o baixo desempenho no Pisa é um problema histórico e estrutural do Brasil desde o início da avaliação em 2000, e não exclusividade de um governo. Os testes avaliam alunos de 15 anos — reflexo de toda a trajetória na educação básica —, com notas estagnadas sob FHC, Lula, Dilma, Temer e Bolsonaro, mantendo o país historicamente no terço inferior do ranking da OCDE.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é falsa: o baixo desempenho no Pisa é um problema histórico e estrutural do Brasil desde o início da avaliação em 2000, e não exclusividade de um governo. Os testes avaliam alunos de 15 anos — reflexo de toda a trajetória na educação básica —, com notas estagnadas sob FHC, Lula, Dilma, Temer e Bolsonaro, mantendo o país historicamente no terço inferior do ranking da OCDE.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#d2d00876-5868-4ecc-a086-f8758cd40ae8)
@@ -8513,7 +8507,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > para a cadeia depois da saidinha. Você é uma pessoa ali que é contra a redução da maioridade penal, você é contra classificar Comando Vermelho, PCC e milícias como organizações terroristas.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A afirmação é desatualizada: historicamente, Lula e o PT sempre se opuseram à redução da maioridade penal. Contudo, em sabatina recente em outubro de 2026, Lula mudou de posição e declarou ser a favor de reduzir a maioridade para 16 anos exclusivamente em casos de crimes hediondos (como estupro e latrocínio), defendendo que o debate ocorra em texto separado da PEC da Segurança.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A afirmação é desatualizada: historicamente, Lula e o PT sempre se opuseram à redução da maioridade penal. Contudo, em sabatina recente em outubro de 2026, Lula mudou de posição e declarou ser a favor de reduzir a maioridade para 16 anos exclusivamente em casos de crimes hediondos (como estupro e latrocínio), defendendo que o debate ocorra em texto separado da PEC da Segurança.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#e34f461e-4726-4bb0-ac1d-5d81355393c1)
@@ -8528,7 +8522,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > maioridade penal, você é contra classificar Comando Vermelho, PCC e milícias como organizações terroristas.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que Lula e seu governo rejeitaram o enquadramento legal do PCC e do Comando Vermelho como organizações terroristas, embora reconheçam os efeitos de suas ações sobre comunidades.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que Lula e seu governo rejeitaram o enquadramento legal do PCC e do Comando Vermelho como organizações terroristas, embora reconheçam os efeitos de suas ações sobre comunidades.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#24683875-2b95-49fe-994b-e10abb2b7c2b)
 
@@ -8540,7 +8534,7 @@ Locutor conforme fonte: Lula.
 
 > evita que um policial assassino que era para ser julgado agora dia 21 não fosse julgado. O que leva um senador a defender um policial que deu um tiro de fuzil numa menina de 5 anos? Explica, que figura é essa? Que território é esse? O território da bala?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Verdadeira, com ressalvas. Flávio Bolsonaro integrou a defesa do policial militar Bruno Dias Delaroli, acusado pelo Ministério Público do Rio de Janeiro de matar Ana Clara Gomes Machado, de cinco anos, com um disparo de fuzil em Niterói, em 2021. Em 2024, Flávio assinou um recurso contra a decisão de levar o caso a júri popular, mas o STJ rejeitou o pedido. A afirmação de que ele defendeu juridicamente o policial é comprovada.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Verdadeira, com ressalvas. Flávio Bolsonaro integrou a defesa do policial militar Bruno Dias Delaroli, acusado pelo Ministério Público do Rio de Janeiro de matar Ana Clara Gomes Machado, de cinco anos, com um disparo de fuzil em Niterói, em 2021. Em 2024, Flávio assinou um recurso contra a decisão de levar o caso a júri popular, mas o STJ rejeitou o pedido. A afirmação de que ele defendeu juridicamente o policial é comprovada.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#3e1a8d88-cab1-40f0-a002-c2e882e03c80)
@@ -8553,7 +8547,7 @@ Locutor conforme fonte: Lula.
 
 > evita que um policial assassino que era para ser julgado agora dia 21 não fosse julgado.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Embora o julgamento tenha sido remarcado, não há evidência de que Flávio Bolsonaro tenha causado o adiamento; a justificativa informada foi outro compromisso da juíza.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Embora o julgamento tenha sido remarcado, não há evidência de que Flávio Bolsonaro tenha causado o adiamento; a justificativa informada foi outro compromisso da juíza.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#e4fa438b-b3e5-4582-9330-41457b0ace42)
 
@@ -8565,7 +8559,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > >> Sabe o que aconteceu ali? É um território dominado por esses narcoterroristas que ele defende.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Não há registro de Lula defendendo facções criminosas.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Não há registro de Lula defendendo facções criminosas.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#fe9bde2a-4b8a-47bd-9308-760565a64562)
 
@@ -8577,7 +8571,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Ana Clara, eu quero falar para a senhora, prestar de verdade a minha solidariedade por uma tragédia o que aconteceu. Não consigo imaginar o que é perder uma filha de 5 anos de idade. Eu tenho uma filha de 14 e uma filha de 12. Era uma troca de tiros numa comunidade conflagrada. A senhora sabe que tem o tráfico de drogas aí. E o o que eu estou
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Porém Ana Clara foi a vítima e não estava presente.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Porém Ana Clara foi a vítima e não estava presente.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
@@ -8590,7 +8584,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > perder uma filha de 5 anos de idade. Eu tenho uma filha de 14 e uma filha de 12. Era uma troca de tiros numa comunidade conflagrada. A senhora sabe que tem o
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Ana Clara Gomes Machado, de apenas cinco anos, morreu em 2 de fevereiro de 2021, após ser atingida por um tiro de fuzil enquanto brincava na porta de casa com o irmão de dois anos, na comunidade Monan Pequeno, em Niterói (RJ). A perícia não encontrou evidências de confronto armado: não havia marcas de tiros na viatura policial e foram recolhidos apenas estojos de munição de fuzil compatíveis com o armamento dos policiais. Testemunhas também relataram que os policiais chegaram atirando
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Ana Clara Gomes Machado, de apenas cinco anos, morreu em 2 de fevereiro de 2021, após ser atingida por um tiro de fuzil enquanto brincava na porta de casa com o irmão de dois anos, na comunidade Monan Pequeno, em Niterói (RJ). A perícia não encontrou evidências de confronto armado: não havia marcas de tiros na viatura policial e foram recolhidos apenas estojos de munição de fuzil compatíveis com o armamento dos policiais. Testemunhas também relataram que os policiais chegaram atirando
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#04f764b5-467b-4da9-a5a7-3ef9a31b52a2)
 
@@ -8602,7 +8596,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > quase que integralmente. Porque hoje a sua política é de desencarceramento. O que que é isso? Não tem vaga em presídio, solta todo o mundo. Comigo vai ser diferente. O
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há déficit de vagas e o plano prevê alternativas à prisão nos casos previstos em lei, mas isso não significa soltar todos por falta de vagas.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há déficit de vagas e o plano prevê alternativas à prisão nos casos previstos em lei, mas isso não significa soltar todos por falta de vagas.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#68ee781f-8da8-4e29-aae5-03469fc5b424)
 
@@ -8614,7 +8608,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > ao trabalho e saber como é difícil comprar o celular. E hoje ladrão de celular não fica preso por causa da audiência de custódia, que mais das vezes foi o CNJ durante o governo de esquerda que criou, inclusive, quando tinha na presidência lá o ex-ministro da Justiça dele, o senhor Ricardo Lewandowski. Eu vou tratar bandido como bandido. A redução da maioridade penal
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A audiência de custódia não impede a prisão: a decisão depende da análise judicial das circunstâncias e dos requisitos legais.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A audiência de custódia não impede a prisão: a decisão depende da análise judicial das circunstâncias e dos requisitos legais.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#2ca3fcd6-c096-4168-b116-8c7fd977303c)
 
@@ -8626,7 +8620,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > esses marginais, diferente desse atual governo, que fala que o ladrão de celular não tem que ser preso porque é só para roubar uma cervejinha.
 
-Classificação reaproveitada de Lupa, Estadão Verifica. Esta importação não representa uma nova apuração independente. Apuração registrada no Quem Mentiu: Lula não defendeu o roubo de celulares para “tomar uma cervejinha” nem a impunidade dos responsáveis. A alegação é falsa e já foi desmentida pela Lupa em 2020.
+Classificação reaproveitada de Lupa, Estadão Verifica. Esta importação não representa uma nova apuração independente. Lula não defendeu o roubo de celulares para “tomar uma cervejinha” nem a impunidade dos responsáveis. A alegação é falsa e já foi desmentida pela Lupa em 2020.
 
 - [Lupa](https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/)
 - [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/debate-tv-globo-checagem-tempo-real-ao-vivo/#estadao-ba2e7aa3)
@@ -8641,7 +8635,7 @@ Locutor conforme fonte: Lula.
 
 > Todo mundo assiste os discursos dele na Assembleia Legislativa defendendo miliciano, oferecendo condecoração para para miliciano, dando emprego para mãe do chefe do gabinete do Odebrecht para ir para a mãe.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Em 2003, quando era deputado estadual no Rio de Janeiro, Flávio apresentou uma moção de louvor ao policial militar Adriano da Nóbrega. Em 2005, concedeu a ele a Medalha Tiradentes, maior honraria da Assembleia Legislativa do Rio de Janeiro (Alerj). Na época da condecoração, Adriano estava preso por acusação de homicídio. Anos depois, foi apontado pelo Ministério Público do Rio de Janeiro como líder de milícia e do grupo conhecido como Escritório do Crime. Flávio empregou a mãe e a esposa de Adriano da Nóbrega. As duas trabalharam no gabinete de Flávio na Alerj.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Em 2003, quando era deputado estadual no Rio de Janeiro, Flávio apresentou uma moção de louvor ao policial militar Adriano da Nóbrega. Em 2005, concedeu a ele a Medalha Tiradentes, maior honraria da Assembleia Legislativa do Rio de Janeiro (Alerj). Na época da condecoração, Adriano estava preso por acusação de homicídio. Anos depois, foi apontado pelo Ministério Público do Rio de Janeiro como líder de milícia e do grupo conhecido como Escritório do Crime. Flávio empregou a mãe e a esposa de Adriano da Nóbrega. As duas trabalharam no gabinete de Flávio na Alerj.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#9da1eb8b-6a11-4907-9fb2-c1a92f16ed9a)
 
@@ -8653,7 +8647,7 @@ Locutor conforme fonte: Lula.
 
 > Todo mundo assiste os discursos dele na Assembleia Legislativa defendendo miliciano, oferecendo condecoração para para miliciano, dando emprego para mãe do chefe do gabinete do Odebrecht para ir para a mãe.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Em 7 de fevereiro de 2007, durante discurso na tribuna da Assembleia Legislativa do Rio de Janeiro (Alerj), o então deputado estadual Flávio Bolsonaro defendeu publicamente a atuação de grupos milicianos, classificando-os à época como uma suposta "nova forma de policiamento" que traria benefícios aparentes à população. Esse histórico também engloba a entrega de homenagens, como a Medalha Tiradentes em setembro de 2005, e a nomeação de familiares de Adriano da Nóbrega — ex-capitão do Bope e apontado como chefe de milícia —, cujas mãe e ex-esposa integraram o quadro de assessores de seu gabinete parlamentar entre 2015 e 2018.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Em 7 de fevereiro de 2007, durante discurso na tribuna da Assembleia Legislativa do Rio de Janeiro (Alerj), o então deputado estadual Flávio Bolsonaro defendeu publicamente a atuação de grupos milicianos, classificando-os à época como uma suposta "nova forma de policiamento" que traria benefícios aparentes à população. Esse histórico também engloba a entrega de homenagens, como a Medalha Tiradentes em setembro de 2005, e a nomeação de familiares de Adriano da Nóbrega — ex-capitão do Bope e apontado como chefe de milícia —, cujas mãe e ex-esposa integraram o quadro de assessores de seu gabinete parlamentar entre 2015 e 2018.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#b9f494dd-4460-499d-b274-888aaf3e0e16)
 
@@ -8665,7 +8659,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > para você que muitas vezes você tem dificuldade de deixar a sua casa porque você é agredida, você não tem dinheiro para pagar um aluguel e sair de casa, levar o seu filho, levar a sua filha. Eu vou garantir autonomia financeira para você. Eu vou criar a casa da mulher brasileira, aonde você
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Apesar de conter o tópico chamado Tolerância Zero ao Feminicídio, o plano de governo do candidato Flavio Bolsonaro não especifica quais medidas irá tomar para combate a violência contra mulheres.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apesar de conter o tópico chamado Tolerância Zero ao Feminicídio, o plano de governo do candidato Flavio Bolsonaro não especifica quais medidas irá tomar para combate a violência contra mulheres.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#6fb8cd3a-0d0f-4b14-a8a8-2229e58c64a9)
 
@@ -8677,7 +8671,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > financeira para você. Eu vou criar a casa da mulher brasileira, aonde você
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Este programa já existe desde 2015, tendo sido implementado originalmente no governo Dilma Rousseff, e reúne em um mesmo espaço serviços especializados para mulheres vítimas de violência.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Este programa já existe desde 2015, tendo sido implementado originalmente no governo Dilma Rousseff, e reúne em um mesmo espaço serviços especializados para mulheres vítimas de violência.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8689,7 +8683,7 @@ Locutor conforme fonte: Lula.
 
 > que era amigo do meu adversário, advogado e que tinha indicado o diretor do SPU que era um coronel e apenas uma semana conseguiu o título de uma propriedade, uma autorização que o pai do Zé não conseguiu. Eu queria que me explicasse como é que vocês tomaram a ilha >> [limpando a garganta] >> do Richardson.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: parcialmente verdade, há uma disputa judicial em andamento para a apuração dos fatos. O processo de posse que geralmente demora muito tempo foi feito em menos de uma semana para Willer Tomaz. Referencias: https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. parcialmente verdade, há uma disputa judicial em andamento para a apuração dos fatos. O processo de posse que geralmente demora muito tempo foi feito em menos de uma semana para Willer Tomaz. Referencias: https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8701,7 +8695,7 @@ Locutor conforme fonte: Lula.
 
 > e apenas uma semana conseguiu o título de uma propriedade, uma autorização que o pai do Zé não conseguiu. Eu queria
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A fala cita o jogador Richarlison, conhecido nas redes sociais como "O pai do bebê". O jogador relata que não aceitou proposta de venda da propriedade e foi supreendido por uma manobra judicial de Willer Tomaz, que conseguiu a posse da ilha em 24h.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A fala cita o jogador Richarlison, conhecido nas redes sociais como "O pai do bebê". O jogador relata que não aceitou proposta de venda da propriedade e foi supreendido por uma manobra judicial de Willer Tomaz, que conseguiu a posse da ilha em 24h.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#3cf7c7b1-03d7-487d-bcbb-d2ee28d2c27f)
 
@@ -8713,7 +8707,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > A justiça já investigou isso, essa ação já transitou em julgado, já tem decisão definitiva. Essa ilha nunca foi do Richardson. E outra coisa, o Willer é um amigo. Não é meu sócio, o sócio dele é o seu
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Existe uma disputa judicial mas não comprova que todas as possíveis irregularidades já tenham sido investigadas e definitivamente esclarecidas. Pelo contrário, a Polícia Federal iniciou uma nova apuração para verificar as circunstâncias da transferência dos direitos sobre o imóvel e a atuação da SPU. Porém, há documentos relativos à aquisição de direitos possessórios, e o encerramento da ação sem julgamento do mérito não comprova que Richarlison nunca teve esses direitos. A Polícia Federal investiga a suspeita de que Flávio Bolsonaro tenha mantido uma participação econômica ou societária não declarada em negócios do advogado e empresário…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Existe uma disputa judicial mas não comprova que todas as possíveis irregularidades já tenham sido investigadas e definitivamente esclarecidas. Pelo contrário, a Polícia Federal iniciou uma nova apuração para verificar as circunstâncias da transferência dos direitos sobre o imóvel e a atuação da SPU. Porém, há documentos relativos à aquisição de direitos possessórios, e o encerramento da ação sem julgamento do mérito não comprova que Richarlison nunca teve esses direitos. A Polícia Federal investiga a suspeita de que Flávio Bolsonaro tenha mantido uma participação econômica ou societária não declarada em negócios do advogado e empresário…
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#e2e573af-0326-4c97-a589-b940a7c45b8a)
 
@@ -8725,7 +8719,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Essa ilha nunca foi do Richardson. E outra coisa, o Willer é um amigo. Não é meu sócio, o sócio dele é o seu o seu advogado. É o seu, é o ex-ministro da Dilma chamado Eugênio Aragão. Ele é sócio agora. Você falou no outro bloco
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há vínculos documentados entre Willer e Flávio, a relação entre eles é alvo de investigações da Polícia Federal (PF) e tramita no Supremo Tribunal Federal (STF).
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há vínculos documentados entre Willer e Flávio, a relação entre eles é alvo de investigações da Polícia Federal (PF) e tramita no Supremo Tribunal Federal (STF).
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#75ae58a8-0db7-49e9-956a-e881dbc458b9)
 
@@ -8737,7 +8731,7 @@ Locutor conforme fonte: Lula.
 
 > >> O o o Willer não é apenas amigo. Pelo que parece ele é seu sócio.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A Polícia Federal investiga a suspeita de que Flávio Bolsonaro tenha mantido uma participação econômica ou societária não declarada em negócios do advogado e empresário Willer Tomaz. Segundo relatório da PF encaminhado ao Supremo Tribunal Federal (STF), Flávio aparecia como “usuário master” de uma conta bancária da Alcazar Holdings, empresa ligada a Willer e registrada na Ilha da Madeira, em Portugal. Esse tipo de acesso poderia permitir ao senador um nível elevado de gerenciamento da conta. A investigação também identificou viagens em jatos particulares custeadas por empresas ligadas a Willer, além de outros vínculos comerciais e pessoais…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A Polícia Federal investiga a suspeita de que Flávio Bolsonaro tenha mantido uma participação econômica ou societária não declarada em negócios do advogado e empresário Willer Tomaz. Segundo relatório da PF encaminhado ao Supremo Tribunal Federal (STF), Flávio aparecia como “usuário master” de uma conta bancária da Alcazar Holdings, empresa ligada a Willer e registrada na Ilha da Madeira, em Portugal. Esse tipo de acesso poderia permitir ao senador um nível elevado de gerenciamento da conta. A investigação também identificou viagens em jatos particulares custeadas por empresas ligadas a Willer, além de outros vínculos comerciais e pessoais…
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#a3abb721-c652-45c6-8147-c2b31cbe2bfb)
 
@@ -8749,7 +8743,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > com a polícia? Você falou que vai acabar com a polícia. É só PEC aqui, é, que
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O governo de Lula não defende o fim das forças policiais, mas sim a integração das polícias por meio de propostas como a PEC da Segurança Pública (que busca ampliar a atuação conjunta da União, Polícia Federal, Polícia Rodoviária Federal e Polícia Penal) e o estímulo a mecanismos de controle e transparência, como o uso de câmeras corporais - https://noticias.uol.com.br/confere/ultimas-noticias/2023/01/20/flavio-dino-extincao-policia-militar-checagem.htm
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O governo de Lula não defende o fim das forças policiais, mas sim a integração das polícias por meio de propostas como a PEC da Segurança Pública (que busca ampliar a atuação conjunta da União, Polícia Federal, Polícia Rodoviária Federal e Polícia Penal) e o estímulo a mecanismos de controle e transparência, como o uso de câmeras corporais - https://noticias.uol.com.br/confere/ultimas-noticias/2023/01/20/flavio-dino-extincao-policia-militar-checagem.htm
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#74f86f98-7302-41d8-b147-aced92cf91e3)
@@ -8762,7 +8756,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > com a polícia. É só PEC aqui, é, que você chamou de segurança era para controlar as polícias e nós modificamos no congresso para controlar os bandidos.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A proposta foi endurecida no Congresso, mas o combate ao crime já constava do texto original; por isso, a oposição entre controlar as polícias e combater criminosos não se sustenta.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A proposta foi endurecida no Congresso, mas o combate ao crime já constava do texto original; por isso, a oposição entre controlar as polícias e combater criminosos não se sustenta.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#466ddbc6-a8c6-4b90-a86c-a756c44f96cf)
 
@@ -8774,7 +8768,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > >> Bom, Lula, eu vou falar pela terceira vez. Pela terceira vez. Eu não tenho absolutamente nada a ver com isso.
 
-Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. Apuração registrada no Quem Mentiu: A afirmação é falsa: o coronel do Exército Paulo da Silva Medeiros, que chefiou a Superintendência do Patrimônio da União no Rio de Janeiro (SPU-RJ) a partir de 2019 e durante as decisões sobre o imóvel em Angra dos Reis, foi alçado ao cargo por apadrinhamento e indicação política direta de Flávio Bolsonaro: https://revistaforum.com.br/politica/mansao-em-angra-favorecimento-willer-tomaz-flavio-bolsonaro/
+Há divergência relevante entre a citação publicada e a legenda automática. A conclusão depende de conferência do áudio. A afirmação é falsa: o coronel do Exército Paulo da Silva Medeiros, que chefiou a Superintendência do Patrimônio da União no Rio de Janeiro (SPU-RJ) a partir de 2019 e durante as decisões sobre o imóvel em Angra dos Reis, foi alçado ao cargo por apadrinhamento e indicação política direta de Flávio Bolsonaro: https://revistaforum.com.br/politica/mansao-em-angra-favorecimento-willer-tomaz-flavio-bolsonaro/
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8786,7 +8780,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > que vale 500 mil reais, meio milhão de reais. Você tem noção do que que é isso? Uma garrafa de uísque meio milhão de reais. Conta aqui para o público, é, que nunca vai ter oportunidade de experimentar um
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há mensagens liberadas pela policia federal de uma encomenda do Daniel Vorcaro, mas não há provas que o presente foi entregue. https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há mensagens liberadas pela policia federal de uma encomenda do Daniel Vorcaro, mas não há provas que o presente foi entregue. https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8798,7 +8792,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > porque ele não está sabendo ainda. A Polícia Federal acabou de fazer um relatório, a Polícia Federal dele, dizendo, sabe o quê? Sobre esse filme do presidente Bolsonaro que não tem dinheiro público nele, que o dinheiro foi todo investido no próprio filme. Esse relatório da polícia está dizendo que não teve contrapartida nenhuma pelo fato de eu ser senador da república. E
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Investigação identificou que empresa de Fabiano Zettel, ex-pastor e braço-direito de Vorcaro, mandou R$ 12 milhões para a Entre Investimentos na véspera da primeira remessa aos EUA para pagar o filme sobre Jair Bolsonaro. Parte do dinheiro que Daniel Vorcaro enviou para os Estados Unidos para bancar o filme “Dark Horse”, a cinebiografia do ex-presidente Jair Bolsonaro, saiu de uma empresa de Fabiano Zettel ligada diretamente à fraude do banco Master. A conclusão é da Polícia Federal, em um despacho de 15 de outubro de 2026, obtido pelo Intercept Brasil. -…
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Investigação identificou que empresa de Fabiano Zettel, ex-pastor e braço-direito de Vorcaro, mandou R$ 12 milhões para a Entre Investimentos na véspera da primeira remessa aos EUA para pagar o filme sobre Jair Bolsonaro. Parte do dinheiro que Daniel Vorcaro enviou para os Estados Unidos para bancar o filme “Dark Horse”, a cinebiografia do ex-presidente Jair Bolsonaro, saiu de uma empresa de Fabiano Zettel ligada diretamente à fraude do banco Master. A conclusão é da Polícia Federal, em um despacho de 15 de outubro de 2026, obtido pelo Intercept Brasil. -…
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#7c939086-e252-4de4-a9e4-e750a51a863b)
@@ -8811,7 +8805,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Esse relatório da polícia está dizendo que não teve contrapartida nenhuma pelo fato de eu ser senador da república. E
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os registros citados não apontavam contrapartida, mas isso não equivale a uma conclusão definitiva da PF; a investigação permanecia aberta.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os registros citados não apontavam contrapartida, mas isso não equivale a uma conclusão definitiva da PF; a investigação permanecia aberta.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#ab1c88da-8aca-4351-91dd-ce44a5ee4477)
 
@@ -8823,7 +8817,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > áudio do Bocaia. O O filme do Bolsonaro foi tudo direitinho, bonitinho. O seu recebeu 30 milhões de reais por fora, Lula. Explica esses 30 milhões onde é que foram parar porque segundo o áudio foi para o Instituto Lula para fazer o
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Falso, os próprios advogados de Daniel Vorcaro negaram a afirmação - https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Falso, os próprios advogados de Daniel Vorcaro negaram a afirmação - https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8835,7 +8829,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > Ele, simplesmente, o assessor dele articulou para que o dinheiro dos fundos de pensão da Caixa do Banco do Brasil e dos Correios fosse investido no Banco Master. E olha que teve ato de ofício, hein? Teve ato do governo para poder aceitar as ações do Banco Master como investimento de risco, para que os fundos pudessem investir. Sabe qual era o valor, gente? 10 bilhões de reais a serem investidos do dinheiro dos aposentados no Banco Master? Sabe qual foi a propina que eles cobraram? 10% 1 bilhão de reais. Lula, seu governo
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Há evidências de tentativas de captar recursos e de articulações, mas os valores e a cobrança de propina são relatos não confirmados independentemente. Os investimentos pretendidos não se concretizaram, e há confusões sobre os fundos e a medida governamental citados.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Há evidências de tentativas de captar recursos e de articulações, mas os valores e a cobrança de propina são relatos não confirmados independentemente. Os investimentos pretendidos não se concretizaram, e há confusões sobre os fundos e a medida governamental citados.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#5e031e28-7d32-4e39-b3e8-79285b7e809a)
 
@@ -8847,7 +8841,7 @@ Locutor conforme fonte: Lula.
 
 > Você vê que eu comecei perguntando da reunião com a vacina Covaxin. Eu comecei perguntando se ele estava no barco ou não. Ele sabe que ele estava no barco. No dia que morreu 1.100 pessoas. No dia que morreu 600.000 pessoas, sabe, no Brasil por causa da Covid, ele estava no barco negociando com dois empresários.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O episódio refere-se a uma investigação jornalística detalhada sobre um passeio de barco no Lago Paranoá (Brasília) em 17 de julho de 2020, no auge da pandemia de Covid-19, quando o país registrava mais de mil mortes diárias pela doença (1.299 mortes registradas pelo consórcio de imprensa na véspera e 1.110 no próprio dia) - https://piaui.uol.com.br/web/flavio-bolsonaro-churrasco-lancha-vacina/
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O episódio refere-se a uma investigação jornalística detalhada sobre um passeio de barco no Lago Paranoá (Brasília) em 17 de julho de 2020, no auge da pandemia de Covid-19, quando o país registrava mais de mil mortes diárias pela doença (1.299 mortes registradas pelo consórcio de imprensa na véspera e 1.110 no próprio dia) - https://piaui.uol.com.br/web/flavio-bolsonaro-churrasco-lancha-vacina/
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8859,7 +8853,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > qual foi o endereço que o seu filho colocou naquela procuração, naquele dia do desafio Mequetrefe que você fez, a maior fraude eleitoral que esse país já viu. O seu filho colocou como endereço o João um imóvel em São Paulo que pode valer até 15 milhões de reais. Ele disse que mora nesse imóvel. E sabe quem é o real proprietário desse imóvel? Jonas
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: O endereço e a propriedade são corroborados, mas o valor de R$ 15 milhões não foi avaliado especificamente, e o endereço declarado não comprova residência efetiva em São Paulo.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. O endereço e a propriedade são corroborados, mas o valor de R$ 15 milhões não foi avaliado especificamente, e o endereço declarado não comprova residência efetiva em São Paulo.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#503c5f36-44d7-4030-9452-dda18263634b)
 
@@ -8871,7 +8865,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > até 15 milhões de reais. Ele disse que mora nesse imóvel. E sabe quem é o real proprietário desse imóvel? Jonas Suassuna. Coincidentemente, o mesmo dono do sítio de Atibaia. Explica por que que seu filho, seu filho é sócio do Jonas Suassuna?
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Jonas Suassuna é proprietário de uma das áreas do sítio de Atibaia, não do imóvel inteiro.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Jonas Suassuna é proprietário de uma das áreas do sítio de Atibaia, não do imóvel inteiro.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#fef32a3c-4d60-495c-84c4-c4d995afc8bb)
 
@@ -8883,7 +8877,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > é você. Minha documentação tá toda lá.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Flávio Bolsonaro sinalizou autorizações para abertura de sigilos, mas os dados propriamente ditos não foram disponibilizados; assim, não se confirma que documentação mencionada esteja disponível.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Flávio Bolsonaro sinalizou autorizações para abertura de sigilos, mas os dados propriamente ditos não foram disponibilizados; assim, não se confirma que documentação mencionada esteja disponível.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#42a5c868-0101-413e-aae6-60ba28222313)
 
@@ -8895,7 +8889,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > oculto. Você foi condenado por ocultação de patrimônio, Lula. Você tirou tudo do
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Parcialmente verdadeiro, apesar do presidente Lula ter sido condenado, o STF anulou todas as condenações impostas pela 13ª Vara Federal de Curitiba, declarando que o juízo de Curitiba era incompetente para julgar esses casos..
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Parcialmente verdadeiro, apesar do presidente Lula ter sido condenado, o STF anulou todas as condenações impostas pela 13ª Vara Federal de Curitiba, declarando que o juízo de Curitiba era incompetente para julgar esses casos..
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#d0407e40-d5a6-4556-b27a-45ca804a28f1)
@@ -8910,7 +8904,7 @@ Locutor conforme fonte: Lula.
 
 > E você consegue comprar uma casa de 10 milhões de reais? Me conta. Não teve
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A compra da mansão está comprovada, o valor varia conforme fonte.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A compra da mansão está comprovada, o valor varia conforme fonte.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#96bd506f-fe94-4d54-9f37-12abd57ccbb1)
 
@@ -8922,7 +8916,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > esse dinheiro. >> Meu trabalho pra ganhar sou advogado, sou empresário. Há 24 anos. Eu sou deputado e senador.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Os registros citados não sustentam 24 anos de atividade empresarial, a origem dos recursos para a compra não foi integralmente comprovada. Levantamentos apontam que Flávio Bolsonaro construiu patrimônio antes de ser empresário.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Os registros citados não sustentam 24 anos de atividade empresarial, a origem dos recursos para a compra não foi integralmente comprovada. Levantamentos apontam que Flávio Bolsonaro construiu patrimônio antes de ser empresário.
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#6505bd23-a8e0-4cbb-bf29-d07cc4184974)
 
@@ -8934,7 +8928,7 @@ Locutor conforme fonte: Flávio Bolsonaro.
 
 > dele tá lá, na Europa, tá na Espanha. O Lulinha, ele mora no mesmo bairro lá do Vini Júnior, um jogador de futebol famoso, que venceu na vida, que tem condições de morar num lugar caro, mas o Lulinha tá lá morando num lugar caro. Quem tá
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: Verdadeiro, Fábio Luís Lula da Silva, o Lulinha, mora no bairro de La Moraleja, uma área residencial de alto padrão no município de Alcobendas, na região metropolitana de Madri, na Espanha.
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Verdadeiro, Fábio Luís Lula da Silva, o Lulinha, mora no bairro de La Moraleja, uma área residencial de alto padrão no município de Alcobendas, na região metropolitana de Madri, na Espanha.
 
 - [Verifique os Fatos](https://verifiqueosfatos.com/)
 
@@ -8946,7 +8940,7 @@ Locutor conforme fonte: Lula.
 
 > Comecei a trabalhar com 12 anos de idade.
 
-Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. Apuração registrada no Quem Mentiu: A conclusão afirma que Lula começou a trabalhar aos 12 anos numa tinturaria;
+Não há neste registro uma checagem editorial com link específico suficiente para uma conclusão própria. Classificações automatizadas ou links genéricos foram preservados como contexto. A conclusão afirma que Lula começou a trabalhar aos 12 anos numa tinturaria;
 
 - [Checagem Ao Vivo (IA)](https://checagemaovivo.org/#991e72a5-804a-4cd8-85f6-65007e44ce4d)
 
@@ -8954,7 +8948,7 @@ Correspondência textual conferida; preservada a legenda original. Locutor atrib
 
 ## Limitações
 
-- Importação solicitada pelo responsável pelo Quem Mentiu. Os juízos pertencem aos veículos citados; não houve nova apuração independente de todas as fontes primárias.
+- Os juízos pertencem aos veículos citados; não houve nova apuração independente de todas as fontes primárias.
 - A transcrição fornecida é automática e foi mantida integralmente, sem revisão integral do áudio. Números, nomes, negações e identificação de voz podem conter erros.
 - O acervo de origem já agrupa fontes. Não use maioria de veículos como prova factual. Divergências editoriais foram mantidas inconclusivas.
 - Uma checagem automatizada isolada e uma página inicial sem permalink não sustentam conclusão própria; aparecem como contexto com classificação inconclusiva.

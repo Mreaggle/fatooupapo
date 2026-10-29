@@ -13,7 +13,6 @@ function DebateCard({ debate, featured }: { debate: RecentDebate; featured: bool
       <div className="recent-debate__thumbnail relative flex aspect-video items-center justify-center overflow-hidden bg-white/5">
         <MessageSquareQuote size={40} className="absolute text-faint" aria-hidden="true" />
         {!imageFailed && <img src={debate.video.thumbnailUrl} alt="" width={640} height={360} loading="lazy" decoding="async" className="relative z-10 h-full w-full object-cover transition-transform group-hover:scale-[1.03]" onError={() => setImageFailed(true)} />}
-        {debate.coverageKind && <span className="absolute bottom-3 left-3 z-20 rounded bg-background/90 px-2.5 py-1 text-[11px] font-medium text-foreground">{debate.coverageKind === 'selected-claims' ? 'Checagem parcial' : 'Inventário checado'}</span>}
       </div>
       <div className="flex flex-1 flex-col p-5">
         <p className="text-xs text-muted">{debate.video.channel}</p>

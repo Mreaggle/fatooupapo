@@ -16,7 +16,7 @@ describe('galeria de debates checados', () => {
     const link = await screen.findByRole('link', { name: index.reports.q4T7plSBdJE.video.title })
     expect(link).toHaveAttribute('href', '?v=q4T7plSBdJE')
     expect(link).toHaveTextContent('48 afirmações analisadas')
-    expect(within(link).getByText('Checagem parcial')).toBeInTheDocument()
+    expect(within(link).queryByText('Checagem parcial')).not.toBeInTheDocument()
     expect(screen.queryByText('Carregando debates checados…')).not.toBeInTheDocument()
     fireEvent.error(within(link).getByAltText(''))
     expect(link).toHaveAccessibleName(index.reports.q4T7plSBdJE.video.title)
