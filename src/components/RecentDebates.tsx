@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { ArrowUpRight, MessageSquareQuote, Search } from 'lucide-react'
 import type { useRecentDebates } from '../services/use-recent-debates'
 import type { RecentDebate } from '../types'
@@ -25,7 +25,15 @@ function DebateCard({ debate, featured }: { debate: RecentDebate; featured: bool
 }
 
 export function RecentDebates({ debates, status, retry }: ReturnType<typeof useRecentDebates>) {
+  const search = useRef<HTMLInputElement>(null)
   const [query, setQuery] = useState('')
+
+  useEffect(() => {
+    if (status === 'loading' || !['#acervo', '#archive-search'].includes(window.location.hash)) return
+    search.current?.scrollIntoView({ block: 'center' })
+    search.current?.focus({ preventScroll: true })
+  }, [status])
+
   const normalize = (value: string) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('pt-BR')
   const terms = normalize(query).trim().split(/\s+/).filter(Boolean)
   const visible = debates.filter(({ video }) => {
@@ -43,8 +51,8 @@ export function RecentDebates({ debates, status, retry }: ReturnType<typeof useR
       <label htmlFor="archive-search" className="text-sm font-medium">Pesquisar no acervo</label>
       <div className="mt-3 flex min-w-0 items-center gap-3 rounded-lg border border-line bg-surface px-4 focus-within:ring-1 focus-within:ring-foreground/60">
         <Search size={18} className="shrink-0 text-faint" aria-hidden="true" />
-        <input id="archive-search" type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Título ou canal" aria-describedby="archive-search-help" className="h-12 w-full min-w-0 scroll-mt-24 bg-transparent text-sm outline-none placeholder:text-faint" />
-        {query && <button type="button" onClick={() => { setQuery(''); document.getElementById('archive-search')?.focus() }} className="shrink-0 text-xs text-muted underline underline-offset-4 hover:text-foreground">Limpar pesquisa</button>}
+        <input ref={search} id="archive-search" type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Título ou canal" aria-describedby="archive-search-help" className="h-12 w-full min-w-0 scroll-mt-24 bg-transparent text-sm outline-none placeholder:text-faint" />
+        {query && <button type="button" onClick={() => { setQuery(''); search.current?.focus() }} className="shrink-0 text-xs text-muted underline underline-offset-4 hover:text-foreground">Limpar pesquisa</button>}
       </div>
       <p id="archive-search-help" className="mt-2 text-xs text-muted">Pesquise pelo título do vídeo ou pelo nome do canal.</p>
     </div>

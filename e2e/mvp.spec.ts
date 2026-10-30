@@ -85,6 +85,17 @@ test('pesquisa o acervo, limpa a busca e abre o resultado', async ({ page }, tes
   await expect(page.getByRole('heading', { level: 1 })).toContainText('KIM KATAGUIRI X JONES MANOEL')
 })
 
+test('link direto do README abre a pesquisa do acervo', async ({ page }) => {
+  await page.goto('./#acervo')
+  const search = page.getByRole('searchbox', { name: 'Pesquisar no acervo' })
+  await expect(search).toBeInViewport()
+  await expect(search).toBeFocused()
+  await search.fill('inteligencia KIM')
+  const gallery = page.getByRole('region', { name: 'Debates checados recentemente' })
+  await expect(gallery.getByRole('link')).toHaveCount(1)
+  await expect(gallery.getByRole('link')).toHaveAttribute('href', '?v=q4T7plSBdJE')
+})
+
 test('carrossel e formulário cabem na primeira tela de um celular compacto', async ({ page }) => {
   await page.setViewportSize({ width: 320, height: 640 })
   await page.goto('./')
