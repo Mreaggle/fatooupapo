@@ -1,0 +1,1316 @@
+{
+  "videoId": "zqmYUQJz17k",
+  "video": {
+    "id": "zqmYUQJz17k",
+    "url": "https://www.youtube.com/watch?v=zqmYUQJz17k",
+    "title": "DEBATE: O FUTURO DO BRASIL - ESQUERDA X DIREITA - Inteligência Ltda. Podcast #1917",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/zqmYUQJz17k/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "arthur-do-val",
+      "name": "Arthur do Val",
+      "aliases": [
+        "Artur",
+        "Mamãe Falei"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "felipe-cestaro",
+      "name": "Felipe Cestaro",
+      "aliases": [
+        "Cestaro",
+        "Felipe"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "leonardo-grandini",
+      "name": "Leonardo Grandini",
+      "aliases": [
+        "Leonardo",
+        "Grandini"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "natalia-boulos",
+      "name": "Natália Boulos",
+      "aliases": [
+        "Natália",
+        "Nati"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "rogerio-vilela",
+      "name": "Rogério Vilela",
+      "aliases": [
+        "Vilela"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
+  "referenceDate": "2026-08-26",
+  "reviewedAt": "2026-10-30T17:42:46.465Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "f5686d1e044fca3295b939ed29ccf99497adf931a4c9c5b2c1d4e04acc10d923",
+  "scannedThrough": 4806,
+  "coverageNotes": "Leitura integral dos 4.806 blocos do SRT, de 00:00:00,000 a 02:41:50,200. O PL 896/2023 é examinado como proposta, com relatório de junho de 2026, e não como lei já vigente. Estatísticas semestrais e anuais de violência não são intercambiáveis.",
+  "limitations": [
+    "Acusações sobre pessoas são tratadas como alegações quando faltam documentos e identificação suficiente. Registro de ocorrência, denúncia, liminar, acordo, absolvição e condenação são atos distintos.",
+    "Não houve acesso integral aos autos de todos os casos individuais citados. A ausência de documento nesta revisão não prova falsidade de relatos de vítimas nem culpa de acusados.",
+    "O texto automático contém palavras e nomes corrompidos e falas sobrepostas. Locutores sem identificação segura ficam fora do placar individual; a análise não é validação acústica.",
+    "Modelos de política pública, juízos morais, promessas eleitorais e previsões não recebem votos factuais. Repetições de acusações não acrescentam comprovação."
+  ],
+  "claims": [
+    {
+      "cueStart": 1,
+      "cueEnd": 126,
+      "title": "Abertura, regras e publicidade",
+      "speaker": "Rogério Vilela",
+      "verdict": "opinion",
+      "explanation": "Apresentação do programa, anúncios e organização do debate. Não constituem evidência dos argumentos políticos e não recebem voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 139,
+      "cueEnd": 150,
+      "title": "Arthur reduziu salários e encerrou benefícios na Alesp",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A autoria individual de uma mudança depende de atos, emendas, votações e datas. O quadro atual de subsídios não demonstra sozinho a redução atribuída ao ex-deputado nem o papel exclusivo em cada benefício. Mais combativo é uma avaliação pessoal.",
+      "sources": [
+        "extra-future-peru"
+      ]
+    },
+    {
+      "cueStart": 157,
+      "cueEnd": 282,
+      "title": "Apresentações e trajetórias dos convidados",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Autobiografias, apresentações de candidaturas e defesa de identidade política. As previsões sobre eleição e os juízos de mérito não são votos factuais.",
+      "sources": []
+    },
+    {
+      "cueStart": 325,
+      "cueEnd": 336,
+      "title": "Em São Paulo uma mulher morre a cada vinte e cinco horas",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "É preciso definir período e se a conta considera homicídios de mulheres ou feminicídios. A ordem de grandeza varia com esse recorte; a estatística não é uma previsão de quando ocorrerá cada morte. Tampouco foi identificado o cálculo das vinte agressões durante o programa.",
+      "sources": [
+        "extra-future-crime"
+      ]
+    },
+    {
+      "cueStart": 331,
+      "cueEnd": 342,
+      "title": "Há um projeto de criminalização da misoginia tramitando",
+      "speaker": "Natália Boulos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O PL 896/2023 passou pelo Senado e foi discutido em grupo de trabalho na Câmara, com relatório em junho de 2026. Confirma-se a tramitação; afirmar que misoginia é a origem de toda violência é uma explicação causal e política mais ampla, não demonstrada pela existência do projeto.",
+      "sources": [
+        "extra-future-pl"
+      ]
+    },
+    {
+      "cueStart": 349,
+      "cueEnd": 366,
+      "title": "Renan Santos foi acusado em 2021 e perdeu liminares contra Grandini",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Inconclusivo",
+      "explanation": "O debate não apresenta números das ações ou cópias das decisões. Registro de ocorrência, denúncia do Ministério Público e condenação são atos diferentes. Uma liminar que não manda retirar conteúdo não comprova a acusação nem o resultado final da ação. Sem os autos, a sequência processual não fica certificada.",
+      "sources": [],
+      "alsoAt": [
+        {
+          "cueStart": 781,
+          "cueEnd": 804
+        },
+        {
+          "cueStart": 1687,
+          "cueEnd": 1698
+        }
+      ]
+    },
+    {
+      "cueStart": 367,
+      "cueEnd": 450,
+      "title": "O PL poderia atingir inocentes e manifestações religiosas",
+      "speaker": "Felipe Cestaro",
+      "verdict": "opinion",
+      "explanation": "Crítica de redação e prognósticos sobre efeitos de uma proposta. A possibilidade de abuso precisa ser distinguida de uma regra que autorize condenar inocentes. A tipificação de falas futuras não pode ser decidida sem texto aplicável, contexto e prova.",
+      "sources": []
+    },
+    {
+      "cueStart": 391,
+      "cueEnd": 402,
+      "title": "Neymar fez uma declaração sobre menstruação e recebeu críticas de misoginia",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados, neste exame, a gravação integral e o conjunto de manifestações referido. A existência de crítica jornalística também não comprovaria que a expressão seria crime nos termos de um projeto ainda em tramitação.",
+      "sources": []
+    },
+    {
+      "cueStart": 427,
+      "cueEnd": 450,
+      "title": "O PL permite punir qualquer conversa antiga e torna os delitos imprescritíveis",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A proposta de inserção na Lei 7.716 se relaciona ao debate sobre imprescritibilidade. Isso não autoriza retroatividade de lei penal mais grave, nem torna toda mensagem ofensiva automaticamente crime. Tempo para denunciar, vigência da lei e prova de cada elemento são questões distintas.",
+      "sources": [
+        "extra-future-pl",
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 451,
+      "cueEnd": 474,
+      "title": "Renan foi absolvido e a mulher admitiu acusação falsa",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Há notícia de confirmação da absolvição por insuficiência de provas atribuída ao Ministério Público paulista. Absolvição por insuficiência não é, por si, uma decisão de que a denunciante mentiu. Sem os autos e o depoimento integral, não se certifica a afirmação adicional de falsa acusação admitida.",
+      "sources": [
+        "sab-renan-absolvicao"
+      ]
+    },
+    {
+      "cueStart": 475,
+      "cueEnd": 480,
+      "title": "Lula chamou lésbicas de mulheres de grelo duro em 2016",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O registro contemporâneo das conversas atribui a expressão às feministas de seu partido, e não a uma definição literal de todas as lésbicas. O episódio e a expressão são documentados, mas a paráfrase altera o grupo referido. A avaliação moral não equivale a condenação por um crime criado depois.",
+      "sources": [
+        "extra-future-quote2016"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 937,
+          "cueEnd": 948
+        },
+        {
+          "cueStart": 1291,
+          "cueEnd": 1302
+        }
+      ]
+    },
+    {
+      "cueStart": 493,
+      "cueEnd": 504,
+      "title": "Lula fez uma piada sobre cinco policiais no quarto de Clara Ant",
+      "speaker": "Arthur do Val",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro contemporâneo da conversa com Dilma documenta a referência à entrada de agentes na casa de Clara Ant e a piada sobre como ela teria interpretado a situação. A formulação do debate é uma paráfrase. Confirmar o comentário não demonstra que Clara tenha pensado ou sentido aquilo.",
+      "sources": [
+        "extra-future-quote2016"
+      ]
+    },
+    {
+      "cueStart": 499,
+      "cueEnd": 510,
+      "title": "Lula disse que trabalho doméstico é coisa de mulher e que feminismo é falta do que fazer",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O comício de setembro de 2022 tem registro da referência ao serviço da mulher, em uma fala sobre dividir tarefas. A segunda frase exige fonte, data e contexto próprios, não apresentados. Portanto, não se certifica o conjunto como duas citações literais comprovadas.",
+      "sources": [
+        "extra-future-quote2022"
+      ]
+    },
+    {
+      "cueStart": 505,
+      "cueEnd": 522,
+      "title": "Lula falou de batuque e de violência por torcedores corintianos",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Há registro do comentário sobre corintianos numa fala de julho de 2024 sobre violência após jogos. O debate mistura essa passagem com outra frase sem data ou gravação identificada. Não se certifica o conjunto de citações nem se deduz automaticamente uma tipificação penal.",
+      "sources": [
+        "extra-future-quotefutebol"
+      ]
+    },
+    {
+      "cueStart": 547,
+      "cueEnd": 630,
+      "title": "O relatório de Tábata mudou a definição da proposta",
+      "speaker": "Natália Boulos",
+      "verdict": "Verdadeiro",
+      "explanation": "O relatório do grupo de trabalho de junho de 2026 altera a formulação para menosprezo ou discriminação e descreve atos em razão da condição de mulher. O texto do projeto é verificável e difere de um mero critério de antipatia pessoal.",
+      "sources": [
+        "extra-future-pl"
+      ]
+    },
+    {
+      "cueStart": 595,
+      "cueEnd": 606,
+      "title": "Feminicídios caíram no Brasil por Lula, enquanto São Paulo subiu dez por cento",
+      "speaker": "Natália Boulos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O MJSP registra recuo nacional no primeiro semestre de 2026 e aumento paulista, em contraste com o recorde nacional de 2025. O recorte semestral deve ser explicitado; a variação não isola causalmente a atuação de um presidente ou governador.",
+      "sources": [
+        "extra-future-sp",
+        "extra-future-crime"
+      ]
+    },
+    {
+      "cueStart": 625,
+      "cueEnd": 660,
+      "title": "Discordar do projeto seria misoginia e a ofensa seria calúnia",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São juízos sobre os interlocutores e sobre o mérito da proposta. Discordância política não demonstra ódio contra mulheres nem, automaticamente, calúnia; esta tem elementos penais específicos. Não se imputa crime por uma classificação moral no debate.",
+      "sources": []
+    },
+    {
+      "cueStart": 661,
+      "cueEnd": 678,
+      "title": "O relatório menciona ofensa à dignidade da mulher",
+      "speaker": "Arthur do Val",
+      "verdict": "Verdadeiro",
+      "explanation": "A expressão consta do texto de junho de 2026, associada à condição de mulher e a outros elementos. A presença da expressão é um fato documental; ser suficientemente precisa ou produzir determinados efeitos é questão interpretativa e legislativa adicional.",
+      "sources": [
+        "extra-future-pl"
+      ]
+    },
+    {
+      "cueStart": 727,
+      "cueEnd": 738,
+      "title": "Mulheres que fazem acusações falsas não têm punição prevista",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Falso",
+      "explanation": "O artigo 339 do Código Penal já pune denunciação caluniosa, que exige imputação contra alguém que o autor sabe inocente. O artigo 340 trata de comunicação falsa de crime. Isso não significa que toda denúncia sem condenação seja falsa nem que qualquer denunciante deva ser punida.",
+      "sources": [
+        "extra-future-cp"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 3187,
+          "cueEnd": 3198
+        }
+      ]
+    },
+    {
+      "cueStart": 745,
+      "cueEnd": 804,
+      "title": "Renan fez uma ameaça sexual e a acusadora voltou atrás por motivo suspeito",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Inconclusivo",
+      "explanation": "Sem gravação integral identificada e documentação do caso, não se certifica a ameaça atribuída. Também não há prova do motivo insinuado para a mudança de relato da mulher. A repetição da acusação durante a discussão não acrescenta evidência.",
+      "sources": []
+    },
+    {
+      "cueStart": 805,
+      "cueEnd": 828,
+      "title": "O projeto altera a Lei 7.716 e todo condenado em primeiro grau segue livre",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O projeto de fato altera a legislação antidiscriminatória. Porém, possibilidade de recurso não impede prisão cautelar quando preenchidos os requisitos legais. A regra sobre execução da pena não deve ser confundida com liberdade garantida em qualquer processo.",
+      "sources": [
+        "extra-future-pl",
+        "pav-prisao2019",
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 847,
+      "cueEnd": 858,
+      "title": "Arthur do Val foi cassado após os áudios sobre ucranianas",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Verdadeiro",
+      "explanation": "A Alesp aprovou a cassação em maio de 2022 em processo de quebra de decoro ligado aos áudios divulgados. É uma sanção parlamentar; não equivale a uma condenação criminal por turismo sexual ou outra conduta específica.",
+      "sources": [
+        "eco-cassacao"
+      ]
+    },
+    {
+      "cueStart": 859,
+      "cueEnd": 870,
+      "title": "Guto Zacarias incentivou uma ex-namorada a abortar",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma imputação pessoal sem documento, gravação integral ou processo identificado no trecho. O contraste com posições públicas não comprova o episódio. Não se certifica a acusação nem se presume verdadeira por ter sido repetida no programa.",
+      "sources": []
+    },
+    {
+      "cueStart": 871,
+      "cueEnd": 888,
+      "title": "Noventa e cinco por cento do evento do MBL eram homens",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Inconclusivo",
+      "explanation": "Uma impressão visual não substitui contagem de participantes, e não foi apresentada pesquisa sobre rejeição de mulheres ao candidato. O percentual do evento e a inferência sobre todo o eleitorado não ficam comprovados. O rótulo mais misógino é um juízo político.",
+      "sources": []
+    },
+    {
+      "cueStart": 1003,
+      "cueEnd": 1014,
+      "title": "A maioria das questões judiciais brasileiras é de violência física e feminicídio",
+      "speaker": "Natália Boulos",
+      "verdict": "Falso",
+      "explanation": "O CNJ descreve um universo amplo, com grande volume de demandas fiscais, civis e trabalhistas. Violência contra mulheres é grave e relevante, mas não representa a maioria de todos os processos. O argumento troca a dimensão de um problema pela composição de todo o Judiciário.",
+      "sources": [
+        "extra-future-cnj"
+      ]
+    },
+    {
+      "cueStart": 1033,
+      "cueEnd": 1044,
+      "title": "Arthur nunca explicou a origem do dinheiro da viagem",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "A resposta no debate afirma financiamento próprio e auditoria de doações; sem documentos não é possível validar os fluxos, mas também não se prova o termo nunca nem um desvio. É preciso separar passagem pessoal e campanhas de arrecadação.",
+      "sources": []
+    },
+    {
+      "cueStart": 1045,
+      "cueEnd": 1116,
+      "title": "A avó de Natália foi levada da Ucrânia para trabalho forçado aos dezessete anos",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "É um relato familiar sem identidade completa, datas e registros de arquivo disponíveis no trecho. O contexto histórico geral não comprova esse caso individual. A ausência de comprovação no exame não significa que o relato seja falso.",
+      "sources": []
+    },
+    {
+      "cueStart": 1111,
+      "cueEnd": 1122,
+      "title": "A viagem de Arthur envolveu crime e turismo sexual",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "A cassação por quebra de decoro e a existência dos áudios não demonstram, por si, crime sexual cometido na viagem. Não foi apresentada decisão ou prova direta dessa conduta específica. A imputação não é publicada como fato estabelecido.",
+      "sources": [
+        "eco-cassacao"
+      ]
+    },
+    {
+      "cueStart": 1171,
+      "cueEnd": 1206,
+      "title": "A piada deveria resultar em prisão em flagrante",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Defesa de uma reação punitiva e discussão de limites do programa. A indignação não substitui identificação de tipo penal e seus elementos, nem constitui uma decisão jurídica de flagrante.",
+      "sources": []
+    },
+    {
+      "cueStart": 1255,
+      "cueEnd": 1272,
+      "title": "A viagem foi paga do próprio bolso e todas as doações foram auditadas e enviadas",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram examinados relatório integral de auditoria, documentos bancários e destinatários suficientes para certificar a totalidade. A declaração do interessado ou menção a reportagem não demonstra cem por cento dos recursos, assim como não autoriza presumir apropriação.",
+      "sources": []
+    },
+    {
+      "cueStart": 1309,
+      "cueEnd": 1374,
+      "title": "O projeto prejudicará acusados e suas famílias",
+      "speaker": "Felipe Cestaro",
+      "verdict": "opinion",
+      "explanation": "É uma previsão e uma crítica à proposta. Não existe, nesse argumento, levantamento que demonstre consequências inevitáveis para todos os acusados ou empregadores.",
+      "sources": []
+    },
+    {
+      "cueStart": 1375,
+      "cueEnd": 1398,
+      "title": "Qualquer delegado ou escrivão pode conceder medida protetiva sem juiz",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Há hipóteses legais de afastamento imediato do agressor por delegado ou policial, validadas pelo STF, com condições e posterior controle judicial. Isso não equivale a competência irrestrita para todo servidor conceder qualquer medida. A norma específica de Goiás invocada não foi identificada para certificar a ampliação alegada.",
+      "sources": [
+        "extra-future-penha",
+        "sab-protetivas-prazo"
+      ]
+    },
+    {
+      "cueStart": 1405,
+      "cueEnd": 1494,
+      "title": "O projeto é necessário para proteger mulheres",
+      "speaker": "Natália Boulos",
+      "verdict": "opinion",
+      "explanation": "Defesa política da proposta, apelos à empatia e avaliações dos interlocutores. As repetições de acusações e a convicção sobre o projeto não são votos factuais adicionais.",
+      "sources": []
+    },
+    {
+      "cueStart": 1465,
+      "cueEnd": 1476,
+      "title": "Redes sociais não têm nenhuma regulamentação",
+      "speaker": "Natália Boulos",
+      "verdict": "Falso",
+      "explanation": "Marco Civil, legislação penal, proteção de dados e regras de proteção de crianças e adolescentes já incidem sobre condutas digitais. Discutir regras novas ou falhas de aplicação não equivale a inexistência de qualquer norma. O episódio específico do vídeo citado exige identificação própria.",
+      "sources": [
+        "extra-future-marco"
+      ]
+    },
+    {
+      "cueStart": 1501,
+      "cueEnd": 1530,
+      "title": "Uma vereadora considerou um verso bíblico misógino, ao contrário da esposa de Felipe",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Inconclusivo",
+      "explanation": "É um relato de programa anterior sem gravação identificada nesta revisão. Mesmo confirmado, documentaria opiniões diferentes, não a classificação penal automática de qualquer pregação religiosa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1597,
+      "cueEnd": 1608,
+      "title": "Denunciação caluniosa já é crime",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Verdadeiro",
+      "explanation": "O artigo 339 do Código Penal prevê punição para quem provoca investigação ou processo imputando um fato a pessoa que sabe inocente. A exigência de conhecimento da inocência é central: improcedência, arquivamento ou absolvição não comprovam automaticamente esse delito.",
+      "sources": [
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 1609,
+      "cueEnd": 1632,
+      "title": "Medida protetiva apenas impede aproximação e não impõe mais nada",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A natureza é preventiva e não equivale a condenação penal. Entretanto, a Lei Maria da Penha admite outras medidas, como restrições a armas, visitas e obrigações patrimoniais ou alimentares. Não se resume a uma única proibição de contato.",
+      "sources": [
+        "sab-protetivas-prazo"
+      ]
+    },
+    {
+      "cueStart": 1789,
+      "cueEnd": 1818,
+      "title": "Toda lei penal é subjetiva porque considera a intenção",
+      "speaker": "Natália Boulos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Dolo, culpa, motivo e dosimetria são elementos previstos no Código Penal. Isso é diferente de afirmar que qualquer definição de crime pode ser indeterminada ou ficar ao arbítrio pessoal. A legalidade continua exigindo previsão de conduta e pena.",
+      "sources": [
+        "extra-future-cp",
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 1819,
+      "cueEnd": 1830,
+      "title": "Ainda não há jurisprudência de uma lei nova de misoginia",
+      "speaker": "Natália Boulos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Um projeto ainda em tramitação não produz condenações como se já fosse lei vigente. Isso não significa ausência de jurisprudência sobre violência, discriminação ou crimes contra mulheres sob normas anteriores. A afirmação deve ser entendida com esse escopo restrito.",
+      "sources": [
+        "extra-future-pl"
+      ]
+    },
+    {
+      "cueStart": 1831,
+      "cueEnd": 1848,
+      "title": "Quase sessenta por cento das mulheres deixaram de trabalhar por violência",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificada pesquisa que demonstre esse percentual de todas as mulheres e essa causa. A PNAD mede ocupação com outro universo, e o DataSenado distingue experiência de violência e seus efeitos. Percentual de um subgrupo de vítimas não pode ser generalizado à população feminina inteira.",
+      "sources": [
+        "extra-future-femwork2",
+        "extra-future-womenwork"
+      ]
+    },
+    {
+      "cueStart": 1987,
+      "cueEnd": 2004,
+      "title": "Quase todas as leis são discricionárias e o juiz decide antes de fundamentar",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Interpretar normas não significa decidir livremente e procurar justificativa depois. A Constituição exige legalidade, devido processo e fundamentação. Conceitos abertos, discricionariedade e arbitrariedade não são equivalentes.",
+      "sources": [
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 2005,
+      "cueEnd": 2028,
+      "title": "O direito penal do inimigo seria inviável em qualquer desenho",
+      "speaker": "Leonardo Grandini",
+      "verdict": "opinion",
+      "explanation": "É uma crítica jurídica e política de uma proposta não apresentada integralmente. Garantias individuais limitam reformas, mas não se certifica o percentual de inconstitucionalidade ou a inviabilidade de toda medida de combate a facções sem seu texto.",
+      "sources": []
+    },
+    {
+      "cueStart": 2089,
+      "cueEnd": 2106,
+      "title": "Uma PEC criaria tratamento diferente para faccionados",
+      "speaker": "Arthur do Val",
+      "verdict": "opinion",
+      "explanation": "Descrição de proposta política. Uma defesa em debate não é autorização legal vigente. A validade de cada restrição depende de seu texto e dos limites constitucionais às emendas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2101,
+      "cueEnd": 2106,
+      "title": "Não existe prisão sem mandado em El Salvador",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "O relatório da CIDH sobre o estado de exceção documenta detenções sem ordem judicial ou administrativa e sem flagrante. Pode-se discutir sua extensão ou legalidade, mas negar a existência desses registros é incompatível com a documentação.",
+      "sources": [
+        "extra-future-salvador"
+      ]
+    },
+    {
+      "cueStart": 2107,
+      "cueEnd": 2112,
+      "title": "Julgamentos coletivos estão previstos na Constituição",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Processos relativos a fatos conexos podem tramitar em conjunto. Isso não afasta a individualização da pena nem permite condenar alguém somente por pertencer a uma população. A Constituição garante responsabilidade e pena individualizadas; a expressão coletivo precisa dessa ressalva.",
+      "sources": [
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 2113,
+      "cueEnd": 2124,
+      "title": "Quando um policial mata um agressor armado, está executando uma pena",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "Legítima defesa depende de agressão atual ou iminente e dos meios necessários para repeli-la; não é execução de pena. A Constituição veda pena de morte, salvo guerra declarada. Apontar uma arma não cria licença irrestrita para matar fora dessas condições.",
+      "sources": [
+        "extra-future-cp",
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 2155,
+      "cueEnd": 2166,
+      "title": "Basta vínculo com facção para entrar em casa sem mandado",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "A tese do STF exige fundadas razões, justificadas posteriormente, de flagrante no interior da residência para entrada forçada sem ordem judicial. Classificar alguém como faccionado não substitui esses requisitos nem suspende automaticamente a inviolabilidade domiciliar.",
+      "sources": [
+        "extra-future-casa"
+      ]
+    },
+    {
+      "cueStart": 2191,
+      "cueEnd": 2202,
+      "title": "Metade da população masculina de El Salvador está encarcerada",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "O relatório da CIDH descreve encarceramento em massa, mas em escala muito inferior à metade de todos os homens. Confundir uma proporção de um subgrupo ou uma população prisional com a população masculina total altera radicalmente o dado. A passagem tem vozes sobrepostas e fica sem atribuição individual.",
+      "sources": [
+        "extra-future-salvador"
+      ]
+    },
+    {
+      "cueStart": 2221,
+      "cueEnd": 2232,
+      "title": "O comando da segurança paulista inclui pessoas ligadas ao crime organizado",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são apresentados nomes, fatos, processos ou decisões suficientes para individualizar a imputação. Relações políticas e críticas à gestão não comprovam participação criminosa. Não se certifica a acusação coletiva.",
+      "sources": []
+    },
+    {
+      "cueStart": 2269,
+      "cueEnd": 2274,
+      "title": "A pena de feminicídio chega a quarenta anos",
+      "speaker": "Natália Boulos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei 14.994/2024 criou o tipo autônomo com faixa de vinte a quarenta anos e hipóteses de aumento. Quarenta não é a pena de todo condenado, e o total pode variar com agravantes e concurso de delitos. A existência da pena não demonstra por si seu efeito causal sobre os registros.",
+      "sources": [
+        "sab-lei14994"
+      ]
+    },
+    {
+      "cueStart": 2293,
+      "cueEnd": 2310,
+      "title": "O Brasil tem grande população prisional e muitos presos provisórios",
+      "speaker": "Natália Boulos",
+      "verdict": "Verdadeiro",
+      "explanation": "O relatório da Senappen para dezembro de 2025 registra mais de setecentas mil pessoas em celas físicas e mais de duzentas mil provisórias. Confirma-se a dimensão, sem tomar prisão provisória como prova de inocência ou de culpa definitiva.",
+      "sources": [
+        "extra-future-prison"
+      ]
+    },
+    {
+      "cueStart": 2359,
+      "cueEnd": 2376,
+      "title": "Um homicida primário passa ao semiaberto depois de um ano",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Falso",
+      "explanation": "Homicídio simples tem pena mínima de seis anos. A Lei de Execução Penal exige, para primário em crime violento comum, ao menos 25% e requisitos adicionais para progressão; tipos hediondos têm regras mais severas. Um sexto da pena não é a regra geral para esse homicídio, e progressão não é liberdade automática.",
+      "sources": [
+        "extra-future-cp",
+        "extra-future-lep"
+      ]
+    },
+    {
+      "cueStart": 2383,
+      "cueEnd": 2400,
+      "title": "Todo criminoso calcula a pena e punição severa elimina furtos",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Modelos econômicos de incentivos não demonstram cálculo consciente por toda pessoa nem ausência de furtos num país. A comparação entre sistemas exige dados e controle de outros fatores. A existência de sanções severas não comprova a garantia de que ninguém levará um telefone.",
+      "sources": [
+        "extra-future-becker"
+      ]
+    },
+    {
+      "cueStart": 2407,
+      "cueEnd": 2418,
+      "title": "O partido de Natália votou contra aumento de penas de estupro",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Não é identificado o projeto, a votação nominal ou a orientação partidária. Sem isso não se confirma a afirmação. Votar contra um texto também não equivale, por si, a apoiar estupradores: a posição precisa ser descrita pelo conteúdo efetivamente votado.",
+      "sources": []
+    },
+    {
+      "cueStart": 2419,
+      "cueEnd": 2442,
+      "title": "O PT governou dezoito anos e os índices de violência só aumentaram",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os mandatos foram interrompidos em 2016 e retomados em 2023; o total depende da data de corte. Além disso, séries oficiais e do Atlas registram quedas de homicídios em anos recentes. Aumento de feminicídios não significa aumento contínuo de toda forma de violência.",
+      "sources": [
+        "sab-violencia2026",
+        "extra-future-sp"
+      ]
+    },
+    {
+      "cueStart": 2455,
+      "cueEnd": 2490,
+      "title": "Boulos inocentou Janones apesar do áudio sobre assessores",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Boulos foi relator da representação arquivada pelo Conselho de Ética, em esfera parlamentar. Isso não foi absolvição criminal. Em 2025 o STF homologou ANPP no qual Janones admitiu a prática e assumiu reparação e multa. A existência do acordo também não equivale a sentença condenatória.",
+      "sources": [
+        "janones-etica",
+        "extra-future-anpp"
+      ]
+    },
+    {
+      "cueStart": 2527,
+      "cueEnd": 2544,
+      "title": "As penas aumentaram e a criminalidade só cresceu nos últimos trinta anos",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Falso",
+      "explanation": "Alterações legais e indicadores de crimes não formam uma série única. Há quedas recentes de homicídios documentadas no Atlas, incompatíveis com o termo só aumentou. Isso não prova que toda elevação de pena seja eficaz ou ineficaz; correlação histórica isolada não resolve causalidade.",
+      "sources": [
+        "sab-violencia2026"
+      ]
+    },
+    {
+      "cueStart": 2563,
+      "cueEnd": 2598,
+      "title": "Países nórdicos têm penas irrisórias e menos crimes que China e Arábia Saudita",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Inconclusivo",
+      "explanation": "Irrisórias é avaliação. A comparação mistura homicídio e criminalidade geral, sem anos, tipos penais ou ajuste para diferenças de registro. Não se confirma uma superioridade universal nem que um sistema prisional específico explique sozinho as diferenças.",
+      "sources": []
+    },
+    {
+      "cueStart": 2569,
+      "cueEnd": 2580,
+      "title": "Tentativa de golpe tem prisão perpétua no exterior e no Brasil no máximo doze anos",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O artigo 359-M prevê de quatro a doze anos para um tipo específico; isso não é limite de toda condenação ligada a uma trama, que pode envolver outros delitos. A comparação internacional precisa de equivalência entre condutas, penas máximas e possibilidade efetiva de cumprimento.",
+      "sources": [
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 2629,
+      "cueEnd": 2646,
+      "title": "Uma PEC não pode abolir garantias e estado de sítio depende do Congresso",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Constituição protege direitos e garantias individuais contra emendas tendentes a aboli-los e exige autorização congressual para decretação do estado de sítio. Isso não torna inconstitucional toda alteração penal nem dispensa examinar uma proposta específica.",
+      "sources": [
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 2647,
+      "cueEnd": 2652,
+      "title": "Segurança pública é competência dos estados, não do presidente",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os estados têm atribuições centrais, mas o artigo 144 também prevê órgãos federais e participação municipal. Integração e financiamento têm competências compartilhadas. A crítica a uma autoridade local não elimina responsabilidades da União nem certifica a posição de todos os governadores na negociação citada.",
+      "sources": [
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 2665,
+      "cueEnd": 2676,
+      "title": "Quem repassa dinheiro a uma facção automaticamente integra a facção",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Financiamento consciente pode configurar crime. Porém, tipificação exige conduta, vínculo e elemento subjetivo demonstrados; um pagamento coagido ou sem conhecimento não equivale automaticamente a adesão. O texto legal não substitui a prova individual.",
+      "sources": [
+        "extra-future-lev",
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 2683,
+      "cueEnd": 2688,
+      "title": "A pena normal de latrocínio deixa o autor na rua em onze meses",
+      "speaker": "Arthur do Val",
+      "verdict": "Falso",
+      "explanation": "Latrocínio tem pena elevada e é hediondo, com regras específicas de progressão. Onze meses não é prazo geral de cumprimento. Um caso excepcional exigiria sentença, tempo já cumprido e motivo da soltura; não autoriza descrever esse prazo como a regra brasileira.",
+      "sources": [
+        "extra-future-cp",
+        "extra-future-lep"
+      ]
+    },
+    {
+      "cueStart": 2689,
+      "cueEnd": 2718,
+      "title": "Execuções e homicídios caem continuamente desde 1300",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A pesquisa histórica de Eisner trata de regiões europeias e trajetórias distintas, não de uma curva universal sem interrupções. Abolição da pena de morte, número de países executores e número anual de execuções são medidas diferentes; a Anistia registra aumento recente de execuções.",
+      "sources": [
+        "extra-future-1300",
+        "extra-future-death"
+      ]
+    },
+    {
+      "cueStart": 2707,
+      "cueEnd": 2718,
+      "title": "O Brasil está acima de vinte homicídios por cem mil e a Inglaterra abaixo de um",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "É necessário identificar o ano, a unidade territorial e a definição de homicídio do gráfico. Taxas do SIM, mortes violentas intencionais e séries policiais internacionais não são diretamente intercambiáveis. A grande diferença não certifica os dois pontos exatos apresentados sem essa identificação.",
+      "sources": []
+    },
+    {
+      "cueStart": 2767,
+      "cueEnd": 2778,
+      "title": "Apenas cinco por cento dos homicídios são investigados",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Falso",
+      "explanation": "O estudo Sou da Paz de 2025 mede esclarecimento, definido pela denúncia de um suspeito, e chega a 36% no conjunto de estados com dados utilizáveis para mortes de 2023. Investigação iniciada é outra medida. O percentual citado não representa esse indicador nem foi demonstrado como taxa nacional de investigação.",
+      "sources": [
+        "extra-future-budget"
+      ]
+    },
+    {
+      "cueStart": 2845,
+      "cueEnd": 2856,
+      "title": "Parlamentares não podem ser julgados por crimes de outra legislatura",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Falso",
+      "explanation": "O debate do Conselho de Ética sobre competência temporal não cria imunidade penal geral. O próprio ANPP homologado pelo STF no caso Janones mostra tratamento criminal separado. Esfera disciplinar da Câmara e jurisdição penal não são equivalentes.",
+      "sources": [
+        "janones-etica",
+        "extra-future-anpp"
+      ]
+    },
+    {
+      "cueStart": 2887,
+      "cueEnd": 2940,
+      "title": "Pelo menos três por cento das pessoas fazem denúncias erradas",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi indicado levantamento que produza esse percentual. A existência de denúncias falsas não define sua frequência, e uma referência genérica à população não mede casos de violência contra mulheres nem todo tipo de crime.",
+      "sources": []
+    },
+    {
+      "cueStart": 2953,
+      "cueEnd": 2964,
+      "title": "A pena de dois a cinco anos não é reclusão e um primário nunca seria preso",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Falso",
+      "explanation": "O texto discutido prevê reclusão, além de multa. Substituição de pena e regime dependem de quantidade, circunstâncias e requisitos legais; ser primário não garante ausência de prisão em todos os casos. Danos morais são uma consequência civil distinta da pena criminal.",
+      "sources": [
+        "extra-future-pl2",
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 2971,
+      "cueEnd": 2994,
+      "title": "Mais de quarenta por cento dos presos são provisórios e todos são jovens negros periféricos",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Falso",
+      "explanation": "A Senappen registra 205.892 provisórios entre 727.301 pessoas em celas físicas em dezembro de 2025, cerca de 28,3%. O perfil racial e social apresenta desigualdades, mas não é uniforme. Esses dados não sustentam nem o percentual nacional citado nem o termo todos.",
+      "sources": [
+        "extra-future-prison"
+      ]
+    },
+    {
+      "cueStart": 2995,
+      "cueEnd": 3012,
+      "title": "Um percentual alto dos executados nos EUA foi descoberto inocente depois",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O estudo frequentemente citado estima falsas condenações entre sentenciados à morte, usando exonerações e um modelo estatístico. Não mede percentual de pessoas efetivamente executadas e depois comprovadas inocentes. Confundir esses universos altera o resultado, embora erros judiciais estejam documentados.",
+      "sources": [
+        "extra-future-execution"
+      ]
+    },
+    {
+      "cueStart": 3031,
+      "cueEnd": 3048,
+      "title": "A proibição de revitimização impede investigar e o caso Mariana Ferrer foi reaberto sem razão",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Proteger a dignidade da vítima não elimina apuração e defesa. No caso Ferrer, a decisão divulgada pelo Judiciário em junho de 2026 trata de nulidade de prova e atos por violação de direitos, não de condenação automática do acusado. A questão processual precisa ser separada do mérito da acusação.",
+      "sources": [
+        "extra-future-mariana",
+        "extra-future-marianalei"
+      ]
+    },
+    {
+      "cueStart": 3043,
+      "cueEnd": 3048,
+      "title": "O caso do marido de Maria da Penha seria uma acusação indevidamente tratada como verdade",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho faz uma comparação insinuada sem apresentar prova nova ou identificar erro concreto nos processos. A CIDH documenta agressões e demora na resposta estatal. Não é possível usar a insinuação para certificar inocência do agressor ou falsidade do relato.",
+      "sources": [
+        "extra-future-maria"
+      ]
+    },
+    {
+      "cueStart": 3085,
+      "cueEnd": 3096,
+      "title": "Se alguém está preso preventivamente é porque cometeu o crime",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Falso",
+      "explanation": "Prisão cautelar não é julgamento definitivo de culpa e pode ser revogada. A Constituição preserva presunção de inocência e devido processo. A necessidade de investigar não elimina a possibilidade de erro nem torna toda pessoa detida culpada.",
+      "sources": [
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 3211,
+      "cueEnd": 3282,
+      "title": "Direita e esquerda relativizam erros e promovem boicotes",
+      "speaker": "Felipe Cestaro",
+      "verdict": "opinion",
+      "explanation": "Crítica política, experiência pessoal com debates e avaliação de intenções dos interlocutores. Não há levantamento que transforme essas generalizações em regra sobre todas as pessoas de um campo.",
+      "sources": []
+    },
+    {
+      "cueStart": 3295,
+      "cueEnd": 3312,
+      "title": "Sleeping Giants pressiona anunciantes sobre publicidade",
+      "speaker": "Arthur do Val",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A própria iniciativa apresenta campanhas que alertam marcas sobre publicidade associada a conteúdos que denuncia. Confirma-se o método geral, não a avaliação de que toda ação seja indevida ou que todo participante de um campo político faça o mesmo.",
+      "sources": [
+        "extra-future-sleeping"
+      ]
+    },
+    {
+      "cueStart": 3337,
+      "cueEnd": 3354,
+      "title": "As condenações de Lula apenas prescreveram",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O STF anulou decisões por incompetência da vara de Curitiba e reconheceu suspeição de Moro no caso do triplex. Isso não equivale a absolvição de mérito, mas tampouco foi apenas prescrição. Eventos posteriores de cada ação precisam ser tratados separadamente.",
+      "sources": [
+        "extra-future-lula",
+        "extra-future-lula-moro"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 4399,
+          "cueEnd": 4416
+        }
+      ]
+    },
+    {
+      "cueStart": 3361,
+      "cueEnd": 3372,
+      "title": "A Lei Maria da Penha é a terceira mais elogiada do mundo",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram apresentados ranking, universo de leis, critérios ou publicação que produza essa posição. Reconhecimento internacional e elogios não estabelecem uma classificação ordinal universal. A afirmação permanece sem comprovação específica.",
+      "sources": []
+    },
+    {
+      "cueStart": 3367,
+      "cueEnd": 3378,
+      "title": "O governo anterior cortou noventa por cento de todo investimento da Lei Maria da Penha",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "É preciso identificar ação orçamentária, exercício, valor autorizado e execução. Cortes em uma rubrica de atendimento não equivalem automaticamente a todo gasto da lei ou da proteção das mulheres. O percentual e o nexo com a variação da violência não foram demonstrados.",
+      "sources": []
+    },
+    {
+      "cueStart": 3373,
+      "cueEnd": 3396,
+      "title": "A Lei Maria da Penha inaugurou a violência doméstica no Brasil",
+      "speaker": "Natália Boulos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A lei de 2006 estruturou proteção, prevenção e responsabilização; não criou o fenômeno nem toda punição por agressão doméstica. O Código Penal já tinha tratamento de lesão em contexto doméstico desde 2004. Já a inclusão de prevenção na educação básica foi estabelecida pela Lei 14.164/2021.",
+      "sources": [
+        "extra-future-cp",
+        "sab-protetivas-prazo",
+        "extra-future-school"
+      ]
+    },
+    {
+      "cueStart": 3397,
+      "cueEnd": 3408,
+      "title": "Brasil Paralelo foi punido e teve vídeo retirado do ar sobre Maria da Penha",
+      "speaker": "Natália Boulos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados neste exame o processo e a decisão referidos para conferir alcance, data e natureza da medida. Uma ordem provisória de retirada, se existente, não equivale automaticamente a condenação final. Não se certifica esse desfecho sem o registro.",
+      "sources": []
+    },
+    {
+      "cueStart": 3415,
+      "cueEnd": 3426,
+      "title": "A legislação passou a prever violência por meio de filhos e familiares",
+      "speaker": "Natália Boulos",
+      "verdict": "Verdadeiro",
+      "explanation": "A Lei 15.384, de abril de 2026, incluiu violência vicária entre as formas de violência doméstica e criou o tipo de vicaricídio. Confirma-se a atualização anterior ao debate, sem inferir que todo conflito familiar se enquadre no novo tipo.",
+      "sources": [
+        "extra-future-plpenha"
+      ]
+    },
+    {
+      "cueStart": 3445,
+      "cueEnd": 3456,
+      "title": "A lei de facções inclui grupo de três ou mais pessoas e controle territorial",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei 15.358/2026 contempla grupos de três ou mais pessoas com violência, ameaça ou coação para finalidades específicas de domínio social. O resumo tem respaldo nessa norma, que é distinta da definição geral de organização criminosa da Lei 12.850. Não basta qualquer reunião de três pessoas.",
+      "sources": [
+        "extra-future-lev"
+      ]
+    },
+    {
+      "cueStart": 3487,
+      "cueEnd": 3522,
+      "title": "Um vídeo mostra um filho preso falsamente por ter terminado namoro",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há identificação suficiente do processo ou prova da falsidade e da motivação atribuída à denunciante. A manifestação de familiares no vídeo não é uma decisão judicial. Não se confirma culpa ou inocência a partir desse relato isolado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3535,
+      "cueEnd": 3678,
+      "title": "Moderação, ofensas e finalidade do debate",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Organização do programa, juízos pessoais e repetição de posições sobre leis já inventariadas. Não recebem votos adicionais nem servem como prova sobre intenção criminosa ou moralidade dos participantes.",
+      "sources": []
+    },
+    {
+      "cueStart": 3685,
+      "cueEnd": 3708,
+      "title": "A avó de Grandini foi presa sem crime e artistas sofreram censura",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Inconclusivo",
+      "explanation": "A censura na ditadura está documentada pelo Arquivo Nacional. O relato familiar, sem nome e processo, não pode ser individualmente conferido; também faltam referências para todas as falas atuais atribuídas a terceiros. Não se certifica o conjunto como um único episódio demonstrado.",
+      "sources": [
+        "extra-future-censura"
+      ]
+    },
+    {
+      "cueStart": 3715,
+      "cueEnd": 3732,
+      "title": "Mais de noventa por cento do 8 de janeiro estão livres porque fizeram acordo",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O balanço público distingue condenações, penas alternativas, acordos e prisões. Estar solto não significa necessariamente ter celebrado ANPP, e permanecer preso não prova apenas recusa de acordo. O percentual citado não traz data de corte e denominador que permitam validá-lo.",
+      "sources": [
+        "extra-future-stf"
+      ]
+    },
+    {
+      "cueStart": 3739,
+      "cueEnd": 3756,
+      "title": "O artigo 17 prevê que tentativa absolutamente impossível não é punida",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Verdadeiro",
+      "explanation": "A formulação corresponde ao artigo 17 do Código Penal: exige ineficácia absoluta do meio ou absoluta impropriedade do objeto. A regra existe; concluir que se aplica ao 8 de janeiro é outra questão jurídica, dependente de fatos e julgamentos.",
+      "sources": [
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 3757,
+      "cueEnd": 3786,
+      "title": "O 8 de janeiro é necessariamente crime impossível por ausência de armas de fogo",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Essa é uma tese de defesa, não o entendimento adotado nos julgamentos examinados. O STF considerou violência, grave ameaça e meios usados, sem exigir arma de fogo em mãos de cada agente. Crítica ao tribunal não transforma a tese contrária em conclusão jurídica estabelecida.",
+      "sources": [
+        "extra-future-golpe"
+      ]
+    },
+    {
+      "cueStart": 3769,
+      "cueEnd": 3780,
+      "title": "Três ônibus chegaram, iniciaram o vandalismo e saíram",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados veículos, passageiros, horários ou registros de investigação que demonstrem a sequência e a autoria atribuída. A alegação não permite deslocar toda a responsabilidade para um grupo não identificado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3787,
+      "cueEnd": 3792,
+      "title": "O MST invadiu a Câmara e ninguém foi preso",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Falso",
+      "explanation": "O episódio de junho de 2006 foi do MLST, organização distinta do MST. O registro da Câmara documenta centenas de detenções, pedido de manutenção de 42 prisões e investigação. A existência de posteriores solturas não sustenta dizer que ninguém foi preso.",
+      "sources": [
+        "extra-future-mlst"
+      ]
+    },
+    {
+      "cueStart": 3793,
+      "cueEnd": 3804,
+      "title": "Cento e trinta e nove mulheres dividiram uma pia e um vaso e revezavam roupas íntimas",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há local, data, inspeção ou relatório identificado para conferir o caso. Condições inadequadas precisam ser investigadas e não dependem de concordância política, mas o número e os detalhes não ficam certificados pela narrativa.",
+      "sources": []
+    },
+    {
+      "cueStart": 3811,
+      "cueEnd": 3840,
+      "title": "Jean foi preso injustamente e o juiz recusou retirar suas algemas",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam identificação completa, processo, decisão e registro integral da audiência. A narrativa de familiares ou advogados não substitui a análise dos fundamentos da prisão, do uso de algemas e da soltura. Não se certificam os detalhes nem a injustiça individual apenas pelo SRT.",
+      "sources": []
+    },
+    {
+      "cueStart": 3847,
+      "cueEnd": 3864,
+      "title": "A intenção por si só basta para comprovar o crime de golpe",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O elemento subjetivo é necessário, mas não dispensa conduta e demais elementos do tipo penal. Os julgamentos do STF examinam atos, contexto e prova. Discurso político abstrato e participação material são questões distintas, e a autoria não pode ser presumida para qualquer pessoa presente.",
+      "sources": [
+        "extra-future-cp",
+        "extra-future-golpe"
+      ]
+    },
+    {
+      "cueStart": 3865,
+      "cueEnd": 3882,
+      "title": "Bolsonaro sancionou em 2021 os novos crimes contra a democracia",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei 14.197/2021 inseriu esses tipos no Código Penal e revogou a Lei de Segurança Nacional. Confirma-se a sanção, com participação do Congresso. Não significa que condutas contra a ordem constitucional fossem inteiramente impunes antes ou que a existência da norma decida a culpa individual.",
+      "sources": [
+        "extra-future-lei14197"
+      ]
+    },
+    {
+      "cueStart": 3883,
+      "cueEnd": 3906,
+      "title": "O Punhal Verde e Amarelo incluía José Dirceu e foi encontrado em vários endereços citados",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O registro do STF sobre o plano de assassinatos identifica Lula, Alckmin e Alexandre de Moraes. A fala mistura esse plano com minutas e outros documentos encontrados em locais diferentes e acrescenta alvo não demonstrado na fonte. Evidências distintas não devem ser fundidas numa única apreensão.",
+      "sources": [
+        "pav-contragolpe",
+        "extra-future-acordao"
+      ]
+    },
+    {
+      "cueStart": 3907,
+      "cueEnd": 3930,
+      "title": "Bolsonaro era comandante das Forças Armadas no 8 de janeiro e isso prova armas entre manifestantes",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Bolsonaro deixou a Presidência antes de 8 de janeiro de 2023. Investigar articulação anterior e apoio de militares é diferente de afirmar que ele comandava o Estado naquela data ou que cada manifestante portava arma. A prova depende de pessoas e atos identificados.",
+      "sources": [
+        "extra-future-acordao",
+        "extra-future-posse"
+      ]
+    },
+    {
+      "cueStart": 3931,
+      "cueEnd": 4026,
+      "title": "Juízos sobre castigo, anistia e discursos revolucionários",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Defesas e críticas de punição, analogias e manifestações de indignação. Não são provas de autoria individual, nem autorizam transpor crimes entre pessoas por afinidade ideológica.",
+      "sources": []
+    },
+    {
+      "cueStart": 4081,
+      "cueEnd": 4106,
+      "title": "O MBL quer proibir o voto de mulheres e beneficiários do Bolsa Família",
+      "speaker": "Natália Boulos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "No próprio debate Arthur descreve incentivo financeiro para abstenção voluntária, não uma proibição formal de voto para mulheres. Isso não resolve a validade da proposta, mas exige descrever corretamente o que foi defendido. Um programa partidário mais amplo precisaria de documento próprio.",
+      "sources": [
+        "extra-future-srt"
+      ]
+    },
+    {
+      "cueStart": 4111,
+      "cueEnd": 4116,
+      "title": "A maioria do Congresso compra votos",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma acusação de crime contra um conjunto majoritário sem processos, período ou contagem identificados. Emendas, shows e políticas de transferência não demonstram automaticamente compra de votos por cada parlamentar. Não se certifica a proporção.",
+      "sources": []
+    },
+    {
+      "cueStart": 4183,
+      "cueEnd": 4218,
+      "title": "Pagar benefício maior para quem não votar é perfeitamente constitucional",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Constituição garante sufrágio universal e voto com valor igual; o Código Eleitoral também trata da oferta de vantagem para obter abstenção. O desenho exato de uma proposta requer exame próprio. Apresentá-la como validade constitucional já resolvida omite questões centrais.",
+      "sources": [
+        "extra-z7-cf243",
+        "extra-future-eleitoral"
+      ]
+    },
+    {
+      "cueStart": 4225,
+      "cueEnd": 4230,
+      "title": "Lula sancionou a taxa sobre pequenas compras internacionais",
+      "speaker": "Arthur do Val",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Senado documenta a sanção de junho de 2024 ao imposto de 20% para compras até cinquenta dólares. A medida passou pelo Congresso; não foi criação unilateral do presidente. Mudanças posteriores e a crítica política à taxa são questões separadas.",
+      "sources": [
+        "extra-future-tax"
+      ]
+    },
+    {
+      "cueStart": 4243,
+      "cueEnd": 4266,
+      "title": "Rueda comprou jatos com dinheiro público e Ciro recebia mesada de Vorcaro",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados documentos que comprovem conjuntamente aquisição, origem dos recursos e pagamentos pessoais no recorte do vídeo. Investigações e notícias sobre indícios não equivalem a culpa definitivamente estabelecida. A acusação não é certificada apenas pelo enunciado.",
+      "sources": []
+    },
+    {
+      "cueStart": 4297,
+      "cueEnd": 4314,
+      "title": "Emendas e proposta de responsabilidade gerencial",
+      "speaker": "Arthur do Val",
+      "verdict": "opinion",
+      "explanation": "Crítica a práticas orçamentárias e descrição de um projeto para limitar contratação de shows. Uma proposta não é regra vigente nem demonstra resultados já alcançados. O crescimento citado de emendas exige série e critério próprios.",
+      "sources": []
+    },
+    {
+      "cueStart": 4327,
+      "cueEnd": 4332,
+      "title": "Políticas de acesso ao ensino superior beneficiaram 3,6 milhões de estudantes",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O MEC informa mais de 3,6 milhões de beneficiados pelo Prouni desde 2005 até o marco de vinte anos. A ordem de grandeza tem respaldo nesse programa. Não equivale a dizer que todos concluíram curso, que eram meninos ou que todos os ingressos universitários derivaram de um único partido.",
+      "sources": [
+        "extra-future-prouni"
+      ]
+    },
+    {
+      "cueStart": 4331,
+      "cueEnd": 4338,
+      "title": "O PT isentou noventa por cento da população do IR e foi responsável pelo fim da escala 6 por 1",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A ampliação da faixa de isenção é documentada, mas a população total inclui quem já não pagava IR; não corresponde a noventa por cento de novos isentos. A mudança da escala era objeto de propostas, não direito já universalmente abolido, e tem autoria de diferentes partidos.",
+      "sources": [
+        "extra-future-ir",
+        "extra-future-escala"
+      ]
+    },
+    {
+      "cueStart": 4423,
+      "cueEnd": 4440,
+      "title": "A corrupção teria origem exclusiva no capitalismo e no setor privado",
+      "speaker": "Natália Boulos",
+      "verdict": "opinion",
+      "explanation": "É uma interpretação causal e ideológica. As figuras penais distribuem responsabilidades por condutas públicas e privadas; não demonstram uma origem histórica exclusiva nem absolvem agentes de um setor por definição.",
+      "sources": []
+    },
+    {
+      "cueStart": 4441,
+      "cueEnd": 4464,
+      "title": "Bolsonaro afastou Moro e acabou com a autonomia da Polícia Federal",
+      "speaker": "Natália Boulos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Moro anunciou sua demissão após a exoneração do diretor da PF e alegou interferência. Isso não é o mesmo que ter sido demitido nem comprova extinção formal de toda autonomia da instituição. A responsabilização por interferência é questão adicional.",
+      "sources": [
+        "pav-moro-saida"
+      ]
+    },
+    {
+      "cueStart": 4471,
+      "cueEnd": 4512,
+      "title": "Anular o processo significou absolver Lula no mérito",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Anulação por incompetência ou parcialidade retira a validade de atos processuais, mas não é julgamento de mérito de inocência. O Comitê de Direitos Humanos da ONU examinou garantias de julgamento e direitos políticos; não foi um tribunal criminal absolvendo cada acusação.",
+      "sources": [
+        "extra-future-lula",
+        "extra-future-lula-moro",
+        "extra-future-lulaonu"
+      ]
+    },
+    {
+      "cueStart": 4495,
+      "cueEnd": 4512,
+      "title": "Moro virou ministro de Bolsonaro e depois denunciou interferência na PF",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Verdadeiro",
+      "explanation": "A saída anunciada em abril de 2020 inclui a acusação de interferência e documenta sua atuação como ministro. Confirma-se a sequência e a existência da declaração, não automaticamente cada fato alegado nem a culpa de terceiros mencionados.",
+      "sources": [
+        "pav-moro-saida"
+      ]
+    },
+    {
+      "cueStart": 4525,
+      "cueEnd": 4530,
+      "title": "Valores devolvidos por políticos foram posteriormente restituídos",
+      "speaker": "Felipe Cestaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação exige identificar beneficiários, processos, valores e fundamento de cada restituição. Mudanças de validade processual ou de acordos não permitem concluir sobre todo dinheiro citado de modo agregado. Não se confirma o conjunto sem essa documentação.",
+      "sources": []
+    },
+    {
+      "cueStart": 4555,
+      "cueEnd": 4566,
+      "title": "Um candidato retirará invasores em menos de vinte e quatro horas",
+      "speaker": "Arthur do Val",
+      "verdict": "opinion",
+      "explanation": "Promessa eleitoral. Reintegração, competência policial e atuação judicial dependem de requisitos e casos concretos; a declaração não é garantia legal de resultado em prazo uniforme.",
+      "sources": []
+    },
+    {
+      "cueStart": 4627,
+      "cueEnd": 4650,
+      "title": "Flávio seria miliciano e privatizações explicariam a piora de água e trens",
+      "speaker": "Leonardo Grandini",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho reúne imputação pessoal e diferentes indicadores de serviços sem identificar processos e séries comparáveis. Não se comprova culpa individual por um rótulo, nem causalidade de toda falha por privatização a partir da enumeração. As afirmações exigem apuração individualizada.",
+      "sources": []
+    },
+    {
+      "cueStart": 4663,
+      "cueEnd": 4680,
+      "title": "Amanda prendeu uma ocupante e flagrou oferta de duzentos mil reais de propina",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados local, ocorrência e documentos suficientes para validar os dois episódios e a quantia. A narração e o apelo eleitoral não substituem o registro dos flagrantes e os desdobramentos. Não se certificam os detalhes.",
+      "sources": []
+    },
+    {
+      "cueStart": 4699,
+      "cueEnd": 4806,
+      "title": "Encerramento e defesa de mais mulheres no poder",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Considerações políticas, agradecimentos, números de candidaturas e divulgação de redes. São apelos eleitorais e juízos normativos, sem voto factual adicional.",
+      "sources": []
+    }
+  ]
+}

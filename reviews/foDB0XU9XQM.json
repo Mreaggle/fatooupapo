@@ -1,0 +1,1575 @@
+{
+  "videoId": "foDB0XU9XQM",
+  "video": {
+    "id": "foDB0XU9XQM",
+    "url": "https://www.youtube.com/watch?v=foDB0XU9XQM",
+    "title": "DEBATE: FEMINISTA X MASCULINISTA: SARDÁ, MANDI X JAMILY, SALDANHA - Inteligência Ltda. Podcast #1576",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/foDB0XU9XQM/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "caroline-sarda",
+      "name": "Caroline Sardá",
+      "aliases": [
+        "Sardá",
+        "Carol"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "mandi",
+      "name": "Mandi",
+      "aliases": [
+        "Mand",
+        "Amand"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "jamily",
+      "name": "Jamily",
+      "aliases": [
+        "Jamile",
+        "Jamil"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "saldanha",
+      "name": "Saldanha",
+      "aliases": [
+        "Senhor Saldanha"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "rogerio-vilela",
+      "name": "Rogério Vilela",
+      "aliases": [
+        "Vilela"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
+  "referenceDate": "2025-07-01",
+  "reviewedAt": "2026-10-30T18:28:04.864Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "7d08c8e1cf35f8f0403885a844f8723636f476b058797f3acb394abedb8674bc",
+  "scannedThrough": 5855,
+  "coverageNotes": "Leitura integral dos 5.855 blocos fornecidos, de 00:00:59,559 a 03:25:37,760. O início ausente não foi reconstruído. Referência histórica: 1º de julho de 2025. Os argumentos foram conferidos com documentos e séries nos recortes indicados; repetição, preferência moral e propostas políticas ficam fora da pontuação.",
+  "limitations": [
+    "Revisão textual e documental, sem validação acústica. O SRT automático contém palavras, nomes e números corrompidos; falas sobrepostas ou com mudança de interlocutor sem identificação segura permanecem sem autoria individual.",
+    "Estatísticas sobre MVI, homicídio, feminicídio, autoria por parceiro e população prisional têm denominadores distintos. Não condenação não significa denúncia falsa; medida protetiva não equivale a condenação nem transferência de propriedade.",
+    "As peças integrais das disputas pessoais, relatos de escritório, casos anônimos e decisões apenas lidas no programa não foram fornecidas para revisão. Não há certificação dessas imputações individuais.",
+    "Direitos, regras esportivas e decisões são examinados no contexto anterior ou contemporâneo a julho de 2025. Fontes atualizadas depois são usadas apenas para o dispositivo histórico expressamente identificado, sem retroagir mudanças posteriores.",
+    "Opiniões sobre família, capitalismo, feminismo, masculinismo, aborto e solução do conflito palestino não recebem votos factuais. Negativas expressas de apoio a crimes e correções dentro do próprio diálogo foram preservadas."
+  ],
+  "claims": [
+    {
+      "cueStart": 1,
+      "cueEnd": 324,
+      "title": "Abertura, apresentações e posições políticas",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Autobiografia, divulgação, publicidade e identificação das correntes políticas. Não constituem comprovação das teses sociais e jurídicas discutidas depois.",
+      "sources": []
+    },
+    {
+      "cueStart": 325,
+      "cueEnd": 342,
+      "title": "O feminismo destrói mulheres e beneficia homens",
+      "speaker": "Saldanha",
+      "verdict": "opinion",
+      "explanation": "É um juízo político e moral sobre o movimento, sem definição de resultado, período ou indicador. Não recebe voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 343,
+      "cueEnd": 384,
+      "title": "Relacionar-se com uma mãe obriga o homem a pagar pensão socioafetiva",
+      "speaker": "Saldanha",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Namoro e condição de padrasto não criam automaticamente filiação e alimentos. É necessário demonstrar uma relação parental efetiva. O precedente de 2024 consultado exige posse do estado de filho e intenção parental inequívoca, que não equivalem à simples presença na casa. A mãe não cria unilateralmente a obrigação apenas por solicitá-la.",
+      "sources": [
+        "extra-fem-socioafetiva"
+      ]
+    },
+    {
+      "cueStart": 391,
+      "cueEnd": 414,
+      "title": "Ser padrasto não basta: a filiação socioafetiva precisa ser demonstrada",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O núcleo jurídico está correto: a existência do vínculo parental é matéria de prova, e não consequência automática de um namoro. O precedente consultado examina a relação concretamente. Já a alegação de que esses pedidos seriam uma minoria não veio acompanhada de série estatística nacional e não foi certificada.",
+      "sources": [
+        "extra-fem-socioafetiva"
+      ]
+    },
+    {
+      "cueStart": 433,
+      "cueEnd": 462,
+      "title": "A maioria das mães brasileiras cuida dos filhos sem participação do pai",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica a pesquisa nem o denominador. Mulher responsável pelo domicílio, mãe sem cônjuge residente e ausência de participação paterna são conceitos diferentes. O RASEAM permite examinar arranjos específicos, mas não autoriza transformar chefia feminina ou separação em prova de abandono paterno na maioria das maternidades.",
+      "sources": [
+        "extra-fem-maessolo"
+      ]
+    },
+    {
+      "cueStart": 481,
+      "cueEnd": 516,
+      "title": "A liberdade sexual favorece homens que abandonam mulheres",
+      "speaker": "Saldanha",
+      "verdict": "opinion",
+      "explanation": "É uma avaliação moral generalizante sobre relacionamentos. A expressão cem milhões de vezes é hiperbólica e não uma estimativa científica de risco.",
+      "sources": []
+    },
+    {
+      "cueStart": 517,
+      "cueEnd": 534,
+      "title": "52% das mães são solo e o dado inclui todas as separadas",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificada a tabela que produziria esse percentual. Arranjos domiciliares não classificam automaticamente toda mulher separada como única cuidadora: pode haver corresponsabilidade de um genitor não residente. Sem pesquisa, definição e universo correspondentes, os 52% e sua composição permanecem sem confirmação.",
+      "sources": [
+        "extra-fem-maessolo"
+      ]
+    },
+    {
+      "cueStart": 535,
+      "cueEnd": 558,
+      "title": "A Justiça limita a convivência dos pais a quatro dias mensais",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Finais de semana alternados podem integrar um acordo ou decisão, mas não constituem a regra legal obrigatória para todos os pais. Guarda compartilhada divide responsabilidades; convivência deve considerar as condições familiares e o interesse da criança. O STJ afasta tanto a obrigação de tempo exatamente igual como uma fórmula única de visitas.",
+      "sources": [
+        "extra-fem-guarda",
+        "extra-fem-civil"
+      ]
+    },
+    {
+      "cueStart": 577,
+      "cueEnd": 582,
+      "title": "55% das mães brasileiras são mães solo",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "O percentual é apresentado sem pesquisa e sem explicar se trata de mães, famílias ou responsáveis por domicílios. Esses universos não são intercambiáveis. A estatística de chefia feminina não comprova que 55% das mães não recebem participação do outro genitor.",
+      "sources": [
+        "extra-fem-maessolo"
+      ]
+    },
+    {
+      "cueStart": 613,
+      "cueEnd": 624,
+      "title": "A escala seis por um aumenta burnout, depressão e suicídio masculino",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "O boletim da Saúde documenta crescimento do suicídio e maior mortalidade masculina, mas não estabelece a escala de trabalho como causa suficiente. Para as três condições citadas seriam necessários estudos e séries próprios, com controle de outros fatores. A preocupação com saúde mental não substitui essa demonstração.",
+      "sources": [
+        "extra-fem-suicidio"
+      ]
+    },
+    {
+      "cueStart": 625,
+      "cueEnd": 642,
+      "title": "Mulheres se aposentam com menor contribuição e assumem mais cuidados",
+      "speaker": "Mandi",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Para novos filiados ao RGPS após a reforma de 2019, a aposentadoria programada exige, em regra, 15 anos de contribuição e 62 de idade para mulheres, contra 20 e 65 para homens; há transições e categorias distintas. O IBGE também registra mais horas femininas de cuidado e afazeres domésticos em 2022. Isso não significa que cada mulher tenha a mesma jornada.",
+      "sources": [
+        "extra-fem-aposenta",
+        "extra-fem-cuidados"
+      ]
+    },
+    {
+      "cueStart": 643,
+      "cueEnd": 648,
+      "title": "A reforma trabalhista foi aprovada em 2016",
+      "speaker": "Mandi",
+      "verdict": "Falso",
+      "explanation": "A reforma debatida corresponde à Lei 13467, de 13 de julho de 2017. O projeto foi apresentado em 2016, mas a aprovação e a sanção da lei ocorreram em 2017.",
+      "sources": [
+        "extra-fem-clt"
+      ]
+    },
+    {
+      "cueStart": 709,
+      "cueEnd": 738,
+      "title": "Um salário de R$1500 custa R$3000 ao empresário por causa de impostos",
+      "speaker": "Saldanha",
+      "verdict": "Inconclusivo",
+      "explanation": "O custo depende do regime tributário, setor, benefícios e encargos. Férias, décimo terceiro e outros componentes não são todos impostos. Sem memória de cálculo para o estabelecimento descrito, não se confirma que a carga tributária duplique o salário nem que a redução da jornada necessariamente feche a loja.",
+      "sources": []
+    },
+    {
+      "cueStart": 823,
+      "cueEnd": 852,
+      "title": "O fim da escala seis por um deve incluir apoio ao pequeno empresário",
+      "speaker": "Mandi",
+      "verdict": "opinion",
+      "explanation": "Proposta política de conciliação entre redução da jornada e manutenção de empregos. Não constitui uma previsão econômica demonstrada.",
+      "sources": []
+    },
+    {
+      "cueStart": 853,
+      "cueEnd": 900,
+      "title": "Reduzir a jornada gera empregos e produtividade, enquanto deputados trabalham quatro dias",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Há modelos e resultados dependentes do desenho e da atividade; o trecho não identifica estudos para certificar um efeito universal. Dias de plenário também não representam todas as atividades de um mandato. A passagem reúne interlocutores e não permite atribuir individualmente todas essas proposições.",
+      "sources": []
+    },
+    {
+      "cueStart": 919,
+      "cueEnd": 930,
+      "title": "A Lei Maria da Penha deveria proteger homens vítimas de parceiras",
+      "speaker": "Jamily",
+      "verdict": "opinion",
+      "explanation": "É uma pergunta sobre o alcance desejado da política pública, não uma estatística. O debate jurídico precisa ainda considerar a decisão do STF de fevereiro de 2025 sobre casais homoafetivos masculinos, sem convertê-la em cobertura universal de toda relação.",
+      "sources": [
+        "extra-fem-trans"
+      ]
+    },
+    {
+      "cueStart": 967,
+      "cueEnd": 984,
+      "title": "A guarda compartilhada é regra, mas a residência obrigatoriamente fica com a mãe",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A preferência pela guarda compartilhada existe com exceções, inclusive risco de violência doméstica. Não há regra de residência obrigatoriamente materna nem de visitas sempre quinzenais. O arranjo deve ser definido pelas circunstâncias e pelo interesse dos filhos.",
+      "sources": [
+        "extra-fem-civil",
+        "extra-fem-guarda"
+      ]
+    },
+    {
+      "cueStart": 985,
+      "cueEnd": 1008,
+      "title": "Datafolha e Ipea mostram que homens são minoria na violência doméstica",
+      "speaker": "Caroline Sardá",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala mistura instituições e não identifica título, ano ou tabela da comparação entre os sexos. Pesquisas de vitimização dirigidas somente a mulheres não permitem estimar diretamente a proporção masculina no total. Isso não nega violência contra mulheres ou homens; deixa sem confirmação a comparação apresentada.",
+      "sources": [
+        "extra-fem-assedio"
+      ]
+    },
+    {
+      "cueStart": 1009,
+      "cueEnd": 1086,
+      "title": "Homens predominam nas mortes policiais e na população em situação de rua",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Anuário 2024 registra predominância masculina nas mortes por intervenção policial. O diagnóstico administrativo de 2023 também aponta maioria de homens entre pessoas em situação de rua. Esses recortes sustentam o núcleo, mas não foram usados para certificar qualquer generalização sobre todos os usuários de drogas ou todos os homens.",
+      "sources": [
+        "extra-fem-anuario2024",
+        "extra-fem-negrosrua"
+      ]
+    },
+    {
+      "cueStart": 1099,
+      "cueEnd": 1110,
+      "title": "O governo Lula desmontou a política de mulheres e cortou recursos de delegacias",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados programa, dotação, execução, ano de comparação e unidade responsável. Delegacias também dependem de estruturas estaduais. Sem orçamento e indicadores correspondentes, não se certifica a cadeia entre corte federal, estrutura policial e andamento dos inquéritos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1111,
+      "cueEnd": 1116,
+      "title": "A proteção da Maria da Penha foi estendida a mulheres trans e travestis",
+      "speaker": "Mandi",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O STF julgou o MI 7452 em fevereiro de 2025 e determinou a incidência da norma protetiva a mulheres travestis ou transexuais nas relações intrafamiliares, além de casais homoafetivos masculinos. O núcleo está correto; foi uma decisão judicial diante de omissão legislativa, e não uma nova lei geral aprovada pelo Congresso.",
+      "sources": [
+        "extra-fem-trans"
+      ]
+    },
+    {
+      "cueStart": 1116,
+      "cueEnd": 1122,
+      "title": "Medida recente permite monitoração eletrônica de agressores",
+      "speaker": "Mandi",
+      "verdict": "Verdadeiro",
+      "explanation": "A Lei 15125, de abril de 2025, introduziu a possibilidade durante medidas protetivas da Maria da Penha. Isso não impõe tornozeleira automaticamente a qualquer pessoa denunciada nem equivale a uma condenação definitiva.",
+      "sources": [
+        "extra-fem-tornozeleira"
+      ]
+    },
+    {
+      "cueStart": 1141,
+      "cueEnd": 1158,
+      "title": "99,3% das 46328 mortes violentas foram de homens e 6% decorreram de parceiras",
+      "speaker": "Jamily",
+      "verdict": "Falso",
+      "explanation": "O total de 46328 refere-se às MVI de 2023 publicadas no Anuário 2024. No gráfico 4, homens são 90,2% das MVI; 99,3% é o recorte de mortes por intervenção policial. O percentual mundial próximo de 6% de homicídios masculinos por parceiros não é uma taxa brasileira para essa mesma base. Multiplicá-los não produz uma contagem nacional comprovada.",
+      "sources": [
+        "extra-fem-anuario2024",
+        "extra-fem-seisWHO"
+      ]
+    },
+    {
+      "cueStart": 1159,
+      "cueEnd": 1178,
+      "title": "As contas demonstram que parceiras matam 106% mais homens que parceiros matam mulheres",
+      "speaker": "Jamily",
+      "verdict": "Falso",
+      "explanation": "O cálculo combina universos e fontes incompatíveis. Além disso, os 8,7% do gráfico de feminicídios são familiares, não o total de autores que não eram parceiros. Parceiros atuais e anteriores somam 84,2% naquele recorte. Feminicídios também não equivalem a todos os homicídios de mulheres por parceiros. A superioridade numérica afirmada não é demonstrada.",
+      "sources": [
+        "extra-fem-anuario2024",
+        "extra-fem-seisWHO"
+      ]
+    },
+    {
+      "cueStart": 1183,
+      "cueEnd": 1212,
+      "title": "O Anuário omite que há homens e meninos vítimas de estupro",
+      "speaker": "Jamily",
+      "verdict": "Falso",
+      "explanation": "A própria publicação apresenta sexo, taxa e idade das vítimas masculinas, inclusive gráficos específicos. Aproximadamente 11,8% no perfil da base analisada são homens e meninos. Há subnotificação, mas ela não demonstra que a publicação esconda deliberadamente um sexo.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 1219,
+      "cueEnd": 1224,
+      "title": "Nove em cada dez autores de mortes de mulheres são homens",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A síntese do Anuário 2024 registra essa predominância no perfil de autoria das mortes de mulheres analisadas. É necessário preservar esse universo: não se trata de dizer que nove em cada dez homens são autores de violência, nem de presumir autoria em um caso individual.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 1225,
+      "cueEnd": 1236,
+      "title": "Há estupros de mulheres a cada poucos minutos e 30 milhões sofreram assédio",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Anuário registra 83988 vítimas de estupro e estupro de vulnerável em 2023, majoritariamente femininas; o intervalo de dez minutos citado não é a síntese exata da edição. Já os 30 milhões são projeção da pesquisa Visível e Invisível 2023 para assédio em 2022 entre mulheres de 16 anos ou mais, e não registros policiais nem um dado sem período.",
+      "sources": [
+        "extra-fem-anuario2024",
+        "extra-fem-assedio"
+      ]
+    },
+    {
+      "cueStart": 1243,
+      "cueEnd": 1254,
+      "title": "Homens são maioria no Congresso",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Câmara eleita em 2022 tinha 91 mulheres, 17,7% dos deputados, confirmando ampla maioria masculina. A afirmação adicional de maioria conservadora depende de critério ideológico e recorte próprios; não foi tratada como dado cadastral equivalente ao sexo dos parlamentares.",
+      "sources": [
+        "extra-fem-congress"
+      ]
+    },
+    {
+      "cueStart": 1261,
+      "cueEnd": 1272,
+      "title": "Sâmia Bomfim apresentou proposta para igualar licenças parentais",
+      "speaker": "Caroline Sardá",
+      "verdict": "Verdadeiro",
+      "explanation": "O PL 1974/2021, apresentado por Sâmia Bomfim e Glauber Braga, propõe licença parental de 180 dias sem distinção entre os responsáveis definidos no texto. Trata-se de uma proposta legislativa, não de um direito geral já vigente em julho de 2025.",
+      "sources": [
+        "extra-fem-parentalidade"
+      ]
+    },
+    {
+      "cueStart": 1273,
+      "cueEnd": 1290,
+      "title": "Todas as mortes de homens não podem ser comparadas diretamente ao feminicídio",
+      "speaker": "Mandi",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Feminicídio é uma categoria específica e não o conjunto de mortes violentas femininas. A distinção central está correta e invalida a comparação apresentada como se os universos fossem iguais. A autoria masculina predominante em outros recortes tampouco permite presumir o responsável por uma morte individual.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 1291,
+      "cueEnd": 1302,
+      "title": "63% contra 6% demonstra violência dez vezes maior contra mulheres",
+      "speaker": "Mandi",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os 63% no Anuário são parceiros atuais entre feminicídios; os ex-parceiros constituem outra categoria. O percentual próximo de 6% de homicídios masculinos por parceiros vem de outro universo de pesquisa. Comparar essas proporções não fornece a razão de vítimas, a incidência por população ou uma medida brasileira única de toda violência doméstica.",
+      "sources": [
+        "extra-fem-anuario2024",
+        "extra-fem-seisWHO"
+      ]
+    },
+    {
+      "cueStart": 1321,
+      "cueEnd": 1332,
+      "title": "Jojo Todynho passou a ser rejeitada por feministas porque se declarou de direita",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "A passagem atribui reação e motivação a um movimento amplo sem apresentar publicações e episódios delimitados. Não se certifica que todas as críticas tenham essa causa nem que representem a posição de todas as feministas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1339,
+      "cueEnd": 1362,
+      "title": "Homens e meninos são cerca de 11,8% do perfil das vítimas de estupro",
+      "speaker": "Jamily",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O perfil por sexo do Anuário sustenta esse percentual e a existência de milhares de vítimas masculinas. Uma aproximação de dez mil não elimina as limitações de cobertura dos registros. O relato literal atribuído a uma procuradora de Lisboa, sem publicação identificada, não foi autenticado conjuntamente com o dado brasileiro.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 1363,
+      "cueEnd": 1374,
+      "title": "Mulheres são maioria do eleitorado brasileiro",
+      "speaker": "Jamily",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relatório eleitoral de 2024 do TSE registra 52,47% de mulheres. Esse dado sustenta a maioria, mas não comprova que parlamentares aprovem toda norma exclusivamente para obter votos, motivação que exigiria evidência própria.",
+      "sources": [
+        "extra-fem-eletoras"
+      ]
+    },
+    {
+      "cueStart": 1387,
+      "cueEnd": 1434,
+      "title": "Homens agredidos podem deixar de denunciar por vergonha e estigma",
+      "speaker": "Saldanha",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A revisão sistemática sobre busca de ajuda documenta vergonha, normas de masculinidade e barreiras nos serviços. Isso sustenta a existência dessas dificuldades. Não permite afirmar que todo policial ridiculariza vítimas nem quantificar a subnotificação brasileira a partir de vídeos de redes sociais.",
+      "sources": [
+        "extra-fem-mascstigma"
+      ]
+    },
+    {
+      "cueStart": 1471,
+      "cueEnd": 1512,
+      "title": "O masculinismo só lucra e não apresenta políticas para homens",
+      "speaker": "Caroline Sardá",
+      "verdict": "opinion",
+      "explanation": "Avaliação política dos debatedores sobre prioridades e atuação de um conjunto de produtores. Não é uma contagem comprovada de todos os integrantes do movimento.",
+      "sources": []
+    },
+    {
+      "cueStart": 1543,
+      "cueEnd": 1554,
+      "title": "Mulheres são a maioria das vítimas de todo tipo de violência",
+      "speaker": "Mandi",
+      "verdict": "Falso",
+      "explanation": "A generalização inclui modalidades em que os próprios dados citados mostram maioria masculina, como mortes violentas e intervenção policial. A predominância feminina na violência sexual e em recortes domésticos não sustenta maioria em todas as categorias.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 1573,
+      "cueEnd": 1596,
+      "title": "Mulheres devem obedecer ao marido e homens devem liderar e protegê-las",
+      "speaker": "Saldanha",
+      "verdict": "opinion",
+      "explanation": "Modelo moral e religioso defendido pelo participante. Não é uma descrição obrigatória de todas as famílias nem uma determinação jurídica universal.",
+      "sources": []
+    },
+    {
+      "cueStart": 1597,
+      "cueEnd": 1668,
+      "title": "Basta autodeclarar-se mulher para competir em qualquer esporte e bater recordes",
+      "speaker": "Saldanha",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A pergunta apresenta como cenário geral uma admissão irrestrita que não existe em todas as modalidades. A World Athletics já tinha regras específicas de elegibilidade em 2023. Identidade, uso de banheiro e regulamento esportivo são questões distintas. Os recordes não são identificados, e não foi comprovado risco individual de violência por uma identidade trans.",
+      "sources": [
+        "extra-fem-sport",
+        "extra-fem-genero"
+      ]
+    },
+    {
+      "cueStart": 1705,
+      "cueEnd": 1728,
+      "title": "Sexo e gênero são conceitos distintos",
+      "speaker": "Caroline Sardá",
+      "verdict": "Verdadeiro",
+      "explanation": "A OMS distingue características biológicas e fisiológicas de normas, papéis e relações sociais de gênero, que interagem. Essa distinção não afirma que toda diferença seja exclusivamente cultural ou que uma biografia individual possa ser inferida de uma identidade.",
+      "sources": [
+        "extra-fem-genero"
+      ]
+    },
+    {
+      "cueStart": 1741,
+      "cueEnd": 1788,
+      "title": "O masculinismo surgiu nos anos 1970 e 1980 e criadores divulgam 97% de denúncias falsas",
+      "speaker": "Caroline Sardá",
+      "verdict": "Inconclusivo",
+      "explanation": "A pesquisa de Bruna Camilo examina vertentes reacionárias e redes atuais, mas o trecho agrega uma origem única e uma atribuição a produtores sem identificar aqui os conteúdos originais. Os 97% são uma acusação sobre falas de terceiros, não um dado validado neste relatório sobre denúncias.",
+      "sources": [
+        "extra-fem-camilo"
+      ]
+    },
+    {
+      "cueStart": 1795,
+      "cueEnd": 1854,
+      "title": "A compreensão da saúde humana inclui fatores biológicos e sociais",
+      "speaker": "Mandi",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A OMS descreve a interação de sexo, gênero e condições sociais na saúde. Isso sustenta que a análise não se reduz a um órgão ou cromossomo. A tese de que a sociedade é sempre o fator mais determinante é posição filosófica da participante e não um consenso quantitativo demonstrado.",
+      "sources": [
+        "extra-fem-genero"
+      ]
+    },
+    {
+      "cueStart": 1861,
+      "cueEnd": 1902,
+      "title": "Autodeclaração, biologia e uso de banheiros",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Continuação de perguntas hipotéticas e definições normativas. Não há episódio identificado que permita certificar fraude ou violência, e não se atribui uma conduta criminosa a uma pessoa por ser trans.",
+      "sources": []
+    },
+    {
+      "cueStart": 1915,
+      "cueEnd": 1932,
+      "title": "Mandi afirmou que todos os homens são agressores",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O trecho anterior descreve autores de violências mencionadas e relações domésticas; não demonstra a proposição de que todo homem cometa agressão. Mais adiante, a participante esclarece expressamente que não fala de todos. A atribuição amplia o alcance do argumento e desconsidera a explicação registrada no mesmo SRT.",
+      "sources": [
+        "extra-fem-video"
+      ]
+    },
+    {
+      "cueStart": 1933,
+      "cueEnd": 1974,
+      "title": "Falsas acusações superlotam o sistema e prejudicam as vítimas reais",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "Denunciação caluniosa pode ocorrer, mas sua existência não demonstra frequência, ocupação de serviços ou custo agregado. A fala não apresenta levantamento de casos comprovadamente falsos nem o nexo com a demora de atendimento. Ausência de condenação não identifica automaticamente uma mentira.",
+      "sources": []
+    },
+    {
+      "cueStart": 1981,
+      "cueEnd": 2016,
+      "title": "O Instituto Maria da Penha processa Jamily por divulgar dados falsos",
+      "speaker": "Caroline Sardá",
+      "verdict": "Inconclusivo",
+      "explanation": "Há disputa sobre o objeto de uma ação e leitura de um excerto por uma das partes. Sem número, peças e decisões integrais examinadas, não se certificam aqui pedido, causa, resultado e imputação pessoal. A afirmação de 97% também não pode ser derivada de uma proporção entre registros e execuções penais.",
+      "sources": []
+    },
+    {
+      "cueStart": 2017,
+      "cueEnd": 2028,
+      "title": "O divórcio foi instituído em 1977 e mulheres conquistaram autonomia civil",
+      "speaker": "Mandi",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei 6515/1977 instituiu o divórcio. É necessário distinguir esse marco do Estatuto da Mulher Casada, de 1962, que retirou a incapacidade civil relativa da mulher casada. Mulheres não passaram de não pessoas a pessoas em 1977: pessoas naturais já existiam juridicamente, e pessoa jurídica é outra categoria.",
+      "sources": [
+        "extra-fem-divorcio",
+        "extra-fem-casada"
+      ]
+    },
+    {
+      "cueStart": 2029,
+      "cueEnd": 2046,
+      "title": "A comunhão parcial só foi permitida no Brasil em 2002",
+      "speaker": "Mandi",
+      "verdict": "Falso",
+      "explanation": "O regime já existia no Código Civil anterior, e a Lei do Divórcio de 1977 alterou a regra supletiva para a comunhão parcial quando não houvesse convenção válida. O Código Civil de 2002 não inaugurou a possibilidade desse regime.",
+      "sources": [
+        "extra-fem-divorcio"
+      ]
+    },
+    {
+      "cueStart": 2065,
+      "cueEnd": 2070,
+      "title": "A lei prevê igualdade salarial, mas mulheres têm rendimentos médios inferiores",
+      "speaker": "Mandi",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A legislação veda discriminação salarial, e as estatísticas do IBGE mostram desigualdades médias por sexo e raça. Diferença média de rendimento não equivale, por si só, a um caso comprovado de pagamento desigual pelo mesmo trabalho; ocupação, jornada e outros fatores também integram a análise.",
+      "sources": [
+        "extra-fem-clt",
+        "extra-fem-cuidados"
+      ]
+    },
+    {
+      "cueStart": 2071,
+      "cueEnd": 2088,
+      "title": "Divórcio e aborto foram legalizados na União Soviética em 1917",
+      "speaker": "Mandi",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O decreto russo de divórcio é de 1917. A legalização do aborto na Rússia ocorreu em 1920, e a URSS só foi formada em 1922. Houve novas restrições em 1936. No Brasil há hipóteses de aborto não punido; nos EUA a decisão de 2022 alterou a proteção federal, com regras estaduais distintas. A frase junta datas e regimes diferentes.",
+      "sources": [
+        "extra-fem-soviet",
+        "extra-fem-aborto-russia",
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 2101,
+      "cueEnd": 2154,
+      "title": "O juiz negou a liminar na ação sobre vídeos de Jamily",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "A participante lê um trecho e descreve o objeto da demanda, mas o documento integral não está disponível no material revisado. Indeferimento de uma medida provisória não é automaticamente decisão final de mérito nem comprovação de todas as informações de um vídeo. Não se certifica a interpretação pessoal do processo.",
+      "sources": []
+    },
+    {
+      "cueStart": 2161,
+      "cueEnd": 2184,
+      "title": "Há pessoas presas por pensão socioafetiva apesar de não terem vínculo parental",
+      "speaker": "Saldanha",
+      "verdict": "Inconclusivo",
+      "explanation": "É relatado um episódio anônimo envolvendo conversa de WhatsApp, sem autos ou decisão examinados. O instituto exige demonstração de parentalidade; isso não confirma nem exclui o erro judicial específico narrado. O caso permanece sem verificação.",
+      "sources": [
+        "extra-fem-socioafetiva"
+      ]
+    },
+    {
+      "cueStart": 2215,
+      "cueEnd": 2268,
+      "title": "Submissão feminina deve vir acompanhada de garantia financeira",
+      "speaker": "Saldanha",
+      "verdict": "opinion",
+      "explanation": "Proposta de modelo de relacionamento e valorização do cuidado. Não determina automaticamente o regime de bens de todas as uniões.",
+      "sources": []
+    },
+    {
+      "cueStart": 2269,
+      "cueEnd": 2274,
+      "title": "Tribunais consideram trabalho de cuidado não remunerado no cálculo da pensão",
+      "speaker": "Jamily",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A jurisprudência de 2024 do TJPR registra a consideração do cuidado diário da mãe na proporcionalidade dos alimentos dos filhos. Isso sustenta o reconhecimento econômico do trabalho. Não estabelece aumento automático nacional ou um salário fixo pago a toda pessoa que cuida da casa.",
+      "sources": [
+        "extra-fem-pensao"
+      ]
+    },
+    {
+      "cueStart": 2311,
+      "cueEnd": 2328,
+      "title": "É muito provável que uma parceira faça falsa acusação para tomar a casa do homem",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há amostra ou estatística que sustente a probabilidade apresentada. Uma medida de afastamento protetivo também não transfere automaticamente a propriedade do imóvel. A escolha de regime patrimonial é uma preferência; não comprova intenção fraudulenta de uma futura parceira.",
+      "sources": []
+    },
+    {
+      "cueStart": 2359,
+      "cueEnd": 2370,
+      "title": "Antes de 2002 mulheres saíam do casamento sem bens e a guarda sempre era do pai",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "O Estatuto da Mulher Casada de 1962 e a Lei do Divórcio de 1977 já regulavam patrimônio e guarda. Havia desigualdades históricas, mas não uma regra universal de ausência de partilha e guarda sempre paterna até 2002. A passagem reúne intervenções e fica sem autoria individual segura.",
+      "sources": [
+        "extra-fem-casada",
+        "extra-fem-divorcio"
+      ]
+    },
+    {
+      "cueStart": 2371,
+      "cueEnd": 2376,
+      "title": "A defesa da honra foi vedada em 2021 e o adultério já foi crime",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A ADPF 779 teve decisão cautelar em 2021 e confirmação de mérito em 2023 contra a tese de legítima defesa da honra. Adultério era crime e foi revogado em 2005. A tese não deve ser confundida com uma autorização legal geral para matar nem com legítima defesa diante de agressão atual.",
+      "sources": [
+        "extra-fem-honra",
+        "extra-fem-adulterio"
+      ]
+    },
+    {
+      "cueStart": 2377,
+      "cueEnd": 2388,
+      "title": "O assassinato de Eliane de Grammont por Lindomar impulsionou a campanha Quem Ama Não Mata",
+      "speaker": "Caroline Sardá",
+      "verdict": "Inconclusivo",
+      "explanation": "O episódio é narrado sem registro histórico específico examinado nesta revisão. A campanha também se relaciona a outros casos, como Ângela Diniz. Não se certifica toda a cadeia de datas, slogan e origem a partir dessa menção isolada.",
+      "sources": []
+    },
+    {
+      "cueStart": 2401,
+      "cueEnd": 2448,
+      "title": "O aborto já teria sido legalizado em 1917",
+      "speaker": "Mandi",
+      "verdict": "repetition",
+      "explanation": "Retoma o mesmo marco histórico anteriormente checado. A documentação situa a legalização em 1920. Cartazes ilustram ideias políticas, mas não demonstram realização integral da igualdade ou ausência de retrocessos posteriores.",
+      "sources": [
+        "extra-fem-aborto-russia"
+      ],
+      "duplicateOf": 50
+    },
+    {
+      "cueStart": 2485,
+      "cueEnd": 2490,
+      "title": "Defendo o fim do Estado e o abolicionismo penal",
+      "speaker": "Mandi",
+      "verdict": "opinion",
+      "explanation": "Posição filosófica e política da participante, sem voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 2497,
+      "cueEnd": 2550,
+      "title": "A lei de alienação parental pode ser usada contra mães que relatam abusos",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O CNDH documenta preocupações com o uso da lei e recomenda sua revogação na Resolução 29/2024. Isso sustenta a existência de controvérsia institucional e relatos de violações. Não comprova que toda alegação de alienação seja falsa nem que toda denúncia de abuso esteja demonstrada.",
+      "sources": [
+        "extra-fem-conanda"
+      ]
+    },
+    {
+      "cueStart": 2551,
+      "cueEnd": 2568,
+      "title": "Lucas e Mariah foram mortos pelo pai após ameaças à mãe",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relato direto de Jane Soares descreve filhos de nove e seis anos mortos em 4 de março de 2019 e conflitos posteriores à separação em dezembro de 2015. A mãe relata intimidação e temor de acusações de alienação. O núcleo do caso existe, mas a fala não deve sugerir que o homicídio ocorreu recentemente em 2025 ou que todo conflito de guarda tenha o mesmo desfecho.",
+      "sources": [
+        "extra-fem-jan"
+      ]
+    },
+    {
+      "cueStart": 2569,
+      "cueEnd": 2598,
+      "title": "A síndrome de alienação parental não é diagnóstico reconhecido pela OMS",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A OMS explica que não incluiu o conceito na CID-11 como diagnóstico, por não ser termo de assistência de saúde. Isso sustenta o núcleo. Não permite concluir que não exista nenhum estudo, que toda interferência familiar seja imaginária ou que a validade de uma norma civil dependa exclusivamente de um diagnóstico médico.",
+      "sources": [
+        "extra-fem-alienacao"
+      ]
+    },
+    {
+      "cueStart": 2599,
+      "cueEnd": 2610,
+      "title": "O Conanda se posicionou pela revogação da lei de alienação parental",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A nota de agosto de 2018 recomenda revogar dispositivos determinados e aprofundar o debate sobre outros ou sobre o texto integral. A Resolução 29/2024 do CNDH, órgão distinto, pede a revogação da lei. Há oposição institucional documentada, mas a formulação mistura o alcance e os órgãos desses posicionamentos.",
+      "sources": [
+        "extra-fem-conanda2",
+        "extra-fem-conanda"
+      ]
+    },
+    {
+      "cueStart": 2629,
+      "cueEnd": 2646,
+      "title": "Mães solo seriam maioria e arcariam com todas as consequências",
+      "speaker": "Mandi",
+      "verdict": "repetition",
+      "explanation": "Repete a proposição sobre maioria sem acrescentar pesquisa ou denominador. Mantém-se a conclusão inconclusiva anterior, sem novo voto.",
+      "sources": [],
+      "duplicateOf": 5
+    },
+    {
+      "cueStart": 2653,
+      "cueEnd": 2676,
+      "title": "Nenhum homem tem direitos negados por ser homem",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma generalização absoluta sem levantamento que permita excluir todos os casos e contextos de discriminação. Os dados apresentados sobre desigualdade das mulheres não demonstram inexistência universal de discriminação contra homens.",
+      "sources": []
+    },
+    {
+      "cueStart": 2731,
+      "cueEnd": 2748,
+      "title": "Sardá negou a existência de atos de alienação parental",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A fala anterior critica o fundamento científico da síndrome e a aplicação da lei. Isso não equivale a afirmar que nenhuma pessoa jamais prejudica a relação de uma criança com um genitor. A paráfrase amplia a tese da interlocutora e confunde fenômeno familiar, diagnóstico e norma jurídica.",
+      "sources": [
+        "extra-fem-video"
+      ]
+    },
+    {
+      "cueStart": 2749,
+      "cueEnd": 2754,
+      "title": "Qualquer interferência psicológica na criança é alienação parental",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O artigo 2º da Lei 12318/2010 exige interferência para que a criança repudie um genitor ou para prejudicar o estabelecimento ou a manutenção do vínculo. Não abrange indistintamente qualquer influência ou orientação psicológica. A lei civil também não equivale a uma classificação médica.",
+      "sources": [
+        "extra-fem-alienacao-lei"
+      ]
+    },
+    {
+      "cueStart": 2755,
+      "cueEnd": 2778,
+      "title": "Uma cliente recebeu duas condenações por denunciação caluniosa e houve reparação de R$20mil",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há número, sentença e situação recursal apresentados de modo verificável. O relato profissional não substitui a análise documental do caso. Não se confirma a condenação individual nem se projeta sua alegada existência para todas as disputas familiares.",
+      "sources": []
+    },
+    {
+      "cueStart": 2797,
+      "cueEnd": 2814,
+      "title": "Não existem dados de violência contra homens",
+      "speaker": "Jamily",
+      "verdict": "Falso",
+      "explanation": "O Anuário apresenta explicitamente vítimas masculinas de mortes violentas, violência sexual e outros crimes, com recortes de idade e raça. Pode haver lacunas e subnotificação; isso é diferente da ausência total de dados ou de manipulação deliberada comprovada.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 2821,
+      "cueEnd": 2868,
+      "title": "Qualquer reação física de policial leva à prisão e desrespeito justifica agressão",
+      "speaker": "Saldanha",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A lei exige uso da força segundo necessidade, razoabilidade e proporcionalidade. Não há consequência penal automática para todo contato físico, nem autorização geral para bater como castigo por desrespeito. A experiência pessoal do participante não demonstra o resultado de todos os processos.",
+      "sources": [
+        "forca"
+      ]
+    },
+    {
+      "cueStart": 2869,
+      "cueEnd": 2874,
+      "title": "99,99% dos policiais militares do Rio têm origem pobre",
+      "speaker": "Saldanha",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi apresentado censo ou pesquisa com definição de origem social que sustente essa precisão. Origem popular de parte de uma corporação não comprova uma proporção praticamente universal.",
+      "sources": []
+    },
+    {
+      "cueStart": 2875,
+      "cueEnd": 2886,
+      "title": "Dados de violência doméstica masculina são manipulados para não mostrar vítimas",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala anuncia um instituto e novas pesquisas, mas não identifica banco, alteração de registros ou responsáveis pela suposta manipulação. A ausência de informação em um recorte não comprova adulteração intencional de todos os dados.",
+      "sources": []
+    },
+    {
+      "cueStart": 2911,
+      "cueEnd": 2934,
+      "title": "Quem não rouba ou mata não vai para a prisão",
+      "speaker": "Saldanha",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A formulação ignora outros crimes e a possibilidade de prisão indevida ou anterior ao julgamento. A interlocutora aponta presos inocentes, e o participante aceita expressamente essa ressalva depois. A conclusão considera a correção registrada, sem atribuir a ele uma negação definitiva de todo erro judicial.",
+      "sources": [
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 2935,
+      "cueEnd": 2964,
+      "title": "Não existe pena para quem faz falsa acusação",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "O artigo 339 do Código Penal já pune denunciação caluniosa quando alguém provoca procedimento contra pessoa que sabe inocente. Arquivamento ou absolvição não bastam para demonstrar esse dolo. A pena não precisa ser idêntica à do delito falsamente atribuído para que haja punição prevista.",
+      "sources": [
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 2971,
+      "cueEnd": 3000,
+      "title": "Atlas da Violência e Anuário trazem dados específicos sobre homens",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Existem séries e perfis masculinos, o que contradiz a afirmação de ausência absoluta. O trecho, porém, combina esses levantamentos com uma pesquisa anual de Datafolha e Ipea sem identificação bibliográfica suficiente. Não se certifica como um único levantamento tudo que foi mencionado.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 3007,
+      "cueEnd": 3018,
+      "title": "A maioria dos 663mil presos foi falsamente acusada e 48% são negros ou pardos",
+      "speaker": "Caroline Sardá",
+      "verdict": "Falso",
+      "explanation": "O total de 663906 se refere a custodiados em celas físicas em junho de 2024. Ele não é uma contagem de inocentes nem de vítimas de acusações racistas. A proporção mencionada também não apresenta a tabela racial, o denominador ou a categoria usada. Dados de população prisional não provam a inocência da maioria dos presos.",
+      "sources": [
+        "extra-fem-pressocrace"
+      ]
+    },
+    {
+      "cueStart": 3019,
+      "cueEnd": 3024,
+      "title": "O Pele Alvo mostra cerca de 87% de negros entre mortos pela polícia em nove estados",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A edição de novembro de 2024 registra 87,8% entre as vítimas com raça/cor informada nos nove estados acompanhados. São 2782 pessoas negras em 3169 registros com informação, dentro de um total de 4025 mortes. O percentual não deve ser generalizado a todo o Brasil nem ignorar os registros sem cor conhecida.",
+      "sources": [
+        "extra-fem-pelealvo"
+      ]
+    },
+    {
+      "cueStart": 3049,
+      "cueEnd": 3060,
+      "title": "Os policiais do caso João Pedro foram absolvidos por legítima defesa da honra",
+      "speaker": "Caroline Sardá",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Houve absolvição sumária em 2024 por tese de legítima defesa, não de honra. Em 24 de junho de 2025, antes deste debate, a Defensoria informou que o TJ-RJ havia anulado a absolvição e determinado júri popular. A fala mistura fundamento e situação processual, embora o homicídio do adolescente de 14 anos seja documentado.",
+      "sources": [
+        "extra-fem-joaopedro"
+      ]
+    },
+    {
+      "cueStart": 3073,
+      "cueEnd": 3114,
+      "title": "A lei de drogas de 2006, no governo Lula, se relaciona ao aumento do encarceramento",
+      "speaker": "Mandi",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei 11343 foi sancionada em 2006, sob Lula, e alterou o tratamento penal das drogas. Isso não faz de toda pessoa presa por tráfico uma condenada injustamente nem prova que uma lei isolada explique todo o encarceramento. Atribuir o projeto original pessoalmente ao presidente também simplifica sua tramitação legislativa.",
+      "sources": [
+        "extra-fem-drogas"
+      ]
+    },
+    {
+      "cueStart": 3127,
+      "cueEnd": 3168,
+      "title": "O Hamas é apenas um partido e o ataque de outubro foi uma operação política ou militar",
+      "speaker": "Mandi",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A participação política não exclui responsabilidade por ataques deliberados a civis, sequestros e outros crimes documentados pela Comissão de Inquérito da ONU em 2024. A caracterização exclusiva minimiza esse conteúdo factual. A participante depois nega apoio a estupros e mortes de civis; essa negativa é preservada, sem lhe atribuir aprovação de atos que ela rejeita.",
+      "sources": [
+        "extra-nazi-hamasattacks",
+        "hamas-eleicao"
+      ]
+    },
+    {
+      "cueStart": 3175,
+      "cueEnd": 3204,
+      "title": "O ataque de 7 de outubro atingiu deliberadamente civis e crianças",
+      "speaker": "Rogério Vilela",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Comissão de Inquérito da ONU documenta ataques intencionais a civis, mortes e tomada de reféns por Hamas e outros grupos armados. Isso sustenta o núcleo. A revisão não autenticou o filme específico mencionado nem certifica cada episódio particular exibido em materiais audiovisuais.",
+      "sources": [
+        "extra-nazi-hamasattacks"
+      ]
+    },
+    {
+      "cueStart": 3241,
+      "cueEnd": 3252,
+      "title": "Israel financiou o Hamas",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação pode se referir a políticas distintas, autorização de transferências de terceiros ou relações históricas com precursores. O trecho não delimita data, mecanismo e documento financeiro. Não se certifica uma afirmação geral de financiamento direto de toda a organização ou de uma operação específica.",
+      "sources": []
+    },
+    {
+      "cueStart": 3253,
+      "cueEnd": 3276,
+      "title": "A invasão russa da Ucrânia dura uns dois anos",
+      "speaker": "Mandi",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A invasão em grande escala começou em fevereiro de 2022; na referência de julho de 2025 já transcorrera mais de três anos. O conflito iniciado em 2014 é ainda anterior. A presença de grupos de extrema direita em determinados episódios não torna toda a população ou o exército ucraniano nazista.",
+      "sources": [
+        "extra-fem-ucrania"
+      ]
+    },
+    {
+      "cueStart": 3283,
+      "cueEnd": 3312,
+      "title": "Resistência armada é legítima e não justifica estupro ou morte de civis",
+      "speaker": "Mandi",
+      "verdict": "opinion",
+      "explanation": "Posição política sobre resistência, acompanhada de rejeição expressa a crimes contra civis. Não constitui prova de que qualquer operação concreta cumpra o direito humanitário.",
+      "sources": []
+    },
+    {
+      "cueStart": 3331,
+      "cueEnd": 3366,
+      "title": "A Nakba foi em 1945 e os crimes atuais já foram julgados em Haia",
+      "speaker": "Caroline Sardá",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O deslocamento associado à Nakba é de 1948. Também é necessário distinguir mandados e medidas provisórias de uma condenação definitiva. Os documentos da CIJ citados sobre ocupação e medidas de proteção não são uma sentença penal final que resolva todos os crimes atuais.",
+      "sources": [
+        "extra-fem-nakba",
+        "ciJ",
+        "extra-nazi-icjcase"
+      ]
+    },
+    {
+      "cueStart": 3385,
+      "cueEnd": 3402,
+      "title": "O Hamas tem programa religioso fundamentalista",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O pacto de 1988 contém formulação religiosa, nacionalista e antissemitismo. Isso sustenta a caracterização do programa histórico. Não comprova conjuntamente uma intenção secreta única para todo financiamento ou a ideia de que todos os palestinos compartilhem esse programa.",
+      "sources": [
+        "extra-nazi-hamascharter"
+      ]
+    },
+    {
+      "cueStart": 3403,
+      "cueEnd": 3408,
+      "title": "Só haveria soldados mortos do lado israelense e por isso não seria guerra",
+      "speaker": "Caroline Sardá",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Ausência de exército estatal convencional não significa ausência de grupos armados ou de conflito sujeito ao direito humanitário. A Comissão de Inquérito documenta a atuação de grupos palestinos e de forças israelenses. A dificuldade de verificar quantos mortos eram combatentes não demonstra que não houve nenhum nem retira a proteção devida aos civis.",
+      "sources": [
+        "extra-nazi-hamasattacks"
+      ]
+    },
+    {
+      "cueStart": 3409,
+      "cueEnd": 3426,
+      "title": "Há privação de água e comida, danos a hospitais e morte de líderes do Hamas",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A situação humanitária e os danos a serviços estão documentados pela OCHA, com atribuições e datas. Há também mortes de lideranças publicamente registradas. Isso não identifica a condição civil ou combatente de cada morto nem estabelece responsabilidade individual por todo incidente mencionado no debate.",
+      "sources": [
+        "extra-nazi-gaza2025",
+        "extra-nazi-hamasattacks"
+      ]
+    },
+    {
+      "cueStart": 3427,
+      "cueEnd": 3432,
+      "title": "A Cisjordânia não tem Hamas e sofre com assentamentos ilegais",
+      "speaker": "Caroline Sardá",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O parecer da CIJ sustenta a ilegalidade da política de assentamentos e da ocupação continuada nos termos examinados. Essa conclusão não depende da inexistência absoluta de presença ou atividade do Hamas na Cisjordânia, que a documentação histórica não permite afirmar. Controle governamental e presença de células não são a mesma coisa.",
+      "sources": [
+        "ciJ",
+        "hamas-eleicao"
+      ]
+    },
+    {
+      "cueStart": 3445,
+      "cueEnd": 3510,
+      "title": "Condenação de crimes e divergência sobre a origem do conflito",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os interlocutores discutem enquadramento político e legitimidade. As negativas expressas de apoio a crimes são mantidas; não se atribui apoio à morte de civis por uma analogia ou por discordância ideológica.",
+      "sources": []
+    },
+    {
+      "cueStart": 3517,
+      "cueEnd": 3534,
+      "title": "Mandi só mudou de posição depois da intervenção de um assessor",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "O SRT não permite verificar gestos, identidade de quem se aproximou ou motivação da participante. A impressão de um debatedor não comprova a causalidade narrada; seria necessária revisão audiovisual contextual.",
+      "sources": []
+    },
+    {
+      "cueStart": 3535,
+      "cueEnd": 3540,
+      "title": "Mariana Ferrer fez falsa acusação e por isso criaram uma lei",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Lei 14245/2021 protege a dignidade de vítimas e testemunhas e não declara culpada a denunciante. Absolvição do acusado não comprova automaticamente denunciação caluniosa, que exige conhecimento da inocência e requisitos próprios. A fala usa um resultado processual como prova de uma imputação pessoal distinta.",
+      "sources": [
+        "extra-fem-ferrerlei",
+        "extra-future-cp"
+      ]
+    },
+    {
+      "cueStart": 3547,
+      "cueEnd": 3564,
+      "title": "O artigo 147-B tipifica violência psicológica contra mulher",
+      "speaker": "Jamily",
+      "verdict": "Verdadeiro",
+      "explanation": "A Lei 14188/2021 introduziu o tipo com vítima mulher. Isso não significa que homens ou meninos estejam sem proteção contra ameaças, maus-tratos e outras condutas previstas em normas próprias. A avaliação de que essa escolha seria misândrica é juízo político e não altera o texto legal.",
+      "sources": [
+        "extra-fem-psico-mulher"
+      ]
+    },
+    {
+      "cueStart": 3595,
+      "cueEnd": 3714,
+      "title": "Liberdade sexual, masculinismo e relacionamento ideal",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Repetição de posições morais, críticas pessoais e generalizações sem novas séries ou documentos. Não recebe voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 3715,
+      "cueEnd": 3720,
+      "title": "Tudo o que existe foi construído por homens",
+      "speaker": "Saldanha",
+      "verdict": "Falso",
+      "explanation": "O trabalho feminino na construção, na ciência e em outras atividades impede a exclusão universal das mulheres. Predominância masculina em certos ofícios não significa participação feminina nula nem autoria exclusivamente masculina de toda infraestrutura e conhecimento.",
+      "sources": [
+        "extra-fem-construcao"
+      ]
+    },
+    {
+      "cueStart": 3721,
+      "cueEnd": 3756,
+      "title": "Mulheres não fazem manutenção predial nem trabalho físico na construção",
+      "speaker": "Saldanha",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Há mulheres na construção e em atividades técnicas e operacionais; a predominância masculina não sustenta ausência total. Exigências de segurança, aptidão e limites de carga também não permitem concluir que nenhuma mulher realize esses serviços. O comentário sobre o que deveriam fazer é opinião do participante.",
+      "sources": [
+        "extra-fem-construcao"
+      ]
+    },
+    {
+      "cueStart": 3763,
+      "cueEnd": 3774,
+      "title": "O alistamento deveria ser facultativo para homens e mulheres",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Preferência por mudança de política pública. Não é apresentada como descrição da legislação vigente.",
+      "sources": []
+    },
+    {
+      "cueStart": 3787,
+      "cueEnd": 3858,
+      "title": "Estereótipos e ressentimento deveriam ser enfrentados",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Interpretações políticas e recomendações pessoais. A revisão não transforma a sugestão de terapia em diagnóstico clínico de outro debatedor.",
+      "sources": []
+    },
+    {
+      "cueStart": 3859,
+      "cueEnd": 3876,
+      "title": "Educação sexual ajuda a reduzir gravidez não planejada e identificar abusos",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "As orientações da UNESCO e a revisão de programas de prevenção sustentam benefícios de educação adequada à idade, incluindo conhecimento e habilidades de proteção. A revisão sobre abuso não certifica redução automática da incidência real em todo contexto. Qualidade, conteúdo e implementação importam.",
+      "sources": [
+        "extra-fem-sexual",
+        "extra-fem-cochrane"
+      ]
+    },
+    {
+      "cueStart": 3877,
+      "cueEnd": 3888,
+      "title": "A Lei Henry Borel e normas da infância protegem meninos e meninas",
+      "speaker": "Caroline Sardá",
+      "verdict": "Verdadeiro",
+      "explanation": "A Lei 14344/2022 trata de violência doméstica contra crianças e adolescentes sem restringir a proteção ao sexo feminino. A Lei 13431/2017 também inclui violência psicológica. Isso contradiz a ausência geral de amparo estatal para meninos.",
+      "sources": [
+        "extra-fem-borel",
+        "extra-fem-psico"
+      ]
+    },
+    {
+      "cueStart": 3889,
+      "cueEnd": 3900,
+      "title": "Falta anestesia no SUS e há violência obstétrica",
+      "speaker": "Caroline Sardá",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não delimita unidade, procedimento, período e levantamento para verificar uma falta geral. A existência de relatos não permite certificar todas as situações assistenciais no país; a afirmação permanece sem medida e escopo suficientes.",
+      "sources": []
+    },
+    {
+      "cueStart": 3901,
+      "cueEnd": 3948,
+      "title": "A política de dois Estados já existe na prática",
+      "speaker": "Mandi",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A defesa de um ou dois Estados é posição política. Porém, ocupação, ausência de plena soberania palestina e restrições documentadas não correspondem à realização plena de dois Estados independentes. O parecer da CIJ permite distinguir a configuração efetiva da proposta diplomática.",
+      "sources": [
+        "ciJ"
+      ]
+    },
+    {
+      "cueStart": 3961,
+      "cueEnd": 4002,
+      "title": "Feminismo busca emancipação e pode incluir homens aliados",
+      "speaker": "Caroline Sardá",
+      "verdict": "opinion",
+      "explanation": "Definição política defendida pela participante. Não é uma pesquisa sobre a opinião e a prática de cada integrante do movimento.",
+      "sources": []
+    },
+    {
+      "cueStart": 4003,
+      "cueEnd": 4032,
+      "title": "Homens jogaram ovos em manifestantes do caso Lindomar e outros assinaram manifesto de apoio",
+      "speaker": "Caroline Sardá",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificado, no material examinado, o registro documental específico que permita conferir a cena, data e manifesto. O reconhecimento da história geral da luta contra violência não autentica automaticamente cada episódio relatado.",
+      "sources": []
+    },
+    {
+      "cueStart": 4063,
+      "cueEnd": 4122,
+      "title": "O capitalismo se beneficia da divisão entre homens e mulheres",
+      "speaker": "Mandi",
+      "verdict": "opinion",
+      "explanation": "Interpretação teórica marxista sobre exploração e organização social. Não há indicador ou teste delimitado que permita tratá-la como um número factual do debate.",
+      "sources": []
+    },
+    {
+      "cueStart": 4129,
+      "cueEnd": 4152,
+      "title": "Houve reação de parlamentares contra o voto feminino",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O histórico do TSE documenta oposição e restrições propostas ao sufrágio, inclusive posições de constituintes. Isso sustenta a existência da reação. Não foram autenticados conjuntamente todos os cartões postais e as frases literais sobre cozinha mencionados na fala.",
+      "sources": [
+        "extra-fem-sufragio"
+      ]
+    },
+    {
+      "cueStart": 4153,
+      "cueEnd": 4176,
+      "title": "Bruna Camilo pesquisou o masculinismo como reação a direitos das mulheres",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A tese de 2023 da PUC Minas examina misoginia, redes e radicalização. Sustenta a existência dessa linha de pesquisa e análise de vertentes reacionárias. Não transforma movimentos heterogêneos de décadas e países distintos em uma organização única com a mesma intenção.",
+      "sources": [
+        "extra-fem-camilo"
+      ]
+    },
+    {
+      "cueStart": 4183,
+      "cueEnd": 4290,
+      "title": "A mãe seria a melhor cuidadora e homens devem liderar a família",
+      "speaker": "Saldanha",
+      "verdict": "opinion",
+      "explanation": "Preferência sobre organização familiar, misturada a exemplos pessoais. Não comprova superioridade de todo cuidador por sexo ou obrigação jurídica de seguir esse arranjo.",
+      "sources": []
+    },
+    {
+      "cueStart": 4297,
+      "cueEnd": 4338,
+      "title": "Meninos vítimas de violência psicológica não têm amparo estatal",
+      "speaker": "Jamily",
+      "verdict": "Falso",
+      "explanation": "Há proteção na legislação da infância e na Lei Henry Borel, além de tipos penais aplicáveis conforme a conduta. A existência de um tipo específico com vítima mulher não elimina essas normas. A acusação de que o feminismo inteiro desejaria exterminar homens não foi demonstrada e não valida o argumento jurídico.",
+      "sources": [
+        "extra-fem-borel",
+        "extra-fem-psico"
+      ]
+    },
+    {
+      "cueStart": 4345,
+      "cueEnd": 4368,
+      "title": "Meninos precisam de provas, mas mulheres conseguem medida protetiva sem avaliação",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Lei 14550/2023 permite decisão sumária a partir do depoimento ou alegações da mulher, com avaliação de risco. Isso não é condenação definitiva nem dispensa absoluta de análise. A Lei Henry Borel também prevê medidas protetivas urgentes e não estabelece o contraste universal entre proteção infantil impossível e concessão automática para mulheres.",
+      "sources": [
+        "extra-fem-protetiva",
+        "extra-fem-borel"
+      ]
+    },
+    {
+      "cueStart": 4393,
+      "cueEnd": 4404,
+      "title": "Não existe lei que proteja um menino vítima",
+      "speaker": "Jamily",
+      "verdict": "repetition",
+      "explanation": "Reitera a ausência de proteção já examinada. As normas da infância alcançam ambos os sexos, e a repetição não recebe novo voto.",
+      "sources": [
+        "extra-fem-borel",
+        "extra-fem-psico"
+      ],
+      "duplicateOf": 110
+    },
+    {
+      "cueStart": 4411,
+      "cueEnd": 4458,
+      "title": "O homem deve assumir liderança e responsabilidade pelo relacionamento",
+      "speaker": "Saldanha",
+      "verdict": "opinion",
+      "explanation": "Modelo moral e conselho pessoal. Não é uma regra empírica ou jurídica para toda relação.",
+      "sources": []
+    },
+    {
+      "cueStart": 4471,
+      "cueEnd": 4506,
+      "title": "A Lei Henry Borel só protege e não contém tipificação penal",
+      "speaker": "Jamily",
+      "verdict": "Falso",
+      "explanation": "O artigo 25 da Lei 14344/2022 tipifica descumprimento de medida protetiva. O texto também altera normas penais e o ECA, que possui crimes próprios. Distinguir medidas de proteção de tipos penais é correto, mas não sustenta dizer que a lei não tem crime ou que meninos não recebem proteção penal.",
+      "sources": [
+        "extra-fem-borel"
+      ]
+    },
+    {
+      "cueStart": 4513,
+      "cueEnd": 4536,
+      "title": "Experiência pessoal com denúncia e medida protetiva",
+      "speaker": "Mandi",
+      "verdict": "opinion",
+      "explanation": "A participante descreve uma vivência própria sem fornecer autos para revisão. Não se expõe terceiros nem se usa o relato isolado como estatística nacional.",
+      "sources": []
+    },
+    {
+      "cueStart": 4573,
+      "cueEnd": 4590,
+      "title": "Há um problema social, mas nem todos os homens abandonam filhos",
+      "speaker": "Mandi",
+      "verdict": "opinion",
+      "explanation": "Esclarecimento do alcance do argumento e avaliação política. A ressalva expressa impede atribuir à participante a tese de que todos os homens se comportem do mesmo modo.",
+      "sources": []
+    },
+    {
+      "cueStart": 4591,
+      "cueEnd": 4602,
+      "title": "Cinco milhões de crianças estão sem nome paterno e quinhentas são registradas assim por dia",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A referência amplamente divulgada de 5,5 milhões era do Censo Escolar 2011, não um estoque atualizado para 2025. O CNJ informa dados distintos de registros civis de 2016 a julho de 2024. Sem a série anual específica, não se certifica a exatidão dos quinhentos diários. Ausência do nome não demonstra, sozinha, todas as causas ou a participação afetiva paterna.",
+      "sources": [
+        "extra-fem-registro",
+        "extra-fem-arpen"
+      ]
+    },
+    {
+      "cueStart": 4633,
+      "cueEnd": 4644,
+      "title": "Retirar preservativo sem consentimento é stealthing e há proposta legislativa sobre isso",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O PL 965/2022 busca tipificação específica e teve deliberação em comissão em 2023. Isso sustenta a existência do debate legislativo. Projeto não é lei vigente; eventual enquadramento em tipos já existentes depende da conduta e do caso, sem equiparação automática a todo crime sexual citado.",
+      "sources": [
+        "extra-fem-stealthing"
+      ]
+    },
+    {
+      "cueStart": 4657,
+      "cueEnd": 4678,
+      "title": "No Brasil não se pode registrar criança sem o nome do pai",
+      "speaker": "Jamily",
+      "verdict": "Falso",
+      "explanation": "O registro com maternidade estabelecida é permitido e não pode ser recusado simplesmente por faltar o nome paterno. Há mecanismos de averiguação e reconhecimento de paternidade. Não existe investigação com resultado automático em todo caso nem impedimento ao direito ao registro quando o pai não é indicado.",
+      "sources": [
+        "extra-fem-arpen",
+        "extra-fem-registro"
+      ]
+    },
+    {
+      "cueStart": 4717,
+      "cueEnd": 4752,
+      "title": "Mulheres devem selecionar parceiros e homens conferir preservativos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Conselhos e hipóteses morais sobre prevenção. Não demonstram ocorrência ou frequência de adulteração deliberada de preservativos por determinado sexo.",
+      "sources": []
+    },
+    {
+      "cueStart": 4759,
+      "cueEnd": 4782,
+      "title": "Houve aumento gigantesco de mulheres que matam parceiros",
+      "speaker": "Jamily",
+      "verdict": "Inconclusivo",
+      "explanation": "Não é apresentada série com anos, contagens e definição de autoria. O argumento numérico anterior combinava bases incompatíveis e não comprova tendência temporal. A retomada do estupro masculino já foi checada separadamente e não valida esse suposto aumento.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 4783,
+      "cueEnd": 4788,
+      "title": "Homens são 92% dos homicídios, mais de 75% dos suicídios e três vezes mais mortos no trabalho",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A predominância masculina nas mortes violentas e nos suicídios é documentada, mas o Anuário 2024 distingue homicídio doloso, MVI e intervenção policial, com percentuais diferentes. A razão ocupacional não traz base, ano ou cobertura verificáveis e não foi certificada. Reunir os três números sem esses recortes compromete a precisão do conjunto.",
+      "sources": [
+        "extra-fem-anuario2024",
+        "extra-fem-suicidio"
+      ]
+    },
+    {
+      "cueStart": 4819,
+      "cueEnd": 4872,
+      "title": "O feminismo protege homens e há centenas de leis com nomes de mulheres",
+      "speaker": "Caroline Sardá",
+      "verdict": "opinion",
+      "explanation": "Síntese política acompanhada de quantidade retórica sem inventário apresentado. Não se certifica o número trezentos como contagem legislativa nacional nem se atribui a uma única corrente toda proteção infantil.",
+      "sources": []
+    },
+    {
+      "cueStart": 4873,
+      "cueEnd": 4896,
+      "title": "A Lei Lola está ligada a ameaças e misoginia contra Lola Aronovich",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Câmara explica que a Lei 13642/2018 amplia a atribuição investigativa da Polícia Federal para mensagens misóginas na internet e relaciona a iniciativa ao caso da professora. Não cria culpa automática de toda pessoa que se identifique como masculinista nem imputa as ameaças aos demais convidados.",
+      "sources": [
+        "extra-fem-lola"
+      ]
+    },
+    {
+      "cueStart": 4897,
+      "cueEnd": 4908,
+      "title": "Marcelo Valle recebeu 43 anos por crimes como necrofilia e seu fórum fez o massacre de Suzano",
+      "speaker": "Caroline Sardá",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O TRF4 registra condenações por crimes digitais, incitação, associação, racismo, terrorismo e material de abuso sexual infantil. Essa fonte não comprova conjuntamente a pena total de 43 anos, condenação por necrofilia e autoria do massacre de Suzano. Influência ou contatos em fóruns não equivalem, por si, à execução ou à responsabilidade penal por um ataque específico.",
+      "sources": [
+        "extra-fem-marcelo"
+      ]
+    },
+    {
+      "cueStart": 4921,
+      "cueEnd": 4944,
+      "title": "Os autores de Suzano participavam de comunidades masculinistas que orientaram o crime",
+      "speaker": "Caroline Sardá",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não apresenta os autos, laudos digitais ou conclusão de investigação necessários para verificar o papel de cada comunidade e pessoa. A existência de conteúdos violentos em fóruns não demonstra automaticamente a responsabilidade de todos os integrantes ou de todo um movimento.",
+      "sources": []
+    },
+    {
+      "cueStart": 4951,
+      "cueEnd": 4956,
+      "title": "O NetLab documentou formas de monetização de conteúdos misóginos",
+      "speaker": "Caroline Sardá",
+      "verdict": "Verdadeiro",
+      "explanation": "O relatório de dezembro de 2024 analisa anúncios, doações, serviços e vendas na amostra de canais identificados. Isso sustenta a existência do mercado estudado, mas não comprova que qualquer curso dirigido a homens seja misógino ou que os dois convidados integrem a amostra.",
+      "sources": [
+        "extra-fem-netlab"
+      ]
+    },
+    {
+      "cueStart": 5017,
+      "cueEnd": 5028,
+      "title": "Mulheres perdem cinco a sete dias de treinamento por cólica e sangramento",
+      "speaker": "Saldanha",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Ciclo e sintomas variam entre pessoas e ao longo da vida. A metanálise de 2020 encontrou efeito médio trivial e evidência limitada, recomendando avaliação individual. Não sustenta uma semana universalmente perdida nem permite concluir elegibilidade esportiva apenas a partir da menstruação.",
+      "sources": [
+        "extra-fem-cycle"
+      ]
+    },
+    {
+      "cueStart": 5033,
+      "cueEnd": 5058,
+      "title": "Um fisiculturista perdeu o direito de competir por falsa acusação e morreu depois",
+      "speaker": "Saldanha",
+      "verdict": "Inconclusivo",
+      "explanation": "O atleta, processo, decisão e causa da restrição não são identificados. Não se associa o relato a uma pessoa específica por conjectura nem se certifica que a acusação tenha sido comprovadamente falsa.",
+      "sources": []
+    },
+    {
+      "cueStart": 5059,
+      "cueEnd": 5088,
+      "title": "Falsas acusações devem receber punição severa mesmo sendo poucas",
+      "speaker": "Saldanha",
+      "verdict": "opinion",
+      "explanation": "Proposta de prioridade e de rigor penal. Não quantifica a incidência, não altera os requisitos da denunciação caluniosa e não converte absolvição em prova de mentira.",
+      "sources": []
+    },
+    {
+      "cueStart": 5095,
+      "cueEnd": 5166,
+      "title": "A pesquisa da UFRJ chama de ódio qualquer orientação para homens evitarem golpes",
+      "speaker": "Jamily",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O relatório apresenta critérios sobre aversão, controle e desumanização, etapas de seleção e exemplos. Não classifica todo conteúdo voltado a homens ou todo conselho de prevenção como misógino. Criticar seus métodos é legítimo, mas a paráfrase não representa o escopo efetivamente declarado no estudo.",
+      "sources": [
+        "extra-fem-netlab"
+      ]
+    },
+    {
+      "cueStart": 5185,
+      "cueEnd": 5244,
+      "title": "O NetLab analisou 7812 canais, bilhões de visualizações e ataques a grupos de mulheres",
+      "speaker": "Caroline Sardá",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Os números gerais correspondem ao corpus de coleta. Houve refinamento para 601 canais e identificação qualitativa de conteúdo misógino em 137, com aproximadamente 3,9 bilhões de visualizações no conjunto de seus vídeos. O relatório descreve ataques a mães solo, mulheres mais velhas e aparência. Isso não significa que todos os 7812 canais sejam misóginos ou que todo criador tenha sido analisado individualmente.",
+      "sources": [
+        "extra-fem-netlab"
+      ]
+    },
+    {
+      "cueStart": 5269,
+      "cueEnd": 5280,
+      "title": "Câncer de próstata é o mais comum porque homens evitam médico e exame",
+      "speaker": "Mandi",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "No Brasil, é o mais incidente entre homens excluindo pele não melanoma. Evitar assistência pode dificultar o diagnóstico, mas não é a causa demonstrada de surgimento do tumor; idade e histórico familiar importam. O INCA não recomenda rastreamento populacional indiscriminado de assintomáticos. Sintomas e decisões individuais exigem avaliação de saúde.",
+      "sources": [
+        "extra-fem-próstata"
+      ]
+    },
+    {
+      "cueStart": 5311,
+      "cueEnd": 5322,
+      "title": "A recusa ao exame de próstata é causada por homofobia e misoginia",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho propõe uma explicação social para barreiras ao cuidado, mas não apresenta estudo que meça sua participação ou demonstre a causa de todas as recusas. Decisões sobre rastreamento também envolvem benefícios e riscos clínicos; não se diagnostica preconceito em toda pessoa que não realiza um exame.",
+      "sources": [
+        "extra-fem-próstata"
+      ]
+    },
+    {
+      "cueStart": 5335,
+      "cueEnd": 5352,
+      "title": "São cerca de 1467 feminicídios por cem mil mulheres",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "1467 é o total absoluto de vítimas em 2023 na edição citada, não uma taxa por cem mil. A taxa apresentada pelo Anuário é próxima de 1,4 por cem mil mulheres. A presença de parceiros e mortes em residência é documentada, mas não valida a troca entre contagem e taxa. O trecho reúne intervenções, sem autoria individual segura.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 5353,
+      "cueEnd": 5382,
+      "title": "A maioria dos registros de estupro envolve residência e pessoas conhecidas",
+      "speaker": "Mandi",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Anuário 2024 aponta 61,7% em residência e 84,7% de autoria conhecida no perfil examinado, com forte presença de crianças e adolescentes. Isso sustenta o núcleo, sem significar que todo estupro ocorra em casa ou que desconhecidos e ambientes públicos sejam irrelevantes.",
+      "sources": [
+        "extra-fem-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 5389,
+      "cueEnd": 5396,
+      "title": "A estudante Bruna foi morta após sair do metrô em São Paulo",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não oferece identificação, data e documentação suficientes para vincular com segurança o relato a um caso. Não se adivinha o nome de uma vítima a partir de possíveis erros de transcrição nem se imputa crime a uma pessoa por semelhança.",
+      "sources": []
+    },
+    {
+      "cueStart": 5397,
+      "cueEnd": 5412,
+      "title": "Uma trabalhadora da BRF perdeu gêmeas e foi demitida após sair para buscar socorro",
+      "speaker": "Mandi",
+      "verdict": "Inconclusivo",
+      "explanation": "Há reportagem contemporânea sobre decisão trabalhista relacionada ao caso, mas não foram examinados os autos integrais para certificar todas as condições, responsabilidades e situação recursal. A referência à semana anterior pode ser a publicação da decisão, não a data dos fatos. A revisão não transforma a narrativa em condenação definitiva da empresa.",
+      "sources": [
+        "extra-fem-brf"
+      ]
+    },
+    {
+      "cueStart": 5413,
+      "cueEnd": 5508,
+      "title": "A extrema direita alimenta o machismo e o governo Lula não o enfrenta até o fim",
+      "speaker": "Mandi",
+      "verdict": "opinion",
+      "explanation": "Avaliação política sobre ideologias e prioridades de governo. Recomendações de leitura e mobilização não recebem voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 5515,
+      "cueEnd": 5526,
+      "title": "O programa já realizou debates sobre Palestina e recebeu convidados da região",
+      "speaker": "Rogério Vilela",
+      "verdict": "opinion",
+      "explanation": "Recordação autobiográfica sobre a programação, sem novo argumento material para a checagem das teses do debate.",
+      "sources": []
+    },
+    {
+      "cueStart": 5533,
+      "cueEnd": 5668,
+      "title": "Homens protegem suas famílias e o feminismo os trata como vilões",
+      "speaker": "Saldanha",
+      "verdict": "opinion",
+      "explanation": "Conclusões morais e generalizações sobre papéis sociais. Exemplos de proteção ou violência não demonstram uma intenção uniforme de todo sexo ou movimento.",
+      "sources": []
+    },
+    {
+      "cueStart": 5671,
+      "cueEnd": 5855,
+      "title": "Encerramento, críticas recíprocas e divulgação de redes sociais",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Considerações finais, agradecimentos, opiniões e publicidade, sem novo argumento verificável material. Não recebem pontuação factual.",
+      "sources": []
+    }
+  ]
+}

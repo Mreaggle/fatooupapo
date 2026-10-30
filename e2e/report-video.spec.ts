@@ -1,9 +1,12 @@
 import { test, expect, type Page } from '@playwright/test'
 import { readFile } from 'node:fs/promises'
 import snapshots from '../public/snapshots/index.json' with { type: 'json' }
-import manifest from '../reviews/batch-2026-10-30/manifest.json' with { type: 'json' }
+import firstManifest from '../reviews/batch-2026-10-30/manifest.json' with { type: 'json' }
+import extraManifest from '../reviews/batch-2026-10-30-extra/manifest.json' with { type: 'json' }
 import { verdictLabel } from '../src/lib/verdict-label'
 import type { AnalysisReport, Verdict } from '../src/types'
+
+const manifest = [...firstManifest, ...extraManifest]
 
 // Exercise the IFrame API contract without depending on external video availability.
 async function mockVideo(page: Page) {
@@ -98,7 +101,7 @@ test('vídeo sincroniza as checagens e mantém a análise completa com busca e f
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
 })
 
-test('galeria dá acesso aos dez novos vídeos e preserva os relatórios anteriores', async ({ page }, testInfo) => {
+test('galeria dá acesso aos lotes completos e preserva os relatórios anteriores', async ({ page }, testInfo) => {
   await page.goto('./')
   const gallery = page.getByRole('region', { name: 'Debates checados recentemente' })
   await expect(gallery.getByRole('link')).toHaveCount(Object.keys(snapshots.reports).length)

@@ -1,17 +1,21 @@
-# Continuação — cinco vídeos adicionais e autoria nos cards
+# Continuação — lote adicional e cards
 
-Pedido: destacar o autor antes do argumento nos cards, respeitando revisões locais de locutor; checar e publicar cinco novos vídeos; organizar os diretórios e mover os SRTs da raiz.
+Pedidos atendidos na interface: busca no acervo; retirada da lista manual do README raiz; exportação PNG por fala com argumento, conclusão e gauge categórico, sem citação literal; marca Fato ou Papo na base central do gauge; autor destacado antes do argumento, respeitando revisões locais.
 
-IDs: MJEYLvrZJV0 (nazismo); foDB0XU9XQM (feminismo); FDeAWt5m3Mw (alienígenas); Z7pP0rDXdBM (marxismo); zqmYUQJz17k (futuro do Brasil).
+A interface e a organização dos SRTs estão publicadas no commit `c5e52397cc82cadb3b8bb04f708e8c9bec94873e`; workflow 41093273462 concluído. Os cinco SRTs estão em `requests/ID.srt`, com bytes e hashes preservados. Dez duplicatas antigas permanecem ignoradas em `requests/originals/`. Não apagar originais ou incluir caches no commit.
 
-Os cinco novos SRTs foram movidos sem alteração para `requests/ID.srt`. Metadados públicos do YouTube, nomes originais, hashes e contagens estão neste lote. Dez duplicatas antigas da raiz foram preservadas em `requests/originals/`, com igualdade de bytes verificada contra suas cópias canônicas. Não apagar os originais locais nem incluí-los novamente no commit.
+Os cinco inventários agora estão concluídos por leitura integral e revisão documental assistida por IA, sem validação acústica nem revisão humana independente. Total: 25.627 blocos, 631 entradas, 517 afirmações publicadas, 178 inconclusivas. JSONs canônicos em `reviews/ID.json`; artefatos gerados em `reviews/ID.md`, `snapshots/ID.md` e `transcripts/ID.md`. O manifesto e o README deste lote registram as contagens por vídeo. Fontes adicionais em `reviews/sources-2026-10-30-extra.json`.
 
-Autoria implementada: nome azul em destaque antes do argumento no PNG e no relatório; respeita revisões locais e usa “Locutor não identificado” quando necessário. Passaram 162 testes unitários, lint, build e quatro testes de navegador de autoria/exportação.
+MJEYLvrZJV0: nazismo, 5.530 blocos, 147 entradas, 120 publicadas.
+foDB0XU9XQM: feminismo, 5.855 blocos, 142 entradas, 111 publicadas.
+FDeAWt5m3Mw: alienígenas, 4.445 blocos, 101 entradas, 87 publicadas.
+Z7pP0rDXdBM: marxismo, 4.991 blocos, 126 entradas, 100 publicadas.
+zqmYUQJz17k: futuro do Brasil, 4.806 blocos, 115 entradas, 99 publicadas.
 
-Trabalho pendente: leitura/revisão documental completa dos cinco inventários; geração dos relatórios e testes; commit/push/deploy e verificação em produção. Nenhum novo snapshot foi publicado nesta etapa.
+Validação local em 30/10/2026: 172 testes em 23 arquivos aprovados; lint e build com 21 vídeos aprovados; 70 testes de navegador em desktop e celular aprovados, incluindo os cinco relatórios, busca, sincronização e exportação de cards. Os 16 objetos de relatórios anteriores permanecem idênticos no índice. A diferença de aproximadamente 19 segundos finais sem legenda no vídeo de alienígenas está documentada, com o SRT original preservado.
 
-Leituras auxiliares completas em `.analysis-work/batch-five-2026-10-30/ID.txt`, `ID.grouped.txt` e `ID.cues.json`. Não publicar caches nem intermediários. Os inventários finais devem ser canônicos em `reviews/ID.json`, seguindo `scripts/analysis/editorial.ts` e o catálogo `sources-*.json`. Nunca marcar revisão concluída antes de realizá-la.
+Publicação: o push deste commit em `main` aciona o workflow [Deploy GitHub Pages](https://github.com/Mreaggle/fatooupapo/actions/workflows/deploy-pages.yml). Este checkpoint registra a validação antes do push; a conclusão do deploy deve ser conferida na execução correspondente ao commit, seguida da verificação do [site publicado](https://mreaggle.github.io/fatooupapo/).
 
-Regras: shell sempre com `rtk`; staging explícito, sem `git add .`; testes, lint, build, navegador e deploy no Pages obrigatórios. Não há autorização atual para delegação a subagentes. Não extrair credenciais do GitHub. Manter atualizações breves em português durante todo o trabalho.
+Regras: shell sempre com `rtk`; staging explícito, sem `git add .`; preservar `Hero Fato ou Papo.pdf`, intermediários antigos em `reviews/batch-2026-10-30/` e `.analysis-work/` fora do commit. Não há autorização para subagentes. Deploy ao Pages já autorizado de forma permanente pelo AGENTS.md. Conferir preservação dos 16 objetos de relatórios do índice anterior.
 
-Leitura: FDeAWt5m3Mw lido integralmente (4.445 blocos), com 88 notas de inventário em `.analysis-work/batch-five-2026-10-30/FDeAWt5m3Mw.inventory.tsv`; revisão documental em andamento, ainda não concluída. Os outros quatro vídeos ainda não foram lidos.
+Pesquisa e notas locais completas em `.analysis-work/batch-five-2026-10-30/`: cues, leituras agrupadas, inventários provisórios/finais e caches. Não publicar esses intermediários. O arquivo histórico do lote de dez vídeos não deve ser reescrito como se fosse o checkpoint atual.

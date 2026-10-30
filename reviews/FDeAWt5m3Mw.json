@@ -1,0 +1,1096 @@
+{
+  "videoId": "FDeAWt5m3Mw",
+  "video": {
+    "id": "FDeAWt5m3Mw",
+    "url": "https://www.youtube.com/watch?v=FDeAWt5m3Mw",
+    "title": "DEBATE: OS ALIENS ESTÃO ENTRE NÓS? SACANI X EDISON BOAVENTURA - Inteligência Ltda. Podcast #875",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/FDeAWt5m3Mw/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "sergio-sacani",
+      "name": "Sérgio Sacani",
+      "aliases": [
+        "Sacani",
+        "Serjão"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "edison-boaventura",
+      "name": "Edison Boaventura",
+      "aliases": [
+        "Edison",
+        "Edson",
+        "Boaventura"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "rogerio-vilela",
+      "name": "Rogério Vilela",
+      "aliases": [
+        "Vilela"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    },
+    {
+      "id": "paquito",
+      "name": "Paquito",
+      "aliases": [],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
+  "referenceDate": "2023-06-29",
+  "reviewedAt": "2026-10-30T16:59:37.870Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "867b9c6e75eeaa7d01a030fd31887a54b6facd903ba52b368efa1d15f950c193",
+  "scannedThrough": 4445,
+  "coverageNotes": "O SRT fornecido começa em 00:00:05,260 e termina em 03:18:42,979; não foram reconstruídos os intervalos ausentes. A leitura é integral do arquivo, não validação acústica do vídeo. Relatos, documentos e explicações de origem foram avaliados separadamente. Referências posteriores são usadas apenas para documentação retrospectiva explicitada; o relatório final da NASA de setembro de 2023 não foi tratado como disponível em junho.",
+  "limitations": [
+    "Fotos, objetos, laudos e filmagens mostrados na tela não estão integralmente contidos no SRT. Quando faltam identificação, amostra ou cadeia de custódia verificáveis, não se certifica o material exibido nem sua origem.",
+    "Documentos oficiais comprovam o registro e a investigação; relatos neles transcritos não demonstram automaticamente etiologia clínica, origem extraterrestre ou intenção de encobrir."
+  ],
+  "claims": [
+    {
+      "cueStart": 1,
+      "cueEnd": 60,
+      "title": "Humor de abertura e regras de participação",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 97,
+      "cueEnd": 186,
+      "title": "Publicidade e cupom promocional",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 193,
+      "cueEnd": 252,
+      "title": "Entrega de livros e convite editorial",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 259,
+      "cueEnd": 264,
+      "title": "Sacani trabalhou na revista UFO na década de 1990",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato é autobiográfico. Sem edições, expediente ou textos identificados da revista vinculados ao período indicado, esta revisão não confirma o vínculo profissional nem o trata como falso.",
+      "sources": []
+    },
+    {
+      "cueStart": 265,
+      "cueEnd": 294,
+      "title": "O filme Fogo no Céu e o caso Travis Walton",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A conversa mistura dramatização cinematográfica, memória de encontros pessoais e um teste televisivo não identificado por data ou gravação. Um polígrafo isolado não prova veracidade ou mentira sobre a alegada abdução; faltam elementos para resolver esse episódio.",
+      "sources": []
+    },
+    {
+      "cueStart": 313,
+      "cueEnd": 330,
+      "title": "Kenneth Arnold relatou objetos em 24 de junho de 1947",
+      "speaker": "Edison Boaventura",
+      "verdict": "Verdadeiro",
+      "explanation": "O arquivo histórico da Força Aérea dos EUA preserva o relato de Kenneth Arnold de 24 de junho de 1947. Isso confirma a ocorrência do relato e sua importância histórica, não a origem extraterrestre dos objetos descritos.",
+      "sources": [
+        "extra-uap-bluebook"
+      ]
+    },
+    {
+      "cueStart": 367,
+      "cueEnd": 384,
+      "title": "Pirâmides egípcias não exigem explicação extraterrestre",
+      "speaker": "Edison Boaventura",
+      "verdict": "Verdadeiro",
+      "explanation": "O projeto arqueológico Digital Giza documenta trabalhadores, assentamentos e estruturas funerárias egípcias. A construção humana das pirâmides é sustentada por evidências arqueológicas; lacunas sobre técnicas específicas não exigem intervenção extraterrestre.",
+      "sources": [
+        "extra-uap-pyramids"
+      ]
+    },
+    {
+      "cueStart": 397,
+      "cueEnd": 420,
+      "title": "A adaga de Tutancâmon é de ferro de meteorito",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Verdadeiro",
+      "explanation": "A análise não destrutiva publicada por Comelli e colaboradores em 2016 encontrou composição compatível com ferro meteórico na lâmina da adaga. Origem meteorítica do metal não significa fabricação por alienígenas; interpretações sobre a intenção do presente são adicionais.",
+      "sources": [
+        "extra-uap-dagger",
+        "extra-uap-polimi"
+      ]
+    },
+    {
+      "cueStart": 421,
+      "cueEnd": 438,
+      "title": "Meteoritos são mais fáceis de localizar no deserto e na Antártida",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Verdadeiro",
+      "explanation": "A pesquisadora da NASA explica a procura em desertos quentes e frios e o contraste das rochas com o gelo. Isso facilita localização e preservação, sem tornar toda rocha escura um meteorito nem eliminar a necessidade de análise.",
+      "sources": [
+        "extra-uap-meteorites"
+      ]
+    },
+    {
+      "cueStart": 445,
+      "cueEnd": 456,
+      "title": "Greys seriam 80% dos relatos de tripulantes",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se informa levantamento, amostra, universo ou período que sustente a porcentagem. A popularidade de uma representação cultural não mede a frequência de encontros reais nem comprova seres extraterrestres.",
+      "sources": []
+    },
+    {
+      "cueStart": 451,
+      "cueEnd": 468,
+      "title": "Pinturas Wandjina teriam 40 a 70 mil anos",
+      "speaker": "Edison Boaventura",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O estudo arqueológico e paleoclimático citado situa o aparecimento do estilo Wandjina em aproximadamente 3,8 a 4 mil anos antes do presente. Antiguidade da presença humana na Austrália não data automaticamente esse motivo pictórico. A atribuição de dezenas de milhares de anos ao estilo não é sustentada por essa pesquisa.",
+      "sources": [
+        "extra-uap-wandjina"
+      ]
+    },
+    {
+      "cueStart": 523,
+      "cueEnd": 546,
+      "title": "Afresco de Dečani representa Sol e Lua, não naves",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A identificação de Sol e Lua é uma leitura iconográfica plausível, mas o SRT não permite inspecionar a imagem exibida, sua localização e a comparação invocada. Não foi obtida uma referência primária específica suficiente para certificar este afresco; tampouco há demonstração de nave extraterrestre.",
+      "sources": []
+    },
+    {
+      "cueStart": 541,
+      "cueEnd": 564,
+      "title": "Formas em imagens marianas seriam sempre assinatura episcopal",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica qual quadro, tapeçaria, autor ou símbolo episcopal está sendo comparado. Uma explicação aplicável a uma obra não demonstra que todas as formas semelhantes em imagens religiosas sejam assinaturas de bispos.",
+      "sources": []
+    },
+    {
+      "cueStart": 565,
+      "cueEnd": 582,
+      "title": "Textos jesuítas descreveriam abduções no Brasil colonial",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não informa a carta, data, edição ou passagem dos documentos jesuítas. Uma descrição antiga de demônios ou sequestros, mesmo autêntica, não determina que o acontecimento tenha origem extraterrestre.",
+      "sources": []
+    },
+    {
+      "cueStart": 589,
+      "cueEnd": 612,
+      "title": "Fátima teria sido contato extraterrestre",
+      "speaker": "Edison Boaventura",
+      "verdict": "opinion",
+      "explanation": "É uma interpretação sobre aparição religiosa, fé e hipótese extraterrestre atribuída a autores. A revisão documental não certifica milagre nem substitui essa interpretação por comprovação empírica; o trecho fica fora do placar.",
+      "sources": []
+    },
+    {
+      "cueStart": 595,
+      "cueEnd": 600,
+      "title": "Só pessoas com ensino superior podem acessar o Vaticano",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "O Arquivo Apostólico Vaticano tem exigências acadêmicas e de credenciamento para pesquisadores. A página consultada é atual e não comprova quais regras específicas foram aplicadas aos autores citados, nem quais documentos eles efetivamente consultaram antes de 2023. Isso não confirma a interpretação extraterrestre de Fátima.",
+      "sources": [
+        "extra-uap-vatican"
+      ]
+    },
+    {
+      "cueStart": 631,
+      "cueEnd": 648,
+      "title": "Leverger relatou uma luz no rio Paraguai em 1846",
+      "speaker": "Edison Boaventura",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O artigo de pesquisa do IHGMT reproduz e discute o registro de Leverger em viagem no rio Paraguai em 1846. Há sustentação para a existência do relato histórico; não está estabelecido que o objeto fosse uma nave ou que o registro mencionado corresponda exatamente à gazeta exibida no vídeo.",
+      "sources": [
+        "extra-uap-leverger"
+      ]
+    },
+    {
+      "cueStart": 703,
+      "cueEnd": 708,
+      "title": "A NASA teria descartado todos os relatos",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O estudo da NASA trata de qualidade, coleta e análise de dados, incluindo protocolos de relato. Exigir informação melhor e reconhecer limitações de testemunhos não equivale a descartar todos os relatos; a formulação absoluta excede o escopo documental.",
+      "sources": [
+        "extra-uap-nasa"
+      ]
+    },
+    {
+      "cueStart": 709,
+      "cueEnd": 720,
+      "title": "Duas mil pessoas teriam visto luz em São João del-Rei em 1939",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam referência de jornal, edição, levantamento de testemunhas e registros originais que sustentem as duas mil pessoas e o episódio de 1939. Não se converte a existência possível de uma notícia histórica em identificação do fenômeno.",
+      "sources": []
+    },
+    {
+      "cueStart": 745,
+      "cueEnd": 762,
+      "title": "A FAB investigou Lins e marcas de pouso em Ibiúna",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "O SRT menciona casos e análises, mas não fornece números de processo, laudos ou links que permitam conferir o total de testemunhas e as alterações de solo. A existência de um acervo de investigações da FAB não valida automaticamente cada detalhe desses dois episódios.",
+      "sources": []
+    },
+    {
+      "cueStart": 787,
+      "cueEnd": 804,
+      "title": "AARO foi criado e dirigido por Sean Kirkpatrick",
+      "speaker": "Edison Boaventura",
+      "verdict": "Verdadeiro",
+      "explanation": "O Departamento de Defesa anunciou em julho de 2022 a criação do AARO e a nomeação de Sean Kirkpatrick. Criar um órgão para estudar anomalias e riscos não significa que a origem extraterrestre tenha sido confirmada.",
+      "sources": [
+        "extra-uap-aaro"
+      ]
+    },
+    {
+      "cueStart": 805,
+      "cueEnd": 816,
+      "title": "Biden teria destinado 850 bilhões à investigação de OVNIs",
+      "speaker": "Edison Boaventura",
+      "verdict": "Falso",
+      "explanation": "A cifra próxima de US$ 858 bilhões corresponde à autorização global de defesa nacional para o exercício de 2023, não a uma verba destinada à investigação de OVNIs. A existência de recursos para inteligência ou para o AARO não permite atribuir todo esse orçamento ao tema.",
+      "sources": [
+        "extra-uap-ndaa"
+      ]
+    },
+    {
+      "cueStart": 829,
+      "cueEnd": 858,
+      "title": "Fragmentos de Ubatuba teriam isótopos 30% distintos",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação exige o laudo isotópico, identificação da amostra, método, incertezas e cadeia de custódia do fragmento exibido. Estudos sobre materiais incomuns não confirmam automaticamente esse percentual para esta peça nem estabelecem sua origem extraterrestre.",
+      "sources": [
+        "extra-uap-nolan",
+        "extra-uap-condon"
+      ]
+    },
+    {
+      "cueStart": 883,
+      "cueEnd": 930,
+      "title": "Pilotos e militares não conhecem astronomia e fenômenos atmosféricos",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Não reconhecer determinado objeto não implica que pilotos ou militares, como grupo, desconheçam astronomia e meteorologia. A própria história dos sprites inclui observações de pilotos. O limite de competência de uma testemunha precisa ser avaliado individualmente, sem essa generalização absoluta.",
+      "sources": [
+        "extra-uap-sprites",
+        "extra-uap-nasa"
+      ]
+    },
+    {
+      "cueStart": 949,
+      "cueEnd": 966,
+      "title": "UAP passou a significar fenômeno anômalo não identificado",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A terminologia oficial passou a empregar unidentified anomalous phenomena, abrangendo domínios além do aéreo. A mudança não foi decisão exclusiva da NASA: insere-se em políticas e estruturas interinstitucionais dos EUA.",
+      "sources": [
+        "extra-uap-aaro",
+        "extra-uap-nasa"
+      ]
+    },
+    {
+      "cueStart": 967,
+      "cueEnd": 1002,
+      "title": "Sensores e calibração limitam a interpretação de UAP",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Calibração, finalidade do sensor e qualidade dos dados limitam inferências sobre objetos não identificados. O relatório militar de 1986 também explicita limitações de acompanhamento. Isso não identifica, sem os dados específicos, qual fenômeno causou cada detecção citada na conversa.",
+      "sources": [
+        "extra-uap-nasa",
+        "extra-uap-fab1986"
+      ]
+    },
+    {
+      "cueStart": 1009,
+      "cueEnd": 1032,
+      "title": "Sprites são descargas em alta atmosfera, filmadas recentemente",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Sprites são fenômenos elétricos naturais acima de tempestades, em faixas amplas da alta atmosfera. A primeira captura em vídeo reconhecida ocorreu em 1989, e os estudos cresceram nos anos 1990. O intervalo de 90–95 km citado na conversa não representa toda a extensão dos eventos.",
+      "sources": [
+        "extra-uap-sprites",
+        "extra-uap-sprites-paper"
+      ]
+    },
+    {
+      "cueStart": 1039,
+      "cueEnd": 1056,
+      "title": "Sprites poderiam se formar 2000 km longe da tempestade",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Inconclusivo",
+      "explanation": "A literatura consultada não sustenta a distância horizontal de dois mil quilômetros entre um sprite e sua tempestade geradora neste contexto. Distância até um observador e afastamento da descarga em relação à tempestade são medidas distintas; não se confirma o número apresentado.",
+      "sources": [
+        "extra-uap-sprites-paper"
+      ]
+    },
+    {
+      "cueStart": 1063,
+      "cueEnd": 1080,
+      "title": "BRAMON registra sprites no Brasil",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Verdadeiro",
+      "explanation": "A própria BRAMON publica trabalhos e registros sobre eventos luminosos transientes, incluindo sprites, desde antes do debate. Isso confirma a atividade de observação no Brasil, sem demonstrar a frequência de ocorrência em qualquer local ou atribuir todo relato luminoso a sprites.",
+      "sources": [
+        "extra-uap-bramon"
+      ]
+    },
+    {
+      "cueStart": 1105,
+      "cueEnd": 1116,
+      "title": "Luz filmada por policial em Las Vegas era meteoro",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Inconclusivo",
+      "explanation": "O SRT não identifica a gravação, data e registro astronômico que devem ser comparados. É possível distinguir uma luz meteórica de uma alegação posterior sobre seres, mas esta revisão não vincula com segurança o vídeo mencionado a um evento específico.",
+      "sources": []
+    },
+    {
+      "cueStart": 1117,
+      "cueEnd": 1158,
+      "title": "Raio bola seria comum após queima de cana e entrou no IAG",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Inconclusivo",
+      "explanation": "A experiência narrada no IAG não é acompanhada de medições ou registro auditável. Também não foi encontrada sustentação suficiente para a regra que associa frequência de raio bola à queima de cana. Não se usa essa hipótese para explicar automaticamente outros avistamentos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1237,
+      "cueEnd": 1266,
+      "title": "Estigma dificulta relatos de UAP",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O estudo da NASA inclui aperfeiçoar a coleta e os protocolos de informação. Barreiras sociais ao relato são compatíveis com esse problema de pesquisa; isso não torna o conteúdo de um testemunho automaticamente verdadeiro nem demonstra sua causa.",
+      "sources": [
+        "extra-uap-nasa"
+      ]
+    },
+    {
+      "cueStart": 1291,
+      "cueEnd": 1314,
+      "title": "Operação Prato investigou relatos de luzes e lesões no Pará",
+      "speaker": "Edison Boaventura",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Arquivo Nacional descreve a Operação Prato e seu acervo de relatos, fotografias e investigações no Pará em 1977–1978. O registro de pessoas que atribuíram lesões a luzes não estabelece, por si, a etiologia das lesões ou a presença de extraterrestres.",
+      "sources": [
+        "extra-uap-archive"
+      ]
+    },
+    {
+      "cueStart": 1315,
+      "cueEnd": 1326,
+      "title": "Bigelow teria 15 horas de vídeos brasileiros e Harry Reid tentou liberá-los",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificada documentação primária que vincule o conjunto específico de quinze horas de filmagens brasileiras à posse de Bigelow ou à tentativa de liberação por Harry Reid. A narrativa sobre circulação do material continua sem cadeia documental suficiente.",
+      "sources": []
+    },
+    {
+      "cueStart": 1327,
+      "cueEnd": 1386,
+      "title": "Silvamaria e Aurora teriam sofrido ataques e contatos persistentes",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "São relatos de episódios individuais, internação e contatos posteriores. Sem prontuários identificados, registros contemporâneos e demonstração causal independente, não se confirmam ataques por seres ou luzes de origem extraterrestre; isso não equivale a negar que as pessoas tenham sofrido.",
+      "sources": []
+    },
+    {
+      "cueStart": 1393,
+      "cueEnd": 1422,
+      "title": "Operação Prato teria durado além de 1977, de 1976 a 1984",
+      "speaker": "Edison Boaventura",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Arquivo Nacional situa a Operação Prato em 1977–1978. O período mais amplo de relatos ou de outros documentos sobre OVNIs não deve ser confundido com a duração formal dessa operação. A legenda contém números truncados, preservados sem imputar certeza acústica ao participante.",
+      "sources": [
+        "extra-uap-archive"
+      ]
+    },
+    {
+      "cueStart": 1423,
+      "cueEnd": 1434,
+      "title": "Relatórios da Operação Prato estão no Arquivo Nacional",
+      "speaker": "Edison Boaventura",
+      "verdict": "Verdadeiro",
+      "explanation": "Há documentação da Operação Prato sob custódia do Arquivo Nacional, acessível pelos instrumentos de pesquisa do acervo. Essa é uma constatação sobre existência e acesso a documentos, não sobre comprovação extraterrestre dos eventos descritos.",
+      "sources": [
+        "extra-uap-archive"
+      ]
+    },
+    {
+      "cueStart": 1483,
+      "cueEnd": 1518,
+      "title": "Missão teria 25 militares sob comando de Uyrangê Hollanda",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A existência da operação e seu contexto militar são documentais, mas o SRT contém nomes distorcidos e não identifica o registro que comprovaria exatamente 25 integrantes e as atribuições listadas. Não se certifica a relação nominal completa a partir da legenda.",
+      "sources": [
+        "extra-uap-archive"
+      ]
+    },
+    {
+      "cueStart": 1663,
+      "cueEnd": 1680,
+      "title": "Relatos provocaram pânico e afetaram pescadores",
+      "speaker": "Edison Boaventura",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O contexto histórico do acervo registra temor e relatos de ataques nas comunidades. Isso sustenta a repercussão social, sem provar cada número, causa clínica ou consequência profissional individual narrada no debate.",
+      "sources": [
+        "extra-uap-archive"
+      ]
+    },
+    {
+      "cueStart": 1723,
+      "cueEnd": 1752,
+      "title": "NASA não anunciou apagão mundial de internet por tempestade solar",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica a reportagem nem a declaração original sobre internet. Riscos associados a atividade solar não equivalem a anúncio de um apagão mundial certo, mas a ausência de identificação impede resolver a imputação específica feita à NASA ou ao jornalista.",
+      "sources": [
+        "extra-uap-nasa"
+      ]
+    },
+    {
+      "cueStart": 1759,
+      "cueEnd": 1782,
+      "title": "Laudo policial de Boa Vista do Ramos atribuiu queimaduras a disco voador",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A redação lida, com atribuição possível a um objeto desconhecido, não equivale a perícia que tenha demonstrado a causa da queimadura. Sem o documento integral identificado e os exames correspondentes, a conclusão sobre disco voador continua sem comprovação suficiente.",
+      "sources": []
+    },
+    {
+      "cueStart": 1813,
+      "cueEnd": 1830,
+      "title": "Tripulantes do Maria Rosa teriam morrido ou queimado por luzes",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato sobre o barco Maria Rosa combina lesões, morte e uma causa luminosa extraordinária. Não foram apresentados no material textual dados clínicos e documentais identificáveis suficientes para estabelecer essa cadeia causal. O termo usado em um laudo antigo, sozinho, não identifica uma nave.",
+      "sources": []
+    },
+    {
+      "cueStart": 1861,
+      "cueEnd": 1890,
+      "title": "Hollanda teria recebido implante e militares americanos assumiram investigação",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há documento clínico identificável do suposto implante nem registro primário suficiente de uma transferência de comando aos americanos. O testemunho narrado não permite certificar os dois acontecimentos ou inferir encobrimento.",
+      "sources": []
+    },
+    {
+      "cueStart": 1897,
+      "cueEnd": 1914,
+      "title": "Documentos ufológicos foram liberados e podem ser consultados",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Existe documentação pública e possibilidade de consulta ao acervo. A liberação de conjuntos de papéis não significa que todos os arquivos possíveis sobre todos os episódios tenham sido localizados ou abertos.",
+      "sources": [
+        "extra-uap-archive"
+      ]
+    },
+    {
+      "cueStart": 1915,
+      "cueEnd": 1944,
+      "title": "Varginha seria ultrassecreto e só papéis confidenciais foram abertos",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A classificação de um arquivo específico de Varginha precisa de ato, identificação e prazo de sigilo verificáveis. O relato de conversa com militar não demonstra a existência do suposto conjunto ultrassecreto nem que todas as categorias secretas tenham sido excluídas da liberação.",
+      "sources": []
+    },
+    {
+      "cueStart": 1987,
+      "cueEnd": 2034,
+      "title": "Projeto Blue Book começou em 1952 e pasta Ubatuba estaria ausente",
+      "speaker": "Edison Boaventura",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O nome Projeto Blue Book foi adotado em março de 1952, sucedendo programas anteriores. O acervo existente não permite confirmar, apenas pela menção a uma anotação de pasta ausente, o destino ou conteúdo do dossiê específico de Ubatuba alegado no trecho.",
+      "sources": [
+        "extra-uap-bluebook"
+      ]
+    },
+    {
+      "cueStart": 2035,
+      "cueEnd": 2076,
+      "title": "Origem dos fragmentos e laudos antigos de magnésio de Ubatuba",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A pesquisa sobre o magnésio brasileiro registra dificuldades de estabelecer local, data e origem aérea das amostras. A existência de material analisado não comprova a cadeia narrativa de explosão de uma nave em 1957 nem que a peça exibida corresponda à mesma amostra histórica.",
+      "sources": [
+        "extra-uap-condon"
+      ]
+    },
+    {
+      "cueStart": 2095,
+      "cueEnd": 2130,
+      "title": "Isótopos e composição provariam origem não terrestre do metal",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Composição e proporções isotópicas precisam ser comparadas com amostras de referência e processos de fabricação. Um resultado incomum não identifica sozinho a procedência espacial nem exclui toda origem terrestre. Também não foi demonstrada a regra universal de teor máximo citada para meteoritos.",
+      "sources": [
+        "extra-uap-nolan",
+        "extra-uap-condon"
+      ]
+    },
+    {
+      "cueStart": 2131,
+      "cueEnd": 2160,
+      "title": "Análises Caltech, Stanford, USP e NASA concordariam com origem extraterrestre",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho reúne laboratórios, épocas e amostras diferentes. Não se obteve documentação que permita concluir que todos os laudos mencionados concordem entre si ou que tenham certificado origem extraterrestre. Pureza química, autoria institucional e procedência são questões distintas.",
+      "sources": [
+        "extra-uap-nolan",
+        "extra-uap-condon"
+      ]
+    },
+    {
+      "cueStart": 2185,
+      "cueEnd": 2226,
+      "title": "Bigelow criou módulos espaciais infláveis e recebeu verba do Pentágono",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A NASA confirma a cooperação com a Bigelow Aerospace e a instalação do módulo expansível BEAM na ISS em 2016. Esse registro comprova tecnologia espacial humana e parceria institucional; não demonstra armazenamento de naves ou fragmentos extraterrestres na empresa.",
+      "sources": [
+        "extra-uap-beam"
+      ]
+    },
+    {
+      "cueStart": 2227,
+      "cueEnd": 2244,
+      "title": "Representantes da BAASS buscaram fragmentos no Brasil em 2009",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Cartões de visita podem indicar contato com pessoas, mas não bastam para comprovar o objetivo da visita, o vínculo contratual da missão ou a natureza dos fragmentos. Faltam registros identificáveis da coleta e análise do material referido.",
+      "sources": []
+    },
+    {
+      "cueStart": 2251,
+      "cueEnd": 2316,
+      "title": "Agências americanas nunca se comunicam e sempre se sabotam",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O escopo do estudo da NASA prevê dados de outras entidades e cooperação científica; a história do BEAM também registra parceria interinstitucional. Problemas de coordenação não sustentam a afirmação absoluta de que nenhuma agência se comunica ou de que todas sempre se sabotam.",
+      "sources": [
+        "extra-uap-nasa",
+        "extra-uap-beam"
+      ]
+    },
+    {
+      "cueStart": 2341,
+      "cueEnd": 2364,
+      "title": "Caso francês de 19/09/1971 mostraria liga isotópica semelhante a Ubatuba",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A localidade e o laboratório não ficam identificados de forma segura no SRT. Sem laudo, amostra, método e proveniência comparáveis, não se estabelece que o episódio francês tenha o mesmo material de Ubatuba ou origem extraterrestre.",
+      "sources": []
+    },
+    {
+      "cueStart": 2407,
+      "cueEnd": 2412,
+      "title": "Magnésio é inflamável",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Magnésio pode apresentar risco importante de combustão, particularmente como pó ou partículas finas. A ficha de segurança distingue essas condições. Isso não permite chamar qualquer fragmento maciço de extremamente explosivo ou concluir que explodiria ao ser tocado.",
+      "sources": [
+        "extra-uap-mg"
+      ]
+    },
+    {
+      "cueStart": 2413,
+      "cueEnd": 2436,
+      "title": "Chuva de meteoritos ocorreu em Santa Filomena em 2020",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Verdadeiro",
+      "explanation": "O Meteoritical Bulletin registra a queda confirmada de Santa Filomena, Pernambuco, em 19 de agosto de 2020, classificada como condrito H5-6. O episódio é uma queda de material meteórico; detalhes de telefonemas pessoais não são comprovados pelo registro.",
+      "sources": [
+        "extra-uap-santafilomena"
+      ]
+    },
+    {
+      "cueStart": 2437,
+      "cueEnd": 2454,
+      "title": "Bendegó é o maior meteorito brasileiro e sobreviveu ao incêndio",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Museu Nacional identifica o Bendegó como maior meteorito brasileiro, encontrado na Bahia em 1784 e transferido ao Rio em 1888. A data 1734 na legenda não coincide com o registro, mas não foi tratada como erro acústico comprovado. A documentação confirma o objeto, não cada detalhe da narrativa de transporte ou restauração.",
+      "sources": [
+        "extra-uap-bendego"
+      ]
+    },
+    {
+      "cueStart": 2485,
+      "cueEnd": 2514,
+      "title": "David Grusch denunciou recuperação de naves e episódio italiano de 1933",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Inconclusivo",
+      "explanation": "Houve uma denúncia administrativa de Grusch com representação jurídica de escopo delimitado em 2023. Isso não comprova recuperação de naves ou o episódio italiano citado. A alegada prova material precisa ser examinada independentemente do cargo e da condição de denunciante.",
+      "sources": [
+        "extra-uap-compass"
+      ]
+    },
+    {
+      "cueStart": 2515,
+      "cueEnd": 2544,
+      "title": "Blue Book investigou relatos e coletou materiais pelo mundo",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O acervo do Blue Book contém investigações, fotografias e registros de ocorrências. Isso não demonstra cobertura de todo fenômeno no mundo nem disponibilidade universal de um caça a qualquer hora para cada investigação, como a formulação ampla sugere.",
+      "sources": [
+        "extra-uap-bluebook"
+      ]
+    },
+    {
+      "cueStart": 2551,
+      "cueEnd": 2580,
+      "title": "Cooperação Brasil-EUA significaria envio de todos os corpos e fragmentos",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Cooperação entre países não estabelece que todos os fragmentos ou corpos tenham sido enviados aos EUA. Sem acordo específico, relação de remessas e cadeia de custódia verificáveis, não se confirma essa alegação abrangente nem o transporte de seres de Varginha.",
+      "sources": []
+    },
+    {
+      "cueStart": 2581,
+      "cueEnd": 2592,
+      "title": "Advogados de Grusch teriam abandonado caso e audiência foi adiada",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O comunicado de 9 de junho de 2023 diz que o escritório concluiu uma representação de escopo limitado sobre informação retida do Congresso e temas funcionais. Isso não equivale a abandonar o cliente por considerar falsa a história sobre OVNIs. O suposto adiamento da audiência não foi demonstrado no trecho.",
+      "sources": [
+        "extra-uap-compass"
+      ]
+    },
+    {
+      "cueStart": 2635,
+      "cueEnd": 2646,
+      "title": "Defesa americana tem orçamento muito maior que o da NASA",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Os registros orçamentários do exercício mostram defesa na ordem de centenas de bilhões de dólares e NASA na ordem de dezenas de bilhões; a NASA teve aproximadamente US$ 25,4 bilhões em 2023. Milhões, como aparece na legenda, é unidade incompatível. O contraste geral é válido; interesse ou verba infinita são especulações, não resultados medidos.",
+      "sources": [
+        "extra-uap-ndaa",
+        "extra-uap-nasa-budget"
+      ]
+    },
+    {
+      "cueStart": 2755,
+      "cueEnd": 2772,
+      "title": "Princípio cosmológico assume homogeneidade e isotropia",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O princípio cosmológico assume homogeneidade e isotropia estatísticas em escalas muito grandes. Não afirma que todos os locais tenham a mesma visibilidade, poeira, instrumentos ou vizinhança. A ausência de centro privilegiado cosmológico precisa desse recorte.",
+      "sources": [
+        "extra-uap-cosmology"
+      ]
+    },
+    {
+      "cueStart": 2791,
+      "cueEnd": 2820,
+      "title": "Proxima Centauri fica a 4,2 anos-luz e tem planeta",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Proxima Centauri fica a aproximadamente 4,2 anos-luz, de modo que um sinal luminoso leva pouco mais de quatro anos em um sentido. Há planeta conhecido no sistema. A estimativa de viagem com tecnologia atual depende de velocidade e propulsão e não foi demonstrada pelo valor redondo de mil anos.",
+      "sources": [
+        "extra-uap-proxima"
+      ]
+    },
+    {
+      "cueStart": 2827,
+      "cueEnd": 2856,
+      "title": "Comentários sobre ET Bilu e preferência de abordagem",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 2863,
+      "cueEnd": 2916,
+      "title": "Existiram investigações militares de Prato e de 19/05/1986",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Há documentação de investigações da Operação Prato e de acionamento de aeronaves em maio de 1986. Esses fatos institucionais não comprovam as interpretações sobre naves e criaturas nem autorizam classificar todos os relatos como fraude.",
+      "sources": [
+        "extra-uap-archive",
+        "extra-uap-fab1986"
+      ]
+    },
+    {
+      "cueStart": 2923,
+      "cueEnd": 2964,
+      "title": "Noite de 19/05/1986 teve radares, caças e duas mil testemunhas",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relatório de 1986 descreve contatos radar e tentativas de interceptação por caças. Ele não comprova o total de duas mil testemunhas, os pousos ou todos os episódios de uma onda posterior de dez dias; esses elementos adicionais permanecem sem confirmação suficiente nesta revisão.",
+      "sources": [
+        "extra-uap-fab1986"
+      ]
+    },
+    {
+      "cueStart": 2965,
+      "cueEnd": 2988,
+      "title": "Guerra das Malvinas estaria ocorrendo durante caso de 1986",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "A Guerra das Malvinas terminou em junho de 1982. O episódio aéreo discutido ocorreu em maio de 1986. Portanto, não se pode situar aquela guerra como conflito ainda em andamento na data da Noite Oficial dos OVNIs.",
+      "sources": [
+        "extra-uap-malvinas",
+        "extra-uap-fab1986"
+      ]
+    },
+    {
+      "cueStart": 3013,
+      "cueEnd": 3036,
+      "title": "FAB negou avistamento visual e chamou tudo de anomalia eletrônica",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "O relatório de 1986 inclui observações visuais e limitações de radar. A afirmação sobre negativas posteriores, em 1991 ou 1996, exige os comunicados correspondentes. Sem identificá-los integralmente, não se confirma a redação ou uma intenção deliberada de mentir.",
+      "sources": [
+        "extra-uap-fab1986"
+      ]
+    },
+    {
+      "cueStart": 3073,
+      "cueEnd": 3114,
+      "title": "Relatório de 02/06/1986 descreve fenômenos sólidos com aparente inteligência",
+      "speaker": "Edison Boaventura",
+      "verdict": "Verdadeiro",
+      "explanation": "O fac-símile do ofício de 2 de junho de 1986 contém um parecer operacional sobre solidez aparente e comportamento interpretado como inteligente. A checagem confirma o teor do documento, que também registra limitações técnicas; não o transforma em prova científica de inteligência extraterrestre.",
+      "sources": [
+        "extra-uap-fab1986"
+      ]
+    },
+    {
+      "cueStart": 3121,
+      "cueEnd": 3156,
+      "title": "Objeto teria acelerado de zero a Mach 15",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se apresentou medição calibrada com trajetória, referencial e incerteza que permita confirmar aceleração de zero a Mach 15. Referências gerais a velocidades supersônicas no relatório não comprovam essa cifra específica.",
+      "sources": [
+        "extra-uap-fab1986"
+      ]
+    },
+    {
+      "cueStart": 3193,
+      "cueEnd": 3216,
+      "title": "Referência a gravação radar provaria vídeo de nave em 1986",
+      "speaker": "Edison Boaventura",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A menção a cobertura ou gravação radar não prova que exista filmagem óptica de uma nave. São tipos de registro diferentes. O fato de um documento ser oficial não resolve a identidade do objeto registrado nem o conteúdo de uma gravação não examinada.",
+      "sources": [
+        "extra-uap-fab1986"
+      ]
+    },
+    {
+      "cueStart": 3217,
+      "cueEnd": 3240,
+      "title": "Radares modernos descartam OVNIs porque não causam riscos",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A prática operacional descrita não vem acompanhada da norma ou configuração do equipamento. Ausência de identificação ou transponder não demonstra ausência de risco, e o estudo da NASA inclui segurança do espaço aéreo. Não se confirma uma regra geral de descarte automático de OVNIs.",
+      "sources": [
+        "extra-uap-nasa"
+      ]
+    },
+    {
+      "cueStart": 3241,
+      "cueEnd": 3270,
+      "title": "Todas as pessoas ouvidas por Sacani negaram ver o ET",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma afirmação sobre o conjunto de pessoas que o próprio participante teria entrevistado. Sem lista, gravações ou registros, não se verifica a universalidade do relato. Mesmo confirmado, ele não resumiria todos os testemunhos existentes sobre Varginha.",
+      "sources": []
+    },
+    {
+      "cueStart": 3277,
+      "cueEnd": 3312,
+      "title": "Médico teria vídeo de criatura de Varginha e recompensa não o convenceu",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A existência de um suposto vídeo guardado por um médico não é demonstrada pela oferta de dinheiro ou pela recusa de exposição. Sem publicação, identificação e autenticação do registro, a alegação de imagem da criatura não foi comprovada.",
+      "sources": []
+    },
+    {
+      "cueStart": 3295,
+      "cueEnd": 3354,
+      "title": "Recompensa e especulação sobre venda de suposto vídeo",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 3373,
+      "cueEnd": 3456,
+      "title": "Nave abatida, criaturas capturadas e exames na Unicamp",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A narrativa reúne abate, captura, transporte e exames sem material biológico ou documentação autenticada que permita estabelecer essa cadeia. Depoimentos e referências a negativas institucionais não bastam para confirmar os acontecimentos extraordinários ou imputar encobrimento a pessoas e hospitais.",
+      "sources": []
+    },
+    {
+      "cueStart": 3457,
+      "cueEnd": 3462,
+      "title": "Foto provaria transporte de alienígenas por C-17 em Viracopos",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Uma fotografia de aeronave, mesmo autêntica, não identifica sua carga, missão ou passageiros. Sem registros de voo e cadeia documental específica, não se confirma transporte de corpos de origem extraterrestre por um C-17.",
+      "sources": []
+    },
+    {
+      "cueStart": 3463,
+      "cueEnd": 3498,
+      "title": "Vilela fez a capa do primeiro jogo brasileiro, Incidente em Varginha",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A autoria da capa é um relato autobiográfico não acompanhado de ficha técnica identificável no material textual. A expressão primeiro jogo brasileiro também exige definir categoria e comparar títulos anteriores; não se certifica essa primazia a partir da fala.",
+      "sources": []
+    },
+    {
+      "cueStart": 3481,
+      "cueEnd": 3492,
+      "title": "Testemunhas teriam sofrido tentativa de suborno",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A alegação de suborno é uma acusação que exige registros e provas independentes. O SRT não identifica processo, agentes ou documento auditável que permitam confirmá-la; não se presume crime ou mentira das testemunhas.",
+      "sources": []
+    },
+    {
+      "cueStart": 3505,
+      "cueEnd": 3564,
+      "title": "Unicamp seria Área 51 biológica e DCTA remeteria naves à NASA",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Os rótulos de Área 51 biológica e tecnológica não demonstram programas secretos com extraterrestres. Aerogramas e cooperação científica precisam ter conteúdo e remessas verificáveis; a existência de colaboração espacial não comprova armazenamento ou envio de criaturas e naves.",
+      "sources": []
+    },
+    {
+      "cueStart": 3577,
+      "cueEnd": 3624,
+      "title": "Mudança de posição de pesquisador decorreria de coação em IPM",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Duração de interrogatório, resumo escrito e mudança de interpretação de um pesquisador não comprovam coação. Sem elementos independentes da suposta pressão, essa explicação permanece uma inferência do participante, não um fato estabelecido.",
+      "sources": []
+    },
+    {
+      "cueStart": 3631,
+      "cueEnd": 3750,
+      "title": "Animais do zoológico morreram por substância cáustica após aparição",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "São mencionados resultados veterinários sem identificação completa dos laudos e de suas amostras. Mortes de animais e uma hipótese de intoxicação não estabelecem contato com criatura nem morte sem causa. Faltam documentos e evidência causal para resolver o caso narrado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3751,
+      "cueEnd": 3786,
+      "title": "Morte de Marco Eli Chereze decorreria de arranhão de criatura",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Óbito e infecção humana não comprovam arranhão de ser extraterrestre ou agente biológico alienígena. O SRT não fornece exames e laudos identificáveis que estabeleçam essa etiologia; não se infere diagnóstico ou causa a partir da narrativa.",
+      "sources": []
+    },
+    {
+      "cueStart": 3793,
+      "cueEnd": 3846,
+      "title": "Análise de carta confirmaria captura de seres no Rio Verde em julho de 1996",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Uma análise de escrita ou de coerência textual não comprova que o evento narrado aconteceu. Sem autoria verificável, registros da missão e evidência independente, a carta referida não certifica captura de criaturas no Rio Verde.",
+      "sources": []
+    },
+    {
+      "cueStart": 3853,
+      "cueEnd": 3906,
+      "title": "Disputa de bastidores e avaliação pessoal de documentário",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 3907,
+      "cueEnd": 3924,
+      "title": "Varginha tem Memorial do ET",
+      "speaker": "Edison Boaventura",
+      "verdict": "Verdadeiro",
+      "explanation": "A Prefeitura de Varginha anunciou a inauguração do Memorial do ET em novembro de 2022, antes do debate. A existência do equipamento cultural não comprova a origem ou realidade biológica dos seres narrados no caso.",
+      "sources": [
+        "extra-uap-memorial"
+      ]
+    },
+    {
+      "cueStart": 3961,
+      "cueEnd": 3978,
+      "title": "Seres e nave teriam sido recolhidos em Feira de Santana",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "O caso de Feira de Santana é mencionado sem data, documento ou material identificado que permita conferir queda, captura e remessa aos EUA. Ele não pode ser validado pela semelhança narrativa com Varginha.",
+      "sources": []
+    },
+    {
+      "cueStart": 3997,
+      "cueEnd": 4020,
+      "title": "Expectativa de futura divulgação de vídeos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 4063,
+      "cueEnd": 4074,
+      "title": "Convite para evento futuro",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 4081,
+      "cueEnd": 4092,
+      "title": "Documento UAP seria na verdade sobre UAV, drone",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica qual vídeo ou documento foi corrigido de UAP para UAV. As siglas têm significados distintos e um UAV pode ser drone, mas isso não permite reconstruir este episódio nem generalizar a explicação a todos os UAP.",
+      "sources": []
+    },
+    {
+      "cueStart": 4117,
+      "cueEnd": 4194,
+      "title": "Retratação, humor e avaliações pessoais",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 4195,
+      "cueEnd": 4206,
+      "title": "Esperança de descobrir vida extraterrestre",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 4207,
+      "cueEnd": 4230,
+      "title": "Publicidade, inscrições e agradecimentos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 4273,
+      "cueEnd": 4302,
+      "title": "Avi Loeb recolheu esferas em expedição de junho de 2023",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relatório dos pesquisadores documenta uma expedição realizada entre 14 e 28 de junho de 2023 e coleta de esférulas. Ele é usado retrospectivamente para confirmar a atividade, sem atribuir aos participantes resultados químicos posteriores. Coletar partículas não estabelece que vieram do meteoro IM1, de fora do Sistema Solar ou de tecnologia alienígena.",
+      "sources": [
+        "extra-uap-expedition"
+      ]
+    },
+    {
+      "cueStart": 4303,
+      "cueEnd": 4332,
+      "title": "Projeto Galileo busca dados com instrumentos dedicados",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Verdadeiro",
+      "explanation": "O escopo oficial do Projeto Galileo prevê coleta com instrumentos otimizados, dados abertos e análise científica. Isso confirma o programa de pesquisa descrito, não uma descoberta prévia de objetos extraterrestres inteligentes.",
+      "sources": [
+        "extra-uap-galileo"
+      ]
+    },
+    {
+      "cueStart": 4345,
+      "cueEnd": 4356,
+      "title": "Aliens estão entre nós",
+      "speaker": "Edison Boaventura",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação de presença de alienígenas entre humanos não recebe comprovação material independente no conteúdo examinado. A existência de fenômenos não identificados ou de investigações não resolve sua origem. Inconclusivo não significa prova de inexistência de vida em outros lugares.",
+      "sources": [
+        "extra-uap-nasa"
+      ]
+    },
+    {
+      "cueStart": 4375,
+      "cueEnd": 4380,
+      "title": "Em 29/06/2023 houve anúncios de ondas gravitacionais e neutrinos",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Em 28–29 de junho de 2023 houve anúncios de evidência de um fundo de ondas gravitacionais pelo NANOGrav e de neutrinos associados à Via Láctea pelo IceCube. O primeiro sinal é compatível com uma população de sistemas de buracos negros supermassivos; não é detecção direta de um único buraco negro específico.",
+      "sources": [
+        "extra-uap-nanograv",
+        "extra-uap-icecube"
+      ]
+    },
+    {
+      "cueStart": 4375,
+      "cueEnd": 4380,
+      "title": "Virgin Galactic fez primeiro voo comercial em 29/06/2023",
+      "speaker": "Sérgio Sacani",
+      "verdict": "Verdadeiro",
+      "explanation": "A Galactic 01 foi o primeiro voo comercial da Virgin Galactic, em 29 de junho de 2023, com missão de pesquisa italiana. Não foi o primeiro voo tripulado da empresa ou o primeiro voo espacial com pessoas da história.",
+      "sources": [
+        "extra-uap-galactic"
+      ]
+    },
+    {
+      "cueStart": 4387,
+      "cueEnd": 4404,
+      "title": "Polvos seriam de origem extraterrestre",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "O trecho formula uma pergunta e comenta uma teoria, sem apresentar demonstração de origem extraterrestre. O estudo genômico situa as novidades dos cefalópodes em história evolutiva terrestre. A pergunta especulativa não recebe voto factual nem atribuição automática a um debatedor.",
+      "sources": [
+        "extra-uap-octopus"
+      ]
+    },
+    {
+      "cueStart": 4405,
+      "cueEnd": 4422,
+      "title": "Opinião final sobre presença de alienígenas",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de opinião, hipótese, humor, publicidade ou organização do programa. Não acrescenta voto ao placar e não foi convertido em afirmação factual resolvida.",
+      "sources": []
+    },
+    {
+      "cueStart": 4429,
+      "cueEnd": 4440,
+      "title": "Não havia comprovação concreta de vida inteligente extraterrestre",
+      "speaker": "Paquito",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O ponto sobre ausência de comprovação pública de vida inteligente extraterrestre é compatível com a cautela do programa científico discutido. A resposta lida de um chatbot não é evidência primária e sua data de conhecimento não certifica atualização. Não se transforma falta de comprovação em prova de inexistência.",
+      "sources": [
+        "extra-uap-nasa"
+      ]
+    }
+  ]
+}

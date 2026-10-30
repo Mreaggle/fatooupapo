@@ -1,0 +1,1620 @@
+{
+  "videoId": "MJEYLvrZJV0",
+  "video": {
+    "id": "MJEYLvrZJV0",
+    "url": "https://www.youtube.com/watch?v=MJEYLvrZJV0",
+    "title": "DEBATE: O NAZISMO AINDA EXISTE? BRENO ALTMAN X FLAVIO MORGENSTERN - Inteligência Ltda. Podcast #1496",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/MJEYLvrZJV0/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "breno-altman",
+      "name": "Breno Altman",
+      "aliases": [
+        "Breno"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "flavio-morgenstern",
+      "name": "Flavio Morgenstern",
+      "aliases": [
+        "Flavio",
+        "Flávio"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "rogerio-vilela",
+      "name": "Rogério Vilela",
+      "aliases": [
+        "Vilela"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
+  "referenceDate": "2025-04-09",
+  "reviewedAt": "2026-10-30T18:10:20.185Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "7aaca168c35f399f5a4ba61b2b8b3e89955b7c19bd2b46aea8a24c6ff2d2faee",
+  "scannedThrough": 5530,
+  "coverageNotes": "Leitura integral dos 5.530 blocos do arquivo fornecido, de 00:01:23,830 a 03:37:20,160. O início ausente não foi reconstruído. Referência histórica: 9 de abril de 2025. Fontes posteriores que documentam fatos anteriores são usadas apenas retrospectivamente.",
+  "limitations": [
+    "A revisão é textual e documental, sem comprovação acústica. Nomes, números e palavras corrompidos no SRT não foram tratados como prova de intenção; interrupções sem locutor seguro ficam sem autoria individual.",
+    "Opiniões sobre ideologias, legitimidade política, analogias e contrafactuais não recebem votos factuais. Fontes históricas de um ator documentam sua posição e não confirmam automaticamente sua interpretação.",
+    "Dados de vítimas em Gaza são atribuídos à fonte e à data; totais reportados não equivalem a identificação e verificação individual da ONU. Medidas provisórias da CIJ não são sentença final sobre genocídio.",
+    "Documentos posteriores sobre a AfD são usados para registrar a situação de 2024; mudanças de classificação depois de abril de 2025 não foram retroagidas. Estatutos, órgãos e listas de terrorismo têm alcances distintos."
+  ],
+  "claims": [
+    {
+      "cueStart": 1,
+      "cueEnd": 144,
+      "title": "Abertura, apresentações, anúncios e livros",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Credenciais autobiográficas, divulgação e regras do programa. Não comprovam as teses discutidas e não recebem voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 145,
+      "cueEnd": 156,
+      "title": "Em maio de 2025 completam-se oitenta anos da derrota nazista",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A rendição alemã é comemorada em 8 de maio no calendário ocidental e em 9 de maio na tradição soviética. A contribuição soviética no front oriental foi decisiva, com enormes perdas. Determinar uma contribuição principal depende do teatro e do critério; não elimina os demais aliados.",
+      "sources": [
+        "extra-nazi-krieg"
+      ]
+    },
+    {
+      "cueStart": 157,
+      "cueEnd": 174,
+      "title": "Grupos nazistas persistem e a extrema direita cresce no mundo",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "Há documentação oficial sobre organizações e extremismo de direita, mas o trecho reúne um diagnóstico mundial sem países, período e indicador definidos. Não se certifica uma tendência única para todo o mundo nem identidade automática entre partidos atuais e o regime de Hitler.",
+      "sources": [
+        "extra-nazi-afd"
+      ]
+    },
+    {
+      "cueStart": 259,
+      "cueEnd": 270,
+      "title": "A historiografia classifica o nazismo na extrema direita",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A caracterização apresentada pelo USHMM situa fascismo e nazismo na extrema direita, com ultranacionalismo e oposição ao socialismo e ao comunismo. Isso sustenta o núcleo da afirmação. Não foi realizado um censo de historiadores que quantifique a maioria citada.",
+      "sources": [
+        "extra-z7-nazi"
+      ]
+    },
+    {
+      "cueStart": 295,
+      "cueEnd": 354,
+      "title": "O nazismo surgiu como movimento de esquerda coletivista",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Motivos sociais, linguagem de revolução e oposição a uma monarquia não determinam sozinhos a posição de um movimento. O partido alemão se consolidou com nacionalismo racial, antissemitismo e oposição ao marxismo. A classificação histórica como extrema direita não é anulada pelo nome socialista ou por propostas selecionadas.",
+      "sources": [
+        "extra-z7-nazi",
+        "extra-nazi-party"
+      ]
+    },
+    {
+      "cueStart": 307,
+      "cueEnd": 336,
+      "title": "Hitler odiou a monarquia antes dos judeus e os Habsburgo protegiam todas as etnias",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "A cronologia de um sentimento pessoal e os números de etnias e línguas exigem fontes e recortes próprios. Autobiografia política não é observação independente da formação psicológica. A diversidade imperial não comprova ausência de discriminação nem a sequência exata do ódio alegada.",
+      "sources": []
+    },
+    {
+      "cueStart": 313,
+      "cueEnd": 324,
+      "title": "Áustria e Alemanha foram os países europeus que mais receberam judeus naquele período",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam intervalo, território e contagem de imigrantes. Destinos, trânsito e tamanho de comunidades são medidas distintas. Não foi encontrada no argumento uma série que sustente o superlativo; a referência a século XI no SRT não é usada como erro acústico deliberado.",
+      "sources": []
+    },
+    {
+      "cueStart": 337,
+      "cueEnd": 354,
+      "title": "Nacionalismo e Revolução Francesa explicariam a oposição às monarquias",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "É uma interpretação de processos distintos de construção nacional. Revolução, nacionalismo e direita ou esquerda não são categorias intercambiáveis; a associação proposta não demonstra origem única de todos os movimentos posteriores.",
+      "sources": []
+    },
+    {
+      "cueStart": 361,
+      "cueEnd": 408,
+      "title": "O programa de um partido tcheco seria a origem direta do nazismo",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Existiram correntes nacional-sociais tchecas e alemãs na Boêmia, com organizações e trajetórias diferentes. O partido tcheco fundado no fim do século XIX não se torna um regime nazista por semelhança de nome. As citações de programa, sem edição e página, não demonstram uma genealogia ideológica exclusiva.",
+      "sources": [
+        "extra-nazi-czech",
+        "extra-nazi-czech2",
+        "extra-nazi-party"
+      ]
+    },
+    {
+      "cueStart": 409,
+      "cueEnd": 456,
+      "title": "O nazismo só existiu por causa da Revolução de Outubro",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "Anticomunismo, crise e conflitos sociais são elementos relevantes da interpretação histórica. A afirmação de que, sem um único evento, fascismo e nazismo jamais surgiriam é contrafactual e não constitui fato isolado demonstrável.",
+      "sources": []
+    },
+    {
+      "cueStart": 457,
+      "cueEnd": 498,
+      "title": "Nome artístico e definição dos campos políticos",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "Analogia sobre nomes e uma definição do que o participante considera direita e esquerda. Não se verifica ascendência pessoal a partir de sobrenome, nem se transforma uma definição ideológica em medida de todos os partidos.",
+      "sources": []
+    },
+    {
+      "cueStart": 505,
+      "cueEnd": 528,
+      "title": "O regime fascista italiano precedeu a Alemanha nazista",
+      "speaker": "Breno Altman",
+      "verdict": "Verdadeiro",
+      "explanation": "Mussolini chegou ao governo em 1922; Hitler foi nomeado chanceler em 1933. A existência anterior de um partido com nacional-social no nome não comprova que outro país já tivesse um regime nazista.",
+      "sources": [
+        "extra-z7-nazi",
+        "extra-nazi-cabinet"
+      ]
+    },
+    {
+      "cueStart": 529,
+      "cueEnd": 552,
+      "title": "Hitler era minoritário e Papen agiu como líder do Zentrum para levá-lo ao governo",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A nomeação por Hindenburg e a articulação conservadora estão documentadas. Porém, Papen já havia deixado o Zentrum em 1932. A atuação dele não pode ser descrita como representação partidária do Centro Católico em janeiro de 1933, embora este depois tenha votado a lei de poderes.",
+      "sources": [
+        "extra-nazi-cabinet",
+        "extra-nazi-papen",
+        "extra-nazi-enabling"
+      ]
+    },
+    {
+      "cueStart": 541,
+      "cueEnd": 552,
+      "title": "Votos de partidos não nazistas permitiram aprovar a Lei de Plenos Poderes",
+      "speaker": "Breno Altman",
+      "verdict": "Verdadeiro",
+      "explanation": "O registro do Bundestag informa 444 votos a favor e 94 contrários, estes dos social-democratas presentes. Centro e outros partidos apoiaram a lei, num contexto de repressão e exclusão de opositores. Confirma-se sua contribuição à maioria exigida, sem tratar a votação como livre de coerção.",
+      "sources": [
+        "extra-nazi-enabling"
+      ]
+    },
+    {
+      "cueStart": 553,
+      "cueEnd": 582,
+      "title": "Setores conservadores facilitaram a chegada de Hitler e Mussolini",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A nomeação de Hitler foi viabilizada por articulação conservadora, e o fascismo italiano também dependeu de alianças e da monarquia. Isso sustenta o papel de setores específicos, mas não torna todo conservador ou liberal nazista nem prova uma identidade ideológica completa.",
+      "sources": [
+        "extra-nazi-cabinet",
+        "extra-z7-nazi"
+      ]
+    },
+    {
+      "cueStart": 583,
+      "cueEnd": 624,
+      "title": "Colonialismo, racismo e misoginia seriam valores de toda a direita",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "Generalização política e moral que agrega correntes e épocas diferentes. Casos históricos de colaboração e opressão devem ser identificados; não demonstram que cada integrante atual de um campo compartilhe todos esses valores.",
+      "sources": []
+    },
+    {
+      "cueStart": 595,
+      "cueEnd": 606,
+      "title": "A Alemanha cometeu genocídio colonial na Namíbia antes do nazismo",
+      "speaker": "Breno Altman",
+      "verdict": "Verdadeiro",
+      "explanation": "O governo alemão reconheceu os crimes contra Herero e Nama de 1904–1908 como genocídio na perspectiva atual. São anteriores ao regime nazista e não podem ser apagados por descrevê-lo como a primeira experiência alemã de violência racial.",
+      "sources": [
+        "extra-nazi-namibia"
+      ]
+    },
+    {
+      "cueStart": 613,
+      "cueEnd": 624,
+      "title": "O antissemitismo nasceu na direita e o caso Dreyfus mostra essa origem",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Preconceitos antijudaicos existiam na Antiguidade e no cristianismo muito antes das categorias políticas modernas. O caso Dreyfus demonstra perseguição na França republicana, não uma origem única de todo antissemitismo. Termo moderno, racismo racial e hostilidade religiosa precisam ser distinguidos.",
+      "sources": [
+        "extra-nazi-inquisition",
+        "rel-antisemitism-history"
+      ]
+    },
+    {
+      "cueStart": 637,
+      "cueEnd": 660,
+      "title": "Em 1896 o Império Habsburgo virou parlamentar e os partidos social-democratas se reorganizaram",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "O argumento comprime reformas e organizações distintas numa data. A história dos partidos tchecos registra a social-democracia desde 1878 e novas cisões posteriores; não demonstra toda a mudança constitucional afirmada para 1896. Faltam fontes para certificar o conjunto.",
+      "sources": [
+        "extra-nazi-czech"
+      ]
+    },
+    {
+      "cueStart": 661,
+      "cueEnd": 690,
+      "title": "Beneš e Masaryk lideraram a base tcheca que originou o nazismo",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O nacional-socialismo tcheco e o partido alemão de Hitler não são a mesma organização. Os registros sobre Masaryk documentam sua oposição a acusações antissemitas no caso Hilsner. Não se pode transferir a ele a ideologia nazista apenas por proximidade de rótulos ou posição em outro movimento nacional.",
+      "sources": [
+        "extra-nazi-czech2",
+        "extra-nazi-masaryk",
+        "extra-nazi-party"
+      ]
+    },
+    {
+      "cueStart": 691,
+      "cueEnd": 726,
+      "title": "Drexler tinha a carteira um, Hitler a sete e a liderança surgiu em Salzburgo em 1922",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O USHMM registra a entrada de Hitler no DAP em 1919 com número 555, depois apresentado por ele como sete; o programa e a mudança de nome são de 1920 e a liderança já estava consolidada em 1921. Reuniões internacionais posteriores não substituem essa cronologia.",
+      "sources": [
+        "extra-nazi-party"
+      ]
+    },
+    {
+      "cueStart": 739,
+      "cueEnd": 750,
+      "title": "Joachim Fest foi denunciado como simpatizante do nazismo",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica quem fez a denúncia, quando, em qual texto e com que fundamento. A presença de uma biografia na mesa não certifica simpatia nazista do autor. Sem a fonte da imputação, ela não é confirmada.",
+      "sources": []
+    },
+    {
+      "cueStart": 763,
+      "cueEnd": 774,
+      "title": "Havia três nazistas no primeiro gabinete e todos os outros eram do Centro Católico",
+      "speaker": "Breno Altman",
+      "verdict": "Falso",
+      "explanation": "Hitler, Frick e Göring eram os três nazistas iniciais. Os demais incluíam conservadores de outras filiações e sem partido, e Papen já havia saído do Zentrum. A primeira parte é correta; a composição restante atribuída integralmente ao Centro é falsa.",
+      "sources": [
+        "extra-nazi-cabinet",
+        "extra-nazi-papen"
+      ]
+    },
+    {
+      "cueStart": 787,
+      "cueEnd": 810,
+      "title": "Bolsonaro homenageou Ustra no voto do impeachment",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro da sessão de abril de 2016 documenta a homenagem ao anunciar o voto. Isso confirma a fala, mas não demonstra por si toda posição de Olavo ou Flavio nem os motivos psicológicos de cada apoio eleitoral.",
+      "sources": [
+        "extra-nazi-impeachment"
+      ]
+    },
+    {
+      "cueStart": 817,
+      "cueEnd": 828,
+      "title": "Correção sobre Internacional Comunista e Socialista",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A formulação é corrigida no próprio diálogo para distinguir a Segunda Internacional da Comunista. Não se publica o lapso corrigido como um novo erro factual independente.",
+      "sources": []
+    },
+    {
+      "cueStart": 865,
+      "cueEnd": 888,
+      "title": "A coalizão de Hitler equivalia à de Lula com um vice do PP e ao caso romeno",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O vice de Lula em 2002 era José Alencar, então do PL, não do PP. A comparação também junta episódios romenos de fases diferentes sem cronologia suficiente. Uma analogia de coalizões não demonstra identidade política dos governos.",
+      "sources": [
+        "extra-nazi-alencar"
+      ]
+    },
+    {
+      "cueStart": 889,
+      "cueEnd": 912,
+      "title": "O crescimento nazista veio sobretudo de socialistas que mudaram de partido",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são apresentados base de filiados, universo eleitoral, datas e método. Migração de eleitores e de dirigentes não são a mesma medida e não comprovam origem ideológica exclusiva. A proporção e a direção predominante alegadas não ficam demonstradas.",
+      "sources": []
+    },
+    {
+      "cueStart": 913,
+      "cueEnd": 942,
+      "title": "Hitler nasceu na fronteira austríaca e viveu em Viena antes de liderar o nazismo",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A biografia histórica confirma Braunau am Inn e a passagem por Viena. A interpretação de sua autobiografia sobre parlamento e monarquia não comprova toda explicação causal nem torna a narrativa de Hitler fonte independente sobre seus próprios motivos.",
+      "sources": [
+        "extra-nazi-party"
+      ]
+    },
+    {
+      "cueStart": 955,
+      "cueEnd": 978,
+      "title": "Os comunistas já estavam reprimidos e impedidos de votar a Lei de Plenos Poderes",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro parlamentar documenta repressão, detenções e exclusão dos deputados comunistas na votação de março de 1933. É importante distinguir a repressão efetiva do calendário de proibição formal de cada organização. O quadro não era de disputa parlamentar livre entre forças igualmente aptas.",
+      "sources": [
+        "extra-nazi-enabling"
+      ]
+    },
+    {
+      "cueStart": 979,
+      "cueEnd": 996,
+      "title": "Hitler fez a maior privatização da primeira metade do século e privatizou todas as ferrovias",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A pesquisa de Germà Bel comprova transferências de participação estatal a privados, inclusive em bancos e siderurgia. Na ferrovia, o Estado reteve maioria e controle. O estudo não sustenta privatização integral das ferrovias nem um ranking universal de todos os programas de meio século.",
+      "sources": [
+        "extra-nazi-priv"
+      ]
+    },
+    {
+      "cueStart": 997,
+      "cueEnd": 1008,
+      "title": "O regime nazista suprimiu sindicatos livres e greves",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A circular de Robert Ley documenta a operação de maio de 1933 contra sindicatos livres, absorvidos pela estrutura nazista. A repressão à organização autônoma é comprovada; não demonstra a cifra salarial específica acrescentada no mesmo trecho.",
+      "sources": [
+        "extra-nazi-union"
+      ]
+    },
+    {
+      "cueStart": 998,
+      "cueEnd": 1001,
+      "title": "Em 1938 o salário real alemão era menos da metade do valor de 1928",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica a série de salários, o deflator ou se compara remuneração por hora, semanal ou anual. A repressão sindical e a perda de direitos não comprovam por si esse percentual. Sem a tabela e a metodologia correspondentes, a queda superior a 50% não foi confirmada.",
+      "sources": []
+    },
+    {
+      "cueStart": 1063,
+      "cueEnd": 1074,
+      "title": "Vernant se revoltou com elogios do partido comunista a Hitler",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica entrevista, obra ou página para a citação. O pacto de 1939 é documentado, mas não comprova as palavras e a trajetória pessoal atribuídas a Vernant. Também não equivale a participação comunista no gabinete alemão de 1933.",
+      "sources": [
+        "extra-nazi-poland"
+      ]
+    },
+    {
+      "cueStart": 1081,
+      "cueEnd": 1116,
+      "title": "Hitler não privatizou; apenas transferiu bens tomados de judeus",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Falso",
+      "explanation": "Privatização de participações estatais e arianização de patrimônio judaico foram processos diferentes, ambos documentados. A existência do segundo não apaga as vendas de ativos públicos nos anos 1930. A comparação com corrupção brasileira não demonstra identidade entre os mecanismos.",
+      "sources": [
+        "extra-nazi-priv",
+        "extra-nazi-property"
+      ]
+    },
+    {
+      "cueStart": 1117,
+      "cueEnd": 1122,
+      "title": "O apoio de Hitler ao grande mufti prova que ele era anticolonial",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A reunião com Hajj Amin al-Husayni em 1941 e a cooperação antissemita estão documentadas. O mufti não era Hassan al-Banna. Uma aliança contra britânicos e judeus não elimina o projeto nazista de conquista e dominação do leste europeu.",
+      "sources": [
+        "extra-nazi-mufti",
+        "extra-nazi-expansion"
+      ]
+    },
+    {
+      "cueStart": 1147,
+      "cueEnd": 1158,
+      "title": "Hitler só afetou o patrimônio de judeus depois de 1938",
+      "speaker": "Breno Altman",
+      "verdict": "Falso",
+      "explanation": "O USHMM documenta arianização e coerção econômica desde 1933. Em 1938 a expropriação se intensificou; não começou então. Confundir essa escalada com o início das medidas apaga perseguições anteriores.",
+      "sources": [
+        "extra-nazi-property"
+      ]
+    },
+    {
+      "cueStart": 1177,
+      "cueEnd": 1194,
+      "title": "O capital nunca lucrou tanto e não havia qualquer perigo comunista",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "São avaliações gerais de lucro e risco político, sem série, universo de empresas e critério contrafactual. Alianças conservadoras documentadas não demonstram por si o superlativo econômico ou ausência de todo temor político.",
+      "sources": []
+    },
+    {
+      "cueStart": 1195,
+      "cueEnd": 1224,
+      "title": "O nazismo usou trabalho forçado e planejou expansão para o leste",
+      "speaker": "Breno Altman",
+      "verdict": "Verdadeiro",
+      "explanation": "O USHMM documenta exploração de trabalhadores de territórios ocupados e o papel de Lebensraum nas conquistas e na política racial. Eram componentes efetivos da ocupação nazista, não apenas símbolos ou nomes de partido.",
+      "sources": [
+        "extra-nazi-nazioccupation",
+        "extra-nazi-expansion"
+      ]
+    },
+    {
+      "cueStart": 1255,
+      "cueEnd": 1284,
+      "title": "A Alemanha praticamente não tinha colônias, só pequenas ilhas",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Alemanha perdeu suas colônias após a Primeira Guerra, mas o império anterior incluía extensas áreas africanas, inclusive a Namíbia. Ausência de colônias formais no início do governo Hitler não significa ausência de passado colonial nem de um projeto de nova conquista.",
+      "sources": [
+        "extra-nazi-namibia",
+        "extra-nazi-expansion"
+      ]
+    },
+    {
+      "cueStart": 1285,
+      "cueEnd": 1290,
+      "title": "Sebottendorff e a sociedade Thule criaram toda a base do nazismo",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "Relações entre círculos nacionalistas e o DAP não demonstram autoria única de toda a ideologia. O argumento não fornece documento ou estudo que sustente essa exclusividade. A formação do partido e a ascensão de Hitler não se reduzem a um fundador secreto.",
+      "sources": [
+        "extra-nazi-party"
+      ]
+    },
+    {
+      "cueStart": 1291,
+      "cueEnd": 1320,
+      "title": "A conspiração sobre capital judaico é apresentada como discurso nazista",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "Flavio esclarece estar citando a propaganda que critica, não afirmando que judeus controlem o capital. A conclusão não converte uma citação hostil em fato verdadeiro sobre judeus nem presume adesão do debatedor à conspiração.",
+      "sources": []
+    },
+    {
+      "cueStart": 1321,
+      "cueEnd": 1356,
+      "title": "Lanz von Liebenfels, monge taborita, criou Lebensraum",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Lanz foi noviço cisterciense, não taborita. A elaboração geográfica de Lebensraum aparece no ensaio de Friedrich Ratzel de 1901. Correntes esotéricas racialistas não podem ser fundidas com toda a genealogia desse conceito nem reduzidas a uma única pessoa.",
+      "sources": [
+        "extra-nazi-lanz",
+        "extra-nazi-lebensraum"
+      ]
+    },
+    {
+      "cueStart": 1363,
+      "cueEnd": 1398,
+      "title": "A expulsão ibérica de 1492 precedeu a Inquisição",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Inquisição espanhola foi criada em 1478, antes da expulsão de 1492. Portugal teve calendário distinto: conversões forçadas no fim do século XV e tribunal estabelecido em 1536. A perseguição é histórica, mas juntar toda a Península numa sequência única altera a cronologia.",
+      "sources": [
+        "extra-nazi-inquisition"
+      ]
+    },
+    {
+      "cueStart": 1435,
+      "cueEnd": 1458,
+      "title": "O sionismo nasceu na esquerda por causa dos kibutzim",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A trajetória de Herzl e a organização do sionismo político antecedem os kibutzim e não se resumem à corrente trabalhista. Experiências coletivistas são uma vertente, não prova de origem exclusivamente esquerdista de um movimento plural.",
+      "sources": [
+        "extra-nazi-herzl"
+      ]
+    },
+    {
+      "cueStart": 1465,
+      "cueEnd": 1494,
+      "title": "São Paulo escreveu Hebreus e criou a ideia de unidade acima de etnias",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A tradição cristã tem textos de universalidade, mas a autoria de Hebreus é anônima e a atribuição paulina não é sustentada pela edição comentada da USCCB. A interpretação teológica também não demonstra ausência histórica de perseguição por cristãos.",
+      "sources": [
+        "extra-nazi-hebrews"
+      ]
+    },
+    {
+      "cueStart": 1495,
+      "cueEnd": 1506,
+      "title": "Só o cristianismo permite adesão de qualquer origem étnica",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não compara sistematicamente doutrinas, práticas e conversões de outras religiões. Uma defesa teológica de universalidade não prova exclusividade no mundo. Não se certifica o quantificador nenhuma outra religião.",
+      "sources": []
+    },
+    {
+      "cueStart": 1519,
+      "cueEnd": 1536,
+      "title": "A Inquisição não perseguia judeus porque julgava apenas cristãos",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O tribunal julgava batizados, incluindo cristãos-novos e descendentes acusados de judaizar, num contexto de coerção e discriminação de origem. A delimitação formal não apaga a perseguição. A frase interrompida sobre cartas de Aquino é reformulada para estudo de Avicena e não vira erro autônomo.",
+      "sources": [
+        "extra-nazi-inquisition",
+        "extra-nazi-blood"
+      ]
+    },
+    {
+      "cueStart": 1537,
+      "cueEnd": 1578,
+      "title": "Nenhum conservador defendeu um Estado étnico",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "É uma definição normativa de conservadorismo associada a uma afirmação universal sem corpus de autores. Citar alguns críticos da eugenia não demonstra que todas as correntes históricas tenham defendido as mesmas posições.",
+      "sources": []
+    },
+    {
+      "cueStart": 1543,
+      "cueEnd": 1554,
+      "title": "O projeto de Estado palestino pressupõe não ter judeus na vizinhança",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "Não é identificado um programa único ou dispositivo que represente todos os projetos palestinos. Documentos de diferentes organizações e épocas não são intercambiáveis. A crítica a Israel não permite inferir automaticamente uma regra de expulsão de todo judeu.",
+      "sources": []
+    },
+    {
+      "cueStart": 1585,
+      "cueEnd": 1614,
+      "title": "Herzl nasceu em Viena e o sionismo não é nacionalismo judaico",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Herzl nasceu em Budapeste em 1860 e mudou-se para Viena em 1878. A biografia histórica o identifica como fundador do sionismo político e da organização sionista. A classificação moral como etnocracia é uma interpretação distinta, não razão para alterar o local de nascimento.",
+      "sources": [
+        "extra-nazi-herzl"
+      ]
+    },
+    {
+      "cueStart": 1597,
+      "cueEnd": 1608,
+      "title": "A população da Palestina era majoritariamente muçulmana no início do século XX",
+      "speaker": "Breno Altman",
+      "verdict": "Verdadeiro",
+      "explanation": "O censo de 1922 registra cerca de 589 mil muçulmanos entre aproximadamente 752 mil habitantes. Confirma-se a maioria religiosa naquele recorte, sem transformar automaticamente religião em prova individual de origem étnica.",
+      "sources": [
+        "extra-nazi-mandate"
+      ]
+    },
+    {
+      "cueStart": 1639,
+      "cueEnd": 1656,
+      "title": "Todo Oliveira ou Silveira descende de judeus que mudaram de nome para fugir",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Estudos onomásticos documentam diversidade e mudanças de nomes, mas um sobrenome isolado não comprova uma genealogia individual ou religião ancestral. É necessário reconstruir cada linhagem. A generalização todos não é demonstrada pela existência de cristãos-novos com alguns desses nomes.",
+      "sources": [
+        "extra-nazi-genealogy",
+        "extra-nazi-blood"
+      ]
+    },
+    {
+      "cueStart": 1663,
+      "cueEnd": 1674,
+      "title": "A Inquisição inventou o inquérito e separava obrigatoriamente acusador e juiz",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são apresentados regimento, período e comparação com instituições anteriores. Inquisições tiveram regras diferentes e não correspondem automaticamente ao processo acusatório moderno. Sem o documento pertinente, não se certificam a primazia e a regra universal alegadas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1687,
+      "cueEnd": 1722,
+      "title": "Sykes–Picot destruiu o Império Otomano e o Estado Islâmico quer restaurar o mesmo modelo",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Acordos de partilha, derrota militar e formação de Estados foram processos distintos. A retórica de um grupo contra fronteiras não prova que seu projeto seja restauração fiel da organização otomana. O trecho não apresenta o acordo e o pronunciamento integral para certificar toda a cadeia.",
+      "sources": [
+        "extra-nazi-sykes"
+      ]
+    },
+    {
+      "cueStart": 1723,
+      "cueEnd": 1734,
+      "title": "O mufti de Jerusalém se encontrou com Hitler e colaborou com propaganda antissemita",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Verdadeiro",
+      "explanation": "O cinejornal e a documentação do USHMM registram a reunião de novembro de 1941 e a colaboração de al-Husayni. Confirmar essa relação específica não transfere sua responsabilidade a todos os palestinos ou muçulmanos.",
+      "sources": [
+        "extra-nazi-mufti"
+      ]
+    },
+    {
+      "cueStart": 1735,
+      "cueEnd": 1764,
+      "title": "A perseguição por ascendência judaica só surgiu depois de Darwin",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Falso",
+      "explanation": "A pesquisa sobre limpeza de sangue registra exclusão de cristãos-novos por ascendência muito antes do século XIX. Racismo nazista moderno e antijudaísmo religioso têm diferenças, mas isso não sustenta ausência anterior de discriminação hereditária.",
+      "sources": [
+        "extra-nazi-blood",
+        "extra-nazi-inquisition"
+      ]
+    },
+    {
+      "cueStart": 1795,
+      "cueEnd": 1824,
+      "title": "A ONU aprovou em 1975 uma resolução sobre sionismo e a revogou em 1991",
+      "speaker": "Breno Altman",
+      "verdict": "Verdadeiro",
+      "explanation": "A Resolução 3379 adotou aquela caracterização, e a Resolução 46/86 a revogou. Trata-se de decisões políticas documentadas da Assembleia Geral, não de uma classificação científica imutável nem de identificação entre todos os judeus e uma corrente política.",
+      "sources": [
+        "extra-nazi-unres"
+      ]
+    },
+    {
+      "cueStart": 1831,
+      "cueEnd": 1890,
+      "title": "O acordo Haavara até 1938, com taxa fixa de vinte por cento, demonstra aliança ideológica",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O acordo de transferência de 1933 existiu e envolveu emigração, mercadorias e parte dos recursos de judeus alemães, com críticas internas entre judeus. Perdas e encargos variaram; não se certifica uma taxa única de 20%. Um acordo sob perseguição não comprova afinidade de todos os sionistas com o nazismo.",
+      "sources": [
+        "extra-nazi-haavara"
+      ]
+    },
+    {
+      "cueStart": 1903,
+      "cueEnd": 1938,
+      "title": "A conversão sempre eliminava qualquer perseguição por origem judaica",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Falso",
+      "explanation": "Restrições de limpeza de sangue atingiam descendentes de convertidos, inclusive no acesso a cargos. A conversão não apagava necessariamente a discriminação de ascendência. Isso não torna idênticos os sistemas ibéricos e o racialismo nazista, mas refuta o nunca apresentado.",
+      "sources": [
+        "extra-nazi-blood"
+      ]
+    },
+    {
+      "cueStart": 1975,
+      "cueEnd": 2022,
+      "title": "O Hamas não tem nenhuma referência ideológica comum ao nazismo",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Hamas surgiu décadas depois do regime nazista; não se demonstra continuidade institucional apenas por uma foto. Contudo, a carta de 1988 reproduz conspirações antissemitas, incluindo referência aos Protocolos dos Sábios de Sião. Negar qualquer tema comum apaga essa evidência, sem que ela prove identidade integral entre os movimentos.",
+      "sources": [
+        "extra-nazi-hamascharter"
+      ]
+    },
+    {
+      "cueStart": 2053,
+      "cueEnd": 2106,
+      "title": "Autores católicos defenderam autoritarismo para impedir totalitarismos",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "São citados livros de Kuehnelt-Leddihn e Voegelin, mas faltam passagens e contexto integral para certificar cada posição. É necessário distinguir crítica ao parlamentarismo, autoritarismo austríaco e adesão ao nazismo alemão; citar um título não resolve essa diferença.",
+      "sources": [
+        "extra-nazi-voegelin"
+      ]
+    },
+    {
+      "cueStart": 2113,
+      "cueEnd": 2154,
+      "title": "Comunistas eram irrelevantes e não tinham possibilidade de tomar o poder",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "Força eleitoral, organização social e risco de revolução são medidas diferentes. A repressão e o apoio conservador a Hitler estão documentados, mas não demonstram probabilidade zero de qualquer crise. Sem critério e recorte não se certifica o termo irrelevantes em dois países.",
+      "sources": [
+        "extra-nazi-enabling"
+      ]
+    },
+    {
+      "cueStart": 2155,
+      "cueEnd": 2172,
+      "title": "Antigos nazistas foram reintegrados ao Estado alemão ocidental",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A pesquisa Rosenburg, encomendada pelo Ministério da Justiça alemão, documenta elevada presença de antigos membros do partido nazista entre seus quadros do pós-guerra. O fato é sustentado; não significa que todos permaneceram impunes ou que cada instituição tenha composição idêntica.",
+      "sources": [
+        "extra-nazi-rosenburg"
+      ]
+    },
+    {
+      "cueStart": 2185,
+      "cueEnd": 2190,
+      "title": "O rei italiano só nomeou Mussolini depois de anuência da Igreja",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação envolve condição necessária e negociação específica, sem registro diplomático ou correspondência apresentado. A nomeação e aproximações entre Estado e Igreja não demonstram sozinhas esse requisito causal. O número do monarca corrompido na legenda não é tratado como erro acústico autônomo.",
+      "sources": []
+    },
+    {
+      "cueStart": 2203,
+      "cueEnd": 2220,
+      "title": "O Irã é um Estado árabe e nenhum país árabe tem definição étnica",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Irã não é um país árabe, embora tenha população árabe minoritária. Além disso, religião oficial, identidade nacional constitucional e igualdade de direitos são critérios distintos. O argumento não compara os textos constitucionais necessários para provar a generalização.",
+      "sources": [
+        "extra-nazi-iran"
+      ]
+    },
+    {
+      "cueStart": 2221,
+      "cueEnd": 2238,
+      "title": "Israel tem apartheid e palestinos ocupados não possuem direito algum",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O parecer da CIJ de julho de 2024 identifica separação quase completa na Cisjordânia e Jerusalém Oriental em violação ao artigo 3 da convenção contra discriminação racial. O alcance é específico e não equivale a sentença penal sobre toda pessoa. Palestinos sob ocupação continuam titulares de direitos internacionais, mesmo quando violados.",
+      "sources": [
+        "extra-nazi-israel",
+        "extra-nazi-icrc"
+      ]
+    },
+    {
+      "cueStart": 2245,
+      "cueEnd": 2280,
+      "title": "Trump propôs transformar Gaza em resort expulsando os palestinos",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "A proposta pública de deslocamento e reurbanização teve ampla discussão, mas o trecho não identifica o pronunciamento e as condições integrais para verificar todos os detalhes e o apoio atribuído. A conclusão sobre objetivo de genocídio exige prova jurídica distinta de uma descrição urbanística.",
+      "sources": []
+    },
+    {
+      "cueStart": 2293,
+      "cueEnd": 2340,
+      "title": "Um Estado único seria mais viável do que dois Estados",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "Proposta política e avaliação de viabilidade. Remoção de assentamentos, direitos de residência e autodeterminação são questões complexas; prever qual solução será mais simples não é um resultado já comprovado. Os números populacionais aproximados exigem ano e território próprios.",
+      "sources": []
+    },
+    {
+      "cueStart": 2341,
+      "cueEnd": 2364,
+      "title": "Mussolini escreveu um romance sobre Jan Hus e Lutero era antissemita",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Giovanni Huss il veridico é um ensaio biográfico publicado em 1913, não o romance citado como gênero. Hus antecede a Reforma luterana; escritos hostis de Lutero contra judeus também são documentados. A existência de um texto anticlerical de Mussolini não classifica por si toda a trajetória fascista posterior.",
+      "sources": [
+        "extra-nazi-mussolini",
+        "extra-nazi-luther"
+      ]
+    },
+    {
+      "cueStart": 2371,
+      "cueEnd": 2400,
+      "title": "Rosa Luxemburg integrou o governo socialista da Baviera em 1919",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "Luxemburg foi assassinada em Berlim em janeiro de 1919, antes da república dos conselhos bávara de abril. Não liderou aquele governo. A correção jocosa de Luxemburgo para Weber não recebe um voto separado.",
+      "sources": [
+        "extra-nazi-luxemburg",
+        "extra-nazi-bavaria"
+      ]
+    },
+    {
+      "cueStart": 2431,
+      "cueEnd": 2448,
+      "title": "O Hamas usa homens-bomba e escolas ou hospitais como escudos humanos",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "Há documentação de ataques contra civis, mas a alegação de escudos humanos exige prova de uso intencional de pessoas para proteger objetivos militares em casos identificados. Presença em área urbana ou dano a hospital não basta para demonstrar todos os elementos. Violações de uma parte não suspendem a proteção dos civis.",
+      "sources": [
+        "extra-nazi-icrc",
+        "extra-nazi-hamasattacks"
+      ]
+    },
+    {
+      "cueStart": 2443,
+      "cueEnd": 2448,
+      "title": "Há um juiz árabe muçulmano na Suprema Corte de Israel",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A posse de Khaled Kabub em 2022 foi registrada como a primeira de um muçulmano na corte. A formulação do debate usa palestino sem distinguir cidadania e identidade. A presença de um magistrado não resolve por si todas as questões de igualdade e ocupação territorial.",
+      "sources": [
+        "extra-nazi-judge"
+      ]
+    },
+    {
+      "cueStart": 2455,
+      "cueEnd": 2472,
+      "title": "A Ku Klux Klan foi braço democrata e apoiou Hillary Clinton",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A primeira Klan atuou contra direitos de negros e aliados republicanos na Reconstrução, mas a organização teve fases e grupos distintos. Uma declaração isolada de apoio eleitoral não representa automaticamente toda a Klan nem estabelece continuidade partidária uniforme até 2016. Não foi identificado o grupo e o pronunciamento exatos alegados.",
+      "sources": [
+        "extra-nazi-ccc"
+      ]
+    },
+    {
+      "cueStart": 2473,
+      "cueEnd": 2496,
+      "title": "Olavo não teria relativizado a Klan e criticava o regime militar",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "São interpretações de posições e intenções sem o texto integral invocado. A avaliação moral ou a seleção de uma crítica não demonstra toda a trajetória de um autor. Não recebe voto factual sobre adesão íntima a uma ideologia.",
+      "sources": []
+    },
+    {
+      "cueStart": 2497,
+      "cueEnd": 2526,
+      "title": "A Klan nunca favoreceu conservadores e o nazismo cresceu só por migração socialista",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O acervo da Kansas Historical Society documenta defesa de valores tradicionais, supremacia branca e influência política da Klan. Isso contradiz a exclusão universal, sem equiparar todos os conservadores ao grupo. A origem eleitoral de todo crescimento nazista também não foi demonstrada por base de dados.",
+      "sources": [
+        "extra-nazi-kkk"
+      ]
+    },
+    {
+      "cueStart": 2581,
+      "cueEnd": 2592,
+      "title": "O islã permite estupro como arma de guerra",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "Não é indicado texto, escola jurídica ou autoridade que sustente a regra universal atribuída a toda religião. Casos de violência cometida por grupos não demonstram doutrina uniforme. No direito humanitário, estupro e outras violências sexuais são proibidos para todas as partes.",
+      "sources": [
+        "extra-nazi-sexual"
+      ]
+    },
+    {
+      "cueStart": 2605,
+      "cueEnd": 2634,
+      "title": "Leis Jim Crow segregaram os EUA até os anos 1960",
+      "speaker": "Breno Altman",
+      "verdict": "Verdadeiro",
+      "explanation": "O sistema de segregação e a luta por direitos civis são documentados. A Klan teve retomada em 1915 e outras fases posteriores; não surgiu apenas como reação aos movimentos dos anos 1960. A história confirma racismo institucional, sem classificar toda pessoa liberal ou conservadora da mesma forma.",
+      "sources": [
+        "extra-nazi-jimcrow",
+        "extra-nazi-ccc"
+      ]
+    },
+    {
+      "cueStart": 2635,
+      "cueEnd": 2640,
+      "title": "A ONU não inclui o Hamas em sua lista de sanções terroristas",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O sistema do Conselho de Segurança não é uma lista universal de todos os atos de terrorismo. A ausência do Hamas nesse enquadramento não equivale a aprovação de seus atos; a União Europeia tem enquadramento próprio. A conclusão é sobre regimes de designação, não legitimidade de violência contra civis.",
+      "sources": [
+        "extra-nazi-hamasun",
+        "hamas-ue"
+      ]
+    },
+    {
+      "cueStart": 2665,
+      "cueEnd": 2682,
+      "title": "A acusação de genocídio em Gaza estava em exame na CIJ",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A África do Sul apresentou o caso e a Corte determinou medidas provisórias em 2024. Isso confirma o processo e obrigações de proteção, mas em abril de 2025 não havia decisão final de mérito declarando cometido genocídio. Medida provisória não pode ser relatada como condenação penal definitiva.",
+      "sources": [
+        "extra-nazi-icjcase"
+      ]
+    },
+    {
+      "cueStart": 2689,
+      "cueEnd": 2748,
+      "title": "O post de Breno sobre gato e ratos foi interpretado contra sua intenção",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "A intenção alegada e o contexto completo do post não são verificáveis apenas pela explicação posterior. O relato familiar sobre vítimas do Holocausto também exige documentação individual, sem que sua ausência signifique falsidade. A autodefesa não é tratada como comprovação de todo o caso.",
+      "sources": []
+    },
+    {
+      "cueStart": 2749,
+      "cueEnd": 2778,
+      "title": "Um barão Rothschild comprou o título e financiou o sionismo para escoar petróleo",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O arquivo da família distingue ramos, pessoas, títulos concedidos na Áustria e no Reino Unido, doações de Edmond à Palestina e negócios petrolíferos. Fundir esses registros numa pessoa e num motivo financeiro único é impreciso. Não se comprovam compra do título e causalidade exclusiva da política regional.",
+      "sources": [
+        "extra-nazi-rothschild",
+        "extra-nazi-rothschild2"
+      ]
+    },
+    {
+      "cueStart": 2779,
+      "cueEnd": 2832,
+      "title": "A política israelense provocaria antissemitismo e haveria apoio cristão antissemita",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "Interpretação de causalidade política e avaliação de grupos sem levantamento definido. Responsabilizar coletivamente judeus por atos de um Estado é preconceito; o argumento não é usado para justificar ataques ou transferir culpa entre populações.",
+      "sources": []
+    },
+    {
+      "cueStart": 2833,
+      "cueEnd": 2868,
+      "title": "A Polícia Federal afastou antissemitismo do post e o único processo era por chamar pessoas de covardes",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados relatório integral, autos e decisões com datas para confirmar a sequência e seu alcance. A PF investiga; a apresentação de denúncia cabe ao Ministério Público. Relatório investigativo e absolvição judicial não são o mesmo ato.",
+      "sources": []
+    },
+    {
+      "cueStart": 2869,
+      "cueEnd": 2886,
+      "title": "Breno foi absolvido na Lava Jato e Flavio condenado a indenizar Caetano",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A discussão reúne processos distintos sem números e com valores corrompidos no SRT. Não foi obtida a documentação integral para confirmar instâncias, quantias e fundamentos. Uma esfera civil também não deve ser narrada automaticamente como condenação penal.",
+      "sources": []
+    },
+    {
+      "cueStart": 2893,
+      "cueEnd": 2904,
+      "title": "Hiroshima e Nagasaki eram as duas cidades mais cristãs e foram alvo por um presidente maçom",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "A documentação de seleção dos alvos descreve critérios militares, industriais e psicológicos, não um ranking religioso de cidades. Nagasaki tinha história cristã relevante, mas isso não demonstra a comparação com Hiroshima nem a motivação atribuída. A filiação do presidente não prova o motivo do ataque.",
+      "sources": [
+        "extra-nazi-truman"
+      ]
+    },
+    {
+      "cueStart": 2917,
+      "cueEnd": 2946,
+      "title": "A moral cristã seria superior ao pensamento secular",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "Juízo teológico e moral. Um personagem de romance ou uma posição pessoal sobre guerra não é teste empírico da superioridade de todos os integrantes de uma tradição sobre outra.",
+      "sources": []
+    },
+    {
+      "cueStart": 2959,
+      "cueEnd": 3006,
+      "title": "Classificar AfD, Chega e Vox como extrema direita é apenas jogo de palavras",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A classificação não decorre só da política econômica. Já havia monitoramento e decisão judicial alemã em 2024 sobre suspeita de extremismo na AfD. Isso não significa que cada eleitor seja nazista; tampouco permite apagar todo critério ideológico por semelhança com um programa econômico brasileiro.",
+      "sources": [
+        "extra-nazi-afd"
+      ]
+    },
+    {
+      "cueStart": 3013,
+      "cueEnd": 3024,
+      "title": "O calendário islâmico conta a partir da Hégira, não do nascimento de Maomé",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Verdadeiro",
+      "explanation": "O marco é a migração de Meca para Medina em 622, adotada retrospectivamente para a era islâmica. O calendário não demonstra por si uma estratégia de conquista de qualquer imigrante atual ou uma regra sobre intenções individuais.",
+      "sources": [
+        "extra-nazi-hijra"
+      ]
+    },
+    {
+      "cueStart": 3025,
+      "cueEnd": 3042,
+      "title": "A conquista islâmica ocorreu apenas por imigração e durou oitocentos anos em Portugal",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O enunciado mistura expansão militar, migração e conversão ao longo de séculos. O domínio muçulmano não teve a mesma duração em toda a Península; Portugal concluiu a conquista do Algarve em 1249, antes de Granada em 1492. A generalização não sustenta uma única técnica de ocupação por famílias.",
+      "sources": [
+        "extra-nazi-portugal"
+      ]
+    },
+    {
+      "cueStart": 3043,
+      "cueEnd": 3048,
+      "title": "Muhammad tornou-se o nome masculino mais dado a bebês na Inglaterra",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A ONS registrou Muhammad na primeira posição entre meninos nascidos em Inglaterra e País de Gales em 2023. É um recorte de nascimentos e grafia, não de toda população nem de todos os nomes de ambos os sexos. Esse dado não comprova um plano de conquista.",
+      "sources": [
+        "extra-nazi-muhammad"
+      ]
+    },
+    {
+      "cueStart": 3061,
+      "cueEnd": 3072,
+      "title": "Em regiões de Londres a sharia substituiu a lei britânica",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Falso",
+      "explanation": "A revisão independente do Home Office distingue conselhos religiosos do sistema judicial. Suas decisões não substituem as leis de Inglaterra e País de Gales. Práticas religiosas ou abusos de fato não criam áreas legalmente fora da jurisdição britânica.",
+      "sources": [
+        "extra-nazi-sharia"
+      ]
+    },
+    {
+      "cueStart": 3073,
+      "cueEnd": 3090,
+      "title": "A União Europeia adotou portas abertas sem voto e Merkel contrariou toda a família nuclear",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "O argumento não identifica norma, órgão, data ou votação e reúne política de asilo, Schengen e decisões nacionais. Também não documenta o histórico de toda a família. O diagnóstico de morte da Europa é opinião, não um indicador demonstrado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3097,
+      "cueEnd": 3132,
+      "title": "Nacionalismo explica as guerras e imigração explica a formação americana",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "São interpretações amplas sobre causalidade e identidade nacional. A relevância de correntes migratórias não demonstra ausência de exclusões em toda a história dos EUA; os prognósticos sobre partidos atuais não são fatos já consumados.",
+      "sources": []
+    },
+    {
+      "cueStart": 3133,
+      "cueEnd": 3168,
+      "title": "Militantes do partido de Meloni fizeram saudações e ela os proibiu publicamente",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica as gravações de cada mês, os participantes e a íntegra do comunicado. Uma ocorrência documentada precisaria ser separada de uma afirmação sobre todo o partido e todos os grupos citados. Os detalhes não foram confirmados nesta revisão.",
+      "sources": []
+    },
+    {
+      "cueStart": 3175,
+      "cueEnd": 3234,
+      "title": "Terrorismo era só um termo militar e hoje só pode descrever Estados",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Não há base para excluir atos de grupos contra civis da categoria por serem anticoloniais ou militarmente inferiores. O direito humanitário proíbe atos destinados a espalhar terror entre civis para todas as partes. A crítica ao uso político de uma palavra não revoga esse critério.",
+      "sources": [
+        "extra-nazi-icrc",
+        "lua-terrorismo-eua"
+      ]
+    },
+    {
+      "cueStart": 3181,
+      "cueEnd": 3198,
+      "title": "Mandela, Begin e Shamir tiveram histórico de luta armada e rótulos de terrorismo",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro de Rivonia documenta condenação de Mandela por sabotagem, e há documentação histórica das organizações armadas sionistas. Isso confirma trajetórias controversas, não equivalência entre todos os métodos ou licença para atacar civis. Os tipos penais e episódios precisam ser tratados separadamente.",
+      "sources": [
+        "extra-nazi-mandela",
+        "extra-nazi-begin",
+        "extra-nazi-shamir"
+      ]
+    },
+    {
+      "cueStart": 3199,
+      "cueEnd": 3204,
+      "title": "O então presidente sírio havia integrado organização classificada como terrorista",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Ahmed al-Sharaa esteve ligado à Frente al-Nusra e ao HTS antes de assumir a transição em 2025. Designação de um grupo e trajetória pessoal são fatos com datas próprias. Isso não comprova que todo uso do conceito terrorismo seja vazio ou que os atos de qualquer grupo sejam lícitos.",
+      "sources": [
+        "extra-nazi-sharaa"
+      ]
+    },
+    {
+      "cueStart": 3277,
+      "cueEnd": 3318,
+      "title": "Gaza tinha mais de cinquenta mil mortos e dezessete mil crianças mortas",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O quadro da OCHA de 8 de abril de 2025 registra 50.810 mortes reportadas e atribui os dados ao Ministério da Saúde de Gaza. O recorte de identificados então trazia 15.613 crianças; não se deve confundir identificados e estimativas do total. Os números reportados não eram todos verificados individualmente pela ONU.",
+      "sources": [
+        "extra-nazi-gaza2025"
+      ]
+    },
+    {
+      "cueStart": 3343,
+      "cueEnd": 3354,
+      "title": "A Primeira Guerra se restringiu ao campo de batalha e apenas a Segunda atingiu civis",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Falso",
+      "explanation": "O USHMM documenta violência de ocupação, deportação e perseguição de civis na Primeira Guerra, além de suas consequências. A distinção entre guerra e terror não se baseia em imaginar que o conflito anterior poupou toda população civil.",
+      "sources": [
+        "extra-nazi-ww1"
+      ]
+    },
+    {
+      "cueStart": 3355,
+      "cueEnd": 3384,
+      "title": "Mandela foi preso por atentado terrorista e a esquerda explodia o Conjunto Nacional desde 1961",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "O registro de Rivonia distingue condenação por sabotagem. A afirmação sobre o edifício brasileiro exige identificação de atentado, data e autoria; não foi apresentada documentação suficiente para a sequência desde 1961. Não se certifica o conjunto de episódios por analogia.",
+      "sources": [
+        "extra-nazi-mandela"
+      ]
+    },
+    {
+      "cueStart": 3391,
+      "cueEnd": 3402,
+      "title": "Estados só fazem guerra e nunca terrorismo",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A condição de Estado não exclui atos destinados a aterrorizar civis. O direito humanitário proíbe essa finalidade em conflitos internacionais e internos, inclusive para forças estatais. Isso é diferente de chamar indistintamente qualquer operação militar de terrorismo.",
+      "sources": [
+        "extra-nazi-icrc"
+      ]
+    },
+    {
+      "cueStart": 3403,
+      "cueEnd": 3432,
+      "title": "A foto comprova uso de suástica pelo Hamas e o gesto de Filipe Martins era só ajuste de roupa",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "A foto mostrada não tem no SRT data, origem e identificação verificáveis. Um gesto também exige contexto e registro visual, não apenas descrição interessada. Não se certificam as duas interpretações nem adesão institucional inteira por um símbolo isolado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3433,
+      "cueEnd": 3558,
+      "title": "Direita, ordem anterior, guerra justa e virtudes teologais",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "Exposição de valores religiosos e políticos. A existência de uma doutrina moral não comprova que todo governo ou fiel a tenha seguido, nem classifica automaticamente crimes de terceiros. Não recebe voto factual de superioridade ideológica.",
+      "sources": []
+    },
+    {
+      "cueStart": 3559,
+      "cueEnd": 3576,
+      "title": "Os autores apresentados seriam irrelevantes na historiografia",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "Avaliação de relevância e uso de autoridade no debate. Não é um levantamento bibliométrico ou censo de estudiosos; a conclusão histórica precisa ser sustentada por documentos, não pelo insulto aos autores.",
+      "sources": []
+    },
+    {
+      "cueStart": 3583,
+      "cueEnd": 3636,
+      "title": "A Lei de Plenos Poderes foi aprovada em junho com nazistas em 33% e criou o Führer",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A votação foi em 23 de março de 1933. O argumento mistura o resultado eleitoral de novembro de 1932 com o parlamento de março; a acumulação dos cargos de presidente e chanceler ocorreu em 1934. O apoio de outros partidos à lei é real, mas não corrige essa cronologia.",
+      "sources": [
+        "extra-nazi-enabling",
+        "extra-nazi-cabinet",
+        "extra-nazi-fuhrer"
+      ]
+    },
+    {
+      "cueStart": 3643,
+      "cueEnd": 3654,
+      "title": "Pergunta do chat sobre o papa e salvamento de judeus",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "É uma pergunta de terceiro, não uma afirmação assumida pelo debatedor. O numeral e a identidade papal não são certificados a partir da legenda automática nem recebem voto no placar de Breno ou Flavio.",
+      "sources": []
+    },
+    {
+      "cueStart": 3661,
+      "cueEnd": 3708,
+      "title": "A teoria de povo-classe explicaria o antissemitismo",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "É uma interpretação histórica inspirada em Abraham Leon. Profissões e posições sociais de judeus variaram conforme lugar e época; uma teoria não demonstra que todos eram comerciantes ou financistas nem uma causa única de toda perseguição.",
+      "sources": []
+    },
+    {
+      "cueStart": 3709,
+      "cueEnd": 3726,
+      "title": "A esmagadora maioria dos dirigentes nazistas era luterana",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são definidos dirigentes incluídos, período e critério entre origem familiar, batismo e crença efetiva. O regime também teve dirigentes de origem católica e pessoas que romperam com igrejas. Não se certifica a proporção alegada; filiação religiosa não prova culpa coletiva de fiéis.",
+      "sources": []
+    },
+    {
+      "cueStart": 3799,
+      "cueEnd": 3822,
+      "title": "O Concílio Vaticano II não tratou dos judeus, apenas de mudanças internas de missa",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Falso",
+      "explanation": "Nostra aetate, aprovada no Concílio em 1965, dedica parte expressa ao judaísmo e condena antissemitismo e perseguições. O próprio texto lido no encerramento é esse documento. O Concílio não se limitou à liturgia.",
+      "sources": [
+        "extra-nazi-nostra"
+      ]
+    },
+    {
+      "cueStart": 3823,
+      "cueEnd": 3852,
+      "title": "Götz Aly demonstra uma hierarquia de riqueza entre judeus, luteranos e católicos",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho cita autor e obra sem tabela, período e página para conferir o contraste quantitativo. Uma interpretação sobre inveja e mobilidade não comprova uma hierarquia fixa de todas as pessoas dessas religiões nem explica sozinha o antissemitismo.",
+      "sources": []
+    },
+    {
+      "cueStart": 3895,
+      "cueEnd": 3918,
+      "title": "Só o Ocidente reutilizou antigos nazistas, enquanto os socialistas sempre os puniram",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A reintegração ocidental é documentada, mas o contraste absoluto omite recrutamento soviético de especialistas e a complexidade da desnazificação no leste. Não se pode presumir que todo técnico tivesse a mesma responsabilidade nem que todos os antigos nazistas tenham recebido destino único.",
+      "sources": [
+        "extra-nazi-rosenburg",
+        "extra-nazi-soviet"
+      ]
+    },
+    {
+      "cueStart": 3919,
+      "cueEnd": 3930,
+      "title": "Nazistas fundaram a NASA por meio da Operação Paperclip",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Falso",
+      "explanation": "A NASA foi criada por lei em 1958 e incorporou a NACA, existente desde 1915, além de outras estruturas. Especialistas alemães com passado nazista tiveram participação importante em programas de foguetes; isso não equivale a terem fundado a agência nem apaga sua origem legal e institucional.",
+      "sources": [
+        "extra-nazi-oss"
+      ]
+    },
+    {
+      "cueStart": 3937,
+      "cueEnd": 3990,
+      "title": "O comunismo matou cem milhões em paz e Pol Pot eliminou um terço da população",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "O total agregado depende de regime, período e critério; guerras, fome e repressão não são categorias intercambiáveis. O genocídio cambojano é documentado pelo tribunal, mas o trecho não oferece base demográfica para o terço citado. Não se certifica uma contagem única de todos os casos.",
+      "sources": [
+        "extra-z7-rummel",
+        "extra-z7-polpot"
+      ]
+    },
+    {
+      "cueStart": 3955,
+      "cueEnd": 3972,
+      "title": "Correção de fala sobre a Lei de Plenos Poderes",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "O participante corrige imediatamente a formulação para dizer o contrário. Não se interpreta o lapso como confissão de apoio à lei nazista. Suas posições sobre autoritarismo e as dos autores citados precisam de análise própria.",
+      "sources": []
+    },
+    {
+      "cueStart": 4033,
+      "cueEnd": 4044,
+      "title": "O primeiro campo de concentração foi de uma ditadura cubana",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A reconcentração de Weyler em Cuba é documentada em ordem de 1896, sob domínio colonial espanhol, não um governo cubano independente do século XX. Campos anteriores ao nazismo existiram, mas a alegação de primeiro exige definição e comparação mais ampla.",
+      "sources": [
+        "extra-nazi-camps"
+      ]
+    },
+    {
+      "cueStart": 4057,
+      "cueEnd": 4068,
+      "title": "Olavo marcou e fugiu de um debate em 2013",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são apresentados convite, confirmação, cancelamento e motivo registrados. Ausência em um evento não comprova automaticamente fuga ou medo. A comparação de valentia é opinião, e o episódio não foi documentalmente certificado.",
+      "sources": []
+    },
+    {
+      "cueStart": 4075,
+      "cueEnd": 4152,
+      "title": "Conservadorismo e fascismo fariam parte de um processo histórico comum",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "Síntese interpretativa e repetição das alianças já inventariadas. A continuidade proposta é uma tese de história política, não prova de que cada integrante atual compartilhe todo o passado de um campo.",
+      "sources": []
+    },
+    {
+      "cueStart": 4117,
+      "cueEnd": 4122,
+      "title": "Voegelin pertencia ao Zentrum e apoiou a ascensão de Hitler",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A biografia institucional registra sua oposição acadêmica a Hitler, perda do posto em Viena e fuga em 1938. Defender aspectos de um Estado autoritário austríaco não comprova filiação ao Zentrum alemão ou apoio à tomada nazista do poder. A imputação específica não vem documentada.",
+      "sources": [
+        "extra-nazi-voegelin"
+      ]
+    },
+    {
+      "cueStart": 4159,
+      "cueEnd": 4170,
+      "title": "Israel fundou e financiou o Hamas quando ele era filantrópico",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A trajetória da rede religiosa e assistencial que antecedeu o Hamas não é idêntica à fundação do movimento em 1987. Tolerância, registro e eventual apoio precisam ser individualizados por época. A carta do próprio grupo o liga à Irmandade Muçulmana; não demonstra criação institucional por Israel.",
+      "sources": [
+        "extra-nazi-hamascharter"
+      ]
+    },
+    {
+      "cueStart": 4171,
+      "cueEnd": 4242,
+      "title": "A direita atual combate a burocracia que acolheu nazistas",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "Interpretação sobre finalidade de governos atuais e associação entre reformas e recrutamento de décadas anteriores. Não há prova apresentada de que cada medida contemporânea tenha esse objetivo histórico.",
+      "sources": []
+    },
+    {
+      "cueStart": 4183,
+      "cueEnd": 4188,
+      "title": "A Mão Negra criou a Primeira Guerra Mundial",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A rede envolvida no atentado de Sarajevo é parte da crise de 1914, mas não uma causa única suficiente de toda a guerra. Alianças, decisões estatais e escalada militar também importam. O argumento reduz um processo internacional a uma organização.",
+      "sources": [
+        "extra-nazi-ww1"
+      ]
+    },
+    {
+      "cueStart": 4249,
+      "cueEnd": 4254,
+      "title": "A CIA ficou intocada pelas reformas de Trump até abril de 2025",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "A troca de direção em janeiro é documentada, mas intocada pode se referir a pessoal, missão, orçamento ou operações. Não foram examinados indicadores comparáveis de todas essas dimensões no recorte do vídeo. Não se certifica ausência absoluta de mudanças.",
+      "sources": [
+        "extra-nazi-cia2025"
+      ]
+    },
+    {
+      "cueStart": 4255,
+      "cueEnd": 4260,
+      "title": "O chefe do FBI sempre muda com o governo, exceto Hoover",
+      "speaker": "Breno Altman",
+      "verdict": "Falso",
+      "explanation": "O FBI registra Mueller entre 2001 e 2013, atravessando governos Bush e Obama. Hoover permaneceu de 1924 a 1972, cerca de 48 anos, não uma regra única de exceção. A direção não é automaticamente substituída a cada posse presidencial.",
+      "sources": [
+        "extra-nazi-sovietfbi"
+      ]
+    },
+    {
+      "cueStart": 4279,
+      "cueEnd": 4338,
+      "title": "Nacionalismo é progressista quando anticolonial e de direita quando opressor",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "É uma definição valorativa de campos políticos. Pode orientar a interpretação do participante, mas não funciona como teste factual universal nem prova a legitimidade de todos os métodos de um movimento.",
+      "sources": []
+    },
+    {
+      "cueStart": 4339,
+      "cueEnd": 4404,
+      "title": "A União Soviética nunca expandiu seu território",
+      "speaker": "Breno Altman",
+      "verdict": "Falso",
+      "explanation": "Documentos diplomáticos registram mudanças de fronteira por anexações e ocupações, incluindo territórios poloneses, bálticos, finlandeses e romenos em 1939–1940. A discussão conceitual sobre colônia ou satélite não apaga essas ampliações territoriais.",
+      "sources": [
+        "extra-nazi-sovietterritory",
+        "extra-nazi-poland"
+      ]
+    },
+    {
+      "cueStart": 4411,
+      "cueEnd": 4416,
+      "title": "Porto Rico é um território sob soberania dos EUA, frequentemente chamado de colônia",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Porto Rico não é Estado independente nem um dos cinquenta estados; permanece território não incorporado sob poder do Congresso americano. Colônia é uma caracterização política frequente, enquanto o estatuto jurídico tem nomenclatura própria. Isso não decide a comparação com todo o bloco soviético.",
+      "sources": [
+        "extra-nazi-puertorico"
+      ]
+    },
+    {
+      "cueStart": 4453,
+      "cueEnd": 4500,
+      "title": "A cooperação com o mufti torna Hitler equivalente a um apoiador de libertação colonial",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A reunião de 1941 demonstra colaboração específica e objetivos contra judeus e britânicos. O próprio registro mostra que Hitler não concedeu todas as garantias pedidas. A relação não elimina o colonialismo de conquista nazista nem estabelece equivalência moral com qualquer outra luta.",
+      "sources": [
+        "extra-nazi-mufti",
+        "extra-nazi-expansion"
+      ]
+    },
+    {
+      "cueStart": 4507,
+      "cueEnd": 4524,
+      "title": "Nenhum governo ocidental aceitou uma aliança soviética contra a Alemanha antes da guerra",
+      "speaker": "Breno Altman",
+      "verdict": "Falso",
+      "explanation": "O tratado franco-soviético de assistência mútua foi assinado em maio de 1935 e registrado pela Liga das Nações. Houve negociações posteriores e fracassos, mas o documento contradiz ausência absoluta de qualquer acordo. Também não prova uma intenção única de todos os governos de empurrar Hitler para o leste.",
+      "sources": [
+        "extra-nazi-treaty"
+      ]
+    },
+    {
+      "cueStart": 4525,
+      "cueEnd": 4566,
+      "title": "O pacto germano-soviético foi assinado em agosto de 1939",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O acordo e seu protocolo secreto precederam a invasão da Polônia, depois dividida entre as duas potências. Confirma-se o núcleo histórico, mas maior exige critério e comparação. A trajetória pessoal atribuída a Vernant não é comprovada pela existência do pacto.",
+      "sources": [
+        "extra-nazi-poland"
+      ]
+    },
+    {
+      "cueStart": 4567,
+      "cueEnd": 4584,
+      "title": "A família Rothschild conduziu a guerra para destruir o Império Otomano",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "Há documentos sobre negócios, filantropia e interlocução política de pessoas diferentes da família. Isso não demonstra autoria coletiva de uma guerra nem motivo único dos governos beligerantes. A imputação causal abrangente não fica comprovada pelo parentesco ou pela referência a Balfour.",
+      "sources": [
+        "extra-nazi-rothschild"
+      ]
+    },
+    {
+      "cueStart": 4597,
+      "cueEnd": 4614,
+      "title": "Baghdadi definiu o objetivo do Estado Islâmico como destruir Sykes–Picot",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "A propaganda do grupo fez referências às fronteiras, mas o pronunciamento literal, seu autor e a ocasião não são apresentados no trecho. Retórica de um grupo não comprova legitimidade de seu projeto nem identidade com toda luta anticolonial.",
+      "sources": [
+        "extra-nazi-sykes"
+      ]
+    },
+    {
+      "cueStart": 4633,
+      "cueEnd": 4674,
+      "title": "Toda a esquerda apoiaria os grupos e símbolos citados",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "Generalização política e repetição de acusações sem levantamento de partidos e posições. Não recebe voto adicional nem prova adesão de toda pessoa de esquerda a uma organização ou símbolo.",
+      "sources": []
+    },
+    {
+      "cueStart": 4699,
+      "cueEnd": 4728,
+      "title": "Dimitrov defendeu frentes antifascistas e a URSS entrou na Liga das Nações",
+      "speaker": "Breno Altman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O texto do VII Congresso da Internacional Comunista em 1935 documenta a política de frente; a URSS entrou na Liga em 1934. Isso sustenta a existência da orientação, não a tese de que nenhum governo tenha negociado com Moscou, contrariada pelo tratado francês.",
+      "sources": [
+        "extra-nazi-dimitrov",
+        "extra-nazi-league",
+        "extra-nazi-treaty"
+      ]
+    },
+    {
+      "cueStart": 4729,
+      "cueEnd": 4770,
+      "title": "O pacto com Hitler era a única saída para a União Soviética ganhar tempo",
+      "speaker": "Breno Altman",
+      "verdict": "opinion",
+      "explanation": "É uma interpretação estratégica e contrafactual. A hipótese não apaga o protocolo secreto e a invasão soviética da Polônia, nem demonstra que todas as alternativas eram impossíveis. Necessário é um juízo histórico que não pode ser certificado apenas pela sequência dos acontecimentos.",
+      "sources": []
+    },
+    {
+      "cueStart": 4795,
+      "cueEnd": 4806,
+      "title": "A linguagem de romances mostraria a essência do totalitarismo de esquerda",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "Crítica literária e interpretação política de obras de ficção. Não é demonstração de comportamento universal de um campo nem substitui documentos históricos.",
+      "sources": []
+    },
+    {
+      "cueStart": 4843,
+      "cueEnd": 4854,
+      "title": "Milošević foi condenado várias vezes por limpeza étnica",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Falso",
+      "explanation": "O tribunal informa que Milošević morreu em março de 2006 antes do veredito, e o processo foi encerrado. Isso não é condenação nem absolvição de mérito. Julgamentos e condenações de outros dirigentes não podem ser transferidos a ele.",
+      "sources": [
+        "extra-nazi-milosevic"
+      ]
+    },
+    {
+      "cueStart": 4855,
+      "cueEnd": 4888,
+      "title": "Nem Netanyahu compara o Hamas ao nazismo",
+      "speaker": "Breno Altman",
+      "verdict": "Falso",
+      "explanation": "O registro oficial da Knesset de outubro de 2023 contém essa comparação no discurso de Netanyahu. Confirma-se que a comparação foi feita, não que ela constitua demonstração de continuidade institucional ou identidade histórica dos movimentos.",
+      "sources": [
+        "extra-nazi-netanyahu"
+      ]
+    },
+    {
+      "cueStart": 4891,
+      "cueEnd": 4896,
+      "title": "A Igreja Católica nada fez contra o fascismo ou nazismo",
+      "speaker": "Breno Altman",
+      "verdict": "Falso",
+      "explanation": "O quantificador nada é incompatível, por exemplo, com a encíclica de Pio XI de 1937 que condena divinização de raça e Estado. Isso não elimina compromissos, omissões e controvérsias institucionais; exige distinguir pessoas, documentos e momentos, em vez de um comportamento único.",
+      "sources": [
+        "extra-nazi-pio"
+      ]
+    },
+    {
+      "cueStart": 4903,
+      "cueEnd": 4986,
+      "title": "A URSS perdeu 27 milhões e o Dia D foi apenas lateral porque dois terços dos exércitos já estavam derrotados",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A ordem de grandeza das perdas soviéticas e o papel decisivo do front oriental têm respaldo. Porém, a proporção de perdas ao longo da guerra não equivale a exércitos já eliminados antes do Dia D. A cooperação aliada e as campanhas ocidentais não foram irrelevantes; o contrafactual atribuído a Beevor exige passagem identificada.",
+      "sources": [
+        "extra-nazi-krieg",
+        "extra-nazi-sovietterritory",
+        "extra-nazi-army"
+      ]
+    },
+    {
+      "cueStart": 5041,
+      "cueEnd": 5058,
+      "title": "Sovietes significam satélites e o Comintern dirigia a Alemanha Oriental",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Soviete significa conselho; satélite descreve outra relação política. A Internacional Comunista foi dissolvida em 1943, antes da fundação da RDA. A influência soviética posterior existiu por estruturas distintas. O participante reformula parte da cronologia no diálogo, o que é preservado.",
+      "sources": [
+        "extra-nazi-dimitrov",
+        "extra-nazi-comintern"
+      ]
+    },
+    {
+      "cueStart": 5071,
+      "cueEnd": 5100,
+      "title": "O Plano Schlieffen explica os dois fronts e Stalin usou prisioneiros para limpar minas",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Inconclusivo",
+      "explanation": "A preocupação alemã com guerra em duas frentes tem contexto histórico. O episódio específico de pessoas usadas para limpar campos minados exige documento, unidade, data e passagem da obra mencionada. Não se certifica esse relato apenas pela referência a um livro volumoso.",
+      "sources": [
+        "extra-nazi-ww1"
+      ]
+    },
+    {
+      "cueStart": 5125,
+      "cueEnd": 5268,
+      "title": "Conclusão sobre conceitos, direita e origem do nazismo",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "opinion",
+      "explanation": "Síntese interpretativa. Flavio distingue explicitamente esquerda e nazismo, embora mantenha sua tese de desvio histórico. Essa qualificação final é preservada; a conclusão não lhe atribui defesa do nazismo ou identifica todo esquerdista como nazista.",
+      "sources": []
+    },
+    {
+      "cueStart": 5281,
+      "cueEnd": 5286,
+      "title": "Cervantes escreveu a máxima de acreditar em fatos, não em palavras",
+      "speaker": "Breno Altman",
+      "verdict": "Inconclusivo",
+      "explanation": "A formulação latina e a tradução são citadas sem capítulo e edição. Não foi verificada a passagem original nesta revisão. A máxima retórica não é evidência dos acontecimentos históricos discutidos.",
+      "sources": []
+    },
+    {
+      "cueStart": 5323,
+      "cueEnd": 5346,
+      "title": "Só o campo de esquerda foi a força real da resistência ao nazismo",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Movimentos comunistas tiveram papel importante em vários países, mas as resistências e a aliança militar incluíram correntes diversas. A contribuição soviética decisiva não demonstra exclusividade ideológica de toda a vitória nem torna simbólica a ação dos demais aliados.",
+      "sources": [
+        "extra-nazi-sovietterritory",
+        "extra-nazi-krieg"
+      ]
+    },
+    {
+      "cueStart": 5347,
+      "cueEnd": 5364,
+      "title": "A segunda frente só abriu em 1944, embora pudesse ter sido aberta em 1942",
+      "speaker": "Breno Altman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Normandia começou em junho de 1944; houve campanhas aliadas anteriores no Mediterrâneo, inclusive na Itália. Chamar Normandia de segunda frente tem um sentido estratégico específico. A viabilidade de antecipá-la dois anos é um contrafactual, não consequência automática de poder econômico.",
+      "sources": [
+        "extra-nazi-army",
+        "extra-nazi-sovietterritory"
+      ]
+    },
+    {
+      "cueStart": 5365,
+      "cueEnd": 5530,
+      "title": "Encerramento, avaliação política e divulgação de canais",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Considerações ideológicas e repetição de argumentos, seguidas de publicidade e agradecimentos. Não acrescentam votos factuais nem determinam intenções individuais.",
+      "sources": []
+    },
+    {
+      "cueStart": 5431,
+      "cueEnd": 5448,
+      "title": "Nostra aetate condena ódio e perseguição contra judeus",
+      "speaker": "Flavio Morgenstern",
+      "verdict": "Verdadeiro",
+      "explanation": "A declaração do Concílio Vaticano II de 1965 contém a condenação lida. É um documento institucional, não epístola bíblica. Confirmar o texto não prova que toda prática histórica tenha seguido a norma; também mostra que o Concílio tratou expressamente dos judeus.",
+      "sources": [
+        "extra-nazi-nostra"
+      ]
+    }
+  ]
+}

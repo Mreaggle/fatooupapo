@@ -1,0 +1,1376 @@
+{
+  "videoId": "Z7pP0rDXdBM",
+  "video": {
+    "id": "Z7pP0rDXdBM",
+    "url": "https://www.youtube.com/watch?v=Z7pP0rDXdBM",
+    "title": "DEBATE: MARXISTA X CONSERVADOR - GUSTAVO MACHADO X LUCAS PAVANATO - Inteligência Ltda. Podcast #1457",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Z7pP0rDXdBM/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "gustavo-machado",
+      "name": "Gustavo Machado",
+      "aliases": [
+        "Gustavo"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "lucas-pavanato",
+      "name": "Lucas Pavanato",
+      "aliases": [
+        "Lucas",
+        "Pavanato"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "rogerio-vilela",
+      "name": "Rogério Vilela",
+      "aliases": [
+        "Vilela"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
+  "referenceDate": "2025-02-25",
+  "reviewedAt": "2026-10-30T17:27:09.166Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "a0b85d2fa03f408d5364c871c13a991638308766634b55bf6f583dad02d0e16c",
+  "scannedThrough": 4991,
+  "coverageNotes": "Leitura integral do arquivo fornecido: de 00:03:05,170 a 02:55:00,000. O início ausente não foi reconstruído. Datas e séries foram comparadas com a referência histórica de fevereiro de 2025; fontes posteriores que documentam anos anteriores são indicadas como retrospectivas.",
+  "limitations": [
+    "Percentuais tributários de diferentes versões da série não são intercambiáveis; recordes precisam indicar metodologia e ano de publicação.",
+    "Opiniões sobre capitalismo, socialismo, moral e religião não são votos factuais. Debate sobre aborto não é resolvido por classificar um lado como moralmente superior.",
+    "O SRT automático contém lapsos, interrupções e números potencialmente corrompidos. A avaliação se refere ao texto, sem comprovação acústica; passagens sem locutor seguro ficam sem autoria individual.",
+    "Gráficos, anuários e publicações apenas citados ou mostrados na tela não foram considerados automaticamente verificados."
+  ],
+  "claims": [
+    {
+      "cueStart": 115,
+      "cueEnd": 192,
+      "title": "Apresentação do trabalho e das posições políticas",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Apresentação autobiográfica, divulgação de livros, canal e filiação. Não é uma demonstração dos dados econômicos discutidos depois e não recebe voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 247,
+      "cueEnd": 264,
+      "title": "Pavanato tinha 26 anos e foi o vereador mais votado em 2024",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "A votação e a idade devem ser verificadas no cadastro e no resultado do pleito de 2024. O perfil parlamentar ajuda a identificar a pessoa, mas não basta para certificar conjuntamente idade histórica e posição nacional sem a base eleitoral correspondente.",
+      "sources": [
+        "pav-pavanato"
+      ]
+    },
+    {
+      "cueStart": 361,
+      "cueEnd": 516,
+      "title": "Crise, propriedade e revolução na interpretação marxista",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Exposição de teoria social e de um programa político. As previsões e as condições propostas para uma sociedade futura não são resultados empíricos já comprovados.",
+      "sources": []
+    },
+    {
+      "cueStart": 529,
+      "cueEnd": 642,
+      "title": "Ideologias modernas como religiões seculares",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "Comparação filosófica e teológica sobre cristianismo e ideologias. Não há uma medida factual consensual que transforme a analogia em verdadeiro ou falso.",
+      "sources": []
+    },
+    {
+      "cueStart": 649,
+      "cueEnd": 672,
+      "title": "O socialismo teria causado mais mortes que o nazismo",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Existem estimativas desse tipo, inclusive as de Rummel, mas o resultado depende de períodos, regimes incluídos, conceito de democídio e atribuição de mortes por guerra ou fome. Sem declarar esses critérios, não se certifica uma comparação universal como contagem consensual.",
+      "sources": [
+        "extra-z7-rummel"
+      ]
+    },
+    {
+      "cueStart": 673,
+      "cueEnd": 690,
+      "title": "O Livro Negro teria definido cem milhões antes de pesquisar",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma alegação específica sobre o processo editorial e a intenção dos autores. A discussão de totais históricos não comprova que o resultado foi previamente fabricado. Não foi identificado neste exame um registro editorial suficiente para resolver essa imputação.",
+      "sources": []
+    },
+    {
+      "cueStart": 691,
+      "cueEnd": 708,
+      "title": "A Revolução de Outubro teria causado apenas seis a oito mortes",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho distingue a tomada do poder e a guerra civil posterior, uma distinção pertinente. Porém, a cifra exige definir local, dias e tipos de vítimas; o número da tomada de Petrogrado não mede todo o processo revolucionário. Não foi obtida contagem primária que confirme o intervalo citado.",
+      "sources": []
+    },
+    {
+      "cueStart": 697,
+      "cueEnd": 708,
+      "title": "O Japão enviou mais de setenta mil soldados à Sibéria",
+      "speaker": "Gustavo Machado",
+      "verdict": "Verdadeiro",
+      "explanation": "Os arquivos americanos documentam mais de setenta mil soldados japoneses na intervenção iniciada em 1918. Isso confirma a ordem de grandeza e a participação estrangeira, sem resolver sozinho as causas da guerra civil ou da ascensão de Stalin.",
+      "sources": [
+        "extra-z7-siberia"
+      ]
+    },
+    {
+      "cueStart": 733,
+      "cueEnd": 744,
+      "title": "O domínio britânico na Índia teria causado trinta milhões de mortes",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "A presença de uma companhia mercantil e de domínio colonial está documentada. O total de trinta milhões exige delimitar quais fomes, território, datas e critério de causalidade; essas informações não são dadas. A carta comercial não é prova desse total de mortos.",
+      "sources": [
+        "extra-z7-eastindia"
+      ]
+    },
+    {
+      "cueStart": 745,
+      "cueEnd": 756,
+      "title": "Ruanda teria sido colonizada pela Holanda e perdido mais de dois milhões no genocídio",
+      "speaker": "Gustavo Machado",
+      "verdict": "Falso",
+      "explanation": "A história publicada pela ONU identifica dominação alemã e depois administração belga, não holandesa. As estimativas da ONU para o genocídio de 1994 ficam na ordem de oitocentos mil a um milhão, não acima de dois milhões. A conclusão se refere ao texto do SRT; o áudio não foi validado.",
+      "sources": [
+        "extra-z7-rwanda"
+      ]
+    },
+    {
+      "cueStart": 757,
+      "cueEnd": 762,
+      "title": "A eliminação de indígenas nos EUA teria alcançado quarenta a cem milhões",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica estudo, período ou território. Estimativas de população ou de perdas de todas as Américas não podem ser tomadas automaticamente como pessoas mortas por ação direta dos EUA. Sem esses recortes, o intervalo não fica comprovado.",
+      "sources": []
+    },
+    {
+      "cueStart": 763,
+      "cueEnd": 780,
+      "title": "As guerras mundiais decorreriam das disputas capitalistas",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Interpretação histórica sobre mercados, impérios e sistemas econômicos. A existência de interesses econômicos não estabelece uma causa única nem um método consensual para imputar todas as vítimas a uma ideologia.",
+      "sources": []
+    },
+    {
+      "cueStart": 781,
+      "cueEnd": 798,
+      "title": "A repressão stalinista e a fome ucraniana causaram mortes em massa",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A documentação soviética preservada pela Library of Congress registra repressão e fome catastrófica. O núcleo histórico é sustentado, mas o trecho não fornece um recorte suficiente para validar cada total. Gustavo reconhece essas mortes; o trecho não sustenta dizer que ele as negou.",
+      "sources": [
+        "pav-fomeurss"
+      ]
+    },
+    {
+      "cueStart": 799,
+      "cueEnd": 810,
+      "title": "Trotsky denunciou problemas de fome e repressão ainda nos anos 1930",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A obra de 1936 de Trotsky critica a coletivização, a fome e a repressão soviética. Isso sustenta a existência de crítica contemporânea, sem certificar cada número citado de memória nem absolver a atuação de Trotsky em outros períodos.",
+      "sources": [
+        "extra-z7-trotsky"
+      ]
+    },
+    {
+      "cueStart": 817,
+      "cueEnd": 834,
+      "title": "Rummel publicou estudos sobre mortes causadas por regimes comunistas",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Verdadeiro",
+      "explanation": "O acervo mantido pela Universidade do Havaí contém os estudos e as estimativas de Rummel. Confirma-se que a pesquisa existe; seus critérios e cifras não se tornam, por isso, consenso de todos os historiadores.",
+      "sources": [
+        "extra-z7-rummel"
+      ]
+    },
+    {
+      "cueStart": 847,
+      "cueEnd": 870,
+      "title": "Nenhum teórico liberal defendeu dominação colonial",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "A afirmação universal é contrariada pelo próprio texto de John Stuart Mill: a introdução de On Liberty admite despotismo sobre povos classificados por ele como bárbaros, condicionado a uma suposta melhoria. Isso não caracteriza todos os liberais nem torna liberalismo e colonialismo sinônimos.",
+      "sources": [
+        "extra-z7-mill"
+      ]
+    },
+    {
+      "cueStart": 853,
+      "cueEnd": 870,
+      "title": "A colonização seria anterior e estranha ao capitalismo",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "A origem e a periodização do capitalismo são objeto de interpretações historiográficas. Definir capitalismo apenas como industrialização não é um critério consensual para excluir lucro mercantil, companhias privadas e dominação colonial da análise.",
+      "sources": []
+    },
+    {
+      "cueStart": 871,
+      "cueEnd": 894,
+      "title": "Trotsky rompeu com a revolução apenas para levar guerras a outros países",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "A crítica de Trotsky à burocracia soviética consta de sua obra, que continua defendendo a revolução. O trecho mistura teoria da revolução permanente, disputa política, expulsão e exílio, sem documentação que demonstre o motivo único alegado. Não se certifica essa causalidade biográfica.",
+      "sources": [
+        "extra-z7-trotsky"
+      ]
+    },
+    {
+      "cueStart": 895,
+      "cueEnd": 906,
+      "title": "Os Estados Unidos enviaram ajuda durante a fome russa de 1921",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Verdadeiro",
+      "explanation": "A Library of Congress registra autorização de recursos e operação da American Relief Administration entre 1921 e 1923, após acordo com as autoridades soviéticas. A ajuda é um fato; não prova que a fome teve somente uma causa.",
+      "sources": [
+        "extra-z7-ara"
+      ]
+    },
+    {
+      "cueStart": 913,
+      "cueEnd": 924,
+      "title": "A Companhia das Índias foi criada em 1600 com exclusividade comercial",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A carta inglesa concedeu a uma corporação de mercadores direitos exclusivos de comércio com as Índias Orientais. O ano e a combinação de empreendimento mercantil com privilégio estatal estão sustentados. O SRT diz Ocidentais, nome que não corresponde a essa companhia; não foi conferido se é erro da legenda.",
+      "sources": [
+        "extra-z7-eastindia"
+      ]
+    },
+    {
+      "cueStart": 937,
+      "cueEnd": 954,
+      "title": "O Brasil teria perdido quatro mil estatais e reduzido à metade o emprego nessas empresas",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados tabela, universo federativo, conceito de empresa ou denominador dos percentuais. Empresas, estabelecimentos e vínculos são unidades diferentes. Não é possível confirmar os quatro mil nem a passagem de 2,8% para 1,4% apenas pela menção ao anuário.",
+      "sources": []
+    },
+    {
+      "cueStart": 949,
+      "cueEnd": 984,
+      "title": "O Estado brasileiro encolheu por qualquer critério nos últimos trinta anos",
+      "speaker": "Gustavo Machado",
+      "verdict": "Falso",
+      "explanation": "O quantificador é excessivo. O Atlas do Ipea registra expansão dos vínculos públicos entre 1986 e 2017; séries tributárias também não mostram queda contínua. Um recuo no peso de estatais ou numa despesa específica não equivale a redução de todo o Estado em todas as medidas.",
+      "sources": [
+        "extra-z7-public",
+        "extra-z7-tax2021"
+      ]
+    },
+    {
+      "cueStart": 955,
+      "cueEnd": 960,
+      "title": "A despesa de pessoal da União caiu de 54% para 22% da receita corrente líquida",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam a tabela, o exercício final e o método da receita usada em 1994. Receita corrente líquida da União, gasto total e emprego público são medidas distintas. Sem uma série comparável não se confirma o par de percentuais.",
+      "sources": []
+    },
+    {
+      "cueStart": 967,
+      "cueEnd": 990,
+      "title": "O Brasil estaria estagnado e em desindustrialização há quinze anos",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "Estagnação do PIB real total, do PIB por habitante e queda da participação industrial não são a mesma proposição. O trecho não identifica a série ou o indicador usado para reunir os fenômenos. Não se certifica todo o diagnóstico como um dado único.",
+      "sources": []
+    },
+    {
+      "cueStart": 997,
+      "cueEnd": 1014,
+      "title": "A fome soviética de 1921 decorreu somente de confisco e perda de incentivos",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A pesquisa baseada nos arquivos da ARA descreve políticas soviéticas, guerras, desorganização produtiva e seca severa. Requisições e incentivos contribuíram, mas reduzir o episódio a uma única cadeia causal elimina fatores documentados.",
+      "sources": [
+        "extra-z7-ara"
+      ]
+    },
+    {
+      "cueStart": 1021,
+      "cueEnd": 1026,
+      "title": "O Brasil cobra cinquenta por cento de impostos",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Se a referência é a carga tributária sobre o PIB, as publicações oficiais daquele período situam o indicador perto de um terço, não de metade. Uma carga individual pode ser diferente, mas exigiria renda, consumo e método. O trecho não apresenta esse cálculo individual.",
+      "sources": [
+        "extra-z7-tax2022"
+      ]
+    },
+    {
+      "cueStart": 1063,
+      "cueEnd": 1074,
+      "title": "As condições de vida melhoraram desde os anos 1950 e 1960",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "As séries históricas do IBGE mostram forte aumento da esperança de vida. Isso sustenta a direção geral da melhora, sem demonstrar que toda dimensão melhorou para todos nem atribuir o resultado exclusivamente a um sistema econômico. A cifra específica de analfabetismo não é documentada no trecho.",
+      "sources": [
+        "extra-z7-life"
+      ]
+    },
+    {
+      "cueStart": 1075,
+      "cueEnd": 1098,
+      "title": "O sistema de saúde americano é melhor e seu convênio não é caro",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Melhor e caro dependem de desfecho, renda, cobertura e comparação. A pesquisa KFF de 2024 mostra prêmio familiar médio elevado e participação de empregadores e trabalhadores; a experiência de parentes não representa todos os usuários. Não há base para uma superioridade universal.",
+      "sources": [
+        "extra-z7-health"
+      ]
+    },
+    {
+      "cueStart": 1099,
+      "cueEnd": 1122,
+      "title": "Gestores públicos não teriam incentivo para custo e qualidade",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "É uma tese sobre incentivos e uma avaliação política do serviço público, sem definição de qualidade ou levantamento que meça todos os gestores. Não recebe voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 1123,
+      "cueEnd": 1164,
+      "title": "Todas as experiências socialistas fracassaram e mataram cem milhões",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "O total depende de classificação, período e método; sucesso também é um critério que precisa ser definido. A existência de estimativas de democídio não comprova uma cifra universal nem a responsabilidade individual de quem defende uma teoria.",
+      "sources": [
+        "extra-z7-rummel"
+      ]
+    },
+    {
+      "cueStart": 1171,
+      "cueEnd": 1188,
+      "title": "A maioria das ações da Cemig é privada",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "É necessário distinguir capital total e controle. O formulário de referência de 2024 registra controle indireto do governo mineiro e cerca de 51% das ações ordinárias da holding em mãos do Estado. A presença de capital privado majoritário no total não torna privada a direção societária.",
+      "sources": [
+        "extra-z7-cemig"
+      ]
+    },
+    {
+      "cueStart": 1189,
+      "cueEnd": 1206,
+      "title": "A carga tributária brasileira fica abaixo da média mundial de 34%",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "As comparações da Receita com percentuais nessa faixa usam a OCDE, não o conjunto de todos os países do mundo. A carga brasileira e a média da OCDE variam por ano e metodologia. Trocar o universo da comparação altera o significado do dado.",
+      "sources": [
+        "extra-z7-tax2022"
+      ]
+    },
+    {
+      "cueStart": 1195,
+      "cueEnd": 1212,
+      "title": "A carga tributária atingiu o recorde de 33,9% em 2021",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A estimativa inicial do Tesouro para 2021 foi de 33,90%. Contudo, a Receita revisou a série: sua publicação de 2022 apresenta 32,95% para 2021 e 33,56% para 2022. Já havia versão posterior antes do debate de fevereiro de 2025. O valor original é real, mas não sustenta um recorde absoluto sem indicar versão e série. Os demais pontos históricos precisam da mesma compatibilização.",
+      "sources": [
+        "extra-z7-tax2021",
+        "extra-z7-tax2022"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 3541,
+          "cueEnd": 3558
+        },
+        {
+          "cueStart": 3889,
+          "cueEnd": 3896
+        }
+      ]
+    },
+    {
+      "cueStart": 1213,
+      "cueEnd": 1236,
+      "title": "Metade do orçamento é comprometida com a dívida",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "É possível obter proporções elevadas quando se incluem amortização e refinanciamento no orçamento bruto. Esse total não equivale a juros nem a recursos primários disponíveis para serviços. O trecho não explicita o exercício e a composição, impedindo validar a fração como medida simples de gasto financeiro.",
+      "sources": [
+        "extra-z7-debt"
+      ]
+    },
+    {
+      "cueStart": 1249,
+      "cueEnd": 1260,
+      "title": "A dívida de seis a sete trilhões pertence quase toda a grandes empresas",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O estoque está na ordem de grandeza da dívida federal daquele período. O relatório do Tesouro discrimina bancos, previdência, fundos, não residentes e outros detentores; os beneficiários finais não se resumem a empresas industriais. A frase confunde categorias e omite essa composição.",
+      "sources": [
+        "extra-z7-debt"
+      ]
+    },
+    {
+      "cueStart": 1267,
+      "cueEnd": 1278,
+      "title": "A produção brasileira de veículos continua igual à de 2000",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A série histórica da Anfavea registra produção de 2024 superior à de 2000, embora abaixo do pico da década de 2010. A ideia de perda de dinamismo pode ser discutida, mas não equivale a produção literalmente inalterada. O anuário de 2025 é usado retrospectivamente para os anos mencionados.",
+      "sources": [
+        "extra-z7-cars"
+      ]
+    },
+    {
+      "cueStart": 1273,
+      "cueEnd": 1284,
+      "title": "A tributação brasileira recai fortemente sobre o consumo",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A composição por bases de incidência da Receita registra peso relevante dos tributos sobre bens e serviços. O diagnóstico geral é sustentado, mas não significa que toda receita venha do consumo ou que a incidência seja idêntica para cada família.",
+      "sources": [
+        "extra-z7-tax2022"
+      ]
+    },
+    {
+      "cueStart": 1285,
+      "cueEnd": 1296,
+      "title": "SUS e Bolsa Família não existiam antes da Constituição de 1988",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Verdadeiro",
+      "explanation": "O SUS é previsto na Constituição de 1988 e regulamentado em 1990; o Bolsa Família foi instituído em 2003–2004. Isso não significa ausência de assistência médica ou de políticas sociais antes desses marcos.",
+      "sources": [
+        "extra-z7-sus",
+        "extra-z7-bolsa"
+      ]
+    },
+    {
+      "cueStart": 1297,
+      "cueEnd": 1320,
+      "title": "A dívida obriga a imprimir dinheiro ou aumentar impostos e explica toda a inflação",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Dívida também pode ser refinanciada, ter prazo alterado e ser gerida em conjunto com receitas e despesas. O próprio relatório do Tesouro documenta emissões e resgates. Não há uma necessidade mecânica de emissão monetária nem prova de que toda inflação tenha uma causa política exclusiva.",
+      "sources": [
+        "extra-z7-debt",
+        "eco-money"
+      ]
+    },
+    {
+      "cueStart": 1309,
+      "cueEnd": 1320,
+      "title": "Bolsonaro terminou com superávit e Lula registrou déficits",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O governo central teve superávit primário em 2022 e déficits primários em 2023 e 2024. É indispensável especificar primário: não se trata de superávit nominal após juros. Pagamento de precatórios e despesas extraordinárias também afetam a comparação.",
+      "sources": [
+        "extra-z7-fiscal"
+      ]
+    },
+    {
+      "cueStart": 1321,
+      "cueEnd": 1344,
+      "title": "Declaração de voto e justificativa política",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Relato de voto pessoal e avaliação de candidaturas. O voto é sigiloso e a justificativa é opinativa; não se transforma em voto factual no placar.",
+      "sources": []
+    },
+    {
+      "cueStart": 1363,
+      "cueEnd": 1374,
+      "title": "O agronegócio teria oitenta por cento de informalidade",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificada a tabela que produz os 80%. Agropecuária, trabalhadores rurais e toda a cadeia do agronegócio têm universos diferentes. A taxa geral da PNAD não permite certificar esse percentual específico.",
+      "sources": [
+        "extra-z7-emprego"
+      ]
+    },
+    {
+      "cueStart": 1387,
+      "cueEnd": 1398,
+      "title": "Duzentos grupos controlariam metade do PIB brasileiro",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho remete a um anuário, mas não fornece a tabela ou o cálculo. Somar faturamentos não mede participação no PIB, pois pode duplicar etapas produtivas. Sem identificar grupos, receitas consolidadas e valor adicionado, não se certificam os percentuais de controle e origem estrangeira.",
+      "sources": []
+    },
+    {
+      "cueStart": 1399,
+      "cueEnd": 1404,
+      "title": "O déficit comercial americano é coberto pelos lucros das multinacionais",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Receitas de investimentos integram a renda primária, enquanto comércio e fluxos financeiros são contas diferentes. O BEA registra déficit em conta corrente mesmo após contabilizar rendas. Portanto, lucros externos não compensam automaticamente todo o déficit. O resultado de 2024, publicado em março de 2025, é evidência retrospectiva, não informação já disponível no debate.",
+      "sources": [
+        "extra-z7-trade"
+      ]
+    },
+    {
+      "cueStart": 1405,
+      "cueEnd": 1422,
+      "title": "A siderurgia estagnou e os subsídios foram todos para títulos públicos",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são apresentados série de produção, período e rastreamento dos recursos. Uma empresa manter títulos não demonstra que todo subsídio foi desviado de investimento produtivo. São necessárias demonstrações e fluxos financeiros identificados para confirmar a causalidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 1435,
+      "cueEnd": 1446,
+      "title": "Mudar a quantidade de dinheiro sem mudar a produção não tem consequência",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O mecanismo descrito pelo Bank of England relaciona criação de moeda, crédito, demanda e decisões econômicas. Não existe base para declarar irrelevante toda variação monetária. Isso tampouco prova que a inflação resulte sempre, ou apenas, de emissão.",
+      "sources": [
+        "eco-money"
+      ]
+    },
+    {
+      "cueStart": 1459,
+      "cueEnd": 1464,
+      "title": "Bolsonaro autorizou a operação Embraer–Boeing",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O comunicado de janeiro de 2019 confirma a aprovação governamental da parceria, com 80% da nova empresa de aviação comercial para a Boeing. A operação proposta não era a venda integral da Embraer e acabou não concluída. O argumento diz autorizou; não seria correto refutá-lo apenas por não ter havido fechamento.",
+      "sources": [
+        "extra-z7-emb"
+      ]
+    },
+    {
+      "cueStart": 1495,
+      "cueEnd": 1506,
+      "title": "O agronegócio elevou renda e IDH de regiões do Maranhão",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados municípios, anos ou comparação de grupos. Mesmo uma melhora concomitante não isolaria o efeito do setor de infraestrutura, migração e políticas públicas. O nexo causal e a dimensão do resultado não ficam demonstrados.",
+      "sources": []
+    },
+    {
+      "cueStart": 1507,
+      "cueEnd": 1518,
+      "title": "A Suíça enriqueceu sem uma grande indústria",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O governo suíço descreve importante indústria química e farmacêutica, com forte peso exportador e em pesquisa, além de outras manufaturas. Serviços são relevantes, mas o exemplo não sustenta dispensar a indústria da explicação do desenvolvimento. Grande precisaria de uma medida comparável.",
+      "sources": [
+        "extra-z7-swiss"
+      ]
+    },
+    {
+      "cueStart": 1519,
+      "cueEnd": 1548,
+      "title": "O capitalismo aumentou riqueza e desconcentrou o grupo de bilionários",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Crescimento da renda média, desigualdade e troca de nomes entre grandes fortunas são indicadores distintos. Não foi indicada uma base histórica de famílias e patrimônios que comprove a mobilidade citada ou o nexo causal universal. A conclusão moral sobre o sistema é opinião.",
+      "sources": []
+    },
+    {
+      "cueStart": 1597,
+      "cueEnd": 1626,
+      "title": "Trabalho assalariado, colonialismo e origem do capitalismo",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Exposição de uma interpretação histórica e conceitual. A predominância do assalariamento não significa que toda pessoa numa sociedade capitalista seja assalariada, nem que um conceito sozinho decida a causalidade de todos os episódios coloniais.",
+      "sources": []
+    },
+    {
+      "cueStart": 1627,
+      "cueEnd": 1650,
+      "title": "A Câmara dos Lordes deu origem aos senados modernos",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "Há antecedentes aristocráticos na organização parlamentar britânica, mas o trecho não documenta uma genealogia única. Senados têm também referências romanas e desenhos constitucionais próprios. Não foi feita comparação institucional suficiente para confirmar essa origem geral.",
+      "sources": []
+    },
+    {
+      "cueStart": 1657,
+      "cueEnd": 1686,
+      "title": "Famílias escravizadas não tinham proteção legal e podiam sempre ser separadas",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A violência e a separação familiar foram elementos da escravidão. Porém, a legislação não foi invariável: a Lei de 1871, artigo 4º, parágrafo 7º, proibia separar cônjuges e filhos menores de doze anos em alienações. A regra não acabou com abusos nem com a escravidão, mas impede afirmar ausência absoluta de reconhecimento ou proteção em todo período.",
+      "sources": [
+        "extra-z7-slavery"
+      ]
+    },
+    {
+      "cueStart": 1687,
+      "cueEnd": 1740,
+      "title": "Liberais e conservadores foram sempre adversários até recentemente",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "As categorias, alianças e posições econômicas mudam conforme país e época. Trata-se de uma leitura panorâmica, sem critério operacional ou levantamento que permita certificar os termos sempre e recentemente como dado único.",
+      "sources": []
+    },
+    {
+      "cueStart": 1771,
+      "cueEnd": 1788,
+      "title": "Burke era Whig e defendeu os direitos das colônias americanas",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O discurso de conciliação de 1775 se opõe ao uso de força como solução e defende concessões às colônias. Isso sustenta sua defesa de direitos e conciliação, não adesão irrestrita a toda medida revolucionária. Whig não deve ser confundido com filiação ao Partido Liberal formal de época posterior.",
+      "sources": [
+        "extra-z7-burke"
+      ]
+    },
+    {
+      "cueStart": 1789,
+      "cueEnd": 1800,
+      "title": "A Revolução Gloriosa limitou poderes da monarquia",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Bill of Rights de 1689 consolidou garantias parlamentares e limites ao poder real, inclusive sobre tributação. Isso sustenta o núcleo histórico, sem converter a Inglaterra daquele período numa democracia de sufrágio universal ou comprovar toda a comparação econômica com a Coreia do Norte.",
+      "sources": [
+        "extra-z7-bill"
+      ]
+    },
+    {
+      "cueStart": 1807,
+      "cueEnd": 1842,
+      "title": "Conservadorismo, Oakeshott e cálculo socialista",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "O trecho reúne interpretação de autores e defesa de uma escola econômica. A existência do argumento de Mises não comprova unanimidade entre economistas sobre todas as suas implicações; essa disputa teórica não é decidida por voto factual.",
+      "sources": [
+        "extra-z7-mises"
+      ]
+    },
+    {
+      "cueStart": 1855,
+      "cueEnd": 1866,
+      "title": "O Brasil tem cinquenta milhões sem emprego e quarenta milhões informais",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Sem ocupação não é sinônimo de desempregado. A divulgação da PNAD de janeiro de 2025 estimou 7,4 milhões de desocupados em 2024 e informalidade perto de 39% dos ocupados, uma ordem de grandeza próxima de quarenta milhões. Reunir quem está fora da força de trabalho com quem procura trabalho altera o significado do primeiro número.",
+      "sources": [
+        "extra-z7-emprego"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 4627,
+          "cueEnd": 4632
+        }
+      ]
+    },
+    {
+      "cueStart": 1879,
+      "cueEnd": 1896,
+      "title": "Os EUA nasceram de refugiados religiosos, sem colonização imperial",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Perseguição religiosa motivou parte dos colonos, como os de Plymouth. O National Park Service documenta também a colônia de Jamestown, criada por companhia de acionistas para lucro e expansão inglesa. A origem das colônias não se reduz a refugiados e não exclui empreendimento imperial.",
+      "sources": [
+        "extra-z7-colonies"
+      ]
+    },
+    {
+      "cueStart": 1915,
+      "cueEnd": 1962,
+      "title": "O capitalismo começou nos vínculos agrários ingleses do século XV",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "É uma periodização historiográfica sobre propriedade e relações de produção. Outras interpretações enfatizam comércio, impérios ou industrialização; não há data única que a simples definição usada no debate possa provar.",
+      "sources": []
+    },
+    {
+      "cueStart": 1969,
+      "cueEnd": 1998,
+      "title": "A família tradicional seria fruto do cristianismo",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "É uma defesa de um modelo religioso e moral de família. Ela não equivale a uma demonstração de que parentesco, casamento ou laços familiares tenham começado com o cristianismo. Não recebe voto factual sobre superioridade de modelos familiares.",
+      "sources": []
+    },
+    {
+      "cueStart": 2005,
+      "cueEnd": 2034,
+      "title": "A pobreza passou de noventa por cento em 1820 para dez por cento em 2020",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A queda histórica da pobreza extrema tem respaldo em pesquisas, mas a comparação mistura reconstruções antigas, linhas e paridades de poder de compra. O Banco Mundial usa pesquisas e uma linha explicitada; 1820 já está no período da industrialização. Não se certifica o par exato nem uma causa exclusiva para toda a redução.",
+      "sources": [
+        "extra-z7-poverty"
+      ]
+    },
+    {
+      "cueStart": 2077,
+      "cueEnd": 2106,
+      "title": "O Manifesto reconhece o crescimento produtivo promovido pela burguesia",
+      "speaker": "Gustavo Machado",
+      "verdict": "Verdadeiro",
+      "explanation": "A primeira parte do Manifesto descreve transformações produtivas e ampliação do mercado mundial promovidas pela burguesia, embora as critique no quadro de sua teoria. Esse reconhecimento textual existe e não significa concordância com todas as conclusões políticas do debatedor.",
+      "sources": [
+        "extra-z7-manifesto1"
+      ]
+    },
+    {
+      "cueStart": 2107,
+      "cueEnd": 2118,
+      "title": "Europeus ficaram quinze a vinte centímetros mais altos por causa da proteína",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O estudo NCD-RisC encontra tendências muito diferentes por sexo e país e relaciona altura a nutrição, doenças e ambiente. Não há um ganho uniforme de 15–20 cm para toda a Europa nem causa única estabelecida na proteína. Os séculos corrompidos no SRT não são usados para imputar um erro acústico ao autor.",
+      "sources": [
+        "extra-z7-height"
+      ]
+    },
+    {
+      "cueStart": 2161,
+      "cueEnd": 2178,
+      "title": "O PIB mundial ficou estagnado nos últimos quinze anos",
+      "speaker": "Gustavo Machado",
+      "verdict": "Falso",
+      "explanation": "A série de crescimento real mundial do Banco Mundial registra expansão em grande parte do intervalo anterior ao debate. Crescimento mais lento, crise em anos específicos ou desigualdade não equivalem a quinze anos sem aumento do produto mundial.",
+      "sources": [
+        "extra-z7-growth"
+      ]
+    },
+    {
+      "cueStart": 2191,
+      "cueEnd": 2244,
+      "title": "O Estado seria a raiz da corrupção e o welfare state aumentou sua dimensão",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "É uma interpretação causal e uma defesa de arranjo político. O crescimento de políticas sociais não demonstra que toda corrupção nasça do Estado ou que toda intervenção produza o mesmo resultado. A expansão histórica do bem-estar social também não começou do zero depois de 1945.",
+      "sources": []
+    },
+    {
+      "cueStart": 2263,
+      "cueEnd": 2322,
+      "title": "Hipóteses sobre oposição e violência em uma revolução",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Perguntas e respostas normativas sobre ações hipotéticas. Não se transformam em confissão de crime real, ameaça individual comprovada ou contagem histórica de vítimas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2323,
+      "cueEnd": 2382,
+      "title": "Jornais liberais circulavam livremente na Rússia em 1918–1919",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "O decreto de imprensa de 1917 documenta medidas contra veículos classificados como contrarrevolucionários. Isso não prova que nenhum jornal oposicionista tenha circulado depois, mas impede deduzir liberdade geral a partir de uma exceção. Faltam nomes, edições e datas para verificar a alegação específica.",
+      "sources": [
+        "extra-z7-press"
+      ]
+    },
+    {
+      "cueStart": 2431,
+      "cueEnd": 2490,
+      "title": "Toda revolução requer enorme maioria e toda Constituição depende dela",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Tese geral sobre legitimidade e mudança política. Depende da definição de revolução e não vem acompanhada de levantamento de processos constitucionais. O apoio majoritário não é uma condição documental automaticamente estabelecida para todos os casos.",
+      "sources": []
+    },
+    {
+      "cueStart": 2497,
+      "cueEnd": 2514,
+      "title": "No capitalismo não existe confisco, apenas trocas consentidas",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A afirmação descreve um ideal, não todas as instituições históricas. A própria Constituição brasileira prevê desapropriação e hipóteses de expropriação. A discussão sobre a legitimidade dessas normas é distinta de negar sua existência numa economia capitalista.",
+      "sources": [
+        "eco-cf5",
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 2515,
+      "cueEnd": 2532,
+      "title": "O planejamento soviético produzia sobras de peles e falta de sapatos",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "É atribuído a Sowell sem identificação da passagem, do ano e do registro estatístico. A crítica geral ao planejamento não comprova esse exemplo específico. Falta a documentação da produção e da demanda dos itens citados.",
+      "sources": []
+    },
+    {
+      "cueStart": 2533,
+      "cueEnd": 2568,
+      "title": "A Revolução Industrial foi a única sem sangue e a ida às fábricas foi inteiramente livre",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Industrialização é um processo longo, diferente de uma tomada de governo. Os registros parlamentares mostram cercamentos e políticas sobre pobreza que alteraram condições de vida e acesso à terra. O impacto sobre migração é debatido; não se sustenta nem liberdade econômica irrestrita de todos nem uma explicação única de coerção.",
+      "sources": [
+        "extra-z7-housing"
+      ]
+    },
+    {
+      "cueStart": 2617,
+      "cueEnd": 2634,
+      "title": "O PIB russo cresceu após o fim da União Soviética",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A proposição precisa de datas e medida: houve forte retração na transição e crescimento posterior. Uma comparação entre dois pontos distantes não demonstra melhora contínua desde 1991 nem isola o efeito de uma reforma. Sem o gráfico indicado, o resumo omite essa trajetória.",
+      "sources": [
+        "extra-z7-russiagdp"
+      ]
+    },
+    {
+      "cueStart": 2647,
+      "cueEnd": 2706,
+      "title": "Cercamentos e leis de vadiagem explicam a formação do trabalho industrial",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os cercamentos e a legislação dos pobres são históricos e documentados pelo Parlamento britânico. Porém, variam por século e região, e a extensão de seu efeito sobre migração é discutida. A sequência penal citada e a causalidade exclusiva não são certificadas pela referência geral.",
+      "sources": [
+        "extra-z7-housing"
+      ]
+    },
+    {
+      "cueStart": 2707,
+      "cueEnd": 2742,
+      "title": "Grandes empresas controlam oitenta a noventa por cento da produção",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são definidos país, ano, conjunto de empresas ou medida de produção. A crítica ao papel dos proprietários não demonstra o percentual e não mede contribuição técnica ou administrativa. Não se confirma uma participação tão ampla sem base identificada.",
+      "sources": []
+    },
+    {
+      "cueStart": 2743,
+      "cueEnd": 2766,
+      "title": "Multinacionais remetem rendas aos países de suas matrizes",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Balanços de pagamentos registram rendas de investimentos entre residentes e não residentes. O mecanismo existe, mas nem toda renda é remetida, nem todo fluxo tem um sentido único e isso não explica isoladamente o desenvolvimento de um país.",
+      "sources": [
+        "extra-z7-trade"
+      ]
+    },
+    {
+      "cueStart": 2767,
+      "cueEnd": 2778,
+      "title": "Pavanato defendeu que o país produzisse apenas agricultura",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Na fala anterior, Pavanato citou possibilidades e exemplos de desenvolvimento; não limitou toda a economia à agricultura. A expressão apenas torna mais restritiva a posição que está sendo respondida. A conclusão é uma comparação textual interna ao SRT, sem presumir intenção de enganar.",
+      "sources": [
+        "extra-z7-srt"
+      ]
+    },
+    {
+      "cueStart": 2815,
+      "cueEnd": 2838,
+      "title": "Chávez só passou a falar em socialismo em 2006",
+      "speaker": "Gustavo Machado",
+      "verdict": "Falso",
+      "explanation": "Há registro contemporâneo da coletiva de Chávez no Fórum Social Mundial de janeiro de 2005 defendendo reinventar o socialismo. A posse ocorreu em 1999; a cronologia citada desloca tanto a declaração quanto o intervalo de governo. Isso não resolve a classificação de toda a economia venezuelana.",
+      "sources": [
+        "extra-z7-chavez"
+      ]
+    },
+    {
+      "cueStart": 2839,
+      "cueEnd": 2856,
+      "title": "O petróleo estava perto de duzentos dólares antes da queda de 2013–2014",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A série do Brent da EIA situa as médias mensais de 2013 perto de cem a cento e dezesseis dólares, e a queda acentuada em 2014. Não sustenta cotação próxima de duzentos nessa sequência. A obrigação exata de entrega de barris à China exige contratos não identificados no trecho.",
+      "sources": [
+        "extra-z7-oil"
+      ]
+    },
+    {
+      "cueStart": 2857,
+      "cueEnd": 2874,
+      "title": "A Venezuela praticamente só produz petróleo",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A dependência exportadora de petróleo não equivale a ausência de serviços, comércio e outras atividades no produto interno. O argumento alterna produção total e receita externa sem explicitar denominador. A série de preços também não comprova toda a estrutura econômica do país.",
+      "sources": [
+        "extra-z7-venezuela"
+      ]
+    },
+    {
+      "cueStart": 2875,
+      "cueEnd": 2916,
+      "title": "A revolução cubana começou nacionalista e Castro tentou negociar com os EUA",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho reúne fases do movimento, visita diplomática e classificação ideológica. Não foram reunidos documentos suficientes para confirmar toda a sequência e suas intenções. A palavra venezuelano no SRT não é tratada isoladamente como uma afirmação histórica deliberada, pois pode ser lapso ou erro da legenda.",
+      "sources": []
+    },
+    {
+      "cueStart": 2917,
+      "cueEnd": 2952,
+      "title": "O internacionalismo não propõe invadir países",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Exposição de um programa político. Uma formulação de solidariedade internacional não demonstra a conduta efetiva de todos os governos que usaram o rótulo socialista, nem recebe voto por ações hipotéticas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2935,
+      "cueEnd": 2946,
+      "title": "A Atlas Network tem mais de quatrocentos parceiros, setenta e um na América Latina",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "A contagem é dependente da edição e do diretório. Não foi identificada no trecho a data da lista nem documentação para os números e relações financeiras específicos. Parceria também não prova financiamento de toda atividade de uma instituição.",
+      "sources": []
+    },
+    {
+      "cueStart": 2965,
+      "cueEnd": 2976,
+      "title": "O regime de Pol Pot praticou genocídio e recebeu apoio chinês",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O tribunal do Camboja documentou genocídio e crimes contra a humanidade de dirigentes do Khmer Vermelho. O registro da reunião Mao–Pol Pot de 1975 documenta a aproximação com a China. Não se conclui que todos os governos de esquerda tenham apoiado o regime.",
+      "sources": [
+        "extra-z7-polpot",
+        "extra-z7-polpotchina"
+      ]
+    },
+    {
+      "cueStart": 2977,
+      "cueEnd": 2988,
+      "title": "O chavismo se apresentou como socialista",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Verdadeiro",
+      "explanation": "A defesa pública de reinventar o socialismo aparece no registro contemporâneo de Chávez em 2005. Confirma-se a autodeclaração, que é uma pergunta distinta de classificar a organização econômica efetiva como plenamente socialista.",
+      "sources": [
+        "extra-z7-chavez"
+      ]
+    },
+    {
+      "cueStart": 3115,
+      "cueEnd": 3126,
+      "title": "A referência a Bolívar não tem relação com o socialismo",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Bolívar histórico não pertenceu ao socialismo marxista posterior, mas o uso contemporâneo pelo chavismo foi articulado a uma autodeclaração socialista. O símbolo tem apropriações diversas; negar qualquer relação atual ou deduzir socialismo só pelo nome são simplificações.",
+      "sources": [
+        "extra-z7-chavez"
+      ]
+    },
+    {
+      "cueStart": 3145,
+      "cueEnd": 3174,
+      "title": "Na Mesopotâmia não se empregava dinheiro para obter mais dinheiro",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Tábuas do período babilônico preservadas pelo British Museum registram empréstimos em prata com juros. Isso contradiz a ausência absoluta de valorização de recursos. Não significa que a sociedade antiga fosse capitalista no sentido moderno nem que essas práticas fossem dominantes.",
+      "sources": [
+        "extra-z7-ancient"
+      ]
+    },
+    {
+      "cueStart": 3163,
+      "cueEnd": 3174,
+      "title": "Aristóteles criticava a acumulação por comércio e juros",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Política, livro I, distingue administração doméstica e formas de aquisição e condena o juro como dinheiro que gera dinheiro. O núcleo textual é confirmado; a crítica é evidência de que a prática era discutida, não de que ela inexistia. A referência adicional a Platão não é examinada em detalhe.",
+      "sources": [
+        "extra-z7-aristotle"
+      ]
+    },
+    {
+      "cueStart": 3253,
+      "cueEnd": 3276,
+      "title": "Na China é proibido migrar e sair do campo para outras regiões",
+      "speaker": "Gustavo Machado",
+      "verdict": "Falso",
+      "explanation": "O sistema hukou cria barreiras de residência e acesso a serviços, mas não é uma proibição universal de deslocamento. O NBS registra centenas de milhões de trabalhadores migrantes. A divulgação de 2024, posterior por poucos dias ao debate, é usada retrospectivamente; não se nega a existência das restrições administrativas.",
+      "sources": [
+        "extra-z7-hukou"
+      ]
+    },
+    {
+      "cueStart": 3277,
+      "cueEnd": 3330,
+      "title": "Só 350 milhões de chineses vivem como europeus e 1,1 bilhão como nigerianos",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são definidos critérios de tier, recortes territoriais ou conversão entre PIB por habitante e renda das pessoas. Uma média nacional ou provincial não demonstra essa repartição. Sem a metodologia e a tabela alegadas, os contingentes e padrões de vida não ficam comprovados.",
+      "sources": []
+    },
+    {
+      "cueStart": 3331,
+      "cueEnd": 3360,
+      "title": "As reformas de abertura contribuíram para o crescimento chinês",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A pesquisa do Banco Mundial sobre a redução da pobreza chinesa descreve reformas, transformação produtiva, infraestrutura e políticas públicas. O papel da abertura é sustentado, mas não uma causa única nem a conclusão de que qualquer índice de liberdade econômica prove causalidade por si só.",
+      "sources": [
+        "eco-pobreza-china"
+      ]
+    },
+    {
+      "cueStart": 3397,
+      "cueEnd": 3402,
+      "title": "A União Soviética poluiu muito mais que países capitalistas",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são definidos poluente, período, população, território ou unidade de produção. Há desastres ambientais documentados em diferentes sistemas, mas isso não permite uma classificação quantitativa universal sem métrica e dados comparáveis.",
+      "sources": []
+    },
+    {
+      "cueStart": 3445,
+      "cueEnd": 3504,
+      "title": "Houve reformas estruturais no governo Bolsonaro",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Reforma previdenciária, lei de liberdade econômica, autonomia do Banco Central e marco do saneamento foram aprovados no período. A existência das normas é verificável; a avaliação de seus efeitos positivos, da suficiência e da participação de cada ator é uma questão adicional.",
+      "sources": [
+        "extra-z7-reformas",
+        "pav-bc-autonomia"
+      ]
+    },
+    {
+      "cueStart": 3475,
+      "cueEnd": 3480,
+      "title": "Bolsonaro entregou inflação menor do que recebeu",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "O IPCA acumulado foi de 3,75% em 2018 e de 5,79% em 2022. Houve queda em relação a 2021, quando foi 10,06%, mas a comparação entre fim dos dois mandatos citados está invertida.",
+      "sources": [
+        "extra-z7-prices"
+      ]
+    },
+    {
+      "cueStart": 3559,
+      "cueEnd": 3573,
+      "title": "Em 2021 o Brasil já estava sem pandemia",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O SRT mistura uma interrupção sobre a pandemia com a referência a 2021. A pandemia continuava naquele ano, como documenta a OMS, mas sem áudio não é seguro decidir se houve negação literal, ironia ou falas sobrepostas. Não se imputa um erro pessoal com base nessa passagem ambígua.",
+      "sources": [
+        "extra-z7-pandemic"
+      ]
+    },
+    {
+      "cueStart": 3595,
+      "cueEnd": 3660,
+      "title": "O argumento de cálculo de Mises nunca tratou de Marx ou do socialismo sem mercado",
+      "speaker": "Gustavo Machado",
+      "verdict": "Falso",
+      "explanation": "O ensaio de 1920 discute expressamente Marx, cálculo em trabalho, propriedade coletiva e ausência de preços dos meios de produção. Portanto, não se limita a uma vertente de socialismo de mercado estranha ao marxismo. A conclusão trata do objeto do texto, sem declarar vencedora toda uma escola econômica.",
+      "sources": [
+        "extra-z7-mises"
+      ]
+    },
+    {
+      "cueStart": 3613,
+      "cueEnd": 3636,
+      "title": "Tíquetes e variação da produção poderiam substituir preços no socialismo",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Descrição de um modelo proposto de distribuição e planejamento. Explicar o funcionamento pretendido não demonstra sua viabilidade universal nem refuta sozinho a disputa sobre cálculo econômico.",
+      "sources": []
+    },
+    {
+      "cueStart": 3661,
+      "cueEnd": 3708,
+      "title": "O socialismo teria sido derrotado, em vez de simplesmente dado errado",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "É uma interpretação política sobre objetivos e processos históricos diferentes. A escolha do critério de sucesso ou derrota não se resolve por classificação factual uniforme de todos os países.",
+      "sources": []
+    },
+    {
+      "cueStart": 3733,
+      "cueEnd": 3750,
+      "title": "A União Soviética aboliu o sistema de preços",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Abolir propriedade privada ou preços de mercado não equivale a abolir todos os preços. O texto de Trotsky de 1936 discute rublo, preços, inflação e planejamento na URSS. O sistema tinha preços administrativos; a crítica à sua informação e eficiência é uma proposição distinta.",
+      "sources": [
+        "extra-z7-trotsky4"
+      ]
+    },
+    {
+      "cueStart": 3781,
+      "cueEnd": 3828,
+      "title": "Subsídios e socorros a grandes empresas são consequência exclusiva de governos de esquerda",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "O relatório oficial sobre a crise financeira americana documenta intervenções e socorros durante um governo republicano, e o Banco Central registra o PROER brasileiro. Pode-se contestar essas políticas, mas não atribuir sua existência somente a governos que se identificam como socialistas.",
+      "sources": [
+        "eco-fcic",
+        "pav-proer"
+      ]
+    },
+    {
+      "cueStart": 3793,
+      "cueEnd": 3804,
+      "title": "A carga recorde foi em 2007 e subiu sete por cento no governo Lula",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Comparar versões antigas e revisadas sem ajustar o PIB e a metodologia produz rankings incompatíveis. A publicação original da Receita para 2008 registra 34,72% em 2007, e não demonstra o recorde afirmado. Também faltam os extremos e a distinção entre porcentagem e pontos percentuais para o aumento de sete.",
+      "sources": [
+        "extra-z7-taxold",
+        "extra-z7-tax2022"
+      ]
+    },
+    {
+      "cueStart": 3829,
+      "cueEnd": 3888,
+      "title": "Adam Smith vinculava valor e trabalho",
+      "speaker": "Gustavo Machado",
+      "verdict": "Verdadeiro",
+      "explanation": "O livro I de A riqueza das nações relaciona trabalho e valor de troca e distingue esse conceito de preços correntes. Essa relação textual existe. Não demonstra que Smith e Marx tenham a mesma teoria nem encerra o debate entre teorias posteriores.",
+      "sources": [
+        "extra-z7-smith"
+      ]
+    },
+    {
+      "cueStart": 3931,
+      "cueEnd": 3948,
+      "title": "Os sovietes teriam formado um dos processos mais democráticos da história",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "É uma avaliação comparativa de democracia sem escala ou levantamento definido. A existência de conselhos não mede automaticamente participação, pluralismo e coerção em todo o período.",
+      "sources": []
+    },
+    {
+      "cueStart": 3949,
+      "cueEnd": 3978,
+      "title": "Mao foi armado até os dentes pelos EUA e a Inglaterra protegeu os nacionalistas em Taiwan",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente falso",
+      "explanation": "Os registros oficiais americanos descrevem ajuda importante aos nacionalistas e a posterior proteção de Taiwan pela Sétima Frota dos EUA. Houve contatos com comunistas e armas capturadas durante a guerra, mas isso não sustenta a narrativa de armar maciçamente Mao e atribuir à Inglaterra a proteção militar mencionada.",
+      "sources": [
+        "extra-z7-mao"
+      ]
+    },
+    {
+      "cueStart": 4039,
+      "cueEnd": 4050,
+      "title": "A Receita registra carga tributária de 38,5% em 2007",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "A tabela da Receita para 2007 na publicação de 2008 apresenta 34,72%, não 38,5%. Versões posteriores revisaram o percentual, mas a fonte citada não comprova os 38,5%. A divergência entre metodologias também não autoriza escolher o maior número de séries incompatíveis.",
+      "sources": [
+        "extra-z7-taxold",
+        "extra-z7-tax2022"
+      ]
+    },
+    {
+      "cueStart": 4099,
+      "cueEnd": 4116,
+      "title": "Pavanato nunca defendeu o regime militar brasileiro",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma alegação abrangente sobre toda a sua trajetória pública. O trecho atual contém uma condenação a abusos, mas não permite conferir todas as falas anteriores e confirmar o termo nunca. Não se presume a posição oposta sem evidência.",
+      "sources": []
+    },
+    {
+      "cueStart": 4105,
+      "cueEnd": 4116,
+      "title": "O regime militar entregou hiperinflação",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "O período terminou com inflação muito alta, mas hiperinflação tem definição técnica e costuma ser associada a etapas posteriores. Sem índice, mês e definição no argumento, não se certifica a classificação como um dado exato.",
+      "sources": []
+    },
+    {
+      "cueStart": 4123,
+      "cueEnd": 4134,
+      "title": "Clériston estava preso sem prova e morreu após pedido de soltura da PGR",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "A audiência do Senado documenta a controvérsia sobre a saúde e os pedidos de liberdade, mas depoimentos não substituem os autos nem uma decisão final sobre responsabilidade. A existência de pedido não demonstra ausência de toda prova ou nexo individual de culpa pela morte.",
+      "sources": [
+        "cleriston"
+      ]
+    },
+    {
+      "cueStart": 4147,
+      "cueEnd": 4158,
+      "title": "O Brasil vive seu maior período democrático e a história regional é predominantemente ditatorial",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "O período constitucional atual é longo, mas o enunciado reúne Brasil e diversos países e usa definições variáveis de democracia e ditadura. Não foi reconstruída uma série comparável de todos os regimes e anos para confirmar a generalização continental.",
+      "sources": []
+    },
+    {
+      "cueStart": 4159,
+      "cueEnd": 4170,
+      "title": "A ditadura argentina de 1977 a 1983 matou ou desapareceu trinta a quarenta mil pessoas",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A última ditadura começou em março de 1976, não em 1977. A fonte oficial argentina adota trinta mil desaparecidos como referência de memória e direitos humanos. Isso não certifica uma contagem individual fechada de quarenta mil nem reduz o reconhecimento dos crimes.",
+      "sources": [
+        "extra-z7-argentina"
+      ]
+    },
+    {
+      "cueStart": 4171,
+      "cueEnd": 4174,
+      "title": "Mais de três mil trabalhadores morreram no massacre de Iquique",
+      "speaker": "Gustavo Machado",
+      "verdict": "Inconclusivo",
+      "explanation": "O Archivo Nacional chileno documenta a matança de 1907, mas diferencia balanço oficial e memória social de 3.600 vítimas. A ocorrência é comprovada; o número superior a três mil não deve ser apresentado como contagem estabelecida sem ressalvar essa divergência.",
+      "sources": [
+        "extra-z7-chile"
+      ]
+    },
+    {
+      "cueStart": 4174,
+      "cueEnd": 4176,
+      "title": "Mais de trinta mil bananeiros foram mortos na Colômbia",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente falso",
+      "explanation": "O massacre de 1928 é histórico, mas a pesquisa de Posada Carbó examina justamente a controvérsia sobre os totais, inclusive a cifra literária de três mil. O salto para mais de trinta mil não tem respaldo na fonte examinada. Não se substitui a exageração por uma contagem exata não resolvida.",
+      "sources": [
+        "extra-z7-banana"
+      ]
+    },
+    {
+      "cueStart": 4177,
+      "cueEnd": 4200,
+      "title": "Socialistas nunca criam revoluções, apenas disputam sua direção",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "É uma tese sobre causalidade social e papel dos movimentos. Sem critérios que distingam criar, organizar e liderar, a formulação universal não funciona como um fato isolado verificável.",
+      "sources": []
+    },
+    {
+      "cueStart": 4201,
+      "cueEnd": 4254,
+      "title": "A teoria subjetiva do valor seria impossível de demonstrar",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Disputa metodológica entre teorias econômicas e uso retórico de um instrumento imaginário de medição da subjetividade. O argumento não demonstra um consenso científico nem estabelece uma medição histórica concreta.",
+      "sources": []
+    },
+    {
+      "cueStart": 4273,
+      "cueEnd": 4278,
+      "title": "Escrever um projeto de lei digital não usa recursos públicos",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Papel e impressão não são os únicos custos: trabalho parlamentar, assessoria, infraestrutura e tramitação são atividades custeadas pelo orçamento. A elaboração digital pode reduzir alguns gastos, mas não permite afirmar custo público zero. O julgamento sobre desperdício é político e depende do caso.",
+      "sources": [
+        "extra-z7-cf243"
+      ]
+    },
+    {
+      "cueStart": 4279,
+      "cueEnd": 4290,
+      "title": "Não existe decisão definitiva sobre leis de banheiros e identidade de gênero",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Há acórdãos do TJSP sobre normas municipais, inclusive o processo 2023218-23.2023.8.26.0000. Decisão colegiada, trânsito em julgado e tese nacional do STF são coisas distintas. Sem definir qual processo e alcance se pretende negar, não se certifica a inexistência de decisão definitiva.",
+      "sources": [
+        "extra-z7-bath"
+      ]
+    },
+    {
+      "cueStart": 4309,
+      "cueEnd": 4350,
+      "title": "Posições morais sobre aborto e reconhecimento de direitos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Defesa e oposição à legalização, inclusive divergência sobre personalidade, religião e justiça. São juízos normativos; não se usa a discordância para imputar crime ou medir o valor moral das pessoas. A posterior ressalva de Gustavo contra aborto em oito ou nove meses deve ser preservada.",
+      "sources": []
+    },
+    {
+      "cueStart": 4369,
+      "cueEnd": 4380,
+      "title": "O jornalista saudita foi sequestrado e levado a uma embaixada",
+      "speaker": "Gustavo Machado",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O relatório da ONU documenta a morte premeditada de Jamal Khashoggi por agentes sauditas em 2018. Ele entrou no consulado em Istambul para obter documentos, não foi descrito como capturado fora e levado a uma embaixada. O crime e a responsabilidade estatal são sustentados; local e dinâmica do relato estão imprecisos.",
+      "sources": [
+        "extra-z7-khashoggi"
+      ]
+    },
+    {
+      "cueStart": 4393,
+      "cueEnd": 4400,
+      "title": "A eleição venezuelana de 2024 foi fraudada",
+      "speaker": "Gustavo Machado",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relatório de observação do Carter Center identifica falta de transparência, não conformidade com padrões internacionais e evidências de resultado diverso do proclamado. Sustenta a crítica à legitimidade do resultado oficial; não é uma decisão judicial individual sobre cada responsável.",
+      "sources": [
+        "carter2024"
+      ]
+    },
+    {
+      "cueStart": 4501,
+      "cueEnd": 4524,
+      "title": "O passado socialista de Mussolini torna fascismo e nazismo movimentos socialistas",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O passado de Mussolini não estabelece continuidade ideológica. O USHMM caracteriza fascismo como extrema direita, contrário ao comunismo e ao socialismo. Controle estatal não equivale à extinção de empresas e propriedade privadas; a pesquisa histórica sobre privatizações nazistas também contraria a negação absoluta de políticas capitalistas.",
+      "sources": [
+        "extra-z7-nazi",
+        "eco-nazi-priv"
+      ]
+    },
+    {
+      "cueStart": 4531,
+      "cueEnd": 4542,
+      "title": "Todo socialismo pressupõe ditadura",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "É uma tese sobre a definição e a possibilidade de sistemas políticos. Ditadura do proletariado, autoritarismo histórico e regimes constitucionais são conceitos que precisam ser distinguidos; uma afirmação necessária sobre toda experiência futura não é um dado empírico fechado.",
+      "sources": []
+    },
+    {
+      "cueStart": 4627,
+      "cueEnd": 4782,
+      "title": "Conclusões sobre direitos, desindustrialização e o futuro do socialismo",
+      "speaker": "Gustavo Machado",
+      "verdict": "opinion",
+      "explanation": "Síntese de posições já discutidas, defesa de direitos e prognósticos políticos. As repetições de emprego e indústria não são novos votos; os argumentos médicos e de políticas públicas não autorizam classificar o valor das pessoas.",
+      "sources": []
+    },
+    {
+      "cueStart": 4831,
+      "cueEnd": 4842,
+      "title": "Um feto de dez semanas está totalmente formado",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "O desenvolvimento continua muito além de dez semanas. O guia da ACOG descreve formação de órgãos e estruturas nas semanas 9–12 e maturação posterior. Refutar totalmente formado não decide a questão moral ou jurídica dos direitos fetais.",
+      "sources": [
+        "extra-z7-tenweeks"
+      ]
+    },
+    {
+      "cueStart": 4855,
+      "cueEnd": 4878,
+      "title": "Pavanato é o vereador que mais apresentou projetos e CPIs",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "A classificação depende de data de corte, universo de parlamentares e distinção entre autoria, coautoria e requerimento. Não foi identificada uma extração do sistema legislativo de fevereiro de 2025 que confirme as duas primazias.",
+      "sources": []
+    },
+    {
+      "cueStart": 4879,
+      "cueEnd": 4914,
+      "title": "Defesa final de princípios cristãos e juízo sobre o adversário",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "Considerações religiosas, filosóficas e eleitorais, além de convites para seguir redes sociais. Não são fatos medidos para o placar e não constituem prova sobre as intenções ou a moralidade do oponente.",
+      "sources": []
+    },
+    {
+      "cueStart": 4915,
+      "cueEnd": 4991,
+      "title": "Agradecimentos, publicidade e encerramento",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Logística do programa, promoção de canais e patrocínio e aviso editorial final. Não geram votos sobre as teses debatidas.",
+      "sources": []
+    }
+  ]
+}

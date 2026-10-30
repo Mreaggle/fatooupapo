@@ -7,7 +7,10 @@
     "cueCount": 5530,
     "firstTiming": "00:01:23,830 --> 00:01:28,240",
     "lastTiming": "03:37:17,160 --> 03:37:20,160",
-    "status": "pending-review"
+    "status": "reviewed",
+    "inventoryCount": 147,
+    "publishedClaimCount": 120,
+    "reviewedAt": "2026-10-30T18:10:20.185Z"
   },
   {
     "videoId": "foDB0XU9XQM",
@@ -17,7 +20,10 @@
     "cueCount": 5855,
     "firstTiming": "00:00:59,559 --> 00:01:02,559",
     "lastTiming": "03:25:34,520 --> 03:25:37,760",
-    "status": "pending-review"
+    "status": "reviewed",
+    "inventoryCount": 142,
+    "publishedClaimCount": 111,
+    "reviewedAt": "2026-10-30T18:28:04.864Z"
   },
   {
     "videoId": "FDeAWt5m3Mw",
@@ -27,7 +33,10 @@
     "cueCount": 4445,
     "firstTiming": "00:00:05,260 --> 00:00:09,690",
     "lastTiming": "03:18:40,859 --> 03:18:42,979",
-    "status": "pending-review"
+    "status": "reviewed",
+    "inventoryCount": 101,
+    "publishedClaimCount": 87,
+    "reviewedAt": "2026-10-30T16:59:37.870Z"
   },
   {
     "videoId": "Z7pP0rDXdBM",
@@ -37,7 +46,10 @@
     "cueCount": 4991,
     "firstTiming": "00:03:05,170 --> 00:03:12,730",
     "lastTiming": "02:54:55,000 --> 02:55:00,000",
-    "status": "pending-review"
+    "status": "reviewed",
+    "inventoryCount": 126,
+    "publishedClaimCount": 100,
+    "reviewedAt": "2026-10-30T17:27:09.166Z"
   },
   {
     "videoId": "zqmYUQJz17k",
@@ -47,6 +59,9 @@
     "cueCount": 4806,
     "firstTiming": "00:00:00,000 --> 00:00:03,000",
     "lastTiming": "02:41:47,200 --> 02:41:50,200",
-    "status": "pending-review"
+    "status": "reviewed",
+    "inventoryCount": 115,
+    "publishedClaimCount": 99,
+    "reviewedAt": "2026-10-30T17:42:46.465Z"
   }
 ]
