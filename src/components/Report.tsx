@@ -18,6 +18,8 @@ function formatDate(value: string) {
 }
 
 function ClaimItem({ claim, videoId, number, participants, onSpeakerReview, onShare }: { claim: Claim; videoId: string; number: number; participants: Participant[]; onSpeakerReview: (id: string, name: string | null | undefined) => void; onShare: () => void }) {
+  const quoteColor = verdictStyle[claim.verdict].replace('verdict--', 'claim-quote--')
+
   return (
     <article id={claim.id} tabIndex={-1} className="claim-card border-b border-line py-7 sm:py-8">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
@@ -25,8 +27,11 @@ function ClaimItem({ claim, videoId, number, participants, onSpeakerReview, onSh
         <a href={timestampUrl(videoId, claim.timestampSeconds)} className="inline-flex items-center gap-1 font-mono text-xs text-muted underline decoration-line underline-offset-4 hover:text-foreground" target="_blank" rel="noreferrer" aria-label={`Assistir ao trecho em ${formatTimestamp(claim.timestampSeconds)}`}>{formatTimestamp(claim.timestampSeconds)} <ArrowUpRight size={13} /></a>
       </div>
       <SpeakerLabel claim={claim} videoId={videoId} participants={participants} prominent onReview={(name) => onSpeakerReview(claim.id, name)} />
-      {claim.title && <h3 className="mb-3 font-serif text-xl leading-7 font-semibold tracking-tight">{claim.title}</h3>}
-      <blockquote className={`claim-quote ${verdictStyle[claim.verdict].replace('verdict--', 'claim-quote--')} rounded-r-lg px-4 py-3 font-serif text-lg leading-7`}>“{claim.quote}”</blockquote>
+      {claim.title && <h3 className={`claim-card__argument ${quoteColor} mb-3 font-serif text-xl leading-7 font-semibold tracking-tight`}>{claim.title}</h3>}
+      <details className="claim-card__transcript group">
+        <summary className="inline-flex min-h-10 list-none items-center gap-2 rounded text-xs text-muted hover:text-foreground">Transcrição do trecho<ChevronDown size={14} className="transition-transform group-open:rotate-180" aria-hidden="true" /></summary>
+        <blockquote className={`claim-quote ${quoteColor} mt-2 rounded-r-lg px-4 py-3 font-serif text-lg leading-7`}>“{claim.quote}”</blockquote>
+      </details>
       <p className="claim-conclusion mt-4 text-sm leading-7">{claim.explanation}</p>
       <button type="button" onClick={onShare} className="mt-4 inline-flex min-h-10 items-center gap-2 text-xs text-muted underline underline-offset-4 hover:text-foreground"><Share2 size={14} aria-hidden="true" />Compartilhar card</button>
 

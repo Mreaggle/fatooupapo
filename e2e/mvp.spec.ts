@@ -175,7 +175,7 @@ test('home minimalista, consulta por ID, evidências e link compartilhado', asyn
   await expect(page.getByRole('article')).toHaveCount(48)
   expect(apiRequests).toEqual([])
   await page.screenshot({ path: testInfo.outputPath('relatorio-inicio.png'), fullPage: false })
-  await page.getByRole('article').first().locator('summary').click()
+  await page.getByRole('article').first().locator('summary').filter({ hasText: /^Fontes e contexto/ }).click()
   await expect(page.getByRole('article').first().getByRole('link', { name: /tramitação e votação/i })).toBeVisible()
   await page.screenshot({ path: testInfo.outputPath('relatorio.png'), fullPage: false })
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
@@ -266,7 +266,7 @@ for (const debate of [{ id: 'RugVB17uRVM', claims: 74, lastCue: 3172 }, { id: '6
     const transcript = await page.request.get(`./transcripts/${debate.id}.md`)
     expect(transcript.ok()).toBe(true)
     expect(await transcript.text()).toContain(`bloco ${debate.lastCue}`)
-    await page.getByRole('article').first().locator('summary').first().click()
+    await page.getByRole('article').first().locator('summary').filter({ hasText: /^Fontes e contexto/ }).click()
     await expect(page.getByRole('article').first().getByText('Classificações no acervo de origem')).toBeVisible()
   })
 }
@@ -304,12 +304,12 @@ for (const debate of [
     }
     await expect(charts).not.toContainText('Cobertura parcial')
     await expect(page.locator('details').filter({ has: page.locator('summary', { hasText: 'Metodologia dos gráficos' }) })).not.toHaveAttribute('open')
-    await expect(page.locator('.claim-quote--false').first()).toBeVisible()
+    await expect(page.locator('.claim-card__argument.claim-quote--false').first()).toBeVisible()
     await expect(page.locator('.claim-conclusion').first()).toHaveCSS('color', 'rgb(130, 189, 145)')
     if (debate.id === 'nPLJs6xPNWU') {
-      await expect(page.locator('.claim-quote--mostly-true').first()).toHaveCSS('color', 'rgb(184, 216, 187)')
-      await expect(page.locator('.claim-quote--mostly-false').first()).toHaveCSS('color', 'rgb(231, 176, 157)')
-      await expect(page.locator('.claim-quote--misleading').first()).toHaveCSS('color', 'rgb(231, 211, 157)')
+      await expect(page.locator('.claim-card__argument.claim-quote--mostly-true').first()).toHaveCSS('color', 'rgb(184, 216, 187)')
+      await expect(page.locator('.claim-card__argument.claim-quote--mostly-false').first()).toHaveCSS('color', 'rgb(231, 176, 157)')
+      await expect(page.locator('.claim-card__argument.claim-quote--misleading').first()).toHaveCSS('color', 'rgb(231, 211, 157)')
     }
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
     await charts.screenshot({ path: testInfo.outputPath(`graficos-${debate.id}.png`) })

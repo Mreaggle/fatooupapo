@@ -80,6 +80,9 @@ test('vídeo sincroniza as checagens e mantém a análise completa com busca e f
   await expect(page.getByRole('article')).toHaveCount(48)
   await synced.getByRole('button', { name: 'Ir à primeira checagem' }).click()
   await expect(synced.getByRole('heading', { name: first.title })).toBeVisible()
+  await expect(synced.locator('blockquote')).toBeVisible()
+  await expect(synced.locator('blockquote')).toHaveText(`“${first.quote}”`)
+  await expect(synced.locator('summary')).toHaveCount(0)
   await expect(synced).toContainText(first.explanation)
   await synced.getByRole('button', { name: 'Próxima checagem' }).click()
   await expect(synced.getByRole('heading', { name: second.title })).toBeVisible()
@@ -96,9 +99,56 @@ test('vídeo sincroniza as checagens e mantém a análise completa com busca e f
   const fullClaim = page.locator(`article[id="${first.id}"]`)
   await expect(fullClaim).toBeFocused()
   expect((await fullClaim.boundingBox())!.y).toBeGreaterThanOrEqual(80)
-  await fullClaim.locator('summary').click()
+  await fullClaim.locator('summary').filter({ hasText: /^Fontes e contexto/ }).click()
   await expect(fullClaim.getByRole('link', { name: /tramitação e votação/i })).toBeVisible()
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+})
+
+test('checagem completa recolhe transcrições e colore o argumento em todas as classificações', async ({ page }, testInfo) => {
+  const report = snapshots.reports.nPLJs6xPNWU
+  const colors: Record<Verdict, string> = {
+    Verdadeiro: 'rgb(180, 223, 187)',
+    'Majoritariamente verdadeiro': 'rgb(184, 216, 187)',
+    'Impreciso ou fora de contexto': 'rgb(231, 211, 157)',
+    'Majoritariamente falso': 'rgb(231, 176, 157)',
+    Falso: 'rgb(237, 180, 180)',
+    Inconclusivo: 'rgb(189, 199, 212)',
+  }
+  await page.goto(`./?v=${report.video.id}`)
+  const articles = page.getByRole('article')
+  await expect(articles).toHaveCount(report.claims.length)
+  const synced = page.getByRole('region', { name: 'Assista com as checagens' })
+  await expect(synced.getByText('Sincronizado com o vídeo')).toBeVisible()
+  for (const verdict of Object.keys(colors) as Verdict[]) {
+    const position = report.claims.findIndex((claim) => claim.verdict === verdict)
+    const claim = report.claims[position]
+    const article = articles.nth(position)
+    const quote = article.locator('blockquote')
+    const toggle = article.locator('summary').filter({ hasText: 'Transcrição do trecho' })
+    const argument = article.getByRole('heading', { level: 3, name: claim.title, exact: true })
+    await expect(argument).toBeVisible()
+    await expect(argument).toHaveCSS('color', colors[verdict])
+    await expect(argument).toHaveCSS('font-weight', '600')
+    await expect(quote).toBeHidden()
+    await expect(article.getByText(claim.explanation, { exact: true })).toBeVisible()
+    await page.evaluate((seconds) => window.dispatchEvent(new CustomEvent('test:video-time', { detail: seconds })), claim.timestampSeconds)
+    await expect(synced.getByRole('heading', { name: claim.title, exact: true })).toHaveCSS('color', colors[verdict])
+    await expect(synced.getByText(`“${claim.quote}”`, { exact: true })).toBeVisible()
+    await expect(synced.locator('summary')).toHaveCount(0)
+    await toggle.focus()
+    await page.keyboard.press('Enter')
+    await expect(quote).toBeVisible()
+    await expect(quote).toHaveText(`“${claim.quote}”`)
+    await expect(quote).toHaveCSS('color', colors[verdict])
+    await toggle.press('Space')
+    await expect(quote).toBeHidden()
+  }
+  const first = articles.first()
+  await first.screenshot({ path: testInfo.outputPath('checagem-completa-recolhida.png') })
+  await first.locator('summary').filter({ hasText: 'Transcrição do trecho' }).click()
+  await expect(first.locator('blockquote')).toBeVisible()
+  await expect(articles.nth(1).locator('blockquote')).toBeHidden()
+  await first.screenshot({ path: testInfo.outputPath('checagem-completa-expandida.png') })
 })
 
 test('galeria dá acesso aos lotes completos e preserva os relatórios anteriores', async ({ page }, testInfo) => {

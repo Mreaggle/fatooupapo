@@ -116,7 +116,7 @@ export function SyncedVideo({ report, onShowClaim }: { report: AnalysisReport; o
           <div className="space-y-6">
             {moment.claims.map((claim) => <div key={claim.id} className="synced-video__claim">
               <span className={`verdict ${verdictStyle[claim.verdict]}`}>{verdictLabel(claim.verdict)}</span>
-              {claim.title && <h3 className="mt-3 font-serif text-xl font-medium leading-7">{claim.title}</h3>}
+              {claim.title && <h3 className={`synced-video__argument ${verdictStyle[claim.verdict].replace('verdict--', 'claim-quote--')} mt-3 font-serif text-xl font-medium leading-7`}>{claim.title}</h3>}
               <blockquote className={`claim-quote ${verdictStyle[claim.verdict].replace('verdict--', 'claim-quote--')} mt-3 rounded-r-lg px-4 py-3 font-serif text-lg leading-7`}>“{claim.quote}”</blockquote>
               <p className="claim-conclusion mt-3 text-sm leading-7">{claim.explanation}</p>
               <a className="mt-4 inline-flex items-center gap-1.5 text-xs text-muted underline underline-offset-4 hover:text-foreground" href={`#${claim.id}`} onClick={(event) => { event.preventDefault(); onShowClaim(claim.id) }}>Ver checagem completa e fontes <ArrowDown size={13} aria-hidden="true" /></a>
