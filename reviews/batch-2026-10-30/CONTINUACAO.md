@@ -1,6 +1,6 @@
 # Ponto de retomada — dez checagens
 
-Atualizado em 2026-10-30T15:13:16.998787+00:00. **Conteúdo e validação local concluídos; commit/push/deploy deste lote ainda pendentes.**
+Atualizado em 2026-10-30T15:17:53.320433+00:00. **Lote publicado e verificado em produção. Nenhuma implementação pendente.**
 
 ## Estado atual
 
@@ -10,7 +10,9 @@ Atualizado em 2026-10-30T15:13:16.998787+00:00. **Conteúdo e validação local 
 - `npm run build` passou e gerou índice de 16 snapshots e dist. `npm run lint` passou.
 - `npm test` passou: 156 testes em 22 arquivos, incluindo hashes, citações/timestamps literais, metadados, reprodução exata dos artefatos e ressalvas editoriais.
 - `npm run test:e2e -- --workers=2` PASSOU: 54 testes em desktop e celular, em 2,7 minutos. Screenshots da galeria estão em docs/images/acervo-2026-desktop.png e acervo-2026-mobile.png.
-- **Sem commit/push/deploy deste lote até esta atualização.** Verifique git/Actions para mudanças posteriores. Produção anterior continua sendo https://mreaggle.github.io/fatooupapo/ .
+- Commit de conteúdo `d35a9d2be299cb7a82931e0b3a4eb15bb86408f8` enviado a `main`. [Workflow 41078716107](https://github.com/Mreaggle/fatooupapo/actions/runs/41078716107) concluído com sucesso: 156 testes unitários, lint, build, 54 testes Playwright e deploy.
+- Produção verificada em https://mreaggle.github.io/fatooupapo/: índice idêntico ao local, 16 relatórios, 993 afirmações novas (450 inconclusivas), dez relatórios Markdown e dez transcrições com HTTP 200 e bytes idênticos. Assets referenciados pelo HTML acessíveis e correspondentes ao build do Actions.
+- Mais 28 testes Playwright passaram diretamente contra o site publicado, em desktop e celular: dez novos relatórios, galeria com todos os vídeos, sincronização, logo fixa, voltar ao topo e botão EM MANUTENÇÃO desabilitado. O player foi simulado nesses testes; isso não comprova disponibilidade externa do YouTube nem conferência acústica.
 
 ## Inventários finais
 
@@ -64,18 +66,14 @@ Todos os agentes concluíram: `/root/sabatinas`, `/root/debates_religiao`, `/roo
 
 Leitura integral é do material fornecido, não garantia de cobertura acústica do vídeo inteiro. Começos de SRT: Pavanato00:38.645; MC03:12.799; Renan01:59.760; LulaGlobo00:00; Flávio00:01.400; LulaFlow00:07.400; católicos/evangélicos01:42.310; cristãos/judeus04:28.080; capitalismo00:00; cristão/ateu00:03.929. Há diferenças pequenas no fim, até cerca de21s antes do player e até2s além. Tempos foram preservados. A tabela completa está no README do lote.
 
-## Para concluir a publicação
+## Fechamento da publicação
 
-Na retomada, os dois avisos de espaço ao fim de linha foram corrigidos no inventário canônico de MC Smith; os artefatos foram regenerados. `npm test` (156 testes), `npm run lint` e `npm run build` passaram novamente. O resultado anterior do Playwright confirma 54 testes aprovados; a suíte será repetida pelo workflow de publicação. O staging contém 88 caminhos explícitos.
-
-1. Ler o resultado do Playwright. Corrigir falhas reais e repetir os testes afetados. Não enfraquecer as verificações para esconder problemas.
-2. Se houver nova edição de inventário/fonte, regenerar `snapshots:editorial` e `snapshots:build` e repetir os checks pertinentes. O build deve ocorrer DEPOIS de a geração editorial terminar.
-3. Revisar git diff e staging explícito. Incluir código/testes/docs,10 requests/ID.srt, 10 reviews/ID.json+md, 10 snapshots/ID.md, 10 transcripts/ID.md,catálogo2026,manifest,metadados e documentação/auditorias selecionadas.
-4. **Não usar git add .** Preservar fora do commit `Hero Fato ou Papo.pdf`, os 10 SRTs originais da raiz e caches/intermediários. Dist/test-results são gerados. Não existe chave de IA no ambiente; nunca tentar extrair secrets do GitHub.
-5. Fazer commit Conventional Commit, por exemplo `feat: publish ten reviewed video analyses`, e push main. A autorização permanente de deploy está no AGENTS.md; o usuário já pediu sempre deploy, não perguntar de novo.
-6. Acompanhar `.github/workflows/deploy-pages.yml` em Mreaggle/fatooupapo com gh até sucesso. Esse workflow executa unit/lint/build/Playwright e publica no Pages. gh já está autenticado, git usa HTTPS.
-7. Verificar site publicado: índice16 relatórios com 993 novas afirmações; galeria 10 novos links; abrir relatório e preservar vídeo sincronizado, logo fixa, voltar ao topo e botão EM MANUTENÇÃO desabilitado. Uma falha externa do YouTube não deve ser encoberta como teste acústico.
-8. Atualizar este checkpoint com commit/run/URL/checks finais. Responder curto em português, com link publicado e limites reais. Não declarar deploy concluído antes de confirmá-lo.
+- Os dois avisos de espaço ao fim de linha foram corrigidos no inventário canônico de MC Smith e os relatórios foram regenerados antes do commit. `git diff --cached --check` passou. Os seis relatórios anteriores foram comparados como objetos completos e permaneceram idênticos.
+- Foram incluídos 88 caminhos explícitos no commit de conteúdo. O PDF da raiz, os dez SRTs originais, caches e intermediários permaneceram fora do commit. Não foi usado `git add .`.
+- SHA-256 do índice conferido em produção: `95432716a8f6cdd6b8529fa2cc67b255fd5674c5d852526c274577b498377f27`.
+- Comando da verificação em produção: `PLAYWRIGHT_BASE_URL=https://mreaggle.github.io/fatooupapo/ npm run test:e2e -- --workers=2 --grep 'nova checagem|galeria dá acesso|logo e botão|vídeo sincroniza|verificação fica em manutenção'` — 28 testes aprovados em 52,2 segundos.
+- Este fechamento operacional é registrado em commit de documentação posterior ao commit de conteúdo. A publicação desse commit passa pelo mesmo workflow do Pages; o run acima identifica a entrega de conteúdo já concluída e verificada.
+- Não há tarefa editorial, correção de código ou publicação de conteúdo pendente deste lote. Para conferir a última execução, use `gh run list --repo Mreaggle/fatooupapo --workflow deploy-pages.yml`.
 
 ## Regras de execução persistentes
 
