@@ -19,6 +19,14 @@
 
 ---
 
+## Licença e autorização
+
+Copyright © 2026 [Mreaggle](https://github.com/Mreaggle). **Projeto proprietário; todos os direitos reservados.** A [licença](LICENSE) restringe cópia, modificação, redistribuição e exploração comercial dos materiais próprios sem autorização expressa por escrito. Materiais e dependências de terceiros conservam seus respectivos direitos.
+
+Você pode consultar o site, compartilhar links e compartilhar os cards PNG oficiais **sem fins comerciais**, preservando o card integral, com crédito a **Fato ou Papo — Mreaggle** e link da checagem original. Essa permissão não autoriza copiar o projeto ou republicar o acervo.
+
+O trabalho no repositório por assistentes de IA exige instrução expressa do proprietário verificado, conforme [AGENTS.md](AGENTS.md). Esses avisos não bloqueiam tecnicamente ferramentas externas. Enquanto este repositório for público, permanecem as permissões de visualização e fork previstas nos [termos do GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#5-license-grant-to-other-users).
+
 ## A conversa fica melhor com contexto
 
 Uma frase pode soar convincente e ainda misturar números, omitir um recorte ou apresentar uma previsão como certeza. O **Fato ou Papo** reúne a fala, o momento do vídeo e uma conclusão acompanhada de fontes para você conferir.
