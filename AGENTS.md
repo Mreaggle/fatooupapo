@@ -29,6 +29,10 @@ Vitest, Testing Library, and jsdom cover URL parsing and user-visible states. Ad
 
 Use concise Conventional Commits, for example `feat: add snapshot lookup` or `fix: reject playlist URLs`. Pull requests should explain the user impact, list verification commands, link relevant issues, and include screenshots for UI changes. Call out API contract, environment-variable, or snapshot-schema changes explicitly.
 
+## Deployment
+
+After every implementation, fix, or update, deploy to GitHub Pages. This is standing user authorization to commit and push the relevant changes through the repository's deployment workflow without asking again. Run the required checks, monitor the Pages workflow until it completes, and verify the published site before reporting the work as complete. Keep unrelated local files out of commits.
+
 ## Security & Configuration
 
 Never place credentials in `VITE_*` variables or client code. Store local values in `.env.local`, validate untrusted URLs, and keep transcript, search, and AI credentials in the backend. Do not add a snapshot unless its transcript, claims, and source links have been reviewed.

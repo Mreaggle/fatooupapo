@@ -1,21 +1,15 @@
 import { useMemo, useState } from 'react'
 import { ArrowUpRight, Check, ChevronDown, Copy, Download, Search } from 'lucide-react'
-import type { AnalysisReport, Claim, Participant, Verdict } from '../types'
+import type { AnalysisReport, Claim, Participant } from '../types'
 import { SpeakerLabel } from './SpeakerLabel'
 import { DebateCharts } from './DebateCharts'
 import { readSpeakerReview } from '../lib/speaker-reviews'
 import { verdicts } from '../lib/report-schema'
 import { formatTimestamp, timestampUrl } from '../lib/youtube'
 import { verdictLabel } from '../lib/verdict-label'
+import { verdictStyle } from '../lib/verdict-style'
+import { SyncedVideo } from './SyncedVideo'
 
-const verdictStyle: Record<Verdict, string> = {
-  Verdadeiro: 'verdict--true',
-  'Majoritariamente verdadeiro': 'verdict--mostly-true',
-  'Impreciso ou fora de contexto': 'verdict--misleading',
-  'Majoritariamente falso': 'verdict--mostly-false',
-  Falso: 'verdict--false',
-  Inconclusivo: 'verdict--inconclusive',
-}
 const evidenceLabels = { supports: 'Sustenta', contradicts: 'Contradiz', context: 'Contextualiza' }
 
 function formatDate(value: string) {
@@ -24,7 +18,7 @@ function formatDate(value: string) {
 
 function ClaimItem({ claim, videoId, number, participants, onSpeakerReview }: { claim: Claim; videoId: string; number: number; participants: Participant[]; onSpeakerReview: (id: string, name: string | null | undefined) => void }) {
   return (
-    <article id={claim.id} className="border-b border-line py-7 sm:py-8">
+    <article id={claim.id} tabIndex={-1} className="claim-card border-b border-line py-7 sm:py-8">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
         <div className="flex items-center gap-3"><span className="font-mono text-[11px] text-faint">{String(number).padStart(2, '0')}</span><span className={`verdict ${verdictStyle[claim.verdict]}`}>{verdictLabel(claim.verdict)}</span></div>
         <a href={timestampUrl(videoId, claim.timestampSeconds)} className="inline-flex items-center gap-1 font-mono text-xs text-muted underline decoration-line underline-offset-4 hover:text-foreground" target="_blank" rel="noreferrer" aria-label={`Assistir ao trecho em ${formatTimestamp(claim.timestampSeconds)}`}>{formatTimestamp(claim.timestampSeconds)} <ArrowUpRight size={13} /></a>
@@ -71,6 +65,16 @@ export function Report({ report }: { report: AnalysisReport }) {
     }
   }
 
+  function showClaim(id: string) {
+    setFilter('Todas as classificações')
+    setQuery('')
+    window.requestAnimationFrame(() => {
+      const claim = document.getElementById(id)
+      claim?.scrollIntoView({ block: 'start' })
+      claim?.focus({ preventScroll: true })
+    })
+  }
+
   return (
     <main className="mx-auto w-full max-w-3xl flex-1 px-5 pb-12 pt-8 sm:px-8 sm:pt-12">
       <p className="mb-5 text-xs text-muted">{report.coverage?.kind === 'selected-claims' ? 'Checagem parcial' : 'Relatório'} · {formatDate(report.analyzedAt)}</p>
@@ -84,6 +88,8 @@ export function Report({ report }: { report: AnalysisReport }) {
         {report.coverage && <a className="inline-flex items-center gap-1.5 hover:text-foreground" href={`${import.meta.env.BASE_URL}${report.coverage.transcriptPath}`} download>Transcrição .md <Download size={13} /></a>}
       </div>
       {copyState && <p role="status" className="mt-3 text-xs text-muted">{copyState}</p>}
+
+      <SyncedVideo report={report} onShowClaim={showClaim} />
 
       <div className="my-8 border-y border-line py-6">
         <p className="font-serif text-lg leading-7 text-muted">{report.summary}</p>

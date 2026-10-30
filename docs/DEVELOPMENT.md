@@ -55,6 +55,14 @@ Deixe `VITE_ANALYSIS_API_URL` vazia para a v1. A integração opcional com backe
 
 O contrato esperado está em [docs/API.md](API.md). O formato do acervo está em [snapshots/README.md](../snapshots/README.md).
 
+## Vídeo e checagens sincronizadas
+
+O topo do relatório incorpora o vídeo com a [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference), sem chave de API ou reprodução automática. O componente `SyncedVideo` consulta `getCurrentTime()` a cada 250 ms e seleciona o último `timestampSeconds` alcançado. A checagem fica em destaque até a próxima; antes da primeira, a interface informa quando ela aparecerá. Ao adiantar, pausar ou voltar o vídeo, a seleção acompanha a posição real do player, incluindo timestamps fracionários. Afirmações com o mesmo timestamp aparecem juntas.
+
+Os controles de trecho usam `seekTo()`. O link para a checagem completa limpa filtros e busca, posiciona o artigo abaixo do cabeçalho fixo e transfere o foco para ele. O relatório completo, as fontes e os gráficos continuam abaixo do vídeo, sem depender da disponibilidade do YouTube. Falhas de carregamento ou incorporação mostram nova tentativa e acesso ao vídeo original. Ao sair do relatório, o player é destruído e a consulta periódica é encerrada.
+
+A logo permanece no canto superior esquerdo durante a leitura e retorna à página inicial no topo. O botão no canto inferior direito volta ao início do relatório, respeitando a preferência por movimento reduzido. Os testes de navegador cobrem os dois controles e a sincronização em desktop e celular com uma simulação da API; eles não verificam a disponibilidade dos vídeos no YouTube.
+
 ## Atualização do acervo
 
 O Markdown é a fonte publicada. `npm run snapshots:build` valida o contrato, os IDs e a correspondência literal das citações com a transcrição; depois gera o índice JSON e copia os arquivos Markdown para a distribuição. Erros de esquema ou citações divergentes interrompem o build.

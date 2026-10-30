@@ -3,6 +3,7 @@ import { Brand } from './components/Brand'
 import { Home } from './components/Home'
 import { InfoDialog, type InfoPage } from './components/InfoDialog'
 import { Report } from './components/Report'
+import { BackToTop } from './components/BackToTop'
 import { AnalysisError, analyzeVideo } from './services/analysis'
 import { parseYouTubeUrl } from './lib/youtube'
 import { analysisRequestLinks } from './lib/analysis-requests'
@@ -65,15 +66,17 @@ export default function App() {
     setRequestLinks(null)
     setReport(null)
     window.history.replaceState({}, '', window.location.pathname)
+    window.scrollTo({ top: 0 })
   }
 
   return (
     <div className={`app-shell flex min-h-svh flex-col ${report ? 'app-shell--report' : ''}`}>
-      {report && <header className="mx-auto flex h-20 w-full max-w-6xl shrink-0 items-center justify-between px-5 sm:px-8">
+      {report && <div className="h-20 shrink-0"><header className="report-header fixed inset-x-0 top-0 z-30 flex h-20 items-center justify-between gap-4 border-b border-line bg-background/95 px-5 backdrop-blur-sm sm:px-8">
         <Brand onHome={goHome} />
         <button className="button-text text-xs" type="button" onClick={goHome}>← Nova consulta</button>
-      </header>}
-      {report ? <Report report={report} /> : <Home initialUrl={initialUrl} error={error} requestLinks={requestLinks} progress={progress} onAnalyze={(url) => void analyze(url)} onClearError={() => { setError(''); setRequestLinks(null) }} onCancel={() => { request.current?.abort(); setProgress(null) }} />}
+      </header></div>}
+      {report ? <Report key={report.video.id} report={report} /> : <Home initialUrl={initialUrl} error={error} requestLinks={requestLinks} progress={progress} onAnalyze={(url) => void analyze(url)} onClearError={() => { setError(''); setRequestLinks(null) }} onCancel={() => { request.current?.abort(); setProgress(null) }} />}
+      {report && <BackToTop />}
       <footer className="mx-auto w-full max-w-6xl px-5 pb-6 pt-8 text-center sm:px-8">
         <nav aria-label="Links do rodapé" className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-xs text-muted">
           {(['Como funciona', 'Metodologia', 'Sobre o projeto'] as const).map((page) => <button className="button-text" key={page} type="button" onClick={() => setInfo(page)}>{page}</button>)}
