@@ -10,6 +10,28 @@ function RecentDebates() { return <Gallery {...useRecentDebates()} /> }
 afterEach(() => vi.unstubAllGlobals())
 
 describe('galeria de debates checados', () => {
+  it('pesquisa títulos e canais combinando palavras sem diferenciar acentos e maiúsculas', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({ ok: true, json: async () => index })
+    vi.stubGlobal('fetch', fetchMock)
+    const user = userEvent.setup()
+    render(<RecentDebates />)
+    await screen.findByRole('link', { name: index.reports.q4T7plSBdJE.video.title })
+    const search = screen.getByRole('searchbox', { name: 'Pesquisar no acervo' })
+    await user.type(search, '  INTELIGENCIA   KIM  ')
+    expect(screen.getAllByRole('article')).toHaveLength(1)
+    expect(screen.getByRole('link')).toHaveAttribute('href', '?v=q4T7plSBdJE')
+    expect(screen.getByRole('status')).toHaveTextContent('1 vídeo encontrado.')
+    await user.clear(search)
+    await user.type(search, 'nenhum-video-com-este-titulo')
+    expect(screen.queryByRole('article')).not.toBeInTheDocument()
+    expect(screen.getByRole('status')).toHaveTextContent('Nenhum vídeo encontrado.')
+    await user.click(screen.getByRole('button', { name: 'Limpar pesquisa' }))
+    expect(search).toHaveFocus()
+    expect(search).toHaveValue('')
+    expect(screen.getAllByRole('article')).toHaveLength(Object.keys(index.reports).length)
+    expect(fetchMock).toHaveBeenCalledTimes(1)
+  })
+
   it('mostra carregamento e depois apresenta o debate real com link para a checagem', async () => {
     let finish: (response: unknown) => void = () => {}
     vi.stubGlobal('fetch', vi.fn().mockImplementation(() => new Promise((resolve) => { finish = resolve })))

@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from 'react'
-import { ArrowRight, LoaderCircle, Wrench } from 'lucide-react'
+import { ArrowRight, LoaderCircle, Search, Wrench } from 'lucide-react'
 import type { AnalysisProgress } from '../types'
 import { RequestPanel } from './RequestPanel'
 import { RecentDebates } from './RecentDebates'
@@ -37,7 +37,7 @@ export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onC
             Você assiste e<br /><span>nós <em className="font-normal">checamos.</em></span>
           </h1>
           <p className="mx-auto mt-5 max-w-[820px] text-center font-serif text-[clamp(1rem,1.25vw,1.5rem)] leading-[1.45] text-[#d2dbd8] sm:mt-8">
-            Cole o link de um vídeo do YouTube para consultar as checagens e suas fontes. Se ele ainda não estiver no acervo, você pode solicitar uma análise.
+            Consulte as checagens e suas fontes. Pesquise no acervo ou informe o link de um vídeo do YouTube.
           </p>
 
           <form onSubmit={submit} noValidate className="mt-8 sm:mt-12">
@@ -60,6 +60,9 @@ export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onC
             {error && <p id="url-error" role="alert" className="mt-3 text-sm leading-6 text-red-300">{error}</p>}
             {progress && <div role="status" aria-live="polite" className="mt-3 flex items-start justify-between gap-3 text-xs leading-5 text-muted"><span>{progress.message}</span><button type="button" onClick={onCancel} className="shrink-0 underline underline-offset-4">Cancelar</button></div>}
           </form>
+          <a href="#archive-search" className="mt-4 inline-flex items-center gap-2 text-sm text-foreground underline underline-offset-4 hover:text-white">
+            <Search size={16} aria-hidden="true" /> Pesquisar no acervo
+          </a>
           {requestLinks && <RequestPanel videoUrl={url} queueUrl={requestLinks.queue} />}
         </div>
         {recent.status === 'ready' && <DebateCarousel debates={recent.debates.slice(0, 6)} />}

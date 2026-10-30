@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://mreaggle.github.io/fatooupapo/"><strong>Acessar a plataforma ↗</strong></a>
-  &nbsp; · &nbsp; <a href="#no-acervo">Explorar debates</a>
+  &nbsp; · &nbsp; <a href="https://mreaggle.github.io/fatooupapo/#acervo">Pesquisar no acervo</a>
   &nbsp; · &nbsp; <a href="#como-ler-os-resultados">Entender os resultados</a>
 </p>
 
@@ -29,11 +29,13 @@ Uma frase pode soar convincente e ainda misturar números, omitir um recorte ou 
 | **💬 Transcrição para consultar** — acompanhe o texto integral disponível em cada relatório. | **📊 Visão por debatedor** — compare classificações e medidores com seu recorte explícito. |
 | **🎨 Leitura por cores** — encontre a categoria da afirmação e a conclusão logo abaixo. | **🔗 Relatórios compartilháveis** — envie o link de um debate e abra a versão publicada. |
 
-## Comece pelo vídeo
+## Encontre uma checagem
 
-1. **Cole o link do YouTube** na página inicial.
-2. **Abra a checagem**, se o vídeo já estiver no acervo. A consulta é gratuita e não consome créditos.
-3. **Explore as falas e fontes.** Use a busca, confira os gráficos e ouça os trechos que quiser.
+1. **[Pesquise no acervo](https://mreaggle.github.io/fatooupapo/#acervo)** pelo título do vídeo ou pelo canal.
+2. **Abra uma checagem publicada.** A consulta é gratuita e não consome créditos.
+3. **Explore as falas e fontes.** Use a busca, confira os gráficos e ouça os trechos que quiser. Cada relatório informa sua cobertura em **Cobertura e origem**.
+
+Em cada afirmação, **Compartilhar card** gera uma imagem com o argumento em destaque, a conclusão e sua classificação no gauge. Compartilhe pelo navegador ou baixe o PNG.
 
 Para vídeos fora do acervo, solicite análise com uma conta GitHub e acompanhe o processamento. A estimativa de créditos aparece antes da confirmação. Os pedidos aceitam vídeos de até **4 horas** e avançam por lotes; não há um limite total de oito afirmações por debate.
 
@@ -51,29 +53,6 @@ Cada conta tem **100 créditos a cada 24 horas**. Vídeos com três horas ou mai
 | ⚪ **Inconclusivo** | Não há evidência suficiente para uma conclusão segura. |
 
 **O medidor não é uma nota da pessoa.** Ele mostra a proporção de Fatos entre Fatos e Papos atribuídos ao debatedor, incluindo “majoritariamente”. Imprecisos e inconclusivos aparecem nas barras e ficam fora dessa proporção. A classificação não estabelece intenção de mentir.
-
-## No acervo
-
-| Debate | Abrir relatório |
-| :--- | :--- |
-| **Pavanato × Abner Henrique** · RedCast | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=xejucP41-P8) |
-| **MC Smith × Arthur do Val** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=HhWQCedS81g) |
-| **Sabatina: Renan Santos** · g1 | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=9P1Lqrt_j2M) |
-| **Sabatina: Lula** · Globo, republicada por TV Afiada | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=Lfz5UPiuM4I) |
-| **Sabatina: Flávio Bolsonaro** · Globo, republicada por Deputado Gil Diniz | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=-2kJfglKuY8) |
-| **Lula** · Flow News | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=y-KdHRZ9Ggo) |
-| **Evangélicos × Católicos** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=mQRx1epMpMs) |
-| **Cristãos × Judeus** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=YKVtqHoake0) |
-| **Capitalismo × Socialismo** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=b-dvcPHV8ck) |
-| **Cristão × Ateu** · Canal Foco | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=l6g0GOCiWVs) |
-| **Elias Jabbour × Pablo Marçal** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=nPLJs6xPNWU) |
-| **Guilherme Cortez × Lucas Pavanato** · Flow | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=C0ucX3GZo-c) |
-| **Eduarda Campopiano × Mandi Coelho** · RedCast | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=l78NZP7riOA) |
-| **Kim Kataguiri × Jones Manoel** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=q4T7plSBdJE) |
-| **Debate presidencial** · Band | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=RugVB17uRVM) |
-| **Debate presidencial** · Globo | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=6BBZWwq2juE) |
-
-Cada relatório informa sua cobertura. Uma transcrição integral pode acompanhar uma seleção de afirmações; confira **Cobertura e origem**. Nos inventários com leitura integral, opiniões e repetições não acrescentam votos ao placar.
 
 ## Transparência faz parte da checagem
 

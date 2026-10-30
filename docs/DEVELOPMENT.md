@@ -4,7 +4,7 @@
 
 Plataforma de checagem de afirmações em vídeos do YouTube. React, TypeScript, Vite e Tailwind CSS 4. A interface valida o link e consulta o acervo pelo ID do vídeo, sem nova chamada à IA quando existe um snapshot.
 
-A parte inferior da página inicial mostra todos os debates publicados, consultados no índice do acervo e ordenados por data de análise. O carrossel de destaque mantém os seis mais recentes. Cada cartão abre o relatório e informa sua cobertura, sem consumir créditos ou fazer chamadas à IA.
+A parte inferior da página inicial mostra todos os debates publicados, consultados no índice do acervo e ordenados por data de análise. O carrossel de destaque mantém os seis mais recentes. A opção “Pesquisar no acervo” leva à galeria, cuja busca filtra títulos e canais sem distinguir maiúsculas ou acentos; palavras podem ser combinadas em qualquer ordem. Cada cartão abre o relatório e informa sua cobertura, sem consumir créditos ou fazer chamadas à IA.
 
 Plataforma publicada: https://mreaggle.github.io/fatooupapo/
 
@@ -64,6 +64,8 @@ Os controles de trecho usam `seekTo()`. O link para a checagem completa limpa fi
 A logo permanece no canto superior esquerdo durante a leitura e retorna à página inicial no topo. O botão no canto inferior direito volta ao início do relatório, respeitando a preferência por movimento reduzido. Os testes de navegador cobrem os dois controles e a sincronização em desktop e celular com uma simulação da API; eles não verificam a disponibilidade dos vídeos no YouTube.
 
 ## Atualização do acervo
+
+Cada afirmação oferece “Compartilhar card”. O PNG é desenhado localmente em Canvas, com o título do argumento, a conclusão integral, a classificação e a marca no centro inferior do gauge. A transcrição literal não é incluída. A altura acompanha o texto, preservando conclusões longas. O card inclui o título do vídeo, o tempo do trecho e o endereço do relatório para consultar as fontes. O gauge usa as categorias existentes, sem gerar porcentagens; Inconclusivo fica sem marcador na escala. A prévia permite baixar o arquivo, e navegadores compatíveis com compartilhamento de arquivos também oferecem a ação nativa. URLs temporárias são liberadas ao fechar o diálogo.
 
 O Markdown é a fonte publicada. `npm run snapshots:build` valida o contrato, os IDs e a correspondência literal das citações com a transcrição; depois gera o índice JSON e copia os arquivos Markdown para a distribuição. Erros de esquema ou citações divergentes interrompem o build.
 

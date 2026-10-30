@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { ArrowUpRight, Check, ChevronDown, Copy, Download, Search } from 'lucide-react'
+import { ArrowUpRight, Check, ChevronDown, Copy, Download, Search, Share2 } from 'lucide-react'
 import type { AnalysisReport, Claim, Participant } from '../types'
 import { SpeakerLabel } from './SpeakerLabel'
 import { DebateCharts } from './DebateCharts'
@@ -9,6 +9,7 @@ import { formatTimestamp, timestampUrl } from '../lib/youtube'
 import { verdictLabel } from '../lib/verdict-label'
 import { verdictStyle } from '../lib/verdict-style'
 import { SyncedVideo } from './SyncedVideo'
+import { ShareClaimDialog } from './ShareClaimDialog'
 
 const evidenceLabels = { supports: 'Sustenta', contradicts: 'Contradiz', context: 'Contextualiza' }
 
@@ -16,7 +17,7 @@ function formatDate(value: string) {
   return new Intl.DateTimeFormat('pt-BR', { timeZone: 'UTC' }).format(new Date(value))
 }
 
-function ClaimItem({ claim, videoId, number, participants, onSpeakerReview }: { claim: Claim; videoId: string; number: number; participants: Participant[]; onSpeakerReview: (id: string, name: string | null | undefined) => void }) {
+function ClaimItem({ claim, videoId, number, participants, onSpeakerReview, onShare }: { claim: Claim; videoId: string; number: number; participants: Participant[]; onSpeakerReview: (id: string, name: string | null | undefined) => void; onShare: () => void }) {
   return (
     <article id={claim.id} tabIndex={-1} className="claim-card border-b border-line py-7 sm:py-8">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
@@ -27,6 +28,7 @@ function ClaimItem({ claim, videoId, number, participants, onSpeakerReview }: { 
       <SpeakerLabel claim={claim} videoId={videoId} participants={participants} onReview={(name) => onSpeakerReview(claim.id, name)} />
       <blockquote className={`claim-quote ${verdictStyle[claim.verdict].replace('verdict--', 'claim-quote--')} rounded-r-lg px-4 py-3 font-serif text-lg leading-7`}>“{claim.quote}”</blockquote>
       <p className="claim-conclusion mt-4 text-sm leading-7">{claim.explanation}</p>
+      <button type="button" onClick={onShare} className="mt-4 inline-flex min-h-10 items-center gap-2 text-xs text-muted underline underline-offset-4 hover:text-foreground"><Share2 size={14} aria-hidden="true" />Compartilhar card</button>
 
       <details className="group mt-4">
         <summary className="inline-flex list-none items-center gap-2 rounded text-xs text-muted hover:text-foreground">{claim.evidence.length ? `Fontes e contexto (${claim.evidence.length})` : 'Limitações da checagem'}<ChevronDown size={14} className="transition-transform group-open:rotate-180" /></summary>
@@ -45,6 +47,7 @@ export function Report({ report }: { report: AnalysisReport }) {
   const [filter, setFilter] = useState('Todas as classificações')
   const [query, setQuery] = useState('')
   const [copyState, setCopyState] = useState('')
+  const [sharedClaim, setSharedClaim] = useState<Claim | null>(null)
   const [speakers, setSpeakers] = useState<Record<string, string | null | undefined>>(() => Object.fromEntries(report.claims.flatMap((claim) => {
     const review = readSpeakerReview(report.video.id, claim.id, claim.quote)
     return review ? [[claim.id, review.name]] : []
@@ -103,10 +106,11 @@ export function Report({ report }: { report: AnalysisReport }) {
         <label className="sr-only" htmlFor="claim-filter">Filtrar por classificação</label><select id="claim-filter" value={filter} onChange={(event) => setFilter(event.target.value)} className="max-w-full rounded-lg border border-line bg-background px-3 py-2.5 text-xs text-muted"><option>Todas as classificações</option>{verdicts.filter((verdict) => report.claims.some((claim) => claim.verdict === verdict)).map((verdict) => <option key={verdict} value={verdict}>{verdictLabel(verdict)}</option>)}</select>
       </div>
       <section aria-label="Afirmações verificadas" className="mt-2">
-        {visible.map((claim) => <ClaimItem key={claim.id} claim={claim} videoId={report.video.id} number={report.claims.indexOf(claim) + 1} participants={report.participants ?? []} onSpeakerReview={(id, name) => setSpeakers((current) => ({ ...current, [id]: name }))} />)}
+        {visible.map((claim) => <ClaimItem key={claim.id} claim={claim} videoId={report.video.id} number={report.claims.indexOf(claim) + 1} participants={report.participants ?? []} onSpeakerReview={(id, name) => setSpeakers((current) => ({ ...current, [id]: name }))} onShare={() => setSharedClaim(claim)} />)}
         {visible.length === 0 && <p role="status" className="py-12 text-center text-sm text-muted">Nenhuma afirmação encontrada para este filtro.</p>}
       </section>
       {report.limitations?.length ? <details className="group mt-8 border-b border-line pb-5"><summary className="list-none text-sm text-muted hover:text-foreground">Limitações do relatório <ChevronDown size={14} className="ml-1 inline transition-transform group-open:rotate-180" /></summary><ul className="mt-4 list-disc space-y-2 pl-4 text-xs leading-6 text-muted">{report.limitations.map((item) => <li key={item}>{item}</li>)}</ul></details> : null}
+      {sharedClaim && <ShareClaimDialog claim={sharedClaim} video={report.video} onClose={() => setSharedClaim(null)} />}
     </main>
   )
 }

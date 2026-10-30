@@ -1,6 +1,9 @@
 import { test, expect, type Page } from '@playwright/test'
+import { readFile } from 'node:fs/promises'
 import snapshots from '../public/snapshots/index.json' with { type: 'json' }
 import manifest from '../reviews/batch-2026-10-30/manifest.json' with { type: 'json' }
+import { verdictLabel } from '../src/lib/verdict-label'
+import type { AnalysisReport, Verdict } from '../src/types'
 
 // Exercise the IFrame API contract without depending on external video availability.
 async function mockVideo(page: Page) {
@@ -104,6 +107,47 @@ test('galeria dá acesso aos dez novos vídeos e preserva os relatórios anterio
     await expect(gallery.locator(`a[href="?v=${videoId}"]`)).toHaveCount(1)
   }
   await gallery.screenshot({ path: testInfo.outputPath('acervo-completo.png') })
+})
+
+test('exporta cards com argumento, conclusão e gauge em todas as classificações, sem transcrição literal', async ({ page }, testInfo) => {
+  await page.addInitScript(() => {
+    const capture = window as typeof window & { cardText: string[] }
+    capture.cardText = []
+    const draw = CanvasRenderingContext2D.prototype.fillText
+    CanvasRenderingContext2D.prototype.fillText = function (...args: Parameters<typeof draw>) {
+      capture.cardText.push(args[0])
+      return draw.apply(this, args)
+    }
+  })
+  const verdicts: Verdict[] = ['Verdadeiro', 'Majoritariamente verdadeiro', 'Impreciso ou fora de contexto', 'Majoritariamente falso', 'Falso', 'Inconclusivo']
+  for (const verdict of verdicts) {
+    const report = (Object.values(snapshots.reports) as AnalysisReport[]).find((report) => report.claims.some((claim) => claim.verdict === verdict))!
+    const position = report.claims.findIndex((claim) => claim.verdict === verdict)
+    const claim = report.claims[position]
+    await page.goto(`./?v=${report.video.id}`)
+    await page.getByRole('article').nth(position).getByRole('button', { name: 'Compartilhar card', exact: true }).click()
+    const dialog = page.getByRole('dialog', { name: 'Compartilhar checagem' })
+    const preview = dialog.getByRole('img')
+    await expect(preview).toBeVisible()
+    await expect.poll(() => preview.evaluate((img: HTMLImageElement) => img.naturalWidth)).toBe(1080)
+    expect(await preview.evaluate((img: HTMLImageElement) => img.naturalHeight)).toBeGreaterThan(900)
+    const drawn = await page.evaluate(() => (window as typeof window & { cardText: string[] }).cardText.join(' ').replace(/\s+/g, ' '))
+    expect(drawn).toContain(claim.title!.replace(/\s+/g, ' '))
+    expect(drawn).toContain(claim.explanation.replace(/\s+/g, ' '))
+    expect(drawn).toContain(verdictLabel(verdict))
+    expect(drawn).toContain('Fato ou Papo')
+    expect(drawn).not.toContain(claim.quote.replace(/\s+/g, ' '))
+    const downloading = page.waitForEvent('download')
+    await dialog.getByRole('link', { name: 'Baixar PNG' }).click()
+    const download = await downloading
+    const imagePath = testInfo.outputPath(download.suggestedFilename())
+    await download.saveAs(imagePath)
+    expect((await readFile(imagePath)).subarray(0, 8).toString('hex')).toBe('89504e470d0a1a0a')
+    if (verdict === 'Verdadeiro') await page.screenshot({ path: testInfo.outputPath('compartilhar-card.png') })
+    await page.keyboard.press('Escape')
+    await expect(dialog).not.toBeVisible()
+    await expect(page.getByRole('article').nth(position).getByRole('button', { name: 'Compartilhar card', exact: true })).toBeFocused()
+  }
 })
 
 for (const { videoId } of manifest) {

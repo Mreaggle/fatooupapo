@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ArrowUpRight, MessageSquareQuote } from 'lucide-react'
+import { ArrowUpRight, MessageSquareQuote, Search } from 'lucide-react'
 import type { useRecentDebates } from '../services/use-recent-debates'
 import type { RecentDebate } from '../types'
 
@@ -25,17 +25,37 @@ function DebateCard({ debate, featured }: { debate: RecentDebate; featured: bool
 }
 
 export function RecentDebates({ debates, status, retry }: ReturnType<typeof useRecentDebates>) {
-  return <section aria-labelledby="recent-debates-title" className="recent-debates mx-auto w-full max-w-6xl px-5 py-14 sm:px-8 sm:py-20">
+  const [query, setQuery] = useState('')
+  const normalize = (value: string) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('pt-BR')
+  const terms = normalize(query).trim().split(/\s+/).filter(Boolean)
+  const visible = debates.filter(({ video }) => {
+    const text = normalize(`${video.title} ${video.channel}`)
+    return terms.every((term) => text.includes(term))
+  })
+
+  return <section id="acervo" aria-labelledby="recent-debates-title" className="recent-debates mx-auto w-full max-w-6xl px-5 py-14 sm:px-8 sm:py-20">
     <div className="mb-7 border-b border-line pb-6">
       <p className="text-[11px] font-medium uppercase tracking-[0.16em] text-faint">No acervo</p>
       <h2 id="recent-debates-title" className="mt-2 font-serif text-3xl leading-tight text-foreground sm:text-4xl">Debates checados recentemente</h2>
       <p className="mt-3 max-w-xl text-sm leading-6 text-muted">Consulte as análises publicadas e suas fontes. A consulta não consome créditos.</p>
+    </div>
+    <div role="search" aria-label="Pesquisa de vídeos do acervo" className="mb-6">
+      <label htmlFor="archive-search" className="text-sm font-medium">Pesquisar no acervo</label>
+      <div className="mt-3 flex min-w-0 items-center gap-3 rounded-lg border border-line bg-surface px-4 focus-within:ring-1 focus-within:ring-foreground/60">
+        <Search size={18} className="shrink-0 text-faint" aria-hidden="true" />
+        <input id="archive-search" type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Título ou canal" aria-describedby="archive-search-help" className="h-12 w-full min-w-0 scroll-mt-24 bg-transparent text-sm outline-none placeholder:text-faint" />
+        {query && <button type="button" onClick={() => { setQuery(''); document.getElementById('archive-search')?.focus() }} className="shrink-0 text-xs text-muted underline underline-offset-4 hover:text-foreground">Limpar pesquisa</button>}
+      </div>
+      <p id="archive-search-help" className="mt-2 text-xs text-muted">Pesquise pelo título do vídeo ou pelo nome do canal.</p>
     </div>
     {status === 'loading' && <p role="status" className="text-sm text-muted">Carregando debates checados…</p>}
     {status === 'error' && <div className="rounded-lg border border-line p-5 text-sm leading-6 text-muted">
       <p>Não foi possível carregar os debates do acervo.</p>
       <button type="button" className="mt-2 text-foreground underline underline-offset-4" onClick={retry}>Tentar carregar novamente</button>
     </div>}
-    {status === 'ready' && (debates.length ? <div className={`recent-debates__grid grid gap-6 ${debates.length > 1 ? 'sm:grid-cols-2' : ''} ${debates.length > 2 ? 'lg:grid-cols-3' : ''}`}>{debates.map((debate) => <DebateCard key={debate.video.id} debate={debate} featured={debates.length === 1} />)}</div> : <p role="status" className="text-sm text-muted">Ainda não há debates checados publicados no acervo.</p>)}
+    {status === 'ready' && (debates.length ? <>
+      <p role="status" className="mb-5 text-sm text-muted">{visible.length ? `${visible.length} ${visible.length === 1 ? 'vídeo encontrado' : 'vídeos encontrados'}.` : 'Nenhum vídeo encontrado. Tente outro título ou canal.'}</p>
+      <div className={`recent-debates__grid grid gap-6 ${visible.length > 1 ? 'sm:grid-cols-2' : ''} ${visible.length > 2 ? 'lg:grid-cols-3' : ''}`}>{visible.map((debate) => <DebateCard key={debate.video.id} debate={debate} featured={visible.length === 1} />)}</div>
+    </> : <p role="status" className="text-sm text-muted">Ainda não há debates checados publicados no acervo.</p>)}
   </section>
 }
