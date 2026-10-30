@@ -1,8 +1,17 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises'
+import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises'
 import { buildEditorialDebate } from './analysis/editorial.ts'
 
-const sources = JSON.parse(await readFile('reviews/sources-2025.json', 'utf8'))
-for (const id of ['C0ucX3GZo-c', 'l78NZP7riOA', 'nPLJs6xPNWU']) {
+const reviewFiles = await readdir('reviews')
+const sources = {}
+for (const name of reviewFiles.filter((name) => /^sources-.*\.json$/.test(name)).sort()) {
+  const catalog = JSON.parse(await readFile(`reviews/${name}`, 'utf8'))
+  for (const [key, source] of Object.entries(catalog)) {
+    if (sources[key] && JSON.stringify(sources[key]) !== JSON.stringify(source)) throw new Error(`Fonte duplicada com conteúdo divergente: ${key}`)
+    sources[key] = source
+  }
+}
+for (const filename of reviewFiles.filter((name) => /^[\w-]{11}\.json$/.test(name)).sort()) {
+  const id = filename.slice(0, -5)
   const review = JSON.parse(await readFile(`reviews/${id}.json`, 'utf8'))
   const transcript = await readFile(`requests/${id}.srt`, 'utf8')
   const result = buildEditorialDebate(review, transcript, sources)

@@ -1,0 +1,357 @@
+{
+  "checkedAt": "2026-10-30",
+  "results": {
+    "rel-acts1": "cached",
+    "rel-acts2": "cached",
+    "rel-acts15": "cached",
+    "rel-gal2": "cached",
+    "rel-eph4": "cached",
+    "rel-eph2": "cached",
+    "rel-pet2": "cached",
+    "rel-mat18": "cached",
+    "rel-mat16": "cached",
+    "rel-rom1": "cached",
+    "rel-rom3": "cached",
+    "rel-rev21": "cached",
+    "rel-phil2": "cached",
+    "rel-titus3": "cached",
+    "rel-james2": "cached",
+    "rel-john3": "cached",
+    "rel-mark16": "cached",
+    "rel-luke1": "cached",
+    "rel-gen2": "cached",
+    "rel-gen3": "cached",
+    "rel-luke22": "cached",
+    "rel-john19": "cached",
+    "rel-ex20": "cached",
+    "rel-2chron33": "cached",
+    "rel-2kings21": "cached",
+    "rel-ex25": "cached",
+    "rel-2sam6": "cached",
+    "rel-ex26": "cached",
+    "rel-mark2": "cached",
+    "rel-mat9": "cached",
+    "rel-john20": "cached",
+    "rel-1cor11": "cached",
+    "rel-john6": "cached",
+    "rel-mat8": "cached",
+    "rel-luke13": "cached",
+    "rel-num23": "cached",
+    "rel-hos11": "cached",
+    "rel-deut4": "cached",
+    "rel-gen17": "cached",
+    "rel-gen12": "cached",
+    "rel-gen29": "cached",
+    "rel-gen30": "cached",
+    "rel-isa56": "cached",
+    "rel-ex6": "cached",
+    "rel-gen15": "cached",
+    "rel-dan9": "cached",
+    "rel-isa45": "cached",
+    "rel-isa44": "cached",
+    "rel-lev16": "cached",
+    "rel-ex28": "cached",
+    "rel-lev25": "cached",
+    "rel-lev17": "cached",
+    "rel-lev5": "cached",
+    "rel-john1": "cached",
+    "rel-2kings22": "cached",
+    "rel-jer36": "cached",
+    "rel-john14": "cached",
+    "rel-mat5": "cached",
+    "rel-col2": "cached",
+    "rel-mal3": "cached",
+    "rel-jer31": "cached",
+    "rel-jer38": "cached",
+    "rel-mat1": "cached",
+    "rel-luke3": "cached",
+    "rel-luke2": "cached",
+    "rel-lev12": "cached",
+    "rel-heb7": "cached",
+    "rel-jer22": "cached",
+    "rel-acts10": "cached",
+    "rel-acts11": "cached",
+    "rel-1kings19": "cached",
+    "rel-ruth4": "cached",
+    "rel-dan12": "cached",
+    "rel-acts23": "cached",
+    "rel-num21": "cached",
+    "rel-gen1": "cached",
+    "rel-gen11": "cached",
+    "rel-mat28": "cached",
+    "rel-titus2": "cached",
+    "rel-deut24": "cached",
+    "rel-dei-verbum": "cached",
+    "rel-humani": "cached",
+    "rel-jpii-evol": "cached",
+    "rel-francis-evol": "cached",
+    "rel-unitatis": "cached",
+    "rel-chieti": "cached",
+    "rel-pastor-aeternus": "cached",
+    "rel-sacraments": "cached",
+    "rel-sacrament-salvation": "cached",
+    "rel-baptism-desire": "cached",
+    "rel-mary-cult": "cached",
+    "rel-eucharist": "cached",
+    "rel-eucharist-sacrifice": "cached",
+    "rel-capital-sins": "cached",
+    "rel-canon868": "cached",
+    "rel-canonization": "cached",
+    "rel-irenaeus3": "cached",
+    "rel-ignatius-rom": "cached",
+    "rel-oriental": "HTTP Error 403: Forbidden",
+    "rel-westminster": "cached",
+    "rel-jddj": "cached",
+    "rel-augsburg6": "cached",
+    "rel-augsburg9": "cached",
+    "rel-augsburg5": "cached",
+    "rel-anglican25": {
+      "status": 202,
+      "finalUrl": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+      "chars": 0,
+      "snippet": ""
+    },
+    "rel-anglican-ordinal": {
+      "status": 202,
+      "finalUrl": "https://www.churchofengland.org/about/leadership-and-governance/legal-services/canons-church-england/section",
+      "chars": 0,
+      "snippet": ""
+    },
+    "rel-orange": "cached",
+    "rel-trent6": "cached",
+    "rel-jamnia": {
+      "status": 200,
+      "chars": 87311,
+      "finalUrl": "https://department.monm.edu/classics/Speel_Festschrift/sundbergJr.htm"
+    },
+    "rel-masterman": "HTTP Error 429: Too Many Requests",
+    "rel-molina": "cached",
+    "rel-lifeway": "cached",
+    "rel-ibge-religion": "HTTP Error 403: Forbidden",
+    "rel-eruvin18": "Sefaria API cached; human page blocked direct fetch",
+    "rel-sanhedrin56": "Sefaria API cached; human page blocked direct fetch",
+    "rel-makkot23": "Sefaria API cached; human page blocked direct fetch",
+    "rel-maimonides-kings11": "Sefaria API cached; human page blocked direct fetch",
+    "rel-maimonides-teshuva1": "Sefaria API cached; human page blocked direct fetch",
+    "rel-avodah10": "Sefaria API cached; human page blocked direct fetch",
+    "rel-maimonides-sanhedrin": "cached",
+    "rel-jewish-calendar": "HTTP Error 403: Forbidden",
+    "rel-israel-religious-freedom": {
+      "status": 200,
+      "chars": 155017,
+      "finalUrl": "https://www.ecoi.net/en/document/2111884.html"
+    },
+    "rel-recife-synagogue": "cached",
+    "rel-loc-newyork": "HTTP Error 403: Forbidden",
+    "rel-bibleviz": "cached",
+    "rel-codex-bezae": "<urlopen error timed out>",
+    "rel-yemenite-scrolls": "HTTP Error 403: Forbidden",
+    "rel-ephraemi": "cached",
+    "rel-palimpsest": {
+      "status": 200,
+      "finalUrl": "https://www.csntm.org/2023/11/29/manuscripts-101-what-is-a-palimpsest/",
+      "chars": 19351,
+      "snippet": " Manuscripts 101: What is a Palimpsest? – The Center for the Study of New Testam"
+    },
+    "rel-barcelona": "cached",
+    "rel-mesopotamia-religion": "HTTP Error 429: Too Many Requests",
+    "rel-egypt-religion": "cached",
+    "rel-canon": {
+      "status": 200,
+      "finalUrl": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html",
+      "chars": 20219,
+      "snippet": " IV. The Canon Of Scripture The Holy See English Français English Italiano Portu"
+    },
+    "rel-canon-history": {
+      "status": 200,
+      "finalUrl": "https://www.newadvent.org/fathers/250103.htm",
+      "chars": 92060,
+      "snippet": " CHURCH FATHERS: Church History, Book III (Eusebius) Search: Submit Search Home "
+    },
+    "rel-chalcedon": {
+      "status": 200,
+      "finalUrl": "https://www.newadvent.org/fathers/3811.htm",
+      "chars": 108228,
+      "snippet": " CHURCH FATHERS: Council of Chalcedon (A.D. 451) Search: Submit Search Home Ency"
+    },
+    "rel-chapters": "HTTP Error 403: Forbidden",
+    "rel-dss-daniel": "<urlopen error timed out>",
+    "rel-elohim": {
+      "status": 200,
+      "finalUrl": "https://biblehub.com/hebrew/430.htm",
+      "chars": 32100,
+      "snippet": "﻿ Strong's Hebrew: 430. אֱלֹהִים (elohim) -- God, gods, divine beings, judges Bi"
+    },
+    "rel-exousia": {
+      "status": 200,
+      "chars": 96,
+      "finalUrl": "https://logeion.uchicago.edu/%E1%BC%90%CE%BE%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CC%84"
+    },
+    "rel-ruach": {
+      "status": 200,
+      "finalUrl": "https://biblehub.com/hebrew/7307.htm",
+      "chars": 27625,
+      "snippet": "﻿ Strong's Hebrew: 7307. ר֫וּחַ (ruach) -- spirit, wind, breath Bible > Strong's"
+    },
+    "rel-ibge2010": "HTTP Error 403: Forbidden",
+    "rel-intf": {
+      "status": 200,
+      "finalUrl": "https://ntvmr.uni-muenster.de/liste",
+      "chars": 252,
+      "snippet": " Liste (Greek) - INTF Skip to Content Sign In Navigation Welcome Manuscript Work"
+    },
+    "rel-isaiah-contents": {
+      "status": 200,
+      "finalUrl": "https://ebible.org/eng-web/ISA.htm",
+      "chars": 261,
+      "snippet": "﻿ World English Bible Classic Isaiah World English Bible Classic Isaiah 1 2 3 4 "
+    },
+    "rel-josephus13": "<urlopen error _ssl.c:983: The handshake operation timed out>",
+    "rel-josephus18": {
+      "status": 200,
+      "finalUrl": "https://www.ccel.org/j/josephus/works/ant-18.htm",
+      "chars": 149486,
+      "snippet": " Antiquities of the Jews - Book XVIII CONTAINING THE INTERVAL OF THIRTY-TWO YEAR"
+    },
+    "rel-karaites": "HTTP Error 429: Too Many Requests",
+    "rel-luther-sin": {
+      "status": 200,
+      "finalUrl": "https://www.projectwittenberg.org/pub/resources/text/wittenberg/luther/letsinsbe.txt",
+      "chars": 8627,
+      "snippet": " Let Your Sins Be Strong: A Letter From Luther to Melanchthon Letter no. 99, 1 A"
+    },
+    "rel-mishnah-history": {
+      "status": 200,
+      "finalUrl": "https://cojs.org/Tannaitic_Literature_-circa_70-3rd_century_CE/",
+      "chars": 10349,
+      "snippet": " Tannaitic Literature (circa 70-3rd century CE) | Center for Online Judaic Studi"
+    },
+    "rel-nineveh": {
+      "status": 200,
+      "finalUrl": "https://archeologie.culture.gouv.fr/khorsabad/en/nineveh-0",
+      "chars": 6774,
+      "snippet": " Nineveh | Khorsabad Skip to main content Skip to footer chevron-down search pan"
+    },
+    "rel-nt-dates": {
+      "status": 200,
+      "finalUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-2",
+      "chars": 51774,
+      "snippet": " RLST 152 - Lecture 2 - From Stories to Canon | Open Yale Courses Skip to main c"
+    },
+    "rel-pardon2000": {
+      "status": 200,
+      "finalUrl": "https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20000312_prayer-day-pardon_sp.html",
+      "chars": 8319,
+      "snippet": " Oración universal Día del perdón 12 de marzo de 2000 ORACIÓN UNIVERSAL CONFESIÓ"
+    },
+    "rel-sacrament-history": {
+      "status": 200,
+      "finalUrl": "https://theologicalstudies.net/wp-content/uploads/2022/08/69.3.4.pdf",
+      "chars": 76083,
+      "snippet": "Theological Studies\n69 (2008)\n\nTHE SACRAMENTAL WORLD IN THE SENTENCES OF\nPETER L"
+    },
+    "rel-schafer": {
+      "status": 200,
+      "finalUrl": "https://assets.press.princeton.edu/chapters/i8383.pdf",
+      "chars": 37328,
+      "snippet": "© Copyright, Princeton University Press. No part of this book may be\ndistributed"
+    },
+    "rel-temple-history": {
+      "status": 200,
+      "finalUrl": "https://exhibits.uflib.ufl.edu/imaginingjerusalem/temple.html",
+      "chars": 2094,
+      "snippet": "﻿ Imagining Jerusalem : Temple University of Florida George A. Smathers Librarie"
+    },
+    "rel-tertullian-praxeas": {
+      "status": 200,
+      "finalUrl": "https://www.newadvent.org/fathers/0317.htm",
+      "chars": 143140,
+      "snippet": " CHURCH FATHERS: Against Praxeas (Tertullian) Search: Submit Search Home Encyclo"
+    },
+    "rel-unitarian": {
+      "status": 200,
+      "finalUrl": "https://www.biblicalunitarian.com/articles/what-do-biblical-unitarians-believe",
+      "chars": 2962,
+      "snippet": " What Do Biblical Unitarians Believe? - BiblicalUnitarian.com Why BU? Verses Art"
+    },
+    "rel-we-remember": {
+      "status": 200,
+      "finalUrl": "https://www.christianunity.va/content/unitacristiani/it/commissione-per-i-rapporti-religiosi-con-l-ebraismo/commissione-per-i-rapporti-religiosi-con-l-ebraismo-crre/documenti-della-commissione/-noi-ricordiamo--una-riflessione-sulla-shoah---1998-/en.html",
+      "chars": 31829,
+      "snippet": " EN Dicastero Profilo Organico Membri e Consultori Assemblee plenarie Comitato C"
+    },
+    "rel-antisemitism-history": {
+      "status": 200,
+      "finalUrl": "https://encyclopedia.ushmm.org/content/en/article/antisemitism-in-history-from-the-early-church-to-1400",
+      "chars": 8014,
+      "snippet": " Antisemitism in History: From the Early Church to 1400 | Holocaust Encyclopedia"
+    },
+    "rel-bar-kokhba": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+    "rel-adoption-tribe": {
+      "status": 200,
+      "finalUrl": "https://a-r-k.de/kommentar/40/",
+      "chars": 10804,
+      "snippet": " Allgemeine Rabbinerkonferenz - ARK Suche: Home Rabbiner & Rabbinerinnen Strömun"
+    },
+    "rel-anderson": {
+      "status": 200,
+      "chars": 523976,
+      "finalUrl": "https://www.minaschurch.org/wp-content/uploads/files/The_Coming_Prince-Anderson.pdf"
+    },
+    "rel-jerome": {
+      "status": 200,
+      "chars": 8580,
+      "finalUrl": "https://www.roger-pearse.com/tertullian/fathers/jerome_preface_kings.htm"
+    },
+    "rel-luther-james": {
+      "status": 200,
+      "chars": 80988,
+      "finalUrl": "https://ctsfw.net/media/pdfs/MacKenzieLuthersSeptemberNewTestamentof1522.pdf"
+    },
+    "rel-nazareth": {
+      "status": 200,
+      "chars": 39250,
+      "finalUrl": "https://api.pageplace.de/preview/DT0400.9780567656353_A25038096/preview-9780567656353_A25038096.pdf"
+    },
+    "rel-tortosa": {
+      "status": 200,
+      "chars": 30827,
+      "finalUrl": "https://ddd.uab.cat/pub/tralib/tralib_a2024v6/tralib_a2024v6a2.pdf"
+    },
+    "rel-waldensian": "HTTP Error 403: Forbidden",
+    "rel-priest-osasco": {
+      "status": 200,
+      "chars": 10445,
+      "finalUrl": "https://diocesedeosasco.com.br/nota-do-padre-jose-eduardo-de-oliveira-e-silva/"
+    },
+    "rel-priest-degree": "HTTP Error 406: Not Acceptable",
+    "rel-tassos-ufrn": {
+      "status": 200,
+      "chars": 3095,
+      "finalUrl": "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2306291"
+    },
+    "rel-tassos-2024": {
+      "status": 200,
+      "chars": 1673,
+      "finalUrl": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2401017&filename=Tramitacao-1-REQ-67-2024-CE"
+    },
+    "rel-karaites-present": {
+      "status": 200,
+      "chars": 7556,
+      "finalUrl": "https://liverpooluniversitypress.blog/2022/01/31/what-is-karaism-and-are-there-still-karaites/"
+    },
+    "rel-israel-law": "HTTP Error 403: Forbidden",
+    "rel-heidelberg": {
+      "status": 200,
+      "chars": 40274,
+      "finalUrl": "https://bookofconcord.org/other-resources/sources-and-context/heidelberg-disputation/"
+    }
+  },
+  "scope": "Teste técnico de HTTP direto. Não constitui sozinho conferência editorial. Fontes também foram abertas e lidas pelo navegador de pesquisa e, para textos rabínicos, pela API Sefaria; bloqueios 403/429 e páginas dinâmicas neste teste não significam documento inexistente.",
+  "reviewFiles": [
+    "reviews/mQRx1epMpMs.json",
+    "reviews/YKVtqHoake0.json"
+  ],
+  "editorialCompletedAt": "2026-10-30T14:59:06.000Z",
+  "sourceCatalogEntries": 177
+}

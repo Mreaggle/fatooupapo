@@ -14,6 +14,8 @@ const reviewSchema = z.object({
   reviewMethod: z.literal('text-and-document-review'),
   transcriptSha256: z.string().regex(/^[a-f0-9]{64}$/),
   scannedThrough: z.number().int().positive(),
+  limitations: z.array(z.string().min(1)).optional(),
+  coverageNotes: z.string().min(1).optional(),
   claims: z.array(z.object({
     cueStart: z.number().int().positive(),
     cueEnd: z.number().int().positive(),
@@ -98,7 +100,7 @@ export function buildEditorialDebate(input: unknown, transcript: string, sourceC
     summary: `${claims.length} afirmações do inventário revisadas ao longo do debate, com fontes e conclusões por trecho. Consulte a distribuição por debatedor e a transcrição integral.`,
     coverage: {
       kind: 'all-identified-claims',
-      description: `Leitura integral dos ${cues.length} blocos do SRT fornecido, com ${review.claims.length} entradas no inventário e ${claims.length} afirmações publicadas. Referência histórica: ${review.referenceDate}. Opiniões, regras, publicidade e repetições não geram votos adicionais. As afirmações identificadas receberam conclusão, incluindo Inconclusivo quando faltou comprovação; isso não garante ausência de omissões na identificação.`,
+      description: `Leitura integral dos ${cues.length} blocos do SRT fornecido, com ${review.claims.length} entradas no inventário e ${claims.length} afirmações publicadas. Referência histórica: ${review.referenceDate}. Opiniões, regras, publicidade e repetições não geram votos adicionais. As afirmações identificadas receberam conclusão, incluindo Inconclusivo quando faltou comprovação; isso não garante ausência de omissões na identificação.${review.coverageNotes ? ` ${review.coverageNotes}` : ''}`,
       transcriptPath: `transcripts/${review.videoId}.md`,
       firstTimestamp: cues[0].start,
       lastTimestamp: cues.at(-1)!.start,
@@ -109,6 +111,7 @@ export function buildEditorialDebate(input: unknown, transcript: string, sourceC
       'Locutores atribuídos pelo contexto textual. Trechos mistos ou sem autoria segura não entram no placar individual; não foi inventado índice numérico de precisão.',
       'Legendas podem conter nomes e números incorretos. Divergências possivelmente causadas pela transcrição não foram tratadas como erro comprovado do debatedor.',
       'Inconclusivo significa evidência insuficiente. O placar não mede intenção de mentir nem substitui a leitura das conclusões, recortes e fontes.',
+      ...(review.limitations ?? []),
     ],
   })
   const markdown = [`# Checagem — ${review.video.title}`, '', report.summary, '',

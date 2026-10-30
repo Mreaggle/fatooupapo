@@ -1,0 +1,1502 @@
+{
+  "videoId": "YKVtqHoake0",
+  "video": {
+    "id": "YKVtqHoake0",
+    "url": "https://www.youtube.com/watch?v=YKVtqHoake0",
+    "title": "DEBATE: TEOLOGIA CRISTÃ X ESCRITURAS JUDAICAS - Inteligência Ltda. Podcast #1543",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/YKVtqHoake0/hqdefault.jpg"
+  },
+  "referenceDate": "2025-05-27",
+  "reviewedAt": "2026-10-30T14:59:06.000Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "aa5ba2fce53a045e67a3f2c2fac502eef92f943f48579bd91f94c709265d7202",
+  "scannedThrough": 5734,
+  "participants": [
+    {
+      "id": "tassos-lycurgo",
+      "name": "Tassos Lycurgo",
+      "aliases": [
+        "Tassos",
+        "Pastor Tassos"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "sezar-cavalcante",
+      "name": "Sezar Cavalcante",
+      "aliases": [
+        "Sezar",
+        "César",
+        "Pastor Sezar"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "dudu-levinzon",
+      "name": "Dudu Levinzon",
+      "aliases": [
+        "Dudu",
+        "Rabino Dudu"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "micha-gamerman",
+      "name": "Micha Gamerman",
+      "aliases": [
+        "Micha",
+        "Rabino Micha",
+        "Mirha Gamerman"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "rogerio-vilela",
+      "name": "Rogério Vilela",
+      "aliases": [
+        "Vilela",
+        "Professor Vilela"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
+  "claims": [
+    {
+      "cueStart": 80,
+      "cueEnd": 85,
+      "title": "O Talmude permite elogiar uma pessoa em sua presença",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Eruvin 18b distingue elogio parcial na presença e elogio completo na ausência. A permissão existe, mas com a qualificação que o comentário abrevia.",
+      "sources": [
+        "rel-eruvin18"
+      ]
+    },
+    {
+      "cueStart": 85,
+      "cueEnd": 91,
+      "title": "Inteligência Ltda seria o maior ou quase maior podcast do Brasil",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Inconclusivo",
+      "explanation": "O superlativo vem sem métrica de audiência, alcance ou receita e sem período comparável; não foi certificado como ranking do setor.",
+      "sources": []
+    },
+    {
+      "cueStart": 171,
+      "cueEnd": 207,
+      "title": "Davi e a aranha: história sobre o sentido de todas as criaturas",
+      "speaker": "Micha Gamerman",
+      "verdict": "opinion",
+      "explanation": "Narrativa religiosa e ensinamento moral. Não se certificaram diálogos com Deus e intervenção providencial como eventos empiricamente comprovados.",
+      "sources": []
+    },
+    {
+      "cueStart": 221,
+      "cueEnd": 231,
+      "title": "Nobreza em Aristóteles seria inversamente proporcional à utilidade",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Uso filosófico e analogia com gases nobres, arte e finalidade. Não é uma lei empírica que permita quantificar nobreza e utilidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 240,
+      "cueEnd": 249,
+      "title": "Caracterização de ideologias como satânicas",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Juízo religioso e político, não prova de atuação sobrenatural ou descrição factual de todos os adeptos.",
+      "sources": []
+    },
+    {
+      "cueStart": 312,
+      "cueEnd": 333,
+      "title": "Tanakh tem 24 livros correspondentes aos 39 do Antigo Testamento protestante",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "As contagens se referem em geral ao mesmo conjunto de escritos, agrupado de forma diferente. Torá em sentido estrito tem cinco livros; o debatedor se corrige para Tanakh. Textos e ordenação variam entre tradições e edições.",
+      "sources": [
+        "rel-tanakh",
+        "rel-westminster"
+      ]
+    },
+    {
+      "cueStart": 333,
+      "cueEnd": 346,
+      "title": "Isaías possui 66 capítulos e a Bíblia protestante 66 livros",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "Esses números correspondem à divisão usual atual e ao cânone protestante de 66 livros. As divisões em capítulos são posteriores à composição de Isaías; a coincidência numérica não comprova inspiração ou profecia.",
+      "sources": [
+        "rel-isaiah-contents",
+        "rel-westminster",
+        "rel-chapters"
+      ]
+    },
+    {
+      "cueStart": 346,
+      "cueEnd": 391,
+      "title": "Os grupos de capítulos de Isaías revelariam necessariamente Jesus",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Leitura tipológica e numerológica cristã. A divisão 39+27 e a identificação de Isaías 53 como biografia de Jesus não são comprovação empírica de uma interpretação religiosa exclusiva.",
+      "sources": []
+    },
+    {
+      "cueStart": 433,
+      "cueEnd": 445,
+      "title": "Debates públicos medievais entre cristãos e judeus tiveram contexto coercitivo",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Disputas como Barcelona (1263) e Tortosa (1413–1414) ocorreram sob assimetria de poder e pressão sobre comunidades judaicas. Não se pode, porém, universalizar a intenção de expulsão ou uma consequência automática a todo debate.",
+      "sources": [
+        "rel-barcelona",
+        "rel-tortosa"
+      ]
+    },
+    {
+      "cueStart": 481,
+      "cueEnd": 510,
+      "title": "Inteligência artificial encontraria centenas de paralelos literários",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Experimento hipotético; o próprio locutor diz que o número 250 é um chute. Não se tratou como medição de um sistema ou prova literária.",
+      "sources": []
+    },
+    {
+      "cueStart": 531,
+      "cueEnd": 540,
+      "title": "A história inteira do cristianismo por dois mil anos foi eliminar dissidentes",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Perseguições e violência antijudaica são documentadas e reconhecidas pela Igreja, mas a descrição de toda a história e de todos os cristãos por uma finalidade única é generalização indevida. É necessário distinguir períodos, agentes e práticas.",
+      "sources": [
+        "rel-we-remember",
+        "rel-antisemitism-history"
+      ]
+    },
+    {
+      "cueStart": 566,
+      "cueEnd": 591,
+      "title": "Isaías 53 como epicentro de uma correspondência sobrenatural",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Reiteração da leitura tipológica. A posição de um capítulo numa divisão posterior não decide o significado religioso ou a probabilidade de origem sobrenatural.",
+      "sources": []
+    },
+    {
+      "cueStart": 603,
+      "cueEnd": 625,
+      "title": "Cristianismo como completude da revelação e oposição ao antissemitismo",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Afirmação confessional e posicionamento ético. A condenação de antissemitismo é registrada sem medir a sinceridade ou a verdade metafísica da crença.",
+      "sources": []
+    },
+    {
+      "cueStart": 673,
+      "cueEnd": 679,
+      "title": "Revelação no Sinai e continuidade do calendário desde Moisés",
+      "speaker": "Micha Gamerman",
+      "verdict": "opinion",
+      "explanation": "A revelação pública no Sinai é narrativa fundadora de fé. Sua origem sobrenatural e a antiguidade mosaica exata não foram apresentadas como fatos empiricamente demonstrados.",
+      "sources": []
+    },
+    {
+      "cueStart": 678,
+      "cueEnd": 681,
+      "title": "O calendário judaico segue ciclos lunares",
+      "speaker": "Micha Gamerman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Os meses judaicos seguem ciclos lunares, como afirma a frase. O calendário completo é lunissolar: meses adicionais coordenam as festas com as estações solares. A continuidade desde Moisés pertence à tradição religiosa e não foi certificada como cronologia empírica.",
+      "sources": [
+        "rel-jewish-calendar"
+      ]
+    },
+    {
+      "cueStart": 694,
+      "cueEnd": 717,
+      "title": "Números e Oseias dizem que Deus não é homem e Deuteronômio veda imagem",
+      "speaker": "Micha Gamerman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Números 23:19 e Oseias 11:9 contêm as formulações citadas. A referência à ausência de forma no Sinai é Deuteronômio 4:15, não 14:15 como consta na legenda. A relação dessas passagens com a encarnação é exegética.",
+      "sources": [
+        "rel-num23",
+        "rel-hos11",
+        "rel-deut4"
+      ]
+    },
+    {
+      "cueStart": 731,
+      "cueEnd": 741,
+      "title": "Papas pediram perdão por perseguições contra judeus",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "We Remember (1998) e a liturgia penitencial de João Paulo II em 2000 reconhecem culpas históricas e pedem perdão. Isso não significa que cada episódio atribuído a cristãos tenha a mesma autoria institucional ou que toda a história possa ser resumida por uma causa única.",
+      "sources": [
+        "rel-we-remember",
+        "rel-pardon2000"
+      ]
+    },
+    {
+      "cueStart": 751,
+      "cueEnd": 770,
+      "title": "Pondé e filósofos ateus consideram desrespeitoso juntar Antigo e Novo Testamento",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram indicados obra, data ou citação verificável. Atribuição bibliográfica vaga não foi tomada como consenso de filósofos ou juízo técnico sobre línguas bíblicas.",
+      "sources": []
+    },
+    {
+      "cueStart": 781,
+      "cueEnd": 801,
+      "title": "Aceitação de Jesus e comportamento moral",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Pergunta ética e teológica fundada em observações pessoais, sem levantamento comparativo que permita ordenar a moralidade de grupos religiosos.",
+      "sources": []
+    },
+    {
+      "cueStart": 811,
+      "cueEnd": 822,
+      "title": "Abrão é renomeado Abraão como pai de muitas nações",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "Gênesis 17:5 relaciona o novo nome à promessa de muitas nações, e Gênesis 12:3 fala em famílias da terra abençoadas. A checagem confirma a narrativa, sem certificar etimologia histórica ou promessa divina.",
+      "sources": [
+        "rel-gen17",
+        "rel-gen12"
+      ]
+    },
+    {
+      "cueStart": 831,
+      "cueEnd": 840,
+      "title": "Todas as esposas dos patriarcas eram estéreis",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Gênesis descreve dificuldades de Sara, Rebeca e Raquel, mas não de todas as esposas e concubinas de Abraão e Jacó. A inclusão universal apaga, por exemplo, Lia, Bila e Zilpa.",
+      "sources": [
+        "rel-gen29",
+        "rel-gen30"
+      ]
+    },
+    {
+      "cueStart": 844,
+      "cueEnd": 850,
+      "title": "Isaías diz casa de oração para todos os povos",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "A formulação consta de Isaías 56:7. A passagem reconhece alcance para além de Israel no seu contexto literário; não prova por si a teologia cristã da aliança.",
+      "sources": [
+        "rel-isa56"
+      ]
+    },
+    {
+      "cueStart": 851,
+      "cueEnd": 871,
+      "title": "Abraão não conhecia o nome divino, revelado primeiro a Moisés",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Êxodo 6:2–3 apresenta essa distinção, mas Gênesis 15:7 já põe o nome YHWH na fala a Abraão e Gênesis 12:8 o mostra invocado. A afirmação absoluta requer enfrentar essa tensão textual e as interpretações da passagem.",
+      "sources": [
+        "rel-ex6",
+        "rel-gen15",
+        "rel-gen12"
+      ]
+    },
+    {
+      "cueStart": 879,
+      "cueEnd": 883,
+      "title": "A legenda identifica Nínive como capital da Síria",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "Nínive foi capital da Assíria, na região da atual Mosul, no Iraque. Síria e Assíria não são denominações intercambiáveis nessa referência. Como a diferença pode resultar do reconhecimento automático de uma palavra muito semelhante, não se atribui erro comprovado ao debatedor sem áudio.",
+      "sources": [
+        "rel-nineveh"
+      ]
+    },
+    {
+      "cueStart": 884,
+      "cueEnd": 922,
+      "title": "Cristianismo como graça e não mérito",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Exposição soteriológica e comparação confessional. Não se declara empiricamente salva ou condenada uma pessoa por adesão religiosa.",
+      "sources": []
+    },
+    {
+      "cueStart": 952,
+      "cueEnd": 974,
+      "title": "Pluralidade de interpretações rabínicas e monoteísmo",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Caracterização da identidade e do valor do debate religioso; o exemplo de divergência na mesa não estabelece superioridade de uma tradição.",
+      "sources": []
+    },
+    {
+      "cueStart": 1022,
+      "cueEnd": 1040,
+      "title": "Debates antigos resolveram definitivamente as controvérsias",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Avaliação sobre a autoridade dos sábios e relevância contemporânea do debate; não se supõe solução factual universal de questões confessionais.",
+      "sources": []
+    },
+    {
+      "cueStart": 1056,
+      "cueEnd": 1100,
+      "title": "Daniel 9 fixa exatamente a entrada de Jesus em março do ano 32",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Inconclusivo",
+      "explanation": "Daniel 9:24–27 não nomeia Jesus nem fornece datas do calendário moderno. Robert Anderson propôs 14/03/445 a.C. a 06/04/32 usando anos proféticos de 360 dias e escolhas de cronologia; isso identifica um modelo interpretativo, não registros contemporâneos que confirmem dia exato. A legenda traz março no segundo extremo e pode conter troca de mês; não foi feita validação acústica.",
+      "sources": [
+        "rel-dan9",
+        "rel-anderson"
+      ]
+    },
+    {
+      "cueStart": 1121,
+      "cueEnd": 1134,
+      "title": "Deus ilimitado pode se tornar limitado e encarnado",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Argumento metafísico e interpretação cristológica. Não é questão resolvida por medição empírica ou simples análise de uma frase.",
+      "sources": []
+    },
+    {
+      "cueStart": 1147,
+      "cueEnd": 1158,
+      "title": "Tradição judaica enumera 613 preceitos e sete leis para não judeus",
+      "speaker": "Micha Gamerman",
+      "verdict": "Verdadeiro",
+      "explanation": "Makkot 23b transmite a enumeração de 613 mandamentos; Sanhedrin 56a enumera sete leis noéticas. A contagem é uma tradição interpretativa, não uma lista numerada literalmente no Pentateuco.",
+      "sources": [
+        "rel-makkot23",
+        "rel-sanhedrin56"
+      ]
+    },
+    {
+      "cueStart": 1157,
+      "cueEnd": 1160,
+      "title": "Dois terços dos 613 preceitos não podem ser cumpridos hoje",
+      "speaker": "Micha Gamerman",
+      "verdict": "Inconclusivo",
+      "explanation": "Muitos dependem do templo, sacerdócio, território e condição pessoal, mas não foi apresentada lista e método que sustentem a fração exata. A impossibilidade individual de cumprir preceitos destinados a outra categoria não equivale a violação moral.",
+      "sources": []
+    },
+    {
+      "cueStart": 1183,
+      "cueEnd": 1200,
+      "title": "Da diáspora babilônica ao segundo templo se passaram 490 anos",
+      "speaker": "Micha Gamerman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A destruição de Jerusalém por Nabucodonosor é usualmente datada de 586/587 a.C., e a conclusão do segundo templo de 516/515 a.C., cerca de setenta anos depois. Os 490 anos são uma interpretação das setenta semanas de Daniel e não esse intervalo histórico literal.",
+      "sources": [
+        "rel-temple-history",
+        "rel-dan9"
+      ]
+    },
+    {
+      "cueStart": 1207,
+      "cueEnd": 1240,
+      "title": "Ciro é chamado de ungido em Isaías",
+      "speaker": "Micha Gamerman",
+      "verdict": "Verdadeiro",
+      "explanation": "Isaías 45:1 chama Ciro de ungido. O uso mostra que mashiach não identifica automaticamente o salvador escatológico de uma tradição; não decide, por si, quem é o ungido de Daniel 9.",
+      "sources": [
+        "rel-isa45"
+      ]
+    },
+    {
+      "cueStart": 1241,
+      "cueEnd": 1245,
+      "title": "Isaías chama Ciro apenas servo e não ungido",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Isaías 45:1 usa ungido para Ciro; Isaías 44:28 também o chama pastor. A ressalva da interrupção não elimina a referência explícita. A autoria não foi atribuída pela legenda sem diarização.",
+      "sources": [
+        "rel-isa45",
+        "rel-isa44"
+      ]
+    },
+    {
+      "cueStart": 1291,
+      "cueEnd": 1296,
+      "title": "Judaísmo como anterior a todas as religiões",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "A fala apresenta o judaísmo como fato de revelação no Sinai, exprimindo uma concepção religiosa de identidade e origem. Essa prioridade teológica não foi julgada empiricamente. Os cultos documentados do Egito e da Mesopotâmia fornecem contexto histórico, sem decidir a verdade de qualquer revelação.",
+      "sources": [
+        "rel-egypt-religion",
+        "rel-mesopotamia-religion"
+      ]
+    },
+    {
+      "cueStart": 1296,
+      "cueEnd": 1390,
+      "title": "Judaísmo, identidade e valor moral da mensagem de Jesus",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Definições religiosas de judaísmo e avaliação ética de Jesus. A anedota humorística sobre conversão é ilustração retórica, não relato histórico comprovado.",
+      "sources": []
+    },
+    {
+      "cueStart": 1405,
+      "cueEnd": 1436,
+      "title": "Jesus como única lente correta para as escrituras judaicas",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Reivindicação de hermenêutica cristã, que não é um critério neutro para refutar a leitura judaica de seus próprios textos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1443,
+      "cueEnd": 1445,
+      "title": "Gênesis 3:21 descreve vestes de pele para Adão e Eva",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "O versículo menciona vestes de pele para Adão e Eva. A conferência é do conteúdo do texto: ele não narra ali um rito de sacrifício expiatório, e a interpretação tipológica feita em seguida fica fora do placar empírico.",
+      "sources": [
+        "rel-gen3"
+      ]
+    },
+    {
+      "cueStart": 1446,
+      "cueEnd": 1455,
+      "title": "As vestes de pele como antecipação do sacrifício de Cristo",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "A relação entre a roupa de Gênesis 3 e a crucificação é tipologia cristã. O versículo não narra um rito expiatório, e a inferência sobre sacrifício não foi classificada como verdade empírica ou erro de fé.",
+      "sources": [
+        "rel-gen3"
+      ]
+    },
+    {
+      "cueStart": 1458,
+      "cueEnd": 1472,
+      "title": "No Dia da Expiação o sumo sacerdote usava linho em vez das vestes ornamentadas",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Levítico 16:4 prescreve vestes de linho, enquanto Êxodo 28 descreve as peças ornamentadas e doze pedras. Chamá-las roupa de escravo é interpretação; o texto as chama vestes sagradas.",
+      "sources": [
+        "rel-lev16",
+        "rel-ex28"
+      ]
+    },
+    {
+      "cueStart": 1474,
+      "cueEnd": 1535,
+      "title": "Logos e precedência metafísica de Cristo",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Doutrina de encarnação e de eternidade do Logos; não se confundiu reivindicação metafísica com a data histórica do surgimento de uma comunidade cristã.",
+      "sources": []
+    },
+    {
+      "cueStart": 1541,
+      "cueEnd": 1554,
+      "title": "Levítico distingue casas em cidades muradas no jubileu",
+      "speaker": "Micha Gamerman",
+      "verdict": "Verdadeiro",
+      "explanation": "Levítico 25:29–31 distingue o direito de resgate de casas em cidades muradas e em povoações sem muralhas. A exigência de recorrer apenas à Torá oral é uma afirmação de autoridade religiosa separada.",
+      "sources": [
+        "rel-lev25"
+      ]
+    },
+    {
+      "cueStart": 1557,
+      "cueEnd": 1590,
+      "title": "Corte do ungido e fim do império persa em Daniel",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Discussão sobre identificar ungidos e interpretar yikkaret. O texto não nomeia Jesus nem Ciro nesse versículo; as alternativas permanecem leituras exegéticas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1651,
+      "cueEnd": 1662,
+      "title": "Ateísmo decorre de trauma com Deus",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há estudo citado que sustente essa causa universal. Pessoas não religiosas têm histórias e razões variadas; não se inferiu diagnóstico psicológico a partir de ausência de crença.",
+      "sources": []
+    },
+    {
+      "cueStart": 1672,
+      "cueEnd": 1688,
+      "title": "Maimônides atribui a Jesus papel de preparar a era messiânica",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Em Mishneh Torah, Reis e Guerras 11, no trecho preservado em edições não censuradas, Maimônides descreve cristianismo e islamismo como parte da preparação do mundo para o Messias. O mesmo capítulo rejeita Jesus como Messias e critica consequências históricas; a formulação não é endosso da teologia cristã.",
+      "sources": [
+        "rel-maimonides-kings11"
+      ]
+    },
+    {
+      "cueStart": 1707,
+      "cueEnd": 1713,
+      "title": "Noventa e nove por cento dos seguidores de Dudu são cristãos",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Inconclusivo",
+      "explanation": "Sem dados de perfil religioso de seguidores, método de coleta e universo, o percentual da audiência pessoal não foi auditado.",
+      "sources": []
+    },
+    {
+      "cueStart": 1715,
+      "cueEnd": 1750,
+      "title": "Morte pelos pecados e moralidade no presente",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Comparação ética e religiosa entre sofrimento, expiação e comportamento. Não se determina a validade de uma doutrina por analogia com outras vítimas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1760,
+      "cueEnd": 1780,
+      "title": "No judaísmo não existe perdão sem sangue",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Levítico 17:11 relaciona sangue e expiação, mas Levítico 5:11–13 admite oferta de farinha para o pobre e promete perdão. A tradição também dá papel ao arrependimento; a frase absoluta não descreve todas as regras do texto.",
+      "sources": [
+        "rel-lev17",
+        "rel-lev5",
+        "rel-maimonides-teshuva1"
+      ]
+    },
+    {
+      "cueStart": 1786,
+      "cueEnd": 1795,
+      "title": "João Batista era sumo sacerdote ao apontar o cordeiro",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Lucas 1:5 situa Zacarias na divisão sacerdotal de Abias, mas não diz que João ocupou o sumo sacerdócio. João 1:29 registra a imagem do cordeiro sem atribuir a ele esse cargo.",
+      "sources": [
+        "rel-luke1",
+        "rel-john1"
+      ]
+    },
+    {
+      "cueStart": 1805,
+      "cueEnd": 1827,
+      "title": "Dez mandamentos e 603 normas restantes",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A diferença aritmética é correta dentro da tradição que conta 613 preceitos. Essa contagem não significa que todos tenham a mesma aplicabilidade pessoal nem que os dez sejam os únicos centrais para todas as leituras judaicas.",
+      "sources": [
+        "rel-makkot23"
+      ]
+    },
+    {
+      "cueStart": 1866,
+      "cueEnd": 1873,
+      "title": "Dudu afirma ter ido a Israel mais de setenta vezes",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Inconclusivo",
+      "explanation": "O número de viagens pessoais exigiria documentação biográfica; não foi verificado em registros de deslocamento.",
+      "sources": []
+    },
+    {
+      "cueStart": 1881,
+      "cueEnd": 2110,
+      "title": "Comparações com Hamas e consequências da fé",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Discussão normativa, analogias e conflito de interpretação entre os participantes. Não se generalizou uma ação violenta a todos os cristãos, judeus ou muçulmanos.",
+      "sources": []
+    },
+    {
+      "cueStart": 2033,
+      "cueEnd": 2041,
+      "title": "Noventa e nove por cento dos brasileiros se consideram cristãos",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Censo 2010, disponível na data do debate, já registrava proporção expressiva de pessoas sem religião e de outras tradições, incompatível com 99% de cristãos. A cifra pode ter caráter retórico, mas não é estatística nacional.",
+      "sources": [
+        "rel-ibge2010"
+      ]
+    },
+    {
+      "cueStart": 2110,
+      "cueEnd": 2120,
+      "title": "Dois terços dos 603 mandamentos de Deuteronômio são impossíveis",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A enumeração tradicional é de 613 preceitos no conjunto da Torá, não 603 só em Deuteronômio. A impossibilidade de realizar ritos sem o templo precisa distinguir obrigação por categoria e não comprova condenação de todo judeu.",
+      "sources": [
+        "rel-makkot23"
+      ]
+    },
+    {
+      "cueStart": 2129,
+      "cueEnd": 2142,
+      "title": "Josias rasgou as vestes e seu filho cortou o rolo",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "2 Reis 22:11 relata o gesto de Josias; Jeremias 36:23 narra Jeoaquim cortando e queimando o rolo. A conclusão de que toda reforma externa fracassa é interpretação causal não estabelecida por esses episódios.",
+      "sources": [
+        "rel-2kings22",
+        "rel-jer36"
+      ]
+    },
+    {
+      "cueStart": 2181,
+      "cueEnd": 2237,
+      "title": "Querubins e promessas do Êxodo cumpridos na cruz",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Leitura tipológica cristã. O significado dos querubins como julgamento e de Êxodo 6 como promessa sobre a cruz não é interpretação histórica ou judaica única verificável.",
+      "sources": []
+    },
+    {
+      "cueStart": 2245,
+      "cueEnd": 2298,
+      "title": "Arrependimento, sacrifício e cumprimento dos mandamentos",
+      "speaker": "Micha Gamerman",
+      "verdict": "opinion",
+      "explanation": "Exposição da interpretação judaica de expiação e obrigação. A revisão não decide qual sistema soteriológico é religiosamente verdadeiro.",
+      "sources": []
+    },
+    {
+      "cueStart": 2304,
+      "cueEnd": 2322,
+      "title": "Novo Testamento promete outro redentor que alguns identificam com Maomé",
+      "speaker": "Micha Gamerman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "João 14:16–17 fala de outro Paráclito ou defensor e o próprio texto o identifica como Espírito da verdade; João 14:26 diz Espírito Santo. A identificação com Maomé é leitura inter-religiosa posterior e não o nome explícito da passagem.",
+      "sources": [
+        "rel-john14"
+      ]
+    },
+    {
+      "cueStart": 2342,
+      "cueEnd": 2359,
+      "title": "Mateus, Efésios, Colossenses, Romanos e Tiago trazem formulações distintas sobre lei e obras",
+      "speaker": "Micha Gamerman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "As expressões citadas existem em Mateus 5:17–18, Efésios 2:15, Colossenses 2:14, Romanos 3:28 e Tiago 2:24. Em Colossenses a imagem é de documento de dívida; concluir contradição insolúvel ou harmonização pertence à exegese.",
+      "sources": [
+        "rel-mat5",
+        "rel-eph2",
+        "rel-col2",
+        "rel-rom3",
+        "rel-james2"
+      ]
+    },
+    {
+      "cueStart": 2401,
+      "cueEnd": 2440,
+      "title": "Vivência de Deus e limites do debate meramente textual",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Posicionamento pessoal sobre religião, autenticidade e prioridades. Não se avaliou a experiência subjetiva do divino como fato comprovável.",
+      "sources": []
+    },
+    {
+      "cueStart": 2441,
+      "cueEnd": 2449,
+      "title": "Os sete pecados capitais são uma enumeração cristã posterior a Jesus",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Os evangelhos não trazem uma lista de sete pecados capitais. A tradição cristã sistematizou a enumeração a partir de autores como Cassiano e Gregório Magno, conforme o Catecismo 1866. Não são categorias simplesmente inexistentes na ética judaica.",
+      "sources": [
+        "rel-capital-sins"
+      ]
+    },
+    {
+      "cueStart": 2451,
+      "cueEnd": 2510,
+      "title": "Ética prática e críticas à religiosidade nominal",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Juízo sobre comportamento e educação religiosa, sem pesquisa que sustente a causalidade universal atribuída a uma doutrina.",
+      "sources": []
+    },
+    {
+      "cueStart": 2525,
+      "cueEnd": 2535,
+      "title": "Malaquias 3:1 descreve vinda do Senhor a seu templo",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "O texto contém a imagem do mensageiro e do Senhor vindo ao templo. A identificação de Jesus e de uma data a partir disso é interpretação cristã, não nomeação explícita na passagem.",
+      "sources": [
+        "rel-mal3"
+      ]
+    },
+    {
+      "cueStart": 2541,
+      "cueEnd": 2574,
+      "title": "Personagens da Bíblia como prefigurações de Cristo",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "opinion",
+      "explanation": "Leitura tipológica confessional de Adão, Abel e patriarcas. Não há teste factual que imponha essa leitura como única.",
+      "sources": []
+    },
+    {
+      "cueStart": 2576,
+      "cueEnd": 2591,
+      "title": "O judaísmo caraíta existe e não aceita a autoridade normativa da Torá oral",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "Comunidades caraítas contemporâneas existem e distinguem sua prática do judaísmo rabínico. A negação de sua existência foi corrigida na própria conversa. Não são apenas um grupo extinto na Antiguidade.",
+      "sources": [
+        "rel-karaites",
+        "rel-karaites-present"
+      ]
+    },
+    {
+      "cueStart": 2583,
+      "cueEnd": 2589,
+      "title": "Caraítas existem há dois mil anos e hoje seriam só cem pessoas",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Daniel Lasker situa o movimento organizado na Alta Idade Média e estima até dezenas de milhares de adeptos contemporâneos, com raízes históricas discutidas. Portanto, dois mil anos e apenas cem pessoas não são boa síntese dessa documentação. O número surge em interrupção e não foi atribuído individualmente.",
+      "sources": [
+        "rel-karaites-present"
+      ]
+    },
+    {
+      "cueStart": 2602,
+      "cueEnd": 2620,
+      "title": "O ano judaico ou bíblico tem exatamente 360 dias",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Um ano comum do calendário hebraico tem 353–355 dias, e o embolísmico 383–385. O ano de 360 dias é convenção usada em certos cálculos proféticos, não descrição geral do calendário judaico. A própria mesa corrige a distinção com 354 dias aproximados.",
+      "sources": [
+        "rel-jewish-calendar"
+      ]
+    },
+    {
+      "cueStart": 2621,
+      "cueEnd": 2630,
+      "title": "Manuscritos do Mar Morto provam que Daniel foi escrito antes de Jesus",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Fragmentos de Daniel em Qumran são anteriores ou contemporâneos ao início da era cristã e afastam uma redação cristã posterior de todo o livro. Não resolvem a data de cada camada nem demonstram que a interpretação das semanas aponta a Jesus.",
+      "sources": [
+        "rel-dss-daniel"
+      ]
+    },
+    {
+      "cueStart": 2631,
+      "cueEnd": 2634,
+      "title": "Jeremias 31:31 promete uma nova aliança",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "A expressão aparece no texto e se dirige à casa de Israel e à casa de Judá. Sua identificação com o conjunto de livros cristãos chamado Novo Testamento é interpretação posterior.",
+      "sources": [
+        "rel-jer31"
+      ]
+    },
+    {
+      "cueStart": 2667,
+      "cueEnd": 2711,
+      "title": "Era messiânica, paz, doença e fim do pecado",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os próprios rabinos apresentam entendimentos distintos. A realização futura e sobrenatural não é fato verificável; não se certificou consenso de todas as tradições judaicas sobre seus detalhes.",
+      "sources": []
+    },
+    {
+      "cueStart": 2718,
+      "cueEnd": 2726,
+      "title": "Os sinais e a cantilação do texto foram dados a Moisés no Sinai",
+      "speaker": "Micha Gamerman",
+      "verdict": "opinion",
+      "explanation": "A atribuição divina da tradição de leitura é confessional. Deve ser distinguida da história material dos sinais massoréticos preservados em manuscritos medievais.",
+      "sources": []
+    },
+    {
+      "cueStart": 2731,
+      "cueEnd": 2741,
+      "title": "A conta das 62 semanas de anos e a cifra 420 na legenda",
+      "speaker": "Micha Gamerman",
+      "verdict": "Inconclusivo",
+      "explanation": "A conta matemática é 62 × 7 = 434, não 420. O registro contém interrupções e números potencialmente trocados; sem validação acústica não é possível concluir que o debatedor realmente apresentou 420 como esse produto. A revisão não usa a divergência isolada da legenda como erro comprovado.",
+      "sources": [
+        "rel-dan9"
+      ]
+    },
+    {
+      "cueStart": 2752,
+      "cueEnd": 2770,
+      "title": "Jeremias fala de uma nova oportunidade e foi lançado num poço",
+      "speaker": "Micha Gamerman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Jeremias 31 contém a promessa de nova aliança e Jeremias 38 narra sua descida à cisterna. Definir a aliança exclusivamente como renovação ou como livros cristãos excede a conferência textual.",
+      "sources": [
+        "rel-jer31",
+        "rel-jer38"
+      ]
+    },
+    {
+      "cueStart": 2771,
+      "cueEnd": 2797,
+      "title": "Pluralidade de interpretações e humildade perante os sábios",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Avaliação sobre método, autoridade e interpretação. Não recebe placar factual por preferência religiosa.",
+      "sources": []
+    },
+    {
+      "cueStart": 2800,
+      "cueEnd": 2810,
+      "title": "Rabi Judá HaNasi compilou a Mishná e dialogou com Antonino",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A tradição associa Judá HaNasi à redação da Mishná e o Talmude narra diálogos com Antonino. A identificação histórica exata desse Antonino é discutida, e Judá não foi autor de todo o Talmude, compilado depois.",
+      "sources": [
+        "rel-avodah10",
+        "rel-mishnah-history"
+      ]
+    },
+    {
+      "cueStart": 2811,
+      "cueEnd": 2821,
+      "title": "Baal Shem Tov preferia um cocheiro que fazia o sinal da cruz",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Inconclusivo",
+      "explanation": "A anedota não foi localizada com obra, edição e página que permitam confirmar seu teor. Ela foi tratada como tradição ilustrativa, sem certificar um episódio biográfico preciso.",
+      "sources": []
+    },
+    {
+      "cueStart": 2833,
+      "cueEnd": 2961,
+      "title": "Interpretação em hebraico e pertencimento ao Antigo Testamento",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Debate hermenêutico sobre autoridade e identidade do cânone, sem exclusividade empírica conferida a uma tradição.",
+      "sources": []
+    },
+    {
+      "cueStart": 2977,
+      "cueEnd": 2983,
+      "title": "A genealogia de Lucas é explicitamente de Maria e a de Mateus de José",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Mateus 1 e Lucas 3 apresentam genealogias diferentes e ambos nomeiam José. Identificar a linha de Lucas como genealogia de Maria é uma harmonização tradicional, não uma informação explicitamente declarada no texto.",
+      "sources": [
+        "rel-mat1",
+        "rel-luke3"
+      ]
+    },
+    {
+      "cueStart": 2991,
+      "cueEnd": 3017,
+      "title": "Um exame genético de Jesus mostraria cromossomos de José",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Hipótese milagrosa sobre genética não sustentada por amostra ou evidência empírica. A crença no nascimento virginal não permite prever cientificamente um genoma histórico não disponível.",
+      "sources": []
+    },
+    {
+      "cueStart": 3001,
+      "cueEnd": 3017,
+      "title": "Adoção por José transferiria automaticamente a tribo judaica",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Adoção e cuidado parental não equivalem à transmissão automática de linhagem tribal ou de estatuto sacerdotal no judaísmo rabínico. A reivindicação cristã de filiação legal não elimina essa distinção de normas.",
+      "sources": [
+        "rel-adoption-tribe"
+      ]
+    },
+    {
+      "cueStart": 3028,
+      "cueEnd": 3036,
+      "title": "A apresentação com pombas ocorreu no oitavo dia",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Lucas 2:21 menciona circuncisão no oitavo dia; a apresentação e a oferta aparecem depois, ao se completarem os dias de purificação. Levítico 12 distingue o oitavo dia e o período posterior de 33 dias, totalizando quarenta.",
+      "sources": [
+        "rel-luke2",
+        "rel-lev12"
+      ]
+    },
+    {
+      "cueStart": 3034,
+      "cueEnd": 3040,
+      "title": "A legenda atribui Jesus à tribo de Levi",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Inconclusivo",
+      "explanation": "Hebreus 7:14 afirma que Jesus procede de Judá. Levi na legenda diverge também do argumento davídico desenvolvido pelo próprio falante nesse trecho. Como pode haver troca no reconhecimento de fala, a divergência documental é registrada sem certificar que ele afirmou essa conclusão.",
+      "sources": [
+        "rel-heb7"
+      ]
+    },
+    {
+      "cueStart": 3041,
+      "cueEnd": 3083,
+      "title": "Filiação adotiva não transfere a tribo do pai na norma judaica",
+      "speaker": "Micha Gamerman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A halakhá distingue os efeitos familiares da adoção e a linhagem biológica para identidade tribal e sacerdotal. A formulação é compatível com essa distinção, mas casos de conversão e prova de parentesco exigem normas próprias.",
+      "sources": [
+        "rel-adoption-tribe"
+      ]
+    },
+    {
+      "cueStart": 3105,
+      "cueEnd": 3110,
+      "title": "O Talmude identifica José, pai de Jesus, como romano",
+      "speaker": "Micha Gamerman",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há indicação de tratado e passagem. Tradições polêmicas sobre Yeshu, Ben Stada e Pandera têm identificação e cronologia discutidas e não certificam biografia de José ou origem de Jesus. A atribuição específica não foi comprovada.",
+      "sources": []
+    },
+    {
+      "cueStart": 3112,
+      "cueEnd": 3165,
+      "title": "Suspeita de adultério e gravidez de Maria",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A conversa formula hipóteses concorrentes a partir de Mateus 1. O texto não é prova independente de adultério nem da origem sobrenatural da gravidez; não se converteu a conjectura polêmica em fato.",
+      "sources": []
+    },
+    {
+      "cueStart": 3171,
+      "cueEnd": 3191,
+      "title": "Jeremias 22 contém a restrição à descendência de Jeconias no trono",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "Jeremias 22:24–30 contém a formulação citada sobre Jeconias e descendentes no trono de Davi. A adoção como solução para uma genealogia cristã é interpretação, não conclusão literal desses versos.",
+      "sources": [
+        "rel-jer22"
+      ]
+    },
+    {
+      "cueStart": 3200,
+      "cueEnd": 3253,
+      "title": "IA conteria toda informação e seria superior à inteligência humana",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O debate não define sistema, versão, tarefa e medida de inteligência. Memória, capacidade de conexão e correção factual não são equivalentes, e uma afirmação de superioridade geral não foi demonstrada por teste.",
+      "sources": []
+    },
+    {
+      "cueStart": 3254,
+      "cueEnd": 3321,
+      "title": "Há oito inteligências e IA escreveria melhor que 99% das pessoas",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A taxonomia de inteligências é um modelo teórico, não uma medição única de desempenho. O percentual sobre escritores vem sem amostra ou avaliação cega e não foi tratado como resultado empírico.",
+      "sources": []
+    },
+    {
+      "cueStart": 3331,
+      "cueEnd": 3559,
+      "title": "Tecnologia, emoção e aplicação pessoal da religião",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Reflexões sobre trabalho, criatividade, alma, futuro e valor das experiências. Não foram tratadas previsões e opiniões estéticas como fatos comprovados.",
+      "sources": []
+    },
+    {
+      "cueStart": 3579,
+      "cueEnd": 3590,
+      "title": "O judaísmo nunca foi proselitista",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A prática rabínica atual não busca conversão em massa, mas o universal nunca ignora conversões e debates históricos sobre expansão judaica, inclusive sob os hasmoneus. Não se inferiu continuidade uniforme de uma atitude ao longo de milênios.",
+      "sources": [
+        "rel-josephus13"
+      ]
+    },
+    {
+      "cueStart": 3601,
+      "cueEnd": 3668,
+      "title": "Diversidade, autenticidade e exatidão da informação de IA",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Avaliação sobre o propósito do programa e valor das experiências. A referência à exatidão de IA não é um teste documentado de seu desempenho.",
+      "sources": []
+    },
+    {
+      "cueStart": 3677,
+      "cueEnd": 3688,
+      "title": "Só países de matriz cristã admitem debates e Israel proíbe discutir Jesus como Messias",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O relatório de liberdade religiosa de 2023 descreve proteção jurídica de religião e culto em Israel e restrições específicas a indução material e conversão de menores. Não há nele a proibição geral de discutir Jesus como Messias alegada na fala. Isso tampouco prova ausência de intimidação ou restrições práticas, registradas no próprio documento.",
+      "sources": [
+        "rel-israel-religious-freedom",
+        "rel-israel-law"
+      ]
+    },
+    {
+      "cueStart": 3695,
+      "cueEnd": 3719,
+      "title": "Jesus cumpriu mais de trinta profecias ou não cumpriu nenhuma",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "As contagens dependem de cânone e critérios exegéticos. Não se decidiu a identidade messiânica por adotar a leitura cristã ou judaica como premissa neutra.",
+      "sources": []
+    },
+    {
+      "cueStart": 3725,
+      "cueEnd": 3732,
+      "title": "A datação de Akiva e Bar Kokhba na legenda",
+      "speaker": "Micha Gamerman",
+      "verdict": "Inconclusivo",
+      "explanation": "A revolta de Bar Kokhba ocorreu em 132–135 d.C., no século II, e Maimônides preserva a tradição de que Akiva o tomou pelo Messias. O século I registrado é incompatível com essa cronologia, mas a troca isolada pode ser de reconhecimento automático; sem áudio, não se certifica erro do falante.",
+      "sources": [
+        "rel-maimonides-kings11",
+        "rel-bar-kokhba"
+      ]
+    },
+    {
+      "cueStart": 3745,
+      "cueEnd": 3765,
+      "title": "A missão aos gentios começou exatamente três anos e meio depois e Cornélio era pagão não iniciado",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Atos 10–11 descreve Cornélio como temente a Deus, generoso e dedicado à oração, não como totalmente alheio ao judaísmo. O relato não fixa o intervalo de três anos e meio desde Pentecostes.",
+      "sources": [
+        "rel-acts10",
+        "rel-acts11"
+      ]
+    },
+    {
+      "cueStart": 3775,
+      "cueEnd": 3782,
+      "title": "Deus ordenou a Elias ungir Hazael rei da Síria",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "1 Reis 19:15 contém a instrução para ungir Hazael rei de Aram, usualmente traduzido Síria. A leitura do episódio como sinal da universalidade divina é teológica.",
+      "sources": [
+        "rel-1kings19"
+      ]
+    },
+    {
+      "cueStart": 3795,
+      "cueEnd": 3801,
+      "title": "Jonas produziu o maior avivamento de toda a história humana",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram definidos avivamento, período e métrica de comparação. A narrativa de Jonas descreve conversão em Nínive, mas não demonstra um ranking histórico universal.",
+      "sources": []
+    },
+    {
+      "cueStart": 3801,
+      "cueEnd": 3806,
+      "title": "O parentesco de Rute com Davi numa frase interrompida",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Rute 4:17 e 4:21–22 a apresentam como bisavó de Davi: mãe de Obed e avó de Jessé. A legenda parece registrar mãe seguida de correção ou interrupção sem completar a frase. Não há base suficiente para imputar a alguém a afirmação final de que seria a mãe de Davi.",
+      "sources": [
+        "rel-ruth4"
+      ]
+    },
+    {
+      "cueStart": 3807,
+      "cueEnd": 3814,
+      "title": "A academia reconhece cerca de trezentas profecias cumpridas em Jesus",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificada instituição, revisão acadêmica ou critério comum de contagem. Listas apologéticas de profecias não equivalem a consenso histórico sobre cumprimento sobrenatural.",
+      "sources": []
+    },
+    {
+      "cueStart": 3851,
+      "cueEnd": 4059,
+      "title": "Conversão, transformação do caráter e salvação",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Discussão pastoral e doutrinal. Não foi inferido comportamento moral de todos os fiéis ou verificada a vida eterna a partir de declarações de crença.",
+      "sources": []
+    },
+    {
+      "cueStart": 4061,
+      "cueEnd": 4070,
+      "title": "Um percentual gigante dos rabinos de São Paulo é maçom",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Inconclusivo",
+      "explanation": "Sem cadastro verificável, denominador e critério de filiação, não há base para quantificar afiliação privada de líderes religiosos. A afirmação não foi estendida a rabinos nominalmente identificados.",
+      "sources": []
+    },
+    {
+      "cueStart": 4092,
+      "cueEnd": 4100,
+      "title": "Nicodemos era líder de sinagoga e perguntou sobre vida eterna",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "João 3:1 o chama fariseu e autoridade dos judeus; não identifica ali chefia de uma sinagoga. O diálogo versa sobre nascer de novo e reino de Deus; a fala resume e reclassifica seu cargo.",
+      "sources": [
+        "rel-john3"
+      ]
+    },
+    {
+      "cueStart": 4102,
+      "cueEnd": 4115,
+      "title": "A ressurreição é anterior a Jesus e integra os treze princípios de Maimônides",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Daniel 12:2 já menciona ressurreição dos mortos, e ela integra os treze princípios sistematizados por Maimônides no século XII. É preciso separar a antiguidade da crença da data da lista; o trecho não autoriza projetar a enumeração medieval inteira para antes de Jesus.",
+      "sources": [
+        "rel-dan12",
+        "rel-maimonides-sanhedrin"
+      ]
+    },
+    {
+      "cueStart": 4106,
+      "cueEnd": 4114,
+      "title": "Saduceus negavam ressurreição",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "Essa posição é atribuída aos saduceus em Atos 23:8 e por Josefo em Antiguidades XVIII,1,4. A comparação direta com movimentos reformistas atuais é anacrônica e não foi adotada.",
+      "sources": [
+        "rel-acts23",
+        "rel-josephus18"
+      ]
+    },
+    {
+      "cueStart": 4121,
+      "cueEnd": 4152,
+      "title": "Números narra a serpente erguida por Moisés e João a relaciona a Jesus",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "Números 21:8–9 contém a narrativa da serpente de bronze e João 3:14–15 a retoma. A ocorrência dos textos não comprova o milagre nem impõe uma única interpretação de sua tipologia.",
+      "sources": [
+        "rel-num21",
+        "rel-john3"
+      ]
+    },
+    {
+      "cueStart": 4153,
+      "cueEnd": 4255,
+      "title": "Salvação pessoal, alma divina e visão de Jesus",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Concepções religiosas de alma, expiação, filiação divina e valor moral de Jesus; não recebem confirmação empírica.",
+      "sources": []
+    },
+    {
+      "cueStart": 4242,
+      "cueEnd": 4249,
+      "title": "O Talmude comprova Jesus como rabino rebelde",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica passagem. Textos rabínicos sobre Yeshu são tardios e sua identificação com Jesus histórico é discutida; não servem isoladamente para certificar essa biografia.",
+      "sources": [
+        "rel-schafer"
+      ]
+    },
+    {
+      "cueStart": 4284,
+      "cueEnd": 4344,
+      "title": "Graça, escravidão ao pecado e santificação",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Doutrina sobre causalidade espiritual e mudança moral, sem demonstração empírica de resultado universal de conversão.",
+      "sources": []
+    },
+    {
+      "cueStart": 4352,
+      "cueEnd": 4370,
+      "title": "Quase todos os nordestinos são judeus por descendência de cristãos novos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A presença histórica de cristãos novos no Nordeste não quantifica a ascendência de quase toda a população. Ascendência genealógica, identificação religiosa e estatuto comunitário são categorias diferentes; faltam base e definição para a generalização.",
+      "sources": []
+    },
+    {
+      "cueStart": 4371,
+      "cueEnd": 4374,
+      "title": "A primeira sinagoga das Américas foi em Recife",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "Kahal Zur Israel, formada no período neerlandês do Recife, é reconhecida como a primeira sinagoga documentada das Américas pelo cadastro oficial MuseusBr.",
+      "sources": [
+        "rel-recife-synagogue"
+      ]
+    },
+    {
+      "cueStart": 4381,
+      "cueEnd": 4390,
+      "title": "Judeus expulsos de Recife fundaram Nova York",
+      "speaker": "Dudu Levinzon",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Refugiados judeus chegaram em 1654 a Nova Amsterdã já existente e formaram a primeira comunidade judaica duradoura local. Sua contribuição não equivale à fundação da cidade.",
+      "sources": [
+        "rel-loc-newyork"
+      ]
+    },
+    {
+      "cueStart": 4392,
+      "cueEnd": 4519,
+      "title": "Era messiânica, conversão ao judaísmo e missão religiosa",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Exposição de crença e prática comunitária, com avaliação do propósito do debate. Não se estabelece a verdade de uma era futura nem superioridade espiritual de uma tradição.",
+      "sources": []
+    },
+    {
+      "cueStart": 4568,
+      "cueEnd": 4599,
+      "title": "O que se pode conhecer de Deus e Deuteronômio 29",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "opinion",
+      "explanation": "Regra confessional sobre revelação. A formulação de Deuteronômio não é prova de que todo conhecimento possível de Deus se limite ao conjunto de textos aceito pelo debatedor.",
+      "sources": []
+    },
+    {
+      "cueStart": 4602,
+      "cueEnd": 4620,
+      "title": "Gênesis usa façamos e desçamos em falas divinas",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "As formas plurais aparecem em Gênesis 1:26 e 11:7; em 1:27 o verbo criar aparece no singular. A gramática não determina sozinha se a leitura correta é trinitária, conselho divino ou outro recurso literário.",
+      "sources": [
+        "rel-gen1",
+        "rel-gen11"
+      ]
+    },
+    {
+      "cueStart": 4621,
+      "cueEnd": 4680,
+      "title": "Nova aliança, reino de Daniel e retorno de Jesus",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "opinion",
+      "explanation": "Articulação tipológica e escatológica cristã. A identificação do reino e da nova aliança depende da hermenêutica adotada.",
+      "sources": []
+    },
+    {
+      "cueStart": 4683,
+      "cueEnd": 4734,
+      "title": "Pronúncia do nome divino e mandamento de não o carregar em vão",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Discussão sobre norma religiosa e alcance de um verbo hebraico. A tradição de evitar pronúncia não pode ser julgada erro moral por uma tradução concorrente.",
+      "sources": []
+    },
+    {
+      "cueStart": 4735,
+      "cueEnd": 4758,
+      "title": "Elohim é um adjetivo que significa literalmente poderes",
+      "speaker": "Micha Gamerman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Elohim é substantivo de forma plural que pode designar Deus, deuses ou seres divinos conforme o contexto; quando designa o Deus de Israel frequentemente rege verbo singular. Poderes é uma explicação teológica, não a única tradução lexical literal nem sua classe gramatical.",
+      "sources": [
+        "rel-elohim"
+      ]
+    },
+    {
+      "cueStart": 4782,
+      "cueEnd": 4817,
+      "title": "Conselho divino e origem da linguagem trinitária",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Interpretações religiosas concorrentes de plurais e de anjos. A revisão não escolhe uma metafísica como fato.",
+      "sources": []
+    },
+    {
+      "cueStart": 4813,
+      "cueEnd": 4820,
+      "title": "A Trindade só surgiu trezentos anos depois de Jesus",
+      "speaker": "Micha Gamerman",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A linguagem e a formulação conciliar se desenvolveram ao longo dos primeiros séculos, mas Tertuliano já usa linguagem trinitária antes de Niceia (325), e Mateus 28:19 traz a fórmula Pai, Filho e Espírito Santo. Não é correto tratar toda a ideia como invenção instantânea trezentos anos depois.",
+      "sources": [
+        "rel-tertullian-praxeas",
+        "rel-mat28"
+      ]
+    },
+    {
+      "cueStart": 4837,
+      "cueEnd": 4846,
+      "title": "Mateus 28:19 menciona Pai, Filho e Espírito Santo",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A fórmula consta do texto transmitido de Mateus. A palavra Trindade não aparece nesse versículo; a passagem não explicita toda a sistematização dos concílios posteriores.",
+      "sources": [
+        "rel-mat28"
+      ]
+    },
+    {
+      "cueStart": 4883,
+      "cueEnd": 4912,
+      "title": "Tito 2:13 chama Jesus de grande Deus e Salvador",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A World English Bible consultada traz em Tito 2:13 a formulação nosso grande Deus e Salvador, Jesus Cristo, como a leitura citada. A conclusão confere essa tradução; não decide a partir dela a disputa teológica sobre a natureza divina ou todas as possibilidades de tradução da construção grega.",
+      "sources": [
+        "rel-titus2"
+      ]
+    },
+    {
+      "cueStart": 4961,
+      "cueEnd": 4972,
+      "title": "A Bíblia tem mais de 65 mil autorreferências e é única por isso",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A visualização de Chris Harrison e Christoph Römhild popularizou 63.779 referências cruzadas de um conjunto editorial, não 65 mil relações apenas entre os dois testamentos. A contagem depende de edição e critérios e não prova unicidade de toda a literatura nem origem sobrenatural.",
+      "sources": [
+        "rel-bibleviz"
+      ]
+    },
+    {
+      "cueStart": 4975,
+      "cueEnd": 4986,
+      "title": "Deuteronômio 24:16 veda execução de pais por filhos e vice-versa",
+      "speaker": "Micha Gamerman",
+      "verdict": "Verdadeiro",
+      "explanation": "O versículo estabelece responsabilidade pessoal na aplicação de pena de morte. A incompatibilidade com expiação vicária é uma conclusão teológica adicional, não uma frase explícita desse artigo.",
+      "sources": [
+        "rel-deut24"
+      ]
+    },
+    {
+      "cueStart": 5007,
+      "cueEnd": 5024,
+      "title": "5686 manuscritos do Novo Testamento e 99,5% de identidade",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica o levantamento que produz 5.686 nem define o denominador dos 99,5%. Catálogos incluem fragmentos e unidades de extensão desigual; certeza de reconstrução, coincidência entre cópias e veracidade histórica são medidas distintas. Variantes são comprovadas por manuscritos como Bezae, mas esse contraexemplo não calcula por si a porcentagem alegada.",
+      "sources": [
+        "rel-intf",
+        "rel-mark16",
+        "rel-codex-bezae"
+      ]
+    },
+    {
+      "cueStart": 5011,
+      "cueEnd": 5018,
+      "title": "Ilíada teria só 643 cópias, Platão dez e outros autores sete ou oito",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "O quadro não informa catálogo, data, língua, completude nem inclusão de papiros e fragmentos. Comparar números de categorias diferentes não demonstra por si confiabilidade histórica do conteúdo de uma obra.",
+      "sources": []
+    },
+    {
+      "cueStart": 5045,
+      "cueEnd": 5052,
+      "title": "Rolos litúrgicos da Torá seguem um padrão amplamente uniforme",
+      "speaker": "Micha Gamerman",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Torá litúrgica tem alto grau de padronização. A resposta rabínica consultada confirma essa uniformidade, com a ressalva de poucas variantes de letras em rolos iemenitas. A comparação geral não deve ser convertida em identidade absoluta de cada letra de toda cópia, nem em diferença de cânone em cada sinagoga.",
+      "sources": [
+        "rel-yemenite-scrolls"
+      ]
+    },
+    {
+      "cueStart": 5052,
+      "cueEnd": 5065,
+      "title": "Diferenças no Novo Testamento existiriam só nas traduções, não no grego",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "Códice Bezae preserva forma textual distintiva em relação a outros manuscritos gregos; finais e variantes são objeto da crítica textual. As diferenças não se limitam a traduções modernas.",
+      "sources": [
+        "rel-codex-bezae",
+        "rel-mark16"
+      ]
+    },
+    {
+      "cueStart": 5071,
+      "cueEnd": 5090,
+      "title": "Palimpsesto significa material raspado e reutilizado",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Verdadeiro",
+      "explanation": "O termo designa escrita reaproveitada após apagar a anterior. O fato material não prova por si fraude teológica nem identidade absoluta de todos os textos copiados.",
+      "sources": [
+        "rel-palimpsest"
+      ]
+    },
+    {
+      "cueStart": 5081,
+      "cueEnd": 5086,
+      "title": "Códice Bezae é exemplo de palimpsesto",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Inconclusivo",
+      "explanation": "A definição geral de palimpsesto está correta, e o Códice Ephraemi Rescriptus é um exemplo documentalmente identificado desse reaproveitamento. A ficha consultada de Bezae o descreve como códice bilíngue de texto distinto, mas não basta para certificar o reaproveitamento físico alegado. Pode haver troca de nomes na fala ou na legenda.",
+      "sources": [
+        "rel-codex-bezae",
+        "rel-ephraemi"
+      ]
+    },
+    {
+      "cueStart": 5111,
+      "cueEnd": 5130,
+      "title": "Cristãos não sabem hebraico e judeus da sinagoga sabem menos que o pastor",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "As generalizações não vêm acompanhadas de avaliação de proficiência, amostra ou identificação de população. Não se inferiu competência linguística de todos os fiéis por sua religião.",
+      "sources": []
+    },
+    {
+      "cueStart": 5145,
+      "cueEnd": 5155,
+      "title": "Textos antigos têm em média 90% de confiabilidade e o Novo Testamento 99,5%",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há estudo ou definição comparável de confiabilidade que sustente essa média universal. Reconstrução textual, coincidência entre cópias e veracidade histórica são medidas diferentes.",
+      "sources": [
+        "rel-intf"
+      ]
+    },
+    {
+      "cueStart": 5156,
+      "cueEnd": 5246,
+      "title": "Cumprimento da lei, santificação e responsabilidade civil",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Discussão teológica e analogia com tribunais. A fé não foi apresentada como exoneração real de responsabilidade penal, e nenhuma absolvição jurídica foi comprovada pelo diálogo.",
+      "sources": []
+    },
+    {
+      "cueStart": 5261,
+      "cueEnd": 5280,
+      "title": "Todas as religiões necessariamente excluem as demais como falsas",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Tese filosófica sobre verdade e exclusivismo. Religiões e correntes variam na forma de reconhecer outras tradições; não se fez ranking factual de sua legitimidade espiritual.",
+      "sources": []
+    },
+    {
+      "cueStart": 5302,
+      "cueEnd": 5481,
+      "title": "Balanço do debate e proposta de ética inter-religiosa",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Avaliações pessoais sobre o encontro, dogmatismo e a presença de Deus na vida cotidiana; não são estatísticas ou comprovação empírica de crenças.",
+      "sources": []
+    },
+    {
+      "cueStart": 5421,
+      "cueEnd": 5424,
+      "title": "Abraão era chamado hebreu por estar de um lado e o mundo do outro",
+      "speaker": "Dudu Levinzon",
+      "verdict": "opinion",
+      "explanation": "Explicação midráshica e moral do nome, que não foi tratada como etimologia histórica demonstrada.",
+      "sources": []
+    },
+    {
+      "cueStart": 5522,
+      "cueEnd": 5638,
+      "title": "Exposições finais sobre lei, graça e valor de estudar os textos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Sínteses confessionais e considerações éticas registradas sem pretensão de certificação empírica.",
+      "sources": []
+    },
+    {
+      "cueStart": 5647,
+      "cueEnd": 5655,
+      "title": "Luiz Saião teria sofrido AVC na véspera",
+      "speaker": "Sezar Cavalcante",
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda contém um relato de terceiros, sem boletim médico ou manifestação clínica identificada. A pesquisa não encontrou documentação suficiente para certificar o diagnóstico e sua data precisa em relação ao debate. O pedido de oração não foi usado como prova clínica.",
+      "sources": []
+    }
+  ],
+  "coverageNotes": "A revisão distingue afirmações históricas e documentais de interpretações religiosas. Dogmas, metafísica, alegações sobrenaturais e divergências exegéticas não recebem veredito empírico. A conferência de citações religiosas atesta o conteúdo da tradução ou do documento indicado, e não a ocorrência material dos eventos narrados.",
+  "limitations": [
+    "A correspondência de uma citação com um texto religioso verifica seu conteúdo, não comprova historicamente o evento narrado nem a verdade da crença. Cânones, traduções e tradições interpretativas podem divergir.",
+    "O SRT fornecido começa em 04:28,080; não há cobertura textual do vídeo anterior a esse instante. A leitura integral refere-se aos blocos efetivamente fornecidos, não a eventuais falas ausentes no início.",
+    "Os timestamps do SRT foram preservados, sem retiming. O fim da última legenda excede ligeiramente a duração informada pelo player; isso não foi tratado como fala adicional verificada."
+  ]
+}

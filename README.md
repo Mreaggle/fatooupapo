@@ -56,6 +56,16 @@ Cada conta tem **100 créditos a cada 24 horas**. Vídeos com três horas ou mai
 
 | Debate | Abrir relatório |
 | :--- | :--- |
+| **Pavanato × Abner Henrique** · RedCast | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=xejucP41-P8) |
+| **MC Smith × Arthur do Val** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=HhWQCedS81g) |
+| **Sabatina: Renan Santos** · g1 | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=9P1Lqrt_j2M) |
+| **Sabatina: Lula** · Globo, republicada por TV Afiada | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=Lfz5UPiuM4I) |
+| **Sabatina: Flávio Bolsonaro** · Globo, republicada por Deputado Gil Diniz | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=-2kJfglKuY8) |
+| **Lula** · Flow News | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=y-KdHRZ9Ggo) |
+| **Evangélicos × Católicos** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=mQRx1epMpMs) |
+| **Cristãos × Judeus** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=YKVtqHoake0) |
+| **Capitalismo × Socialismo** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=b-dvcPHV8ck) |
+| **Cristão × Ateu** · Canal Foco | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=l6g0GOCiWVs) |
 | **Elias Jabbour × Pablo Marçal** · Inteligência Ltda. | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=nPLJs6xPNWU) |
 | **Guilherme Cortez × Lucas Pavanato** · Flow | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=C0ucX3GZo-c) |
 | **Eduarda Campopiano × Mandi Coelho** · RedCast | [Ver checagem ↗](https://mreaggle.github.io/fatooupapo/?v=l78NZP7riOA) |

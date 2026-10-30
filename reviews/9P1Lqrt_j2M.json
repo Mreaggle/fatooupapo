@@ -1,0 +1,1044 @@
+{
+  "videoId": "9P1Lqrt_j2M",
+  "video": {
+    "id": "9P1Lqrt_j2M",
+    "url": "https://www.youtube.com/watch?v=9P1Lqrt_j2M",
+    "title": "g1 e GloboNews entrevistam hoje Renan Santos, candidato à Presidência",
+    "channel": "g1",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9P1Lqrt_j2M/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "renan-santos",
+      "name": "Renan Santos",
+      "aliases": [
+        "Renan"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    }
+  ],
+  "referenceDate": "2026-08-05",
+  "reviewedAt": "2026-10-30T15:03:05.538Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "348d5e8972137b5c098676118dd7ed752da0b21a73d7b32e3be9d86016aa2007",
+  "scannedThrough": 3230,
+  "claims": [
+    {
+      "cueStart": 1,
+      "cueEnd": 45,
+      "title": "Comentário anterior à sabatina sobre saída de auxiliar e sigilo de Roberta",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O início reproduz comentários de outro programa, com nomes reconhecidos de forma inconsistente. Não foi obtida a decisão de quebra de sigilo ou o ato de exoneração referido; não se atribui o trecho ao candidato.",
+      "sources": []
+    },
+    {
+      "cueStart": 46,
+      "cueEnd": 93,
+      "title": "Intervalo publicitário e chamadas de programação",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Publicidade, slogans, canções e regras do programa não são manifestações do candidato nem entram no placar.",
+      "sources": []
+    },
+    {
+      "cueStart": 94,
+      "cueEnd": 108,
+      "title": "Critérios de convite, ordem das entrevistas e recusa de Lula",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A abertura declara critérios e convites, mas não foi recuperado o sorteio, a pesquisa Datafolha correspondente e a resposta integral da campanha para confirmar todas as premissas.",
+      "sources": []
+    },
+    {
+      "cueStart": 147,
+      "cueEnd": 155,
+      "title": "Participação no impeachment e oposição de Kim a Bolsonaro e Lula",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A atuação do MBL no impeachment é documentada, mas o relato omite o apoio de Kim à candidatura de Bolsonaro em 2018, anterior à oposição assumida durante o governo. Não foi uma oposição contínua desde a eleição.",
+      "sources": [
+        "sab-lupa-renan"
+      ]
+    },
+    {
+      "cueStart": 196,
+      "cueEnd": 200,
+      "title": "Temer governou com três a quatro por cento de aprovação",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Houve pesquisas contemporâneas com avaliação muito baixa, mas a fala não identifica instituto, data ou se mede ótimo/bom ou aprovação pessoal. Não se confirma o intervalo numérico sem esses critérios.",
+      "sources": []
+    },
+    {
+      "cueStart": 256,
+      "cueEnd": 270,
+      "title": "A PEC de ajuste já estaria formalmente protocolada",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A coleta de assinaturas é etapa anterior à apresentação formal de uma PEC, que exige 171 deputados. A checagem contemporânea consultou as proposições de Kim Kataguiri e não encontrou a proposta registrada. A fala mistura minuta em coleta e proposição formalmente apresentada.",
+      "sources": [
+        "sab-uol-renan",
+        "sab-cf-camara"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 325,
+          "cueEnd": 346
+        }
+      ]
+    },
+    {
+      "cueStart": 271,
+      "cueEnd": 276,
+      "title": "Flávio não defenderia corte de despesa em sua agenda fiscal",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A checagem contemporânea identifica declarações anteriores de Flávio, inclusive no Canal Livre de 2 de agosto, defendendo redução de ministérios e gatilhos de corte. Isso contraria a generalização de ausência de uma agenda de corte, sem demonstrar sua viabilidade ou concordância com o plano de Renan.",
+      "sources": [
+        "sab-uol-renan"
+      ]
+    },
+    {
+      "cueStart": 281,
+      "cueEnd": 292,
+      "title": "Aposentadorias e BPC têm valores ligados ao salário mínimo",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O piso previdenciário substitutivo de renda e o benefício assistencial têm vinculação constitucional ao mínimo. Nem toda aposentadoria equivale a um salário mínimo. A afirmação não comprova a cadeia causal automática de inflação e juros que vem a seguir.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 286,
+      "cueEnd": 315,
+      "title": "Aumentar benefícios necessariamente retira o mesmo poder de compra por juros e inflação",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma hipótese causal macroeconômica dependente de financiamento, ociosidade, política monetária e preços. Não foi apresentado estudo que meça esse efeito líquido específico ou demonstre sua inevitabilidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 339,
+      "cueEnd": 345,
+      "title": "Seriam 61 assinaturas de um mínimo de 171 para a PEC",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O requisito de 171 corresponde a um terço de 513 deputados, mas não foi obtido extrato nominal datado que confirme as 61 assinaturas. A conclusão limita-se à contagem alegada.",
+      "sources": [
+        "sab-cf-camara"
+      ]
+    },
+    {
+      "cueStart": 361,
+      "cueEnd": 436,
+      "title": "Previsão de crise fiscal, negociação e julgamento sobre o centrão",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "São prognósticos, avaliações políticas e propostas de governabilidade. Expressões como país quebrado ou eleição mais corrupta não trazem definição mensurável para uma classificação factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 437,
+      "cueEnd": 465,
+      "title": "Slogan de matar assaltantes e promessa de endurecimento",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "O entrevistado apresenta o slogan como mensagem política. Isso não constitui dado estatístico ou autorização jurídica; os limites concretos da força são examinados separadamente.",
+      "sources": []
+    },
+    {
+      "cueStart": 466,
+      "cueEnd": 475,
+      "title": "A taxa de homicídios paulista diminuiu bastante",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A série do Atlas consultada registra queda em São Paulo entre 2014 e 2024, de 14,1 para 6,6 por cem mil habitantes. A classificação exige cautela com mortes sem causa esclarecida e não implica queda igual de todos os crimes.",
+      "sources": [
+        "sab-lupa-renan"
+      ]
+    },
+    {
+      "cueStart": 469,
+      "cueEnd": 473,
+      "title": "São Paulo logo terá taxa menor que a dos Estados Unidos",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "É previsão sobre resultado futuro. Séries de anos diferentes, homicídios policiais e subnotificação precisam ser harmonizados para uma comparação válida; não se trata de posição já observada.",
+      "sources": []
+    },
+    {
+      "cueStart": 477,
+      "cueEnd": 490,
+      "title": "A lei permite legítima defesa de terceiros durante agressão armada",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O art. 25 do Código Penal admite defesa de direito alheio contra agressão injusta atual ou iminente, com meios necessários usados moderadamente. Não permite execução nem imunidade automática por morte.",
+      "sources": [
+        "sab-legitima-defesa"
+      ]
+    },
+    {
+      "cueStart": 526,
+      "cueEnd": 533,
+      "title": "Menino autista foi morto pelas costas em assalto a cordão no Rio",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados com segurança nome, data e registro policial que correspondam a todos os detalhes. O exemplo não foi convertido em caso comprovado.",
+      "sources": []
+    },
+    {
+      "cueStart": 596,
+      "cueEnd": 608,
+      "title": "A regra seria prender e soltar na audiência de custódia",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O balanço do CNJ para dez anos informa prisão preventiva mantida em 59% das audiências e liberdade em 41%. Isso contradiz a ideia de soltura como resultado universal. Esses percentuais não medem reincidência.",
+      "sources": [
+        "sab-custodia"
+      ]
+    },
+    {
+      "cueStart": 603,
+      "cueEnd": 608,
+      "title": "Quase todos os presos seriam reincidentes",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se define reincidência jurídica, passagem policial ou retorno ao sistema, nem período ou população. Dados de audiência de custódia não comprovam essa generalização.",
+      "sources": []
+    },
+    {
+      "cueStart": 616,
+      "cueEnd": 630,
+      "title": "El Salvador restringiu garantias e realizou prisões sem controle judicial regular",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A CIDH documenta detenções arbitrárias, demora do controle judicial, habeas corpus ineficaz e restrições à defesa durante o regime de exceção. São constatações e denúncias documentadas, não autorização aplicável ao Brasil.",
+      "sources": [
+        "sab-elsalvador"
+      ]
+    },
+    {
+      "cueStart": 647,
+      "cueEnd": 660,
+      "title": "A política de Noboa teria fracassado e o grupo Los Lobos seria poderoso",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho compara estratégias de segurança, mas não define uma métrica de fracasso e o período. A existência e influência de organizações criminosas não comprovam que uma única política tenha causado todos os resultados; não foi anexada série comparável entre Equador e El Salvador.",
+      "sources": []
+    },
+    {
+      "cueStart": 703,
+      "cueEnd": 720,
+      "title": "Crime hediondo não admite habeas corpus",
+      "speaker": "Renan Santos",
+      "verdict": "Falso",
+      "explanation": "A Constituição veda fiança, graça e anistia nos crimes hediondos, mas preserva habeas corpus contra prisão ilegal. A gravidade do crime não elimina esse instrumento.",
+      "sources": [
+        "sab-cf-camara"
+      ]
+    },
+    {
+      "cueStart": 735,
+      "cueEnd": 770,
+      "title": "Bukele alterou a cúpula judicial e afastou parcela expressiva dos juízes",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relatório Freedom in the World registra substituição da cúpula e reforma que atingiu cerca de um terço dos magistrados por idade ou tempo de serviço. Isso descreve mudança institucional; não prova a licitude de cada afastamento.",
+      "sources": [
+        "sab-bukele-judiciario"
+      ]
+    },
+    {
+      "cueStart": 750,
+      "cueEnd": 758,
+      "title": "Houve deterioração das garantias e da liberdade de imprensa em El Salvador",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A CIDH aponta restrições à informação, obstáculos ao jornalismo e enfraquecimento de garantias judiciais. A avaliação deve ser atribuída ao relatório e não tomada como condenação de toda pessoa detida.",
+      "sources": [
+        "sab-elsalvador"
+      ]
+    },
+    {
+      "cueStart": 771,
+      "cueEnd": 780,
+      "title": "Estado de defesa é necessário para a polícia entrar em territórios de facções",
+      "speaker": "Renan Santos",
+      "verdict": "Falso",
+      "explanation": "A Constituição permite atuação policial ordinária e entrada em domicílio nas hipóteses do art. 5º, XI. O estado de defesa é mecanismo excepcional, não requisito geral para uma operação contra o crime.",
+      "sources": [
+        "sab-cf-camara"
+      ]
+    },
+    {
+      "cueStart": 782,
+      "cueEnd": 785,
+      "title": "Renan nasceu na Mooca e conhece pessoalmente a realidade descrita",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "A experiência pessoal foi registrada como relato. Não foi encontrada documentação de nascimento e vivência suficiente para confirmar todos os detalhes biográficos.",
+      "sources": []
+    },
+    {
+      "cueStart": 811,
+      "cueEnd": 825,
+      "title": "Bacellar e TH Joias são associados a investigação sobre o Comando Vermelho",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A decisão judicial de dezembro de 2025 descreve suspeitas de aviso e obstrução da operação contra o CV. A investigação sustenta a existência dos indícios relatados; não equivale a culpa definitiva nem prova vínculo criminal de aliados por associação.",
+      "sources": [
+        "sab-bacellar"
+      ]
+    },
+    {
+      "cueStart": 813,
+      "cueEnd": 825,
+      "title": "Participação de investigados em campanhas provaria vínculo criminoso de adversários",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Apoio ou presença em campanha não demonstra, por si só, participação do candidato em crimes atribuídos a terceiros. Não foram recuperados elementos individualizados com esse nexo.",
+      "sources": [
+        "sab-bacellar"
+      ]
+    },
+    {
+      "cueStart": 827,
+      "cueEnd": 849,
+      "title": "Prefeito de Santa Quitéria foi afastado em caso de influência de facção na eleição",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A sentença eleitoral documenta abuso político e econômico e interferência de organização criminosa na disputa de 2024. É necessário distinguir a decisão eleitoral de condenação criminal definitiva.",
+      "sources": [
+        "sab-santaquiteria"
+      ]
+    },
+    {
+      "cueStart": 839,
+      "cueEnd": 842,
+      "title": "Santa Quitéria tem jazida de urânio e interesse minerário",
+      "speaker": "Renan Santos",
+      "verdict": "Verdadeiro",
+      "explanation": "A INB identifica na jazida de Itataia, em Santa Quitéria, urânio associado a fosfato e projeto do consórcio INB/Galvani. Isso não comprova as suspeitas pessoais ou partidárias mencionadas na conversa.",
+      "sources": [
+        "sab-uranio"
+      ]
+    },
+    {
+      "cueStart": 840,
+      "cueEnd": 842,
+      "title": "Parentesco e interesses de Kassab explicariam o domínio político da área",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi comprovada a cadeia de parentesco, controle econômico e finalidade criminosa sugerida. Existência de jazida e relação política não bastam para demonstrar essa acusação.",
+      "sources": []
+    },
+    {
+      "cueStart": 856,
+      "cueEnd": 930,
+      "title": "Estado de defesa retiraria genericamente os direitos de moradores da região",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O art. 136 admite restrições especificadas e controle do Congresso, com garantias de comunicação da prisão e vedação de incomunicabilidade. Não suspende indistintamente todos os direitos de uma população.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 937,
+      "cueEnd": 947,
+      "title": "Estado de defesa dura trinta dias e só pode ser prorrogado uma vez por igual período",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "Esse é o limite expresso no art. 136,§ 2º da Constituição. Eventual estado de sítio exige procedimento próprio, não renovação ilimitada da mesma medida.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 961,
+      "cueEnd": 990,
+      "title": "CV seria apenas territorial, e PCC apenas vertical ou institucional",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "São tipologias políticas simplificadas. Não foi localizada pesquisa comparativa que justifique separar de forma exclusiva todas as atividades das duas organizações nesses modelos.",
+      "sources": []
+    },
+    {
+      "cueStart": 991,
+      "cueEnd": 1005,
+      "title": "PCC usa o Porto de Santos e rotas até Roterdã",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Há documentação de tráfico internacional por portos, mas não foi recuperado relatório policial específico que confirme, no recorte citado, autoria de toda a rota e a conversa diplomática alegada.",
+      "sources": []
+    },
+    {
+      "cueStart": 1036,
+      "cueEnd": 1074,
+      "title": "Cortes de três trilhões financiariam de trezentas a quinhentas mil vagas prisionais",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "São metas e projeções futuras. Não há orçamento demonstrado no trecho; cortar despesa não a transforma automaticamente em verba disponível para qualquer investimento.",
+      "sources": []
+    },
+    {
+      "cueStart": 1080,
+      "cueEnd": 1090,
+      "title": "Feminicídios bateram recorde em 2025, com cerca de quatro vítimas por dia",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Senado registra o recorde no Sinesp e total aproximado de 1.470 no balanço disponível. Revisões e bases apresentam totais diferentes, mas a ordem de grandeza de quatro por dia é compatível.",
+      "sources": [
+        "sab-feminicidio2025"
+      ]
+    },
+    {
+      "cueStart": 1084,
+      "cueEnd": 1090,
+      "title": "O programa não contém política específica de feminicídio",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi preservada a versão integral do plano registrada até 5/8 para confirmar ausência absoluta. A entrevista mostra divergência sobre o nível de detalhamento, não prova a inexistência de qualquer medida.",
+      "sources": []
+    },
+    {
+      "cueStart": 1110,
+      "cueEnd": 1155,
+      "title": "Enfrentar violência contra a mulher seria responsabilidade principal de estados e municípios",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Polícias e serviços locais têm papel relevante, mas a política nacional prevê coordenação, financiamento e responsabilidades federais também. O tema não se reduz à execução municipal nem a indicadores de gestão.",
+      "sources": [
+        "sab-politica-mulheres"
+      ]
+    },
+    {
+      "cueStart": 1170,
+      "cueEnd": 1185,
+      "title": "Saneamento envolve titularidade municipal ou regional e apoio financeiro federal",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O desenho federativo é compatível com a Lei 11.445, alterada pela Lei 14.026: municípios e estruturas regionais exercem titularidade conforme o interesse local ou comum. A União também regula diretrizes e financia; não é competência exclusivamente municipal.",
+      "sources": [
+        "sab-saneamento-lei"
+      ]
+    },
+    {
+      "cueStart": 1186,
+      "cueEnd": 1215,
+      "title": "Lei de responsabilidade gerencial tornaria gestores inelegíveis por metas",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "Trata-se de proposta política. Inelegibilidade depende de lei complementar e de requisitos constitucionais; não é consequência vigente automática do simples descumprimento de um indicador.",
+      "sources": []
+    },
+    {
+      "cueStart": 1216,
+      "cueEnd": 1230,
+      "title": "Feminicídio é morte de mulher por condição de sexo feminino, inclusive violência doméstica ou discriminação",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A descrição corresponde ao crime autônomo previsto pela Lei 14.994/2024 e seus contextos legais. Não significa que todo homicídio de mulher tenha automaticamente essa classificação.",
+      "sources": [
+        "sab-lei14994"
+      ]
+    },
+    {
+      "cueStart": 1231,
+      "cueEnd": 1247,
+      "title": "Violência contra a mulher sofre subnotificação",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A política nacional reconhece barreiras de denúncia e necessidade de ampliar o acesso à rede de atendimento. Isso sustenta a existência de subnotificação, mas não quantifica todos os episódios não comunicados.",
+      "sources": [
+        "sab-politica-mulheres"
+      ]
+    },
+    {
+      "cueStart": 1248,
+      "cueEnd": 1254,
+      "title": "A pena de feminicídio aumentou no ano passado",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A mudança para vinte a quarenta anos foi sancionada em outubro de 2024, não em 2025, ano anterior à entrevista de agosto de 2026. O endurecimento existe; a referência temporal está deslocada.",
+      "sources": [
+        "sab-lei14994"
+      ]
+    },
+    {
+      "cueStart": 1275,
+      "cueEnd": 1308,
+      "title": "São Paulo oferece aplicativo, aluguel social e monitoramento de agressores",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "São políticas plausíveis com iniciativas distintas de município e estado. Não foram recuperados regulamentos e balanços contemporâneos que confirmem todos os recursos e a integração automática descrita; elogios de desempenho são opinião.",
+      "sources": []
+    },
+    {
+      "cueStart": 1344,
+      "cueEnd": 1350,
+      "title": "Mais de noventa por cento dos filiados do partido seriam homens",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda reconhece MDB, embora o contexto seja o partido do entrevistado. Sem conferir o áudio e a extração do TSE de julho de 2026, não é seguro escolher o partido ou classificar o percentual como erro da jornalista.",
+      "sources": []
+    },
+    {
+      "cueStart": 1348,
+      "cueEnd": 1350,
+      "title": "Mulheres são maioria do eleitorado",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O cadastro nacional de 2026 divulgado pelo TRE-CE/TSE registra 83.877.126 mulheres,52,84% do total. Isso confirma a maioria feminina.",
+      "sources": [
+        "sab-eleitoras2026"
+      ]
+    },
+    {
+      "cueStart": 1354,
+      "cueEnd": 1365,
+      "title": "Existem diferenças de preferência política entre homens e mulheres jovens",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A pesquisa da Change Research de 2023 identifica diferença entre jovens dos EUA. Sustenta a existência do fenômeno em contextos estudados, não uma regra universal nem causalidade natural determinada pelas redes sociais.",
+      "sources": [
+        "sab-genero-jovens"
+      ]
+    },
+    {
+      "cueStart": 1380,
+      "cueEnd": 1393,
+      "title": "Amanda sofreu invasão, sequestro de familiar e montagens íntimas",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Há relato público contemporâneo de invasão da residência de Amanda Vettorazzo e de familiares amordaçadas em janeiro de 2024. Não foram obtidos registros policiais ou decisões que confirmem sequestro, montagens íntimas e autoria política dos demais episódios. O relato não prova responsabilidade de um grupo político inteiro.",
+      "sources": [
+        "sab-amanda-invasao"
+      ]
+    },
+    {
+      "cueStart": 1396,
+      "cueEnd": 1415,
+      "title": "Jovens mulheres seriam mais afetadas por depressão e ansiedade associadas às redes",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A revisão sistemática encontra associações e algumas diferenças por sexo, com resultados heterogêneos e limitações de desenho. A evidência permite discutir maior vulnerabilidade em certos grupos; não demonstra que as redes sejam causa isolada dessa diferença ou que o efeito seja uniforme.",
+      "sources": [
+        "sab-redes-revisao"
+      ]
+    },
+    {
+      "cueStart": 1420,
+      "cueEnd": 1455,
+      "title": "Machismo, masculinidade e interpretação do vídeo exibido",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "O vídeo contém declaração e o candidato oferece sua interpretação. Juízos sobre orgulho, provocação, valor de masculinidade ou machismo não recebem rótulo de verdade factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 1456,
+      "cueEnd": 1468,
+      "title": "A maioria dos processos de família envolve pai ausente e falta de pensão",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificado levantamento nacional com categorias e proporções que sustente essa maioria. Estatísticas de famílias chefiadas por mulheres não medem o conjunto de processos judiciais.",
+      "sources": []
+    },
+    {
+      "cueStart": 1470,
+      "cueEnd": 1483,
+      "title": "Estudo FGV de 2007 teria achado ausência paterna em oitenta por cento dos jovens da Febem",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O artigo de Hartung e Pessoa (2007) estuda taxas de criminalidade em 643 municípios paulistas, com dados demográficos do Censo de 1991 e crimes de 1999–2001. Não acompanha adolescentes da Febem nem apresenta a proporção de oitenta por cento atribuída a essa população.",
+      "sources": [
+        "sab-fgv2007"
+      ]
+    },
+    {
+      "cueStart": 1478,
+      "cueEnd": 1485,
+      "title": "Ausência paterna teria correlação criminal mais forte que desigualdade medida pelo Gini",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "No modelo municipal desse artigo, a inclusão de variáveis demográficas reduz a significância do Gini para crimes violentos. Isso oferece base parcial à referência, mas não estabelece uma hierarquia causal universal: são associações agregadas de São Paulo em um período específico, não destino individual nem comparação nacional atual.",
+      "sources": [
+        "sab-fgv2007"
+      ]
+    },
+    {
+      "cueStart": 1518,
+      "cueEnd": 1530,
+      "title": "Quase metade dos domicílios tem mulher como responsável",
+      "speaker": "Renan Santos",
+      "verdict": "Verdadeiro",
+      "explanation": "O Censo 2022 registra 49,1% das unidades domésticas com responsável mulher, cerca de 35,6 milhões de unidades. A categoria não significa automaticamente mãe solo ou pai ausente.",
+      "sources": [
+        "sab-mulheres-ibge"
+      ]
+    },
+    {
+      "cueStart": 1534,
+      "cueEnd": 1635,
+      "title": "Ausência de pai determina desestrutura familiar e criminalidade dos filhos",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A revisão de literatura aponta possíveis repercussões e associações, com diversidade de contextos. Ela não estabelece destino individual, culpa das mães ou equivalência entre domicílio chefiado por mulher e ausência total de referência paterna.",
+      "sources": [
+        "sab-pai-revisao"
+      ]
+    },
+    {
+      "cueStart": 1570,
+      "cueEnd": 1595,
+      "title": "Famílias monoparentais teriam menor renda e filhos com pior desempenho escolar",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperada uma comparação brasileira que meça conjuntamente renda, desempenho escolar e estrutura familiar no recorte alegado. Médias por composição familiar exigem controles e não permitem atribuir os resultados unicamente à presença masculina.",
+      "sources": [
+        "sab-mulheres-ibge"
+      ]
+    },
+    {
+      "cueStart": 1696,
+      "cueEnd": 1744,
+      "title": "Renan foi absolvido de acusação sexual e a acusadora teria confessado invenção",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "A confirmação de absolvição noticiada pelo g1 não foi acompanhada do processo integral, que envolve privacidade. Absolvição por insuficiência de provas não demonstra, por si, falsidade deliberada da acusação ou coação por familiares. Não se presume culpa do absolvido.",
+      "sources": [
+        "sab-renan-absolvicao"
+      ]
+    },
+    {
+      "cueStart": 1745,
+      "cueEnd": 1824,
+      "title": "Contexto de gravação com comentário sobre estupro e pedido de desculpas",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "A entrevista exibe e debate uma fala, mas não foi obtida gravação original integral que fixe data, edição e contexto. O arrependimento é uma declaração pessoal; qualificação jurídica exigiria decisão específica.",
+      "sources": []
+    },
+    {
+      "cueStart": 1825,
+      "cueEnd": 1845,
+      "title": "Existem cerca de dezesseis milhões de moradores em doze mil favelas",
+      "speaker": "Renan Santos",
+      "verdict": "Verdadeiro",
+      "explanation": "A apresentação do IBGE sobre o Censo 2022 registra aproximadamente 16,4 milhões de pessoas em 12.348 favelas e comunidades urbanas. Os números arredondados são compatíveis.",
+      "sources": [
+        "sab-favelas-ibge"
+      ]
+    },
+    {
+      "cueStart": 1848,
+      "cueEnd": 1853,
+      "title": "Moradores de favela não seriam titulares de direitos",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Déficits de serviços e violações de direitos não retiram dos moradores a titularidade das garantias constitucionais. O Censo trata de assentamentos com características diversas; não demonstra inexistência de direitos ou de segurança jurídica para cada pessoa.",
+      "sources": [
+        "sab-cf-camara",
+        "sab-favelas-ibge"
+      ]
+    },
+    {
+      "cueStart": 1851,
+      "cueEnd": 1852,
+      "title": "Favelas apresentam maior incidência de tuberculose",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Estudo original no Rio de Janeiro identifica áreas de maior risco e incidência elevada na Rocinha, no Vidigal e na Cidade de Deus. Há respaldo para a desigualdade territorial apontada, mas os dados locais de 2004–2006 não tornam todo morador doente nem fornecem uma taxa nacional atual para todas as favelas.",
+      "sources": [
+        "sab-tb-favelas"
+      ]
+    },
+    {
+      "cueStart": 1852,
+      "cueEnd": 1853,
+      "title": "Gravidez na adolescência seria mais frequente em favelas",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Inquéritos com 648 jovens de Belo Horizonte encontraram maior prevalência de gravidez até os dezenove anos entre residentes de favelas do que nos bairros de classe média estudados. É respaldo local à associação; não uma medição nacional atual ou resultado inevitável de toda adolescente.",
+      "sources": [
+        "sab-gravidez-favelas"
+      ]
+    },
+    {
+      "cueStart": 1853,
+      "cueEnd": 1853,
+      "title": "Crime organizado teria presença endêmica em favelas",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperado levantamento nacional de controle territorial que permita medir a extensão e frequência dessa presença no conjunto das comunidades. A definição censitária de favela não depende de domínio criminal.",
+      "sources": [
+        "sab-favelas-ibge"
+      ]
+    },
+    {
+      "cueStart": 1906,
+      "cueEnd": 2035,
+      "title": "Regularização fundiária, remoções e demolição de novas ocupações em quarenta e oito horas",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "São propostas de política urbana. A execução exige procedimentos, competências e direitos de defesa; a promessa não corresponde a autorização atual irrestrita.",
+      "sources": []
+    },
+    {
+      "cueStart": 2003,
+      "cueEnd": 2009,
+      "title": "Todas as áreas de mananciais paulistas seriam invadidas e controladas pelo crime",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se apresentam mapa, universo territorial ou levantamento capaz de sustentar o alcance absoluto. Ocupações irregulares e casos de controle criminoso não provam que todas as áreas se enquadrem nisso.",
+      "sources": []
+    },
+    {
+      "cueStart": 2020,
+      "cueEnd": 2028,
+      "title": "Deslizamentos em Juiz de Fora ilustrariam novas ocupações de risco",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram delimitados evento, bairros, datas e laudos da Defesa Civil para vincular o desastre à origem das ocupações. O mecanismo geral de risco não confirma a narrativa específica.",
+      "sources": []
+    },
+    {
+      "cueStart": 2070,
+      "cueEnd": 2105,
+      "title": "IPTU social, modernização urbana e metas de habitação",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "São escolhas e compromissos de governo, sem implantação demonstrada no trecho.",
+      "sources": []
+    },
+    {
+      "cueStart": 2150,
+      "cueEnd": 2165,
+      "title": "Saúde e educação têm pisos, não tetos constitucionais",
+      "speaker": "Renan Santos",
+      "verdict": "Verdadeiro",
+      "explanation": "A Constituição estabelece aplicações mínimas em saúde e educação. O mínimo não proíbe despesa adicional, respeitadas as demais regras fiscais.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 2167,
+      "cueEnd": 2174,
+      "title": "Renúncias tributárias são despesas obrigatórias do orçamento",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Renúncias reduzem receita e podem ser estimadas como gastos tributários; não são automaticamente pagamentos classificados como despesas primárias obrigatórias. O trecho mistura impacto fiscal com classificação orçamentária.",
+      "sources": [
+        "sab-renuncia"
+      ]
+    },
+    {
+      "cueStart": 2195,
+      "cueEnd": 2205,
+      "title": "Emendas teriam propina generalizada de trinta a cinquenta por cento",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi encontrado levantamento representativo que sustente essa taxa para o universo de emendas. Casos investigados não autorizam atribuir a mesma fração criminosa a todo repasse.",
+      "sources": []
+    },
+    {
+      "cueStart": 2200,
+      "cueEnd": 2225,
+      "title": "Parlamentares gastariam emendas como quisessem",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Há vinculações, transparência, fiscalização e limites constitucionais. Falhas ou investigações de desvio não significam ausência legal absoluta de controle.",
+      "sources": [
+        "sab-emendas-controle"
+      ]
+    },
+    {
+      "cueStart": 2266,
+      "cueEnd": 2330,
+      "title": "Vice Haroldo Medina participou de atos de quartel e depois mudou de posição",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperado registro completo dos atos e declarações nas datas referidas. Arrependimento e crença política não demonstram participação pessoal em crime.",
+      "sources": []
+    },
+    {
+      "cueStart": 2341,
+      "cueEnd": 2475,
+      "title": "Presidente poderia ignorar decisão do STF que considerasse inconstitucional",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A função constitucional de guarda da Constituição e o controle jurisdicional não tornam o Executivo juiz final de suas próprias obrigações. Recursos e revisão são diferentes de autorização genérica para descumprimento unilateral.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 2387,
+      "cueEnd": 2394,
+      "title": "O partido propôs ação no STF sobre territórios dominados pelo crime, sob relatoria de Dino",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperado número e petição da ação que permitam conferir autoria partidária, objeto, distribuição e situação na data da entrevista. A menção a uma demanda judicial não prova acolhimento de sua tese.",
+      "sources": []
+    },
+    {
+      "cueStart": 2438,
+      "cueEnd": 2448,
+      "title": "Temer usou estado de defesa no Rio em 2018",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Decreto 9.288 estabeleceu intervenção federal na segurança do Rio. Intervenção, GLO e estado de defesa são institutos distintos, com procedimentos e efeitos diferentes.",
+      "sources": [
+        "sab-intervencao2018"
+      ]
+    },
+    {
+      "cueStart": 2464,
+      "cueEnd": 2474,
+      "title": "Renan Calheiros permaneceu no Senado após liminar de afastamento em 2016",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Plenário do STF não referendou o afastamento e manteve Calheiros na presidência, retirando-o da linha sucessória. O desfecho judicial não cria licença permanente para descumprir decisões.",
+      "sources": [
+        "sab-renancalheiros"
+      ]
+    },
+    {
+      "cueStart": 2490,
+      "cueEnd": 2515,
+      "title": "Renan denunciou atos antidemocráticos e teria atuação judicial contra eles",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram indicados e localizados números de processos ou documentos que permitam verificar o conjunto da atuação pessoal alegada.",
+      "sources": []
+    },
+    {
+      "cueStart": 2520,
+      "cueEnd": 2660,
+      "title": "Compromisso com imprensa livre e proposta de lei contra compra de veículos por políticos",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "São defesa política de princípios e proposta normativa, sem resultado futuro verificável. As alegações sobre a atuação passada ficam examinadas separadamente.",
+      "sources": []
+    },
+    {
+      "cueStart": 2550,
+      "cueEnd": 2590,
+      "title": "O MBL sempre teria preservado a liberdade de jornalistas",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Abraji e Coalizão em Defesa do Jornalismo documentaram e repudiaram episódios de intimidação e dossiês atribuídos ao movimento. Isso contraria a generalização absoluta, sem transformar toda crítica jornalística em crime.",
+      "sources": [
+        "sab-abraji-mbl",
+        "sab-herzog-mbl"
+      ]
+    },
+    {
+      "cueStart": 2600,
+      "cueEnd": 2660,
+      "title": "Não existe jornalismo independente no interior e há milhares de páginas compradas",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi apresentado inventário de municípios, veículos, contratos ou pagamentos que sustente essa abrangência. Exemplos hipotéticos de gasto não são tratados como contratos efetivamente encontrados.",
+      "sources": []
+    },
+    {
+      "cueStart": 2685,
+      "cueEnd": 2705,
+      "title": "Lei de Responsabilidade Fiscal foi criada em 2000 no governo FHC",
+      "speaker": "Renan Santos",
+      "verdict": "Verdadeiro",
+      "explanation": "A Agência Senado registra a sanção por Fernando Henrique Cardoso em 4/5/2000. A lei decorreu de processo legislativo e não elimina outros mecanismos de responsabilização.",
+      "sources": [
+        "sab-lrf"
+      ]
+    },
+    {
+      "cueStart": 2691,
+      "cueEnd": 2696,
+      "title": "Prefeitos não teriam compromisso exigível de melhorar indicadores",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "É excessivo concluir que não exista qualquer compromisso legal: há deveres de prestação de contas e controles constitucionais, embora descumprir um indicador não crie por si inelegibilidade.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 2695,
+      "cueEnd": 2708,
+      "title": "Haveria municípios sem qualquer atividade econômica",
+      "speaker": "Renan Santos",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Dependência de transferências e insuficiência de receita própria não significam ausência de atividade econômica. O IFGF identifica 1.282 cidades sem receita suficiente para custear a máquina local; o IBGE calcula produção municipal incluindo serviços e administração pública. A formulação confunde baixa autonomia fiscal com economia inexistente.",
+      "sources": [
+        "sab-firjan2025",
+        "sab-pib-municipal"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 2868,
+          "cueEnd": 2878
+        }
+      ]
+    },
+    {
+      "cueStart": 2709,
+      "cueEnd": 2713,
+      "title": "Wesley Safadão teria processado Renan por críticas a shows públicos",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificado processo, tribunal e decisão que permitam verificar autor, réu e objeto do litígio mencionado. A legenda tem pronomes ambíguos; não se presume condenação ou irregularidade do cantor.",
+      "sources": []
+    },
+    {
+      "cueStart": 2716,
+      "cueEnd": 2725,
+      "title": "Moradores de Melgaço beberiam esgoto por falta de saneamento",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi localizado levantamento da água consumida ou laudo sanitário que confirme o alcance do exemplo. Vulnerabilidade do município não permite afirmar que todos consomem esgoto.",
+      "sources": []
+    },
+    {
+      "cueStart": 2748,
+      "cueEnd": 2775,
+      "title": "Japão, China e Reino Unido teriam o mesmo sistema de metas e punição proposto",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados atos ou estudos que equiparem esses modelos, sobretudo inelegibilidade automática por indicador. Países com avaliação de desempenho não necessariamente adotam a mesma sanção.",
+      "sources": []
+    },
+    {
+      "cueStart": 2855,
+      "cueEnd": 2898,
+      "title": "Reduzir municípios de cerca de cinco mil e quinhentos para mil e quinhentos",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "É uma meta política. Fusão e incorporação exigem requisitos constitucionais, legislação e consulta às populações; não se trata de reorganização já realizada.",
+      "sources": []
+    },
+    {
+      "cueStart": 2910,
+      "cueEnd": 2920,
+      "title": "Oitenta por cento das matrículas superiores estão na rede privada",
+      "speaker": "Renan Santos",
+      "verdict": "Verdadeiro",
+      "explanation": "O Censo da Educação Superior 2024 contabiliza 79,8% das matrículas de graduação em instituições privadas. O arredondamento é adequado; não equivale ao percentual de instituições ou de pessoas diplomadas.",
+      "sources": [
+        "sab-inep-superior"
+      ]
+    },
+    {
+      "cueStart": 2914,
+      "cueEnd": 2920,
+      "title": "Grande parte de todos os estudantes privados depende de Prouni e Fies",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se delimita grande parte nem se compara beneficiários ativos com o total de matrículas no mesmo ano. Totais históricos acumulados dos programas não podem ocupar o lugar dessa proporção.",
+      "sources": []
+    },
+    {
+      "cueStart": 2925,
+      "cueEnd": 2955,
+      "title": "Alemanha, China e Vietnã dão formação técnica de excelência ao jovem",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "A descrição combina existência de sistemas e avaliação de excelência sem indicador comparável. Não foi recuperada pesquisa que sustente a generalização a todos os estudantes desses países.",
+      "sources": []
+    },
+    {
+      "cueStart": 2970,
+      "cueEnd": 2980,
+      "title": "Política de cotas já tem mais de dez anos",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei 12.711 é de 2012, revista em 2023; portanto supera dez anos na data da entrevista. Isso não resolve por si as avaliações sobre mérito e resultados dos diferentes mecanismos.",
+      "sources": [
+        "sab-lei-cotas"
+      ]
+    },
+    {
+      "cueStart": 3007,
+      "cueEnd": 3115,
+      "title": "Financiamento estudantil, mérito e preferência por métodos de alfabetização",
+      "speaker": "Renan Santos",
+      "verdict": "opinion",
+      "explanation": "São escolhas pedagógicas e propostas de governo. Não são resultados futuros estabelecidos nem dispensam avaliação de qualidade dos cursos e do ensino.",
+      "sources": []
+    },
+    {
+      "cueStart": 3018,
+      "cueEnd": 3035,
+      "title": "Farias Brito e Ari de Sá formariam boa parte dos aprovados no ITA",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se informa ano, modalidade e denominador, nem se distingue escola regular e curso preparatório. Não foi recuperada série oficial com esse recorte.",
+      "sources": []
+    },
+    {
+      "cueStart": 3033,
+      "cueEnd": 3043,
+      "title": "Método fônico seria o principal método referendado por pesquisa",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A revisão do National Reading Panel encontrou vantagem da instrução fônica sistemática em habilidades iniciais de leitura. Há, portanto, respaldo científico importante. O painel também recomenda fluência, vocabulário e compreensão; seus estudos, predominantemente em inglês, não provam superioridade de qualquer aplicação isolada em todo contexto brasileiro.",
+      "sources": [
+        "sab-nrp"
+      ]
+    },
+    {
+      "cueStart": 3149,
+      "cueEnd": 3154,
+      "title": "Todos os estados nordestinos, salvo a Paraíba, perderam população por migração",
+      "speaker": "Renan Santos",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Censo 2022 registra saldo migratório interestadual negativo nos demais estados nordestinos no período 2017–2022 e positivo na Paraíba. Isso não significa queda da população total nem tendência inevitável em todo período.",
+      "sources": [
+        "sab-migracao"
+      ]
+    },
+    {
+      "cueStart": 3153,
+      "cueEnd": 3158,
+      "title": "Renda do Nordeste não teria avançado em comparação com outras regiões",
+      "speaker": "Renan Santos",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificada na fala uma série, base de preços, intervalo e medida de renda. A ausência de convergência regional é diferente de renda sem aumento absoluto; não foi recuperada comparação que confirme o recorte e a conclusão causal sobre apropriação por políticos.",
+      "sources": []
+    },
+    {
+      "cueStart": 3160,
+      "cueEnd": 3164,
+      "title": "Hugo Motta preside a Câmara e Davi Alcolumbre o Senado",
+      "speaker": "Renan Santos",
+      "verdict": "Verdadeiro",
+      "explanation": "O registro oficial de eleição do biênio 2025–2026 identifica Hugo Motta na Câmara e Davi Alcolumbre no Senado. A origem regional dos presidentes não prova irregularidade.",
+      "sources": [
+        "sab-presidentes-congresso"
+      ]
+    },
+    {
+      "cueStart": 3190,
+      "cueEnd": 3230,
+      "title": "Encerramento, calendário e chamadas de programação",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Agradecimentos, regras e divulgação do programa não geram votos no placar.",
+      "sources": []
+    }
+  ],
+  "limitations": [
+    "O arquivo inclui comentário jornalístico anterior, intervalos e anúncios. Trechos de autoria mista ficaram sem identificação individual.",
+    "Há aparente erro MDB/MBL/Missão na legenda sobre filiação; não houve correção silenciosa nem imputação categórica.",
+    "Processo sobre acusação sexual não foi acessado integralmente. Absolvição não foi interpretada como prova automática de falsa acusação; nenhuma pessoa foi declarada culpada.",
+    "A primeira legenda começa em 00:01:59,760. Os segundos anteriores não constam do SRT fornecido. A legenda termina cerca de 7 segundos antes da duração informada pelo player; não houve conferência acústica desses intervalos."
+  ],
+  "coverageNotes": "Foram lidos todos os blocos 1–3230. Metas, avaliações e repetições foram agrupadas; alegações específicas sem documentação suficiente têm conclusão Inconclusivo, com limite explicitado."
+}

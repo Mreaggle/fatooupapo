@@ -25,5 +25,5 @@ export async function listRecentDebates(signal: AbortSignal): Promise<RecentDeba
     if (report.video.id !== id) throw new Error('O acervo retornou um vídeo com identificação inválida.')
     return { video: report.video, analyzedAt: report.analyzedAt, claimCount: report.claims.length, coverageKind: report.coverage?.kind }
   })
-  return reports.sort((a, b) => Date.parse(b.analyzedAt) - Date.parse(a.analyzedAt) || a.video.id.localeCompare(b.video.id)).slice(0, 6)
+  return reports.sort((a, b) => Date.parse(b.analyzedAt) - Date.parse(a.analyzedAt) || a.video.id.localeCompare(b.video.id))
 }

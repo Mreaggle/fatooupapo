@@ -1,0 +1,829 @@
+{
+  "videoId": "l6g0GOCiWVs",
+  "video": {
+    "id": "l6g0GOCiWVs",
+    "url": "https://www.youtube.com/watch?v=l6g0GOCiWVs",
+    "title": "CRISTÃO VS ATEU | Ft. Daniel Gontijo e Guilherme Freire",
+    "channel": "Canal Foco",
+    "thumbnailUrl": "https://i.ytimg.com/vi/l6g0GOCiWVs/hqdefault.jpg"
+  },
+  "referenceDate": "2026-08-24",
+  "reviewedAt": "2026-10-30T14:56:12.710Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "cfd98f17d60795cf85c57569162a92ee40ea520baf37b33171acd3112424aa9d",
+  "scannedThrough": 3117,
+  "participants": [
+    {
+      "id": "guilherme",
+      "name": "Guilherme Freire",
+      "aliases": [
+        "Guilherme",
+        "Freire"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel Gontijo",
+      "aliases": [
+        "Daniel",
+        "Gontijo"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    }
+  ],
+  "claims": [
+    {
+      "cueStart": 6,
+      "cueEnd": 10,
+      "title": "Doutorado de Daniel Gontijo em Neurociências",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Verdadeiro",
+      "explanation": "A lista oficial de egressos do Programa de Neurociências da UFMG registra Daniel Foschetti Gontijo no doutorado em 2019. Isso confirma a titulação, sem certificar automaticamente toda afirmação feita no debate.",
+      "sources": [
+        "ate-ufmg"
+      ]
+    },
+    {
+      "cueStart": 15,
+      "cueEnd": 136,
+      "title": "Estereótipos, acolhimento religioso e experiências escolares",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os participantes descrevem experiências pessoais, preferências e estereótipos. Esses relatos não medem a frequência de arrogância ou hostilidade em cristãos e ateus na população.",
+      "sources": []
+    },
+    {
+      "cueStart": 140,
+      "cueEnd": 180,
+      "title": "Trajetória pessoal de saída do catolicismo",
+      "speaker": "Daniel Gontijo",
+      "verdict": "opinion",
+      "explanation": "Autobiografia de crenças e processo de convencimento pessoal. A mudança subjetiva é registrada como relato, sem voto sobre a existência ou inexistência de Deus.",
+      "sources": []
+    },
+    {
+      "cueStart": 181,
+      "cueEnd": 237,
+      "title": "Experiências fora do corpo, anjo e desaparecimento de verrugas",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Inconclusivo",
+      "explanation": "São relatos retrospectivos sem prontuário, registro contemporâneo ou exame do episódio. O desaparecimento de lesões após uma visita não estabelece causalidade sobrenatural, mas a revisão tampouco pode diagnosticar a experiência individual a distância.",
+      "sources": []
+    },
+    {
+      "cueStart": 241,
+      "cueEnd": 285,
+      "title": "Sofrimento de Jó e crença na redenção pelo sofrimento",
+      "speaker": "Guilherme Freire",
+      "verdict": "opinion",
+      "explanation": "Leitura teológica e experiência devocional. O sentido atribuído ao sofrimento não é tratado como resultado empírico verificável.",
+      "sources": []
+    },
+    {
+      "cueStart": 286,
+      "cueEnd": 346,
+      "title": "Morte, eternidade e compensação divina do sofrimento",
+      "speaker": "Guilherme Freire",
+      "verdict": "opinion",
+      "explanation": "Proposições metafísicas e doutrina sobre vida eterna. Não se atribui classificação científica à existência de recompensa após a morte.",
+      "sources": []
+    },
+    {
+      "cueStart": 350,
+      "cueEnd": 367,
+      "title": "Problema do céu atribuído a Graham Oppy",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Inconclusivo",
+      "explanation": "O problema filosófico é reconhecível, mas o participante não identifica obra ou passagem e ressalva a memória. Não foi estabelecida a autoria específica dessa formulação; isso não refuta nem valida o argumento.",
+      "sources": []
+    },
+    {
+      "cueStart": 376,
+      "cueEnd": 405,
+      "title": "Irmãos Karamázov contrapõe Ivan e Aliócha diante do sofrimento",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O romance de Dostoiévski contém Ivan, Aliócha e a discussão sobre sofrimento de inocentes. A fala resume e interpreta episódios literários; essa correspondência documental não prova uma resposta religiosa ao problema do mal.",
+      "sources": [
+        "ate-karamazov"
+      ]
+    },
+    {
+      "cueStart": 406,
+      "cueEnd": 450,
+      "title": "Livre-arbítrio e explicação de males humanos e naturais",
+      "speaker": "Guilherme Freire",
+      "verdict": "opinion",
+      "explanation": "É uma defesa filosófica/teológica. Hipóteses sobre o que Deus poderia criar e sobre liberdade não são classificadas como fatos observacionais.",
+      "sources": []
+    },
+    {
+      "cueStart": 451,
+      "cueEnd": 495,
+      "title": "Argumento do ocultamento divino de Schellenberg",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Schellenberg desenvolveu o argumento do ocultamento e da não crença não resistente. O resumo é compatível com essa tradição, mas há versões e premissas disputadas. Verifica-se a existência do argumento, não sua conclusão metafísica.",
+      "sources": [
+        "ate-hiddenness"
+      ]
+    },
+    {
+      "cueStart": 481,
+      "cueEnd": 486,
+      "title": "Leandro Karnal teve formação religiosa e quase foi jesuíta",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O perfil de 2017, feito a partir de entrevista com Karnal, registra criação católica e que ele quase foi jesuíta, trocando o seminário pela sala de aula. Isso sustenta o núcleo biográfico; não significa ordenação sacerdotal nem demonstra que experiências de oração tenham o mesmo efeito em todas as pessoas.",
+      "sources": [
+        "ate-karnal"
+      ]
+    },
+    {
+      "cueStart": 496,
+      "cueEnd": 540,
+      "title": "Abusos, famílias divididas e revelação suficiente de Deus",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os relatos gerais e a resposta sobre suficiência da revelação fundamentam posições filosóficas dos participantes; sem casos delimitados, não permitem uma estatística sobre todas as religiões.",
+      "sources": []
+    },
+    {
+      "cueStart": 556,
+      "cueEnd": 690,
+      "title": "Conversão pessoal e leitura da Suma Teológica",
+      "speaker": "Guilherme Freire",
+      "verdict": "opinion",
+      "explanation": "A Suma contém discussão sobre a existência de Deus. O percurso e a sensação de convencimento são autobiográficos; é inadequado tratá-los como demonstração experimental do teísmo.",
+      "sources": [
+        "ate-aquinas"
+      ]
+    },
+    {
+      "cueStart": 731,
+      "cueEnd": 739,
+      "title": "Ratio Studiorum e obra de Leonel Franca",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Ratio Studiorum é o plano de estudos jesuítico consolidado em 1599. Leonel Franca publicou estudo e tradução sobre o método, mas não é autor do regulamento original. A avaliação de nível intelectual é opinião.",
+      "sources": [
+        "ate-ratio"
+      ]
+    },
+    {
+      "cueStart": 739,
+      "cueEnd": 746,
+      "title": "Expulsão dos jesuítas por Pombal e desmonte das escolas",
+      "speaker": "Guilherme Freire",
+      "verdict": "Verdadeiro",
+      "explanation": "A lei de 03/09/1759 determinou expulsão da Companhia de Jesus do reino e domínios portugueses, atingindo sua rede de ensino no Brasil. O fato não mede sozinho a qualidade da catequese contemporânea.",
+      "sources": [
+        "ate-pombal"
+      ]
+    },
+    {
+      "cueStart": 751,
+      "cueEnd": 765,
+      "title": "Autoria apostólica dos quatro evangelhos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Há atribuições tradicionais, anonimato interno dos textos e disputas acadêmicas sobre autoria. Dois dos nomes tradicionais, Marcos e Lucas, nem sequer são apresentados como integrantes dos Doze. Manuscrito posterior não prova sozinho autoria apostólica; ausência de assinatura também não resolve toda a investigação histórica.",
+      "sources": [
+        "ate-gospel-authorship"
+      ]
+    },
+    {
+      "cueStart": 790,
+      "cueEnd": 800,
+      "title": "Evangelhos escritos em grego décadas após Jesus",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A composição usualmente proposta para os evangelhos canônicos é em grego, entre aproximadamente 65 e 100 d.C., posterior à morte de Jesus. Datas são estimativas históricas com margens e debates, não certidões de autoria.",
+      "sources": [
+        "ate-gospel-dates"
+      ]
+    },
+    {
+      "cueStart": 796,
+      "cueEnd": 806,
+      "title": "Todos os discípulos e Jesus seriam analfabetos",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Inconclusivo",
+      "explanation": "Atos 4:13 descreve Pedro e João como sem instrução formal; Lucas 4 narra Jesus lendo na sinagoga. Esses textos não são um censo de alfabetização nem prova independente de capacidade literária. Não autorizam concluir que todos os discípulos e Jesus fossem analfabetos.",
+      "sources": [
+        "ate-acts4",
+        "ate-luke4"
+      ]
+    },
+    {
+      "cueStart": 806,
+      "cueEnd": 841,
+      "title": "Mais documentação sobre Jesus do que sobre Alexandre, Platão e Sócrates",
+      "speaker": "Guilherme Freire",
+      "verdict": "Inconclusivo",
+      "explanation": "A comparação não define se conta manuscritos, cópias, autores independentes, inscrições ou testemunhas contemporâneas. Quantidade de cópias preservadas não equivale a quantidade de relatos independentes nem confirma todos os eventos narrados.",
+      "sources": []
+    },
+    {
+      "cueStart": 811,
+      "cueEnd": 816,
+      "title": "Maioria dos textos antigos teria sido preservada por monges cristãos",
+      "speaker": "Guilherme Freire",
+      "verdict": "Inconclusivo",
+      "explanation": "Monges tiveram papel importante na transmissão textual, mas a afirmação maioria exige inventário e universo definidos e não elimina tradições bizantinas, islâmicas e outras. Não foi demonstrado o percentual global afirmado.",
+      "sources": []
+    },
+    {
+      "cueStart": 820,
+      "cueEnd": 832,
+      "title": "Plutarco escreveu sobre Alexandre séculos depois",
+      "speaker": "Guilherme Freire",
+      "verdict": "Verdadeiro",
+      "explanation": "Alexandre morreu em 323 a.C.; Plutarco viveu nos séculos Ie IId.C. e sua Vida de Alexandre é posterior em cerca de quatro séculos. A distância cronológica não determina sozinha a confiabilidade de cada episódio.",
+      "sources": [
+        "ate-plutarch"
+      ]
+    },
+    {
+      "cueStart": 842,
+      "cueEnd": 945,
+      "title": "Virtudes de crentes e ateus, religião política e Coreia do Norte",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Juízos morais e uso ampliado de religião para descrever culto político. Isso não constitui definição jurídica ou demografia religiosa da Coreia do Norte.",
+      "sources": []
+    },
+    {
+      "cueStart": 946,
+      "cueEnd": 951,
+      "title": "Abolição da escravidão teria ocorrido principalmente pelo cristianismo",
+      "speaker": "Guilherme Freire",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Houve abolicionistas cristãos e a doutrina católica atual condena escravizar, mas isso não demonstra causa principal em todos os países. A abolição envolveu resistência de escravizados, movimentos políticos e leis; instituições cristãs também coexistiram com sistemas escravistas. Doutrina atual não apaga a diversidade histórica.",
+      "sources": [
+        "ate-abolition",
+        "ate-catechism-slavery"
+      ]
+    },
+    {
+      "cueStart": 951,
+      "cueEnd": 956,
+      "title": "Cristianismo teria banido o sacrifício humano no mundo",
+      "speaker": "Guilherme Freire",
+      "verdict": "Inconclusivo",
+      "explanation": "A generalização não delimita sociedades ou períodos. Houve condenações cristãs, mas diferentes povos também rejeitaram práticas desse tipo em contextos independentes. Não foi demonstrada uma causa mundial predominante.",
+      "sources": []
+    },
+    {
+      "cueStart": 960,
+      "cueEnd": 1025,
+      "title": "Lei natural, boa filosofia e compatibilidade entre razão e fé",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Argumentação normativa e filosófica. A análise não escolhe qual cosmovisão é verdadeira ou qual teologia merece adesão.",
+      "sources": []
+    },
+    {
+      "cueStart": 1006,
+      "cueEnd": 1020,
+      "title": "Tomás usa a forma esférica da Terra como exemplo de conhecimentos distintos",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Na Suma, I, questão 1, artigo 1, resposta 2, Tomás usa a forma redonda da Terra para ilustrar demonstrações por ciências diferentes. A legenda traz geologia onde a tradição textual fala de demonstração matemática/natural; sem áudio, não se imputa o termo ao participante.",
+      "sources": [
+        "ate-aquinas-method"
+      ]
+    },
+    {
+      "cueStart": 1031,
+      "cueEnd": 1078,
+      "title": "Antigo Testamento contém regras de escravidão e punição de escravos",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Verdadeiro",
+      "explanation": "Êxodo 21 regula compra, serviço e punição de pessoas escravizadas, incluindo os versículos 20–21 sobre agressão. Confere-se o conteúdo do texto; se isso é moralmente justificável ou inspirado por Deus é discussão teológica separada.",
+      "sources": [
+        "ate-exodus21"
+      ]
+    },
+    {
+      "cueStart": 1060,
+      "cueEnd": 1071,
+      "title": "Jesus cura servo do centurião sem ordenar sua libertação no episódio",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Verdadeiro",
+      "explanation": "Mateus 8:5–13 narra a cura e não registra uma ordem de emancipação. Isso descreve o episódio textual, não prova que Jesus tenha defendido toda forma histórica de escravidão nem que a cura tenha sido empiricamente autenticada.",
+      "sources": [
+        "ate-matthew8"
+      ]
+    },
+    {
+      "cueStart": 1086,
+      "cueEnd": 1107,
+      "title": "A escravidão existia antes do cristianismo",
+      "speaker": "Guilherme Freire",
+      "verdict": "Verdadeiro",
+      "explanation": "O Código de Hamurábi, anterior ao cristianismo em muitos séculos, contém regras sobre pessoas escravizadas. A origem pré-cristã não elimina a responsabilidade de instituições posteriores que participaram de sua manutenção.",
+      "sources": [
+        "ate-hammurabi"
+      ]
+    },
+    {
+      "cueStart": 1086,
+      "cueEnd": 1095,
+      "title": "Isabel rezou pela abolição",
+      "speaker": "Guilherme Freire",
+      "verdict": "Inconclusivo",
+      "explanation": "A religiosidade da Princesa Isabel e sua assinatura da Lei Áurea não bastam para comprovar a oração específica narrada. Sem documento contemporâneo identificado, a afirmação pessoal fica inconclusiva.",
+      "sources": []
+    },
+    {
+      "cueStart": 1108,
+      "cueEnd": 1126,
+      "title": "Sacrifício de Isaac e práticas cananeias",
+      "speaker": "Guilherme Freire",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Gênesis 22 narra Abraão sendo impedido de sacrificar Isaac, mas não demonstra sozinho uma religião cananeia uniforme nem a extensão histórica de sacrifícios infantis. A prefiguração de Cristo é interpretação cristã, sem voto factual.",
+      "sources": [
+        "ate-genesis22"
+      ]
+    },
+    {
+      "cueStart": 1171,
+      "cueEnd": 1239,
+      "title": "Se tivesse nascido em outra cultura, Freire também se converteria",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Cenário contrafactual e hipótese sobre trajetória individual. Pesquisas populacionais não determinam o que uma pessoa específica faria noutra vida.",
+      "sources": []
+    },
+    {
+      "cueStart": 1231,
+      "cueEnd": 1240,
+      "title": "Pessoas frequentemente mantêm a religião em que foram criadas",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Pesquisas de Pew encontram forte continuidade entre criação e identidade religiosa, com conversões e desligamentos relevantes. É uma tendência observada, não destino universal nem demonstração de falsidade de uma crença.",
+      "sources": [
+        "ate-pew"
+      ]
+    },
+    {
+      "cueStart": 1246,
+      "cueEnd": 1254,
+      "title": "Hipérbole sobre origens indianas e chinesas no Vale do Silício",
+      "speaker": "Guilherme Freire",
+      "verdict": "opinion",
+      "explanation": "A frase usa 50% para cada origem e termina com sei lá, em tom de exagero retórico. Não é tratada como estimativa demográfica séria no placar. Para referência, o Silicon Valley Index 2025 informa 37% de população asiática e 41% de pessoas nascidas no exterior na delimitação usada, sem equivaler a 100% de indianos e chineses.",
+      "sources": [
+        "ate-silicon"
+      ]
+    },
+    {
+      "cueStart": 1268,
+      "cueEnd": 1289,
+      "title": "Experimento infantil de preferência por personagem prejudicado e taxa de 80%",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A fala descreve escolha do personagem prejudicado; o estudo clássico de Hamlin, Wynn e Bloom compara ajudante e atrapalhador, uma distinção importante de protocolo. O experimento de 2007 não estabelece uma taxa universal de 80% nem moralidade adulta inata. A replicação multilaboratorial de 2025 não reproduziu uma preferência robusta pelo ajudante. Não se apresenta esse resultado como consenso encerrado.",
+      "sources": [
+        "ate-infants2007",
+        "ate-mb4"
+      ]
+    },
+    {
+      "cueStart": 1289,
+      "cueEnd": 1305,
+      "title": "Primatas reagem quando outro recebe recompensa melhor",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Brosnan e De Waal demonstraram reação à distribuição desigual em macacos-prego em 2003. O estudo é um precursor experimental, não prova que todos os primatas tenham a mesma noção humana de justiça; ressus e chimpanzés não são a espécie daquele experimento clássico.",
+      "sources": [
+        "ate-monkeys"
+      ]
+    },
+    {
+      "cueStart": 1306,
+      "cueEnd": 1334,
+      "title": "Empatia, evolução e conclusão de que religião não é necessária",
+      "speaker": "Daniel Gontijo",
+      "verdict": "opinion",
+      "explanation": "Há pesquisas sobre origens da cooperação, mas a conclusão moral e a suficiência de fontes naturais são parte do argumento filosófico. Um experimento isolado não resolve a origem última do bem.",
+      "sources": []
+    },
+    {
+      "cueStart": 1351,
+      "cueEnd": 1360,
+      "title": "Paulo menciona lei escrita nos corações",
+      "speaker": "Guilherme Freire",
+      "verdict": "Verdadeiro",
+      "explanation": "Romanos 2:14–15 contém a referência à lei escrita nos corações. A classificação é documental e não comprova uma lei moral sobrenatural como fato científico.",
+      "sources": [
+        "ate-romans2"
+      ]
+    },
+    {
+      "cueStart": 1393,
+      "cueEnd": 1401,
+      "title": "Divisão em múltiplas igrejas seria fenômeno somente recente",
+      "speaker": "Guilherme Freire",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Reforma ampliou a fragmentação no Ocidente, mas houve rupturas antigas, como as posteriores a Éfeso/Calcedônia e a separação entre Oriente e Ocidente. O próprio documento católico Unitatis Redintegratio reconhece divisões anteriores ao século XVI.",
+      "sources": [
+        "ate-unitatis"
+      ]
+    },
+    {
+      "cueStart": 1401,
+      "cueEnd": 1425,
+      "title": "Revoluções, Robespierre e culto político",
+      "speaker": "Guilherme Freire",
+      "verdict": "opinion",
+      "explanation": "Comparação retórica de violência e pretensão divina, com exagero temporal explícito. Sem definição de mortos, período e causalidade, não se produz ranking de violência entre teísmo e ateísmo.",
+      "sources": []
+    },
+    {
+      "cueStart": 1430,
+      "cueEnd": 1538,
+      "title": "Problema do mal e primeiro motor imóvel",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os argumentos existem na tradição filosófica, mas a validade de suas premissas e sua capacidade de demonstrar ou negar Deus não são decididas por um placar factual.",
+      "sources": [
+        "ate-aristotle",
+        "ate-aquinas"
+      ]
+    },
+    {
+      "cueStart": 1539,
+      "cueEnd": 1550,
+      "title": "Mecanismos naturais podem gerar padrões e diversidade de espécies",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Verdadeiro",
+      "explanation": "Darwin apresenta seleção natural sem exigir uma agência inteligente para cada adaptação. Isso confirma a estrutura de uma explicação científica; excluir ou admitir causa metafísica última é questão diferente.",
+      "sources": [
+        "ate-darwin"
+      ]
+    },
+    {
+      "cueStart": 1575,
+      "cueEnd": 1590,
+      "title": "Teoria do caos significaria universo sem ordem",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Caos determinístico descreve sensibilidade às condições iniciais em sistemas regidos por leis; não significa ausência de toda estrutura ou de regularidade. A noção técnica não resolve a existência de uma inteligência cósmica.",
+      "sources": [
+        "ate-chaos"
+      ]
+    },
+    {
+      "cueStart": 1600,
+      "cueEnd": 1728,
+      "title": "Salvação de ateus, arrependimento e superioridade moral de religiões",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Proposições soteriológicas e juízos morais. Não se certifica destino após a morte nem se hierarquizam pessoas por crença.",
+      "sources": []
+    },
+    {
+      "cueStart": 1730,
+      "cueEnd": 1815,
+      "title": "Ato, potência e primeiro motor na Metafísica de Aristóteles",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Aristóteles discute atualização, movimento e substância imóvel no livro XII. A reconstrução do debatedor mistura a tradição aristotélica com desenvolvimentos teístas; não equivale a uma conclusão aceita por toda filosofia ou pela física contemporânea. O texto aristotélico pressupõe movimento eterno; não é uma descrição de criação temporal do universo nem uma confirmação da cosmologia moderna.",
+      "sources": [
+        "ate-aristotle"
+      ]
+    },
+    {
+      "cueStart": 1800,
+      "cueEnd": 1809,
+      "title": "Física quântica confirmaria a matéria como pura potência aristotélica",
+      "speaker": "Guilherme Freire",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica modelo, equação ou experimento que estabeleça essa equivalência. Aproximação metafórica entre vocabulários filosófico e físico não constitui comprovação científica.",
+      "sources": []
+    },
+    {
+      "cueStart": 1818,
+      "cueEnd": 1844,
+      "title": "Não havia tempo antes do Big Bang e origem do universo",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Inconclusivo",
+      "explanation": "Modelos cosmológicos descrevem a evolução inicial do universo, mas a NASA ressalva que a causa da expansão inicial é desconhecida. A ausência absoluta de um antes e suas implicações metafísicas não foram estabelecidas empiricamente pelo argumento apresentado.",
+      "sources": [
+        "ate-nasa"
+      ]
+    },
+    {
+      "cueStart": 1843,
+      "cueEnd": 1859,
+      "title": "Argumento de William Rowe e exemplo do cervo no incêndio",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Verdadeiro",
+      "explanation": "O artigo de Rowe de 1979 usa o sofrimento de um animal num incêndio como exemplo no argumento evidencial do mal. Verifica-se a referência, não uma demonstração experimental de inexistência divina.",
+      "sources": [
+        "ate-rowe"
+      ]
+    },
+    {
+      "cueStart": 1855,
+      "cueEnd": 1860,
+      "title": "Terremoto recente teria atingido a Venezuela",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não fornece data, local, magnitude ou evento que permita distinguir um terremoto na Venezuela de ocorrências regionais. Não se inventa um episódio para preencher a referência vaga.",
+      "sources": []
+    },
+    {
+      "cueStart": 1871,
+      "cueEnd": 1886,
+      "title": "Georges Lemaître foi sacerdote e formulador da cosmologia do Big Bang",
+      "speaker": "Guilherme Freire",
+      "verdict": "Verdadeiro",
+      "explanation": "Lemaître era sacerdote católico e cosmólogo e formulou a hipótese do átomo primordial. A teoria moderna foi desenvolvida por vários pesquisadores; isso não a torna uma prova de criacionismo ou de ateísmo.",
+      "sources": [
+        "ate-lemaitre"
+      ]
+    },
+    {
+      "cueStart": 1887,
+      "cueEnd": 1940,
+      "title": "Cadeia causal, necessidade, eternidade e providência",
+      "speaker": "Guilherme Freire",
+      "verdict": "opinion",
+      "explanation": "Argumentação metafísica e confissão de fé sobre a providência. A necessidade de um primeiro termo não é tomada como resultado experimental nem extrapolada de sequências matemáticas sem definição.",
+      "sources": []
+    },
+    {
+      "cueStart": 1941,
+      "cueEnd": 2070,
+      "title": "Como viver se Deus não existisse e aposta de Gontijo",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Contrafactuais, valores e escolhas de vida. A reflexão não é objeto de classificação verdadeiro/falso.",
+      "sources": []
+    },
+    {
+      "cueStart": 2071,
+      "cueEnd": 2085,
+      "title": "Imagem benevolente de Deus pode se associar a melhor saúde mental",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Pesquisas encontram associações entre formas de enfrentamento religioso, representações de Deus e sofrimento psicológico. São relações observadas em amostras específicas, não garantia individual nem demonstração de que uma crença seja verdadeira ou de que toda imagem punitiva cause doença.",
+      "sources": [
+        "ate-godmental"
+      ]
+    },
+    {
+      "cueStart": 2086,
+      "cueEnd": 2110,
+      "title": "Resposta de Chesterton sobre o que há de errado com o mundo",
+      "speaker": "Guilherme Freire",
+      "verdict": "Inconclusivo",
+      "explanation": "A anedota é amplamente atribuída a Chesterton, mas não foi localizado o exemplar original da suposta carta ao editor que confirme a forma narrada. Existência de um livro com título semelhante não autentica a história da resposta curta.",
+      "sources": [
+        "ate-chesterton"
+      ]
+    },
+    {
+      "cueStart": 2111,
+      "cueEnd": 2207,
+      "title": "Oração, rede de apoio, terapia e abertura pessoal à religião",
+      "speaker": "Daniel Gontijo",
+      "verdict": "opinion",
+      "explanation": "Relatos de saúde e preferências pessoais de enfrentamento. Não se realizam diagnósticos nem se garante eficácia de tratamento ou oração para uma pessoa a partir do episódio.",
+      "sources": []
+    },
+    {
+      "cueStart": 2153,
+      "cueEnd": 2162,
+      "title": "Sofrimento pode aumentar religiosidade ou motivar descrença",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Inconclusivo",
+      "explanation": "São possíveis relatos individuais de aproximação ou afastamento religioso, mas a afirmação não identifica uma coorte ou medida de conversão. A meta-análise de enfrentamento religioso citada em outro item avalia ajustamento psicológico, não demonstra a frequência dessas mudanças de crença.",
+      "sources": []
+    },
+    {
+      "cueStart": 2208,
+      "cueEnd": 2223,
+      "title": "Existência de abusos sexuais por integrantes do clero",
+      "speaker": "Guilherme Freire",
+      "verdict": "Verdadeiro",
+      "explanation": "Normas e documentos oficiais da Igreja tratam de crimes e mecanismos de denúncia e responsabilização. Isso confirma existência do problema, não acusa qualquer padre específico nem descreve todo o clero como criminoso.",
+      "sources": [
+        "ate-vatican-abuse"
+      ]
+    },
+    {
+      "cueStart": 2224,
+      "cueEnd": 2232,
+      "title": "Sam Harris trata abusos de liderança religiosa no livro Despertar",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi conferida a passagem na edição exata do livro citada. A generalização sobre narcisismo não permite diagnosticar líderes ou estimar sua frequência sem pesquisa delimitada.",
+      "sources": []
+    },
+    {
+      "cueStart": 2233,
+      "cueEnd": 2252,
+      "title": "Narrativa de conversão após conhecer corrupção em Roma no Decameron",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O primeiro dia, novela II, traz Abraão, que retorna de Roma e se converte apesar da corrupção observada. No texto, quem o incentiva é o mercador Giannotto, não um bispo. É uma narrativa literária, não evidência histórica de uma conversão real ou de intervenção divina.",
+      "sources": [
+        "ate-decameron"
+      ]
+    },
+    {
+      "cueStart": 2282,
+      "cueEnd": 2304,
+      "title": "Psicologia anomalística estuda experiências tidas como paranormais",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Verdadeiro",
+      "explanation": "A área estuda experiências e crenças anômalas com métodos psicológicos, sem pressupor causa paranormal. Sua existência não comprova explicação clínica para cada experiência pessoal narrada.",
+      "sources": [
+        "ate-anomalistic"
+      ]
+    },
+    {
+      "cueStart": 2353,
+      "cueEnd": 2375,
+      "title": "Sócrates e Boécio preferem sofrer injustiça a cometê-la",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O argumento é central no Górgias de Platão e também aparece na tradição de Boécio. Confere-se a correspondência filosófica; se é a melhor ética é uma questão normativa, sem voto científico.",
+      "sources": [
+        "ate-gorgias",
+        "ate-boethius"
+      ]
+    },
+    {
+      "cueStart": 2395,
+      "cueEnd": 2416,
+      "title": "Confissões é uma obra de Agostinho",
+      "speaker": "Guilherme Freire",
+      "verdict": "Verdadeiro",
+      "explanation": "As Confissões são obra autobiográfica e filosófica de Agostinho. As comparações com cultura brasileira e o valor pessoal da leitura são interpretações do participante.",
+      "sources": [
+        "ate-confessions"
+      ]
+    },
+    {
+      "cueStart": 2437,
+      "cueEnd": 2515,
+      "title": "Critérios hipotéticos para Gontijo voltar a ser cristão",
+      "speaker": "Daniel Gontijo",
+      "verdict": "opinion",
+      "explanation": "Cenários imaginados de revelação, milagres e descoberta de manuscritos, não notícias de fatos ocorridos. Não são publicados como alegações de uma profetisa real.",
+      "sources": []
+    },
+    {
+      "cueStart": 2475,
+      "cueEnd": 2490,
+      "title": "Há variações textuais na transmissão dos manuscritos bíblicos",
+      "speaker": "Daniel Gontijo",
+      "verdict": "Verdadeiro",
+      "explanation": "Acervos de manuscritos como o Codex Sinaiticus documentam correções e variantes textuais. Isso confirma história de transmissão, não permite concluir que toda variante seja fraude deliberada ou que qualquer doutrina seja falsa.",
+      "sources": [
+        "ate-codex"
+      ]
+    },
+    {
+      "cueStart": 2528,
+      "cueEnd": 2551,
+      "title": "Doutrina católica admite possibilidade de salvação de não cristãos",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Lumen Gentium 16 trata de pessoas que, sem culpa, não conhecem o Evangelho e procuram o bem. O documento não assegura destino individual nem prova existência de céu/inferno; confere-se a possibilidade na doutrina, com suas condições.",
+      "sources": [
+        "ate-lumen"
+      ]
+    },
+    {
+      "cueStart": 2552,
+      "cueEnd": 2709,
+      "title": "Inferno, graça e avaliação das crenças alheias",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Crenças metafísicas, metáforas e juízos sobre ideologias. Não são transformados em fatos sobre o destino dos participantes ou sobre a dignidade de grupos religiosos.",
+      "sources": []
+    },
+    {
+      "cueStart": 2715,
+      "cueEnd": 2743,
+      "title": "Baixa fecundidade em países ocidentais e no Brasil",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Censo 2022 informa 1, 55 filho por mulher no Brasil, abaixo da reposição. A tendência ocorre em muitos países, mas ocidente não é uma unidade estatística homogênea. Fecundidade demográfica não é sinônimo de capacidade biológica de engravidar.",
+      "sources": [
+        "ate-fertility"
+      ]
+    },
+    {
+      "cueStart": 2720,
+      "cueEnd": 2734,
+      "title": "Queda da fé explicaria a queda da fecundidade",
+      "speaker": "Guilherme Freire",
+      "verdict": "Inconclusivo",
+      "explanation": "Religião pode se associar a escolhas familiares, mas o dado de fecundidade não identifica uma causa única. Renda, educação, contracepção, adiamento e condições sociais também importam; correlação não comprova que perda de fé causou o fenômeno.",
+      "sources": [
+        "ate-fertility"
+      ]
+    },
+    {
+      "cueStart": 2758,
+      "cueEnd": 2775,
+      "title": "Envelhecimento populacional e aumento de divórcios",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O IBGE documenta envelhecimento e aumento dos divórcios no longo prazo. Porém houve queda de 2, 8% nos divórcios de 2024; uma tendência histórica não significa crescimento em todos os anos nem decorre necessariamente de uma única mudança religiosa.",
+      "sources": [
+        "ate-aging",
+        "ate-divorce"
+      ]
+    },
+    {
+      "cueStart": 2778,
+      "cueEnd": 2833,
+      "title": "Cristianismo especial ou apenas mais uma religião",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Avaliações de valor, alcance cultural e verdade metafísica. Não há critério empírico para pontuar qual religião é mais sensata ou bela.",
+      "sources": []
+    },
+    {
+      "cueStart": 2820,
+      "cueEnd": 2829,
+      "title": "Bach, Haydn e Mozart produziram música cristã",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Missa em si menor de Bach, as missas editadas pelo Haydn-Institut e o Requiem de Mozart são obras sacras documentadas. Isso confirma a produção musical, sem estabelecer que a fé seja causa suficiente de excelência artística ou validar uma religião metafisicamente.",
+      "sources": [
+        "ate-bach",
+        "ate-haydn",
+        "ate-mozart"
+      ]
+    },
+    {
+      "cueStart": 2833,
+      "cueEnd": 2851,
+      "title": "Tolkien participou da conversão de C. S. Lewis em Addisons Walk",
+      "speaker": "Guilherme Freire",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Fontes de Merton College registram os diálogos de Lewis e Tolkien sobre mito em Addisons Walk; participou também Hugo Dyson. A mudança foi um processo e não ocorreu toda numa única caminhada.",
+      "sources": [
+        "ate-lewis"
+      ]
+    },
+    {
+      "cueStart": 2880,
+      "cueEnd": 2910,
+      "title": "Altar ateniense ao Deus desconhecido seria monumento a Sócrates",
+      "speaker": "Guilherme Freire",
+      "verdict": "Falso",
+      "explanation": "Atos 17:23 menciona altar ao Deus desconhecido, sem dedicá-lo a Sócrates. As notas e referências antigas tratam de altares sem divindade identificada. A comparação do discurso de Paulo com Sócrates não os torna o mesmo monumento.",
+      "sources": [
+        "ate-acts17"
+      ]
+    },
+    {
+      "cueStart": 2911,
+      "cueEnd": 2958,
+      "title": "Vocação, alma e valor das pessoas",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Doutrina, filosofia e avaliações morais sobre o sentido da vida. Não se mede caráter individual a partir da religião declarada.",
+      "sources": []
+    },
+    {
+      "cueStart": 2970,
+      "cueEnd": 3035,
+      "title": "Convicção, religião e margem de dúvida",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os percentuais de certeza são descrições subjetivas dos participantes ou de conhecidos, não probabilidades científicas da existência de Deus nem medida de todos os crentes e ateus.",
+      "sources": []
+    },
+    {
+      "cueStart": 3099,
+      "cueEnd": 3111,
+      "title": "Livros recomendados e autoria de AFé Explicada",
+      "speaker": "Guilherme Freire",
+      "verdict": "Inconclusivo",
+      "explanation": "A editora identifica AFé Explicada como obra de Leo J.Trese, a quem a legenda chama Leão XIII. É provável ruído de reconhecimento de fala e não se atribui erro ao participante sem conferir o áudio. Os demais títulos também precisam da edição ou áudio exatos para autenticar a recomendação.",
+      "sources": [
+        "ate-trese"
+      ]
+    }
+  ],
+  "coverageNotes": "Neste debate filosófico, revisão factual não decide a existência de Deus. Relatos pessoais, crenças, juízos morais e premissas metafísicas foram excluídos do placar; classificações documentais verificam o conteúdo de textos ou registros, não a verdade sobrenatural neles narrada.",
+  "limitations": [
+    "Autores e títulos podem aparecer incorretos na legenda automática; divergências possivelmente acústicas não são imputadas como erro comprovado do participante.",
+    "Muitos argumentos são posições filosóficas ou religiosas sem teste empírico. Os gráficos representam apenas o subconjunto de alegações documentais e empíricas identificado, não a força de cada cosmovisão."
+  ]
+}

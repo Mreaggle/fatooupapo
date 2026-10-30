@@ -17,7 +17,7 @@ describe('fluxo inicial', () => {
     const carousel = await screen.findByRole('region', { name: 'Debates em destaque' })
     const gallery = screen.getByRole('region', { name: 'Debates checados recentemente' })
     expect(within(carousel).getAllByRole('link')).toHaveLength(6)
-    expect(within(gallery).getAllByRole('link')).toHaveLength(6)
+    expect(within(gallery).getAllByRole('link')).toHaveLength(Object.keys(snapshots.reports).length)
     expect(within(carousel).queryByText(/afirmações analisadas|Ver checagem/)).not.toBeInTheDocument()
     expect(fetchMock).toHaveBeenCalledTimes(1)
   })

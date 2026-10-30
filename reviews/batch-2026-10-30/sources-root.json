@@ -1,0 +1,757 @@
+{
+  "lua-pib2010": {
+    "title": "PIB de 2010: crescimento real e revisão das contas nacionais",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14317-asi-regiao-norte-aumenta-participacao-no-pib-nacional",
+    "publisher": "IBGE"
+  },
+  "lua-rais2010": {
+    "title": "RAIS 2010: principais resultados e empregos criados entre 2003 e 2010",
+    "url": "https://acesso.mte.gov.br/data/files/8A7C812D2E7318C8012FE039D8AA15D9/resultado_2010.pdf",
+    "publisher": "Ministério do Trabalho e Emprego"
+  },
+  "lua-ifi2023": {
+    "title": "Relatório de Acompanhamento Fiscal 84: orçamento 2023 e PEC da Transição",
+    "url": "https://www12.senado.leg.br/ifi/pdf/raf84_jan2024.pdf/@@download/file/RAF84_JAN2024.pdf",
+    "publisher": "Instituição Fiscal Independente do Senado"
+  },
+  "lua-eleicoes": {
+    "title": "Calendário das Eleições 2026: primeiro e segundo turnos",
+    "url": "https://www.tse.jus.br/eleicoes/cde-2026",
+    "publisher": "Tribunal Superior Eleitoral"
+  },
+  "lua-bancada2022": {
+    "title": "Partidos que mais ganharam e perderam deputados nas eleições 2022",
+    "url": "https://www.camara.leg.br/noticias/911890-confira-os-partidos-que-mais-ganharam-e-mais-perderam-dep",
+    "publisher": "Câmara dos Deputados"
+  },
+  "lua-reforma-tributaria": {
+    "title": "Emenda Constitucional 132/2023: reforma do sistema tributário",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+    "publisher": "Presidência da República"
+  },
+  "lua-ministerios": {
+    "title": "Ministros do terceiro governo Lula: composição e vinculações partidárias",
+    "url": "https://www.jota.info/eleicoes/saiba-quem-sao-os-ministros-escolhidos-por-lula",
+    "publisher": "JOTA"
+  },
+  "lua-messias": {
+    "title": "Senado rejeita indicação de Jorge Messias ao STF",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
+    "publisher": "Senado Federal"
+  },
+  "lua-reciprocidade": {
+    "title": "Lei 15.122/2025: medidas de reciprocidade econômica",
+    "url": "https://planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15122.htm",
+    "publisher": "Presidência da República"
+  },
+  "lua-terrorismo-eua": {
+    "title": "18 USC 2331: definições de terrorismo internacional e doméstico",
+    "url": "https://www.law.cornell.edu/uscode/text/18/2331",
+    "publisher": "USCode / Legal Information Institute, Cornell"
+  },
+  "lua-cf144": {
+    "title": "Constituição de 1988, texto original: competências da segurança pública",
+    "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html/",
+    "publisher": "Câmara dos Deputados"
+  },
+  "lua-cf": {
+    "title": "Constituição Federal: Poder Judiciário e competências",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "publisher": "Presidência da República"
+  },
+  "lua-quarentena": {
+    "title": "Constituição Federal, artigo 95: vedações aos magistrados e quarentena",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm#art95",
+    "publisher": "Presidência da República"
+  },
+  "lua-presidios138": {
+    "title": "Plano de conversão de 138 unidades prisionais em segurança máxima",
+    "url": "https://agenciagov.ebc.com.br/noticias/202605/lula-planeja-138-presidios-de-seguranca-maxima-e-pede-aprovacao-da-pec-da-seguranca-publica",
+    "publisher": "Agência Gov / Presidência da República"
+  },
+  "lua-ec45": {
+    "title": "Emenda Constitucional 45/2004: reforma do Judiciário",
+    "url": "https://legis.senado.leg.br/norma/540648",
+    "publisher": "Senado Federal"
+  },
+  "lua-master-reuniao": {
+    "title": "Depoimento de Galípolo: reunião no Planalto em dezembro de 2024",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/04/08/galipolo-nega-atuacao-do-bc-em-favor-do-master-e-justifica-liquidacao-em-2025",
+    "publisher": "Senado Federal"
+  },
+  "lua-master-liquidacao": {
+    "title": "Liquidação extrajudicial do Banco Master em 18/11/2025",
+    "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota/undefined",
+    "publisher": "Banco Central do Brasil"
+  },
+  "lua-bolsa2026": {
+    "title": "Decreto 13.120/2026: reajuste do Bolsa Família em setembro",
+    "url": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+    "publisher": "Ministério do Desenvolvimento e Assistência Social"
+  },
+  "lua-contas2022": {
+    "title": "Contas do Governo 2022: resultado primário e nominal",
+    "url": "https://sites.tcu.gov.br/contas-do-governo-2022/03-politica-fiscal.html",
+    "publisher": "Tribunal de Contas da União"
+  },
+  "lua-ploa2027": {
+    "title": "Projeto de Orçamento de 2027: superávit e metodologia da meta",
+    "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2026/governo-federal-apresenta-projeto-de-orcamento-de-2027-com-previsao-de-superavit-primario-de-r-18-6-bilhoes",
+    "publisher": "Ministério do Planejamento e Orçamento"
+  },
+  "lua-peic2022": {
+    "title": "PEIC 2022: perfil e percentual de famílias endividadas",
+    "url": "https://portaldocomercio.org.br/economia/peic-mulher-jovem-e-com-ensino-medio-incompleto-e-o-perfil-da-maioria-dos-endividados-brasileiros-de-2022/",
+    "publisher": "Confederação Nacional do Comércio"
+  },
+  "lua-desenrola1": {
+    "title": "Desenrola encerra com 15, 5 milhões de beneficiados em 2024",
+    "url": "https://agenciagov.ebc.com.br/noticias/202405/desenrola-brasil-encerra-com-beneficio-a-mais-de-15-milhoes-de-pessoas-e-reducao-da-inadimplencia-entre-a-populacao-mais-vulneravel-do-pais",
+    "publisher": "Agência Gov / Ministério da Fazenda"
+  },
+  "lua-desenrola3": {
+    "title": "Desenrola Brasil 3.0: MP 1.393/2026, critérios, orçamento e cronograma",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/28/desenrola-brasil-3-0-ja-esta-em-vigor-veja-como-funciona",
+    "publisher": "Senado Federal"
+  },
+  "lua-mei2026": {
+    "title": "Senado aprova aumento do teto do MEI e proposta de perdão de dívidas",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas",
+    "publisher": "Senado Federal"
+  },
+  "lua-galipolo": {
+    "title": "MSF 42/2024: nomeação de Galípolo para mandato a partir de 01/01/2025",
+    "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/165220",
+    "publisher": "Congresso Nacional"
+  },
+  "lua-fmi2005": {
+    "title": "Quitação antecipada do saldo brasileiro com o FMI em 2005",
+    "url": "https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr05275",
+    "publisher": "Fundo Monetário Internacional"
+  },
+  "lua-reservas2010": {
+    "title": "Ata do Copom de 19/01/2011: reservas de dezembro de 2010",
+    "url": "https://www.bcb.gov.br/publicacoes/atascopom/19012011",
+    "publisher": "Banco Central do Brasil"
+  },
+  "lua-divida2026": {
+    "title": "Estatísticas fiscais, agosto de 2026, divulgadas em 30/09/2026",
+    "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202609_Texto_de_estatisticas_fiscais.pdf",
+    "publisher": "Banco Central do Brasil"
+  },
+  "lua-fome2014": {
+    "title": "Brasil e o critério de saída do Mapa da Fome",
+    "url": "https://www.fao.org/brasil/news/detail/Brasil-voltou-a-sair-do-Mapa-da-Fome",
+    "publisher": "FAO"
+  },
+  "lua-fome2022": {
+    "title": "IIInquérito Nacional sobre Insegurança Alimentar, 2022",
+    "url": "https://redepenssan.org.br/wp-content/uploads/2026/01/Relatorio-II-VIGISAN-2022_compressed.pdf",
+    "publisher": "Rede PENSSAN"
+  },
+  "lua-ben2026": {
+    "title": "Balanço Energético Nacional 2026, ano-base 2025",
+    "url": "https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2026",
+    "publisher": "Empresa de Pesquisa Energética"
+  },
+  "lua-eletrobras": {
+    "title": "Lei 14.182/2021: desestatização da Eletrobras",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14182.htm",
+    "publisher": "Presidência da República"
+  },
+  "lua-mercadoenergia": {
+    "title": "Mercado livre de energia: regras de migração e cronograma até 2028",
+    "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/mercado-livre-de-energia-avanca-e-amplia-liberdade-de-escolha-para-o-consumidor-brasileiro",
+    "publisher": "Ministério de Minas e Energia"
+  },
+  "lua-maismedicos": {
+    "title": "Mensagem ao Congresso 2026:27, 4 mil profissionais no Mais Médicos",
+    "url": "https://www.gov.br/casacivil/pt-br/.arquivos/mensagem-ao-congresso-nacional-2026.pdf",
+    "publisher": "Presidência da República / Casa Civil"
+  },
+  "lua-maismedicos2022": {
+    "title": "Balanço do Mais Médicos:13.726 profissionais em 2022",
+    "url": "https://agenciagov.ebc.com.br/noticias/202404/governo-lanca-mais-acesso-a-especialistas-para-reduzir-espera-por-tratamentos-no-sus",
+    "publisher": "Agência Gov / Ministério da Saúde"
+  },
+  "lua-carretas": {
+    "title": "Carretas do Agora Tem Especialistas: metas e procedimentos em 2026",
+    "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/setembro/carretas-do-agora-tem-especialistas-ultrapassam-1-milhao-de-procedimentos-no-sus/",
+    "publisher": "Ministério da Saúde"
+  },
+  "lua-especialistas": {
+    "title": "Agora Tem Especialistas se torna lei e permite créditos por serviços",
+    "url": "https://www12.senado.leg.br/noticias/materias/2025/10/08/programa-para-reduzir-fila-de-espera-por-especialistas-no-sus-agora-e-lei",
+    "publisher": "Senado Federal"
+  },
+  "lua-cirurgias2025": {
+    "title": "Balanço apresentado em audiência:14, 9 milhões de cirurgias eletivas em 2025",
+    "url": "https://www.camara.leg.br/radio/radioagencia/1276964-governo-anuncia-recorde-de-cirurgias-eletivas-no-sus/",
+    "publisher": "Câmara dos Deputados"
+  },
+  "lua-luzpovo": {
+    "title": "Luz do Povo: critérios da tarifa social e desconto social",
+    "url": "https://www.gov.br/mme/pt-br/luzdopovo/perguntas-frequentes-faq/perguntas-frequentes/",
+    "publisher": "Ministério de Minas e Energia"
+  },
+  "lua-gaspovo": {
+    "title": "Regulamentação e público-alvo do Gás do Povo",
+    "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/2023-2026/governo-federal-publica-decreto-que-regulamenta-o-programa-gas-do-povo",
+    "publisher": "Ministério de Minas e Energia"
+  },
+  "lua-antifaccao": {
+    "title": "Lei 15.358/2026: sanção e entrada em vigor do marco antifacção",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+    "publisher": "Senado Federal"
+  },
+  "lua-pec18": {
+    "title": "PEC 18/2025 e emenda 87 de Camilo Santana, em 15/10/2026",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/10/15/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-desta-quinta-feira",
+    "publisher": "Senado Federal"
+  },
+  "lua-medo2026": {
+    "title": "Os gatilhos da insegurança: medo do crime e eleições 2026",
+    "url": "https://forumseguranca.org.br/wp-content/uploads/2026/05/os-gatilhos-da-inseguranca-relatorio-completo-2026.pdf",
+    "publisher": "Fórum Brasileiro de Segurança Pública / Datafolha"
+  },
+  "ate-ufmg": {
+    "title": "Doutores e mestres egressos do Programa de Neurociências",
+    "url": "https://neurociencias.icb.ufmg.br/egressos/",
+    "publisher": "UFMG"
+  },
+  "ate-karamazov": {
+    "title": "Os Irmãos Karamázov: texto integral do romance",
+    "url": "https://www.gutenberg.org/files/28054/28054-h/28054-h.htm",
+    "publisher": "Fiódor Dostoiévski / Project Gutenberg"
+  },
+  "ate-hiddenness": {
+    "title": "Divine hiddenness: part 1 (recent work on the hiddenness argument)",
+    "url": "https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12355",
+    "publisher": "J. L. Schellenberg / Philosophy Compass"
+  },
+  "ate-ratio": {
+    "title": "O método pedagógico dos jesuítas: Ratio Studiorum, tradução de Leonel Franca",
+    "url": "https://www.histedbr.fe.unicamp.br/acervo/fontes/4782",
+    "publisher": "HISTEDBR / Unicamp"
+  },
+  "ate-pombal": {
+    "title": "Companhia de Jesus: expulsão dos domínios portugueses em 1759",
+    "url": "https://historialuso.an.gov.br/index.php?Itemid=354&id=3168&option=com_content&view=article",
+    "publisher": "Arquivo Nacional do Brasil"
+  },
+  "ate-gospel-authorship": {
+    "title": "Gathercole: The Alleged Anonymity of the Canonical Gospels",
+    "url": "https://www.repository.cam.ac.uk/items/d376bf86-b3db-4dc8-a59a-db327df52322/full",
+    "publisher": "Universidade de Cambridge"
+  },
+  "ate-gospel-dates": {
+    "title": "Who wrote the Gospels and when?",
+    "url": "https://www.catholicidentity.bne.catholic.edu.au/religion-curriculum/scripture/who-wrote-the-gospels-and-when",
+    "publisher": "Brisbane Catholic Education"
+  },
+  "ate-acts4": {
+    "title": "Atos dos Apóstolos, capítulo 4",
+    "url": "https://bible.usccb.org/bible/acts/4",
+    "publisher": "USCCB / New American Bible"
+  },
+  "ate-luke4": {
+    "title": "Evangelho de Lucas, capítulo 4",
+    "url": "https://bible.usccb.org/bible/luke/4",
+    "publisher": "USCCB / New American Bible"
+  },
+  "ate-plutarch": {
+    "title": "Vida de Alexandre: texto de Plutarco",
+    "url": "https://classics.mit.edu/Plutarch/alexandr.html",
+    "publisher": "Plutarco / Internet Classics Archive, MIT"
+  },
+  "ate-abolition": {
+    "title": "African American Odyssey: documentos do abolicionismo",
+    "url": "https://www.loc.gov/exhibits/african-american-odyssey/abolition",
+    "publisher": "Library of Congress"
+  },
+  "ate-catechism-slavery": {
+    "title": "Catecismo, parágrafo 2414: proibição de escravizar seres humanos",
+    "url": "https://www.vatican.va/archive/ENG0015/__P8B.HTM",
+    "publisher": "Santa Sé"
+  },
+  "ate-aquinas-method": {
+    "title": "Suma Teológica, I, questão 1, artigo 1: objeto e métodos da doutrina",
+    "url": "https://www.newadvent.org/summa/1001.htm",
+    "publisher": "Tomás de Aquino / New Advent"
+  },
+  "ate-aquinas": {
+    "title": "Suma Teológica, I, questão 2: existência de Deus",
+    "url": "https://www.newadvent.org/summa/1002.htm",
+    "publisher": "Tomás de Aquino / New Advent"
+  },
+  "ate-aristotle": {
+    "title": "Metafísica, livro XII",
+    "url": "https://classics.mit.edu/Aristotle/metaphysics.12.xii.html",
+    "publisher": "Aristóteles / Internet Classics Archive, MIT"
+  },
+  "ate-exodus21": {
+    "title": "Êxodo, capítulo 21: normas sobre escravidão",
+    "url": "https://bible.usccb.org/bible/exodus/21",
+    "publisher": "USCCB / New American Bible"
+  },
+  "ate-matthew8": {
+    "title": "Evangelho de Mateus, capítulo 8",
+    "url": "https://bible.usccb.org/bible/matthew/8",
+    "publisher": "USCCB / New American Bible"
+  },
+  "ate-hammurabi": {
+    "title": "Código de Hamurábi: texto das leis",
+    "url": "https://avalon.law.yale.edu/ancient/hamframe.asp",
+    "publisher": "Avalon Project / Yale Law School"
+  },
+  "ate-genesis22": {
+    "title": "Gênesis, capítulo 22",
+    "url": "https://bible.usccb.org/bible/genesis/22",
+    "publisher": "USCCB / New American Bible"
+  },
+  "ate-pew": {
+    "title": "Links Between Childhood Religious Upbringing and Current Religious Identity",
+    "url": "https://www.pewresearch.org/religion/2016/10/26/links-between-childhood-religious-upbringing-and-current-religious-identity/",
+    "publisher": "Pew Research Center"
+  },
+  "ate-silicon": {
+    "title": "Silicon Valley Index 2025: população e imigração",
+    "url": "https://smccd.edu/strategicplanning/documents/SiliconValleyIndex_2025.pdf",
+    "publisher": "Joint Venture Silicon Valley / Silicon Valley Institute for Regional Studies"
+  },
+  "ate-infants2007": {
+    "title": "Social evaluation by preverbal infants",
+    "url": "https://www.nature.com/articles/nature06288",
+    "publisher": "Hamlin, Wynn e Bloom / Nature"
+  },
+  "ate-mb4": {
+    "title": "Many Babies: replicação multilaboratorial da preferência por ajudantes, 2025",
+    "url": "https://babylab.princeton.edu/sites/g/files/toruqf7736/files/documents/luccayuenwanghamlin_etal_mb2_2025.pdf",
+    "publisher": "Lucca e colaboradores / Many Babies, Developmental Science"
+  },
+  "ate-monkeys": {
+    "title": "Monkeys reject unequal pay, 2003",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/13679918/",
+    "publisher": "Brosnan e de Waal / Nature, Pub Med"
+  },
+  "ate-romans2": {
+    "title": "Carta aos Romanos, capítulo 2",
+    "url": "https://bible.usccb.org/bible/romans/2",
+    "publisher": "USCCB / New American Bible"
+  },
+  "ate-unitatis": {
+    "title": "Unitatis Redintegratio: divisões históricas entre cristãos",
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html",
+    "publisher": "Concílio Vaticano II / Santa Sé"
+  },
+  "ate-darwin": {
+    "title": "On the Origin of Species, texto da primeira edição",
+    "url": "https://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=text&pageseq=1",
+    "publisher": "Charles Darwin / Darwin Online"
+  },
+  "ate-chaos": {
+    "title": "Deterministic Nonperiodic Flow, 1963",
+    "url": "https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml",
+    "publisher": "Edward Lorenz / Journal of the Atmospheric Sciences"
+  },
+  "ate-rowe": {
+    "title": "The Problem of Evil and Some Varieties of Atheism, 1979",
+    "url": "https://rintintin.colorado.edu/~vancecd/phil201/Rowe.pdf",
+    "publisher": "William Rowe / American Philosophical Quarterly"
+  },
+  "ate-nasa": {
+    "title": "Hubble and the Big Bang: evidências e questões em aberto",
+    "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+    "publisher": "NASA"
+  },
+  "ate-lemaitre": {
+    "title": "Georges Lemaître: Father of the Big Bang",
+    "url": "https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/georges-lemaitre-big-bang",
+    "publisher": "American Museum of Natural History"
+  },
+  "ate-godmental": {
+    "title": "God’s will, God’s punishment, or God’s limitations? Religious coping strategies reported by young adults living with serious mental illness",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17457851/",
+    "publisher": "Russell E. Phillips III e Catherine H. Stein / Journal of Clinical Psychology, Pub Med"
+  },
+  "ate-chesterton": {
+    "title": "What Is Wrong with the World: obra e formulação atribuída a Chesterton",
+    "url": "https://www.chesterton.org/wrong-with-world/",
+    "publisher": "Society of Gilbert Keith Chesterton"
+  },
+  "ate-vatican-abuse": {
+    "title": "Vos estis lux mundi: normas sobre abusos e responsabilização, 2023",
+    "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+    "publisher": "Santa Sé"
+  },
+  "ate-decameron": {
+    "title": "Decameron: primeiro dia, segunda novela",
+    "url": "https://www.gutenberg.org/files/23700/23700-h/23700-h.htm",
+    "publisher": "Giovanni Boccaccio / Project Gutenberg"
+  },
+  "ate-anomalistic": {
+    "title": "Christopher French: pesquisa em psicologia anomalística",
+    "url": "https://www.gold.ac.uk/psychology/staff/french/",
+    "publisher": "Goldsmiths, University of London"
+  },
+  "ate-gorgias": {
+    "title": "Górgias: diálogo sobre cometer e sofrer injustiça",
+    "url": "https://classics.mit.edu/Plato/gorgias.html",
+    "publisher": "Platão / Internet Classics Archive, MIT"
+  },
+  "ate-boethius": {
+    "title": "A Consolação da Filosofia, livro IV",
+    "url": "https://www.ccel.org/ccel/boethius/consolation.v.html",
+    "publisher": "Boécio / Christian Classics Ethereal Library"
+  },
+  "ate-confessions": {
+    "title": "Confissões de Agostinho",
+    "url": "https://www.gutenberg.org/ebooks/3296",
+    "publisher": "Agostinho / Project Gutenberg"
+  },
+  "ate-codex": {
+    "title": "Codex Sinaiticus: transcrição e identificação das correções",
+    "url": "https://codexsinaiticus.org/en/project/transcription_detailed.aspx",
+    "publisher": "Codex Sinaiticus Project"
+  },
+  "ate-lumen": {
+    "title": "Lumen Gentium, parágrafo 16",
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
+    "publisher": "Concílio Vaticano II / Santa Sé"
+  },
+  "ate-fertility": {
+    "title": "Censo 2022: fecundidade e maternidade",
+    "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102187.pdf",
+    "publisher": "IBGE"
+  },
+  "ate-aging": {
+    "title": "Pirâmide etária e envelhecimento da população",
+    "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18318-piramide-etaria.html",
+    "publisher": "IBGE"
+  },
+  "ate-divorce": {
+    "title": "Estatísticas do Registro Civil: casamentos e divórcios",
+    "url": "https://www.ibge.gov.br/estatisticas/sociais/populacao/9110-estatisticas-do-registro-civil.html",
+    "publisher": "IBGE"
+  },
+  "ate-bach": {
+    "title": "Missa em si menor, BWV 232: obra e execução",
+    "url": "https://www.bachvereniging.nl/en/bwv/bwv-232",
+    "publisher": "Netherlands Bach Society"
+  },
+  "ate-mozart": {
+    "title": "Requiem em ré menor, KV 626: catálogo da obra",
+    "url": "https://kv.mozarteum.at/de/work/requiem-in-d-7373",
+    "publisher": "Fundação Internacional Mozarteum"
+  },
+  "ate-lewis": {
+    "title": "Memórias de Tolkien: Dyson e a caminhada de 1931 com Lewis",
+    "url": "https://www.merton.ox.ac.uk/library-and-archives/exhibitions/memories-of-jrr-tolkien/fellows-recollections",
+    "publisher": "Merton College, Universidade de Oxford"
+  },
+  "ate-acts17": {
+    "title": "Atos dos Apóstolos, capítulo 17",
+    "url": "https://bible.usccb.org/bible/acts/17",
+    "publisher": "USCCB / New American Bible"
+  },
+  "ate-trese": {
+    "title": "A Fé Explicada: autoria de Leo J. Trese",
+    "url": "https://www.paulus.pt/products/a-fe-explicada",
+    "publisher": "Paulus Editora"
+  },
+  "pav-pavanato": {
+    "title": "Perfil parlamentar de Lucas Pavanato",
+    "url": "https://www.saopaulo.sp.leg.br/vereador/lucas-pavanato/",
+    "publisher": "Câmara Municipal de São Paulo"
+  },
+  "pav-eleitos2024": {
+    "title": "Perfil da vereança eleita em 2024: dados do TSE",
+    "url": "https://inesc.org.br/wp-content/uploads/2024/11/inesc-2024-perfil-dos-eleitos-1e2turnos.pdf",
+    "publisher": "Instituto de Estudos Socioeconômicos, INESC"
+  },
+  "pav-glauber": {
+    "title": "Suspensão de Glauber Braga por agressão em abril de 2024",
+    "url": "https://www.camara.leg.br/noticias/1232055-camara-aprova-suspensao-por-seis-meses-do-mandato",
+    "publisher": "Câmara dos Deputados"
+  },
+  "pav-sabesp": {
+    "title": "Privatização da Sabesp: Estado passa de 50, 3% a 18, 3% ; Equatorial, 15%",
+    "url": "https://sigrh.sp.gov.br/pageitems/450/news/15372",
+    "publisher": "Governo do Estado de São Paulo / Sig RH"
+  },
+  "pav-enel-hist": {
+    "title": "Demonstrações financeiras de 2018: aquisição da Eletropaulo",
+    "url": "https://www.enel.com.br/content/dam/enel-br/one-hub-brasil---2018/investidores/informa%C3%A7%C3%B5es-financeiras/2018/DF%20-%20Enel%20Brasil%20_2018%20Assinada.pdf",
+    "publisher": "Enel Brasil"
+  },
+  "pav-enel-processo": {
+    "title": "ANEEL mantém processo de recomendação de caducidade, agosto de 2026",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-nega-pedido-da-enel-sao-paulo-e-mantem-processo-sobre-recomendacao-de-caducidade/",
+    "publisher": "ANEEL"
+  },
+  "pav-enem2024": {
+    "title": "Enem 2024: provas e gabaritos oficiais",
+    "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+    "publisher": "Inep"
+  },
+  "pav-trens2026": {
+    "title": "Retomada temporária das linhas 11, 12 e 13 pela CPTM",
+    "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/trabalhadores-da-cptm-realizam-assembleia-sobre-continuidade-da-greve",
+    "publisher": "Agência Brasil"
+  },
+  "pav-estatais2025": {
+    "title": "Lucro contábil das estatais federais em 2025",
+    "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/Julho/estatais-federais-lucram-r-169-4-bilhoes-em-2025-aumento-de-45-sobre-2024/",
+    "publisher": "Ministério da Gestão"
+  },
+  "pav-correios": {
+    "title": "ADPF 46: privilégio postal não abrange todas as encomendas",
+    "url": "https://noticias.stf.jus.br/postsnoticias/direto-do-plenario-stf-mantem-monopolio-dos-correios-para-correspondencias/",
+    "publisher": "Supremo Tribunal Federal"
+  },
+  "pav-chile": {
+    "title": "Serviços de água no Chile: áreas operacionais urbanas e cobertura",
+    "url": "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F38444%2F1%2FBCN__sistema_de_distribucion__aguas__Definitivo.pdf",
+    "publisher": "Biblioteca del Congreso Nacional de Chile"
+  },
+  "pav-vibra": {
+    "title": "Petrobras, Form 20-F de 2021: alienação da BR Distribuidora",
+    "url": "https://www.sec.gov/Archives/edgar/data/1119639/000129281422001285/pbraform20f_2021.htm",
+    "publisher": "Petrobras / Securities and Exchange Commission"
+  },
+  "pav-tapajos": {
+    "title": "Revogação do Decreto 12.600 após mobilização indígena",
+    "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2026/02/presidente-lula-atende-pauta-indigena-e-revoga-decreto-12.600",
+    "publisher": "Ministério dos Povos Indígenas"
+  },
+  "pav-concessao": {
+    "title": "Lei 8.987/1995: regime e extinção das concessões",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm",
+    "publisher": "Presidência da República"
+  },
+  "pav-tributaria": {
+    "title": "Carga Tributária no Brasil 2024 e comparação com OCDE",
+    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/carga-tributaria/carga-tributaria-no-brasil-2024/@@download/file",
+    "publisher": "Receita Federal"
+  },
+  "pav-juros": {
+    "title": "Lei 14.905/2024: atualização monetária, juros e mútuo",
+    "url": "https://dspace.mj.gov.br/bitstream/1/13142/2/LEI_PR_2024_14905.pdf",
+    "publisher": "Diário Oficial da União / Ministério da Justiça"
+  },
+  "pav-bc-autonomia": {
+    "title": "Lei Complementar 179/2021: objetivos e autonomia do Banco Central",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp179.htm",
+    "publisher": "Presidência da República"
+  },
+  "pav-proer": {
+    "title": "Reestruturação bancária e PROER/PROES nos anos 1990",
+    "url": "https://bcb.gov.br/htms/Deorf/r199812/texto.asp?frame=1",
+    "publisher": "Banco Central do Brasil"
+  },
+  "pav-lai": {
+    "title": "Lei de Acesso à Informação: proteção de informações pessoais no artigo 31",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+    "publisher": "Presidência da República"
+  },
+  "pav-partidos": {
+    "title": "Partidos registrados e respectivos números eleitorais",
+    "url": "https://www.tse.jus.br/partidos/partidos-politicos/partidos-registrados-no-tse",
+    "publisher": "Tribunal Superior Eleitoral"
+  },
+  "pav-art142": {
+    "title": "ADI 6.457: Forças Armadas não exercem poder moderador",
+    "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=531731",
+    "publisher": "Supremo Tribunal Federal"
+  },
+  "pav-golpe": {
+    "title": "AP 2.668: penas fixadas em setembro de 2025",
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+    "publisher": "Supremo Tribunal Federal"
+  },
+  "pav-contragolpe": {
+    "title": "Decisão de prisão de suspeitos e planejamento de atentados em 2022",
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-prisao-de-suspeitos-por-planejamento-de-golpe-contra-a-democracia/",
+    "publisher": "Supremo Tribunal Federal"
+  },
+  "pav-racismo": {
+    "title": "Lei 14.532/2023: injúria racial e contexto de diversão ou recreação",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14532.htm",
+    "publisher": "Presidência da República"
+  },
+  "pav-deficiencia": {
+    "title": "Lei 13.146/2015: Estatuto da Pessoa com Deficiência",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+    "publisher": "Presidência da República"
+  },
+  "pav-leolins": {
+    "title": "Acórdão do TRF 3: recurso criminal de Leonardo de Lima Borges Lins",
+    "url": "https://web.trf3.jus.br/acordaos/Acordao/BuscarDocumentoPje/356445208",
+    "publisher": "Tribunal Regional Federal da 3ª Região"
+  },
+  "pav-dsd": {
+    "title": "Ambiguous Genitalia in the Newborn: diferenças do desenvolvimento sexual",
+    "url": "https://www.endotext.org/wp-content/uploads/pdfs/ambiguous-genitalia-in-the-newborn.pdf",
+    "publisher": "Endotext / NCBI Bookshelf"
+  },
+  "pav-twospirit": {
+    "title": "Two-Spirit People: Then and Now",
+    "url": "https://www.ihs.gov/sites/telebehavioral/themes/responsive2017/display_objects/documents/slides/lgbt/lgbttwospirit.pdf",
+    "publisher": "Indian Health Service"
+  },
+  "pav-cfm2026": {
+    "title": "Vigência da Resolução CFM 2.427/2025 em junho de 2026",
+    "url": "https://portal.cfm.org.br/noticias/norma-que-regulamenta-a-assistencia-medica-a-pessoas-transgenero-segue-plenamente-vigente-no-pais/",
+    "publisher": "Conselho Federal de Medicina"
+  },
+  "pav-coi2026": {
+    "title": "Política do COI de março de 2026: categoria feminina a partir de LA 28",
+    "url": "https://www.olympics.com/ioc/policy-protection-female-womens-category-in-olympic-sport",
+    "publisher": "Comitê Olímpico Internacional"
+  },
+  "pav-cfm-excecao": {
+    "title": "Liminar individual autoriza bloqueio puberal em adolescente, agosto de 2026",
+    "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=30453",
+    "publisher": "Justiça Federal de Santa Catarina / TRF 4"
+  },
+  "pav-bloqueadores": {
+    "title": "Revisão sistemática de intervenções para supressão puberal, 2024",
+    "url": "https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326669?versioned=true",
+    "publisher": "Taylor e colaboradores / Universidade de York, Archives of Disease in Childhood"
+  },
+  "pav-puberdade-precoce": {
+    "title": "Protocolo de Puberdade Precoce Central: agonistas de Gn RH e monitoramento",
+    "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/resumidos/PCDT_Resumido_Puberdade_PC_final.pdf",
+    "publisher": "Ministério da Saúde / Conitec"
+  },
+  "pav-biblia": {
+    "title": "PL 468/2025: texto do projeto Intervalo Bíblico",
+    "url": "https://www.saopaulo.sp.leg.br/iah/fulltext/projeto/PL0468-2025.pdf",
+    "publisher": "Câmara Municipal de São Paulo"
+  },
+  "pav-historiaafro": {
+    "title": "Lei 10.639/2003: história e cultura afro-brasileira no currículo",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.639.htm",
+    "publisher": "Presidência da República"
+  },
+  "pav-ambiental": {
+    "title": "Lei 9.605/1998: maus-tratos de animais no artigo 32",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+    "publisher": "Presidência da República"
+  },
+  "pav-eua-juvenil": {
+    "title": "Matriz de idades e transferência para a justiça adulta nos estados",
+    "url": "https://www.juvenilecompact.org/age-matrix",
+    "publisher": "Interstate Commission for Juveniles"
+  },
+  "pav-policia77": {
+    "title": "Mortes de pessoas de 10 a 19 anos em intervenções policiais em SP, 2022–24",
+    "url": "https://www.unicef.org/brazil/innocenti/comunicados-de-imprensa/mortes-de-criancas-e-adolescentes-por-intervencao-policial-crescem-120-no-estado-de-sao-paulo-entre-2022-2024",
+    "publisher": "UNICEF / Fórum Brasileiro de Segurança Pública"
+  },
+  "pav-crimeeua": {
+    "title": "Crime Known to Law Enforcement, 2024: taxas estaduais",
+    "url": "https://bjs.ojp.gov/document/ckle24.pdf",
+    "publisher": "Bureau of Justice Statistics / FBI"
+  },
+  "pav-gangs": {
+    "title": "El Salvador: Background and U.S. Relations",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47083/R47083.5.pdf",
+    "publisher": "Congressional Research Service"
+  },
+  "pav-khelif": {
+    "title": "Resultado de Imane Khelif em Paris 2024",
+    "url": "https://www.olympedia.org/athletes/140408",
+    "publisher": "Olympedia"
+  },
+  "pav-fomeurss": {
+    "title": "Documentos soviéticos sobre a fome de 1932–33",
+    "url": "https://www.loc.gov/exhibits/archives/intn",
+    "publisher": "Library of Congress"
+  },
+  "pav-regressividade": {
+    "title": "Tributação indireta e distribuição de renda: TD 2823",
+    "url": "https://repositorio.ipea.gov.br/bitstream/11058/11624/1/TD_2823_Web.pdf",
+    "publisher": "Ipea"
+  },
+  "pav-psol": {
+    "title": "PSOL nas eleições municipais: análise de dados do TSE de 2008 a 2016",
+    "url": "https://repositorio.ufjf.br/jspui/bitstream/ufjf/7114/1/brenoalexandrepiresfernandesalves.pdf",
+    "publisher": "Breno Alexandre Pires Fernandes Alves / UFJF"
+  },
+  "pav-eleicoes2002": {
+    "title": "Candidaturas e resultados das eleições de 2002",
+    "url": "https://www.tse.jus.br/eleicoes/eleicoes-anteriores/eleicoes-2002/candidaturas-votacao-e-resultados",
+    "publisher": "Tribunal Superior Eleitoral"
+  },
+  "pav-prisao2019": {
+    "title": "STF decide que cumprimento da pena deve começar após recursos",
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-cumprimento-da-pena-deve-comecar-apos-esgotamento-de-recursos/",
+    "publisher": "Supremo Tribunal Federal"
+  },
+  "pav-moro-saida": {
+    "title": "Pronunciamento de Moro em 24/04/2020: anúncio de sua saída",
+    "url": "https://www.youtube.com/watch?v=eBGQAgPz-Uk",
+    "publisher": "Sergio Moro, imagens TV Brasil / BBC News Brasil"
+  },
+  "pav-levy": {
+    "title": "Biografia institucional de Joaquim Levy",
+    "url": "https://www.worldbank.org/pt/about/people/j/joaquim-levy",
+    "publisher": "Banco Mundial"
+  },
+  "pav-defesa2022": {
+    "title": "Esclarecimento sobre relatório de fiscalização das urnas de 2022",
+    "url": "https://www.gov.br/defesa/pt-br/centrais-de-conteudo/relatorio-das-forcas-armadas-nao-excluiu-a-possibilidade-de-fraude-ou-inconsistencia-nas-urnas-eletronicas/",
+    "publisher": "Ministério da Defesa"
+  },
+  "pav-nascimento": {
+    "title": "Birth of a Nation e protestos da NAACP: acervo de documentos",
+    "url": "https://www.loc.gov/exhibits/naacp/founding-and-early-years.html",
+    "publisher": "Library of Congress"
+  },
+  "pav-hirschfeld": {
+    "title": "Perseguição nazista e destruição do instituto de Hirschfeld",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/gay-men-under-the-nazi-regime?series=200",
+    "publisher": "United States Holocaust Memorial Museum"
+  },
+  "pav-suzano": {
+    "title": "STF registra morte dos autores e vítimas do ataque de Suzano",
+    "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=405693",
+    "publisher": "Supremo Tribunal Federal"
+  },
+  "pav-prison": {
+    "title": "População prisional do Brasil: séries e prisão provisória",
+    "url": "https://www.prisonstudies.org/country/brazil",
+    "publisher": "World Prison Brief, Institute for Crime & Justice Policy Research"
+  },
+  "pav-prison2024": {
+    "title": "Prisioneiros que trabalham no Brasil: dados de 2024",
+    "url": "https://eprints.bbk.ac.uk/id/eprint/55685/2/working_prisoners_in_brazil.pdf",
+    "publisher": "Institute for Crime & Justice Policy Research"
+  },
+  "pav-mamdani": {
+    "title": "Prefeitura anuncia mercados municipais com abertura a partir de 2027",
+    "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-unveils-30--discount---including-all-produce--all-",
+    "publisher": "Prefeitura de Nova York"
+  },
+  "pav-dsd-guidance": {
+    "title": "Society for Endocrinology UK Guidance on initial evaluation of a suspected difference or disorder of sex development, 2021",
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cen.14528",
+    "publisher": "Ahmed e colaboradores / Clinical Endocrinology"
+  },
+  "pav-cfm2019": {
+    "title": "Resolução CFM 2.265/2019: atendimento e pesquisa com bloqueio puberal",
+    "url": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2019/2265_2019.pdf",
+    "publisher": "Conselho Federal de Medicina"
+  },
+  "ate-haydn": {
+    "title": "Edição crítica das missas de Joseph Haydn: série XXIII",
+    "url": "https://www.haydn-institut.de/index.php/gesamtausgabe/reihen-der-ausgabe/37-reihe-xxiii",
+    "publisher": "Joseph Haydn-Institut"
+  },
+  "ate-karnal": {
+    "title": "Perfil e entrevista de Leandro Karnal: formação religiosa",
+    "url": "https://epoca.globo.com/cultura/noticia/2017/06/raiz-nutella-sabao-de-coco-um-perfil-de-leandro-karnal.html",
+    "publisher": "Revista Época"
+  }
+}

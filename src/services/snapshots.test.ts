@@ -6,7 +6,7 @@ const report = index.reports.q4T7plSBdJE
 afterEach(() => vi.unstubAllGlobals())
 
 describe('debates recentes do acervo', () => {
-  it('ordena por data de checagem, limita a seis e preserva a cobertura', async () => {
+  it('ordena por data de checagem, preserva todo o acervo e a cobertura', async () => {
     const reports = Object.fromEntries(Array.from({ length: 8 }, (_, position) => {
       const id = `video00000${position}`
       return [id, { ...report, video: { ...report.video, id }, analyzedAt: `2026-01-${String(position + 1).padStart(2, '0')}T00:00:00.000Z` }]
@@ -14,7 +14,7 @@ describe('debates recentes do acervo', () => {
     const fetch = vi.fn().mockResolvedValue({ ok: true, json: async () => ({ reports }) })
     vi.stubGlobal('fetch', fetch)
     const recent = await listRecentDebates(new AbortController().signal)
-    expect(recent.map((debate) => debate.video.id)).toEqual(['video000007', 'video000006', 'video000005', 'video000004', 'video000003', 'video000002'])
+    expect(recent.map((debate) => debate.video.id)).toEqual(['video000007', 'video000006', 'video000005', 'video000004', 'video000003', 'video000002', 'video000001', 'video000000'])
     expect(recent[0].claimCount).toBe(48)
     expect(recent[0].coverageKind).toBe('selected-claims')
     expect(recent[0]).not.toHaveProperty('claims')

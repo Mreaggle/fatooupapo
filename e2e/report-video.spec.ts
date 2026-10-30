@@ -1,5 +1,6 @@
 import { test, expect, type Page } from '@playwright/test'
 import snapshots from '../public/snapshots/index.json' with { type: 'json' }
+import manifest from '../reviews/batch-2026-10-30/manifest.json' with { type: 'json' }
 
 // Exercise the IFrame API contract without depending on external video availability.
 async function mockVideo(page: Page) {
@@ -93,3 +94,29 @@ test('vídeo sincroniza as checagens e mantém a análise completa com busca e f
   await expect(fullClaim.getByRole('link', { name: /tramitação e votação/i })).toBeVisible()
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
 })
+
+test('galeria dá acesso aos dez novos vídeos e preserva os relatórios anteriores', async ({ page }, testInfo) => {
+  await page.goto('./')
+  const gallery = page.getByRole('region', { name: 'Debates checados recentemente' })
+  await expect(gallery.getByRole('link')).toHaveCount(Object.keys(snapshots.reports).length)
+  await expect(page.getByRole('region', { name: 'Debates em destaque' }).getByRole('link')).toHaveCount(6)
+  for (const { videoId } of manifest) {
+    await expect(gallery.locator(`a[href="?v=${videoId}"]`)).toHaveCount(1)
+  }
+  await gallery.screenshot({ path: testInfo.outputPath('acervo-completo.png') })
+})
+
+for (const { videoId } of manifest) {
+  test(`nova checagem ${videoId}: íntegra e sincronização`, async ({ page }) => {
+    const reports = snapshots.reports as Record<string, (typeof snapshots.reports)['q4T7plSBdJE']>
+    const report = reports[videoId]
+    await page.goto(`./?v=${videoId}`)
+    await expect(page.getByRole('heading', { level: 1 })).toHaveText(report.video.title)
+    await expect(page.getByRole('article')).toHaveCount(report.claims.length)
+    const synced = page.getByRole('region', { name: 'Assista com as checagens' })
+    await synced.getByRole('button', { name: 'Ir à primeira checagem' }).click()
+    await expect(synced.getByRole('heading', { name: report.claims[0].title, exact: true })).toBeVisible()
+    await expect(page.getByRole('link', { name: /Transcrição \.md/i })).toHaveAttribute('href', new RegExp(`transcripts/${videoId}\\.md`))
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+  })
+}

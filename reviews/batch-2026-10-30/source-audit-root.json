@@ -1,0 +1,374 @@
+[
+  {
+    "id": "lua-pib2010",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14317-asi-regiao-norte-aumenta-participacao-no-pib-nacional",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "lua-rais2010",
+    "url": "https://acesso.mte.gov.br/data/files/8A7C812D2E7318C8012FE039D8AA15D9/resultado_2010.pdf",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
+  },
+  {
+    "id": "lua-ifi2023",
+    "url": "https://www12.senado.leg.br/ifi/pdf/raf84_jan2024.pdf/@@download/file/RAF84_JAN2024.pdf",
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/ifi/pdf/raf84_jan2024.pdf/@@download/file/RAF84_JAN2024.pdf",
+    "contentType": "application/pdf",
+    "bytes": 3243962,
+    "sha256": "5805ac4e9ae550f445b3bdc4886b3272ffd1ab0a1b79e483f89569d47f0c6c3d"
+  },
+  {
+    "id": "lua-eleicoes",
+    "url": "https://www.tse.jus.br/eleicoes/cde-2026",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "lua-bancada2022",
+    "url": "https://www.camara.leg.br/noticias/911890-confira-os-partidos-que-mais-ganharam-e-mais-perderam-dep",
+    "status": 200,
+    "finalUrl": "https://www.camara.leg.br/noticias/911890-confira-os-partidos-que-mais-ganharam-e-mais-perderam-dep",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 62959,
+    "sha256": "9225cdc03d550cb2328f935ae24e73c0d2420a65654c1a3796272971f8e8181f",
+    "pageTitle": " Confira os partidos que mais ganharam e mais perderam deputados nas eleições - Portal da Câmara dos Deputados "
+  },
+  {
+    "id": "lua-reforma-tributaria",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "id": "lua-ministerios",
+    "url": "https://www.jota.info/eleicoes/saiba-quem-sao-os-ministros-escolhidos-por-lula",
+    "status": 200,
+    "finalUrl": "https://www.jota.info/eleicoes/saiba-quem-sao-os-ministros-escolhidos-por-lula",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 116870,
+    "sha256": "e8fb433c5f487473c2914f173a6e25d7898a7e72d57e6078360bd862974be040",
+    "pageTitle": "Veja quem são os 37 ministros que farão parte do governo Lula"
+  },
+  {
+    "id": "lua-messias",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 58293,
+    "sha256": "2dfde5995173ed1116aa6c5d1937c5b6219c2724c0d278e421a099ca63c28631",
+    "pageTitle": "Indicação de Jorge Messias ao STF é rejeitada pelo Senado &mdash; Senado Notícias"
+  },
+  {
+    "id": "lua-reciprocidade",
+    "url": "https://planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15122.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "id": "lua-terrorismo-eua",
+    "url": "https://www.law.cornell.edu/uscode/text/18/2331",
+    "status": 200,
+    "finalUrl": "https://www.law.cornell.edu/uscode/text/18/2331",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 40655,
+    "sha256": "2d33072c10aed553b9878dd62c65a613834e0634381645410df8b45c82c12d13",
+    "pageTitle": "18 U.S. Code &sect; 2331 - Definitions | U.S. Code | US Law | LII / Legal Information Institute"
+  },
+  {
+    "id": "lua-cf144",
+    "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html/",
+    "status": 200,
+    "finalUrl": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html/",
+    "contentType": "text/html; charset=UTF-8",
+    "bytes": 406748,
+    "sha256": "9532ac36f1e3d4c898a9b498f006df216f0cf85cf33d547f9f466c86ff193715",
+    "pageTitle": "Portal da Câmara dos Deputados"
+  },
+  {
+    "id": "lua-cf",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "id": "lua-quarentena",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm#art95",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "id": "lua-presidios138",
+    "url": "https://agenciagov.ebc.com.br/noticias/202605/lula-planeja-138-presidios-de-seguranca-maxima-e-pede-aprovacao-da-pec-da-seguranca-publica",
+    "status": 200,
+    "finalUrl": "https://agenciagov.ebc.com.br/noticias/202605/lula-planeja-138-presidios-de-seguranca-maxima-e-pede-aprovacao-da-pec-da-seguranca-publica",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 58941,
+    "sha256": "ad5d35f111aed61844e22b1f84274520c7036a91dd46e8d39cabf1043da3a29f",
+    "pageTitle": "Lula planeja 138 presídios de segurança máxima e pede aprovação de PEC no Senado — Agência Gov"
+  },
+  {
+    "id": "lua-ec45",
+    "url": "https://legis.senado.leg.br/norma/540648",
+    "status": 200,
+    "finalUrl": "https://legis.senado.leg.br/norma/540648",
+    "contentType": "text/html;charset=UTF-8",
+    "bytes": 61154,
+    "sha256": "dd0d858648c727916110bcf3e010c36839b3d48ca6a6d84706a7a34dafe1b807",
+    "pageTitle": "Legislação Federal - Senado Federal"
+  },
+  {
+    "id": "lua-master-reuniao",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/04/08/galipolo-nega-atuacao-do-bc-em-favor-do-master-e-justifica-liquidacao-em-2025",
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/materias/2026/04/08/galipolo-nega-atuacao-do-bc-em-favor-do-master-e-justifica-liquidacao-em-2025",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 60772,
+    "sha256": "b8e122e86882f32da97cc78a44f4dd9540fdab46e46dd057c1773399dd6648f3",
+    "pageTitle": "Galípolo explica liquidação do Master e diz que tema não foi tratado no STF &mdash; Senado Notícias"
+  },
+  {
+    "id": "lua-master-liquidacao",
+    "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota/undefined",
+    "status": 200,
+    "finalUrl": "https://www.bcb.gov.br/detalhenoticia/20936/nota/undefined",
+    "contentType": "text/html",
+    "bytes": 2871,
+    "sha256": "e64d3a8ecfc66b359e640b507d59ff35fe4ac1be596e969812068cc0aa3fb1d4",
+    "pageTitle": "Banco Central do Brasil"
+  },
+  {
+    "id": "lua-bolsa2026",
+    "url": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 192471,
+    "sha256": "420ea20e9e202bdf0a6260aa44fbd04d3459c973445db18f5d605ec20ef8fdaf",
+    "pageTitle": "Bolsa Família terá valor mínimo de R$ 691 a partir de outubro — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome"
+  },
+  {
+    "id": "lua-contas2022",
+    "url": "https://sites.tcu.gov.br/contas-do-governo-2022/03-politica-fiscal.html",
+    "status": 200,
+    "finalUrl": "https://sites.tcu.gov.br/contas-do-governo-2022/03-politica-fiscal.html",
+    "contentType": "text/html",
+    "bytes": 10515,
+    "sha256": "15db4daf049f35e0f4e671831a75ba60da98541c73bc1aee409c1c593fda81a2",
+    "pageTitle": "Contas do Presidente"
+  },
+  {
+    "id": "lua-ploa2027",
+    "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2026/governo-federal-apresenta-projeto-de-orcamento-de-2027-com-previsao-de-superavit-primario-de-r-18-6-bilhoes",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2026/governo-federal-apresenta-projeto-de-orcamento-de-2027-com-previsao-de-superavit-primario-de-r-18-6-bilhoes",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 320557,
+    "sha256": "c84a74c0bd5ed064f3cb3fc8d5db6df8730cbacc9c7fee7b5e5174eea4348c1f",
+    "pageTitle": "Governo Federal apresenta Projeto de Orçamento de 2027 com previsão de superávit primário de R$ 18,6 bilhões"
+  },
+  {
+    "id": "lua-peic2022",
+    "url": "https://portaldocomercio.org.br/economia/peic-mulher-jovem-e-com-ensino-medio-incompleto-e-o-perfil-da-maioria-dos-endividados-brasileiros-de-2022/",
+    "status": 200,
+    "finalUrl": "https://portaldocomercio.org.br/economia/peic-mulher-jovem-e-com-ensino-medio-incompleto-e-o-perfil-da-maioria-dos-endividados-brasileiros-de-2022/",
+    "contentType": "text/html; charset=UTF-8",
+    "bytes": 245686,
+    "sha256": "33166ab34db0bbbbc1614d4374a73c367b8ae46a6329823b4c4febd1cc98cb64",
+    "pageTitle": "Peic: Mulher, jovem e com Ensino Médio incompleto é o perfil da maioria dos endividados brasileiros de 2022 - Portal do Comércio"
+  },
+  {
+    "id": "lua-desenrola1",
+    "url": "https://agenciagov.ebc.com.br/noticias/202405/desenrola-brasil-encerra-com-beneficio-a-mais-de-15-milhoes-de-pessoas-e-reducao-da-inadimplencia-entre-a-populacao-mais-vulneravel-do-pais",
+    "status": 200,
+    "finalUrl": "https://agenciagov.ebc.com.br/noticias/202405/desenrola-brasil-encerra-com-beneficio-a-mais-de-15-milhoes-de-pessoas-e-reducao-da-inadimplencia-entre-a-populacao-mais-vulneravel-do-pais",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 64362,
+    "sha256": "4053aae790edb26612277b9d46855bd1ceee70555181f9132cd92bce711d36a1",
+    "pageTitle": "Desenrola encerra beneficiando 15,5 milhões de pessoas e reduzindo inadimplência dos mais vulneráveis — Agência Gov"
+  },
+  {
+    "id": "lua-desenrola3",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/09/28/desenrola-brasil-3-0-ja-esta-em-vigor-veja-como-funciona",
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/materias/2026/09/28/desenrola-brasil-3-0-ja-esta-em-vigor-veja-como-funciona",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 56755,
+    "sha256": "414a2f59cb8230b58b8414acaa88eb4551226826d1eb59b05143e69b3f4f099f",
+    "pageTitle": "Desenrola Brasil 3.0 já está em vigor; veja como funciona &mdash; Senado Notícias"
+  },
+  {
+    "id": "lua-mei2026",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas",
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 61092,
+    "sha256": "f34a77a419ed00f8a60cffefe3cbaccbfaa45ebc20baaecead0614eb282cad32",
+    "pageTitle": "Senado aprova aumento do teto para MEI e perdão de dívidas &mdash; Senado Notícias"
+  },
+  {
+    "id": "lua-galipolo",
+    "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/165220",
+    "status": 200,
+    "finalUrl": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/165220",
+    "contentType": "text/html;charset=UTF-8",
+    "bytes": 85053,
+    "sha256": "1616bf81b178d2277ad9672370c5b1baa7961eed65d77d8fbc8c6670b6a08d6b",
+    "pageTitle": "MSF 42/2024 - Senado Federal"
+  },
+  {
+    "id": "lua-fmi2005",
+    "url": "https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr05275",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "lua-reservas2010",
+    "url": "https://www.bcb.gov.br/publicacoes/atascopom/19012011",
+    "status": 200,
+    "finalUrl": "https://www.bcb.gov.br/publicacoes/atascopom/19012011",
+    "contentType": "text/html",
+    "bytes": 2871,
+    "sha256": "e64d3a8ecfc66b359e640b507d59ff35fe4ac1be596e969812068cc0aa3fb1d4",
+    "pageTitle": "Banco Central do Brasil"
+  },
+  {
+    "id": "lua-divida2026",
+    "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202609_Texto_de_estatisticas_fiscais.pdf",
+    "status": 200,
+    "finalUrl": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202609_Texto_de_estatisticas_fiscais.pdf",
+    "contentType": "application/pdf",
+    "bytes": 398771,
+    "sha256": "6352fbd7eb40d42f01d88d69ea1f105e2754ba0ee11e6c66153b2eb7405cc610"
+  },
+  {
+    "id": "lua-fome2014",
+    "url": "https://www.fao.org/brasil/news/detail/Brasil-voltou-a-sair-do-Mapa-da-Fome",
+    "status": 200,
+    "finalUrl": "https://www.fao.org/brasil/news/detail/Brasil-voltou-a-sair-do-Mapa-da-Fome",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 58301,
+    "sha256": "16bfe02323f124edd028951f9423eefd69b7a27f3ca7752568868056aeb05076",
+    "pageTitle": " Detalle | FAO no Brasil | Food and Agriculture Organization of the United Nations "
+  },
+  {
+    "id": "lua-fome2022",
+    "url": "https://olheparaafome.com.br/wp-content/uploads/2022/06/Relatorio-II-VIGISAN-2022.pdf",
+    "error": "<urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+    "id": "lua-ben2026",
+    "url": "https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2026",
+    "status": 200,
+    "finalUrl": "https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2026",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 100656,
+    "sha256": "76de7af564a0335fa2700ddb2efe8ed05705aa66c182824fc07c29dbe21e4fa7",
+    "pageTitle": " Publicações "
+  },
+  {
+    "id": "lua-eletrobras",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14182.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "id": "lua-mercadoenergia",
+    "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/mercado-livre-de-energia-entenda-como-funciona-a-migracao-e-as-regras-para-contratacao-de-energia",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "lua-maismedicos",
+    "url": "https://www.gov.br/casacivil/pt-br/.arquivos/mensagem-ao-congresso-nacional-2026.pdf",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/casacivil/acl_users/credentials_cookie_auth/require_login?came_from=https%3A//www.gov.br/casacivil/pt-br/.arquivos/mensagem-ao-congresso-nacional-2026.pdf",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 56700,
+    "sha256": "cf4096399b94af46f15f9627f713bc3ea8d04e47efd7da5b56921bf388b37391",
+    "pageTitle": "Casa Civil"
+  },
+  {
+    "id": "lua-maismedicos2022",
+    "url": "https://agenciagov.ebc.com.br/noticias/202404/governo-lanca-mais-acesso-a-especialistas-para-reduzir-espera-por-tratamentos-no-sus",
+    "status": 200,
+    "finalUrl": "https://agenciagov.ebc.com.br/noticias/202404/governo-lanca-mais-acesso-a-especialistas-para-reduzir-espera-por-tratamentos-no-sus",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 70400,
+    "sha256": "ed99aa6898556476a47df42c6942a3e024d1268f0a08e36d5c063bf1ad8b00c8",
+    "pageTitle": "Governo lança Mais Acesso a Especialistas, para reduzir espera por tratamentos no SUS — Agência Gov"
+  },
+  {
+    "id": "lua-carretas",
+    "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/setembro/carretas-do-agora-tem-especialistas-ultrapassam-1-milhao-de-procedimentos-no-sus/",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/setembro/carretas-do-agora-tem-especialistas-ultrapassam-1-milhao-de-procedimentos-no-sus/",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 136337,
+    "sha256": "ce9d905d6f029b407e2d908af3a1db7fc4ede2eea22b9bd2189ac9cdb9ac65af",
+    "pageTitle": "Carretas do Agora Tem Especialistas ultrapassam 1 milhão de procedimentos no SUS — Ministério da Saúde"
+  },
+  {
+    "id": "lua-especialistas",
+    "url": "https://www12.senado.leg.br/noticias/materias/2025/10/08/programa-para-reduzir-fila-de-espera-por-especialistas-no-sus-agora-e-lei",
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/materias/2025/10/08/programa-para-reduzir-fila-de-espera-por-especialistas-no-sus-agora-e-lei",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 58570,
+    "sha256": "e2ffc4a28ff633ca7d93e4ca458151493bb506b897788d3c0b9f1dd0831f0424",
+    "pageTitle": "Programa para reduzir fila de espera por especialistas no SUS agora é lei &mdash; Senado Notícias"
+  },
+  {
+    "id": "lua-cirurgias2025",
+    "url": "https://www.camara.leg.br/radio/radioagencia/1276964-governo-anuncia-recorde-de-cirurgias-eletivas-no-sus/",
+    "status": 200,
+    "finalUrl": "https://www.camara.leg.br/radio/radioagencia/1276964-governo-anuncia-recorde-de-cirurgias-eletivas-no-sus/",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 46051,
+    "sha256": "d9ed091930550c1f5e11a4effbd71eabf2f0ac5116905a33da896880b7a75fa6",
+    "pageTitle": " Governo anuncia recorde de cirurgias eletivas no SUS - Radioagência - Portal da Câmara dos Deputados "
+  },
+  {
+    "id": "lua-luzpovo",
+    "url": "https://www.gov.br/mme/pt-br/luzdopovo/perguntas-frequentes-faq/perguntas-frequentes/",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/mme/pt-br/luzdopovo/perguntas-frequentes-faq/perguntas-frequentes/",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 187281,
+    "sha256": "77ec695798919cb10fa8b486ea7d73d11311881818dba057b33b167444c35652",
+    "pageTitle": "Perguntas frequentes — Ministério de Minas e Energia"
+  },
+  {
+    "id": "lua-gaspovo",
+    "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/2023-2026/governo-federal-publica-decreto-que-regulamenta-o-programa-gas-do-povo",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/mme/pt-br/assuntos/noticias/2023-2026/governo-federal-publica-decreto-que-regulamenta-o-programa-gas-do-povo",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 180320,
+    "sha256": "393c277e0f5717e593a87cc1538f79e49062168551857bec47770df2a8e80691",
+    "pageTitle": "Governo Federal publica decreto que regulamenta o programa Gás do Povo — Ministério de Minas e Energia"
+  },
+  {
+    "id": "lua-antifaccao",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 62558,
+    "sha256": "7b19cf4d4504918f7636356ed600896c14f610c417874e5afb0890d820cc61fe",
+    "pageTitle": "Lei Antifacção, de combate ao crime organizado, entra em vigor &mdash; Senado Notícias"
+  },
+  {
+    "id": "lua-pec18",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/10/15/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-desta-quinta-feira",
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/materias/2026/10/15/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-desta-quinta-feira",
+    "contentType": "text/html;charset=utf-8",
+    "bytes": 58262,
+    "sha256": "da5e137fd1d5847f980ba60cdd4a0eed2acd2ad1f6fa6f80dcb163a9a1f2f81f",
+    "pageTitle": "Davi Alcolumbre retira PEC da Segurança Pública da pauta desta quinta-feira &mdash; Senado Notícias"
+  },
+  {
+    "id": "lua-medo2026",
+    "url": "https://forumseguranca.org.br/wp-content/uploads/2026/05/os-gatilhos-da-inseguranca-relatorio-completo-2026.pdf",
+    "status": 200,
+    "finalUrl": "https://forumseguranca.org.br/wp-content/uploads/2026/05/os-gatilhos-da-inseguranca-relatorio-completo-2026.pdf",
+    "contentType": "application/pdf",
+    "bytes": 872631,
+    "sha256": "98d1e28742b0d015a5d9af2d0a9a71d70ba13a781a3617ee4b1dfc9af4a7df54"
+  }
+]

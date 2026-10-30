@@ -1,0 +1,406 @@
+[
+  {
+    "key": "lua-fome2022",
+    "url": "https://ifz.org.br/download/8078/?tmstv=1704930752&v=8079",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "key": "lua-mercadoenergia",
+    "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/mercado-livre-de-energia-avanca-e-amplia-liberdade-de-escolha-para-o-consumidor-brasileiro",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "ate-pombal",
+    "url": "https://historialuso.an.gov.br/index.php?Itemid=354&id=3168&option=com_content&view=article",
+    "status": 200,
+    "finalUrl": "https://historialuso.an.gov.br/index.php?Itemid=354&id=3168&option=com_content&view=article",
+    "sha256": "ccbe5f7d3504dc3ecf75fe9fb7524c45e60baea2a1ba2b941fc4174335f3586c",
+    "title": "Companhia de Jesus"
+  },
+  {
+    "key": "pav-pavanato",
+    "url": "https://www.saopaulo.sp.leg.br/vereador/lucas-pavanato/",
+    "status": 200,
+    "finalUrl": "https://www.saopaulo.sp.leg.br/vereador/lucas-pavanato/",
+    "sha256": "f97b71998f0db3c83721d019ab3d7d2100ea35a26ed3122b5459c4a6dc22eac0",
+    "title": "Lucas Pavanato - Portal da Câmara Municipal de São Paulo"
+  },
+  {
+    "key": "pav-eleitos2024",
+    "url": "https://inesc.org.br/wp-content/uploads/2024/11/inesc-2024-perfil-dos-eleitos-1e2turnos.pdf",
+    "status": 200,
+    "finalUrl": "https://inesc.org.br/wp-content/uploads/2024/11/inesc-2024-perfil-dos-eleitos-1e2turnos.pdf",
+    "sha256": "102ff9bcc174ba84f6fbb7981a950fdb3798072f9a001df84b69c95409de7aec",
+    "title": null
+  },
+  {
+    "key": "pav-glauber",
+    "url": "https://www.camara.leg.br/noticias/1232055-camara-aprova-suspensao-por-seis-meses-do-mandato",
+    "status": 200,
+    "finalUrl": "https://www.camara.leg.br/noticias/1232055-camara-aprova-suspensao-por-seis-meses-do-mandato",
+    "sha256": "892c825812b48b4beed951f951567f628257ceec05baa68330c6a7ce159d459b",
+    "title": " Câmara aprova suspensão por seis meses do mandato de Glauber Braga - Portal da Câmara dos Deputados "
+  },
+  {
+    "key": "pav-sabesp",
+    "url": "https://sigrh.sp.gov.br/pageitems/450/news/15372",
+    "status": 200,
+    "finalUrl": "https://sigrh.sp.gov.br/pageitems/450/news/15372",
+    "sha256": "3075bb07f4f8b73227400a7148405ea385c0cd577d2b45bd0145e88da6d46df7",
+    "title": "SigRH"
+  },
+  {
+    "key": "pav-enel-hist",
+    "url": "https://www.enel.com.br/content/dam/enel-br/one-hub-brasil---2018/investidores/informa%C3%A7%C3%B5es-financeiras/2018/DF%20-%20Enel%20Brasil%20_2018%20Assinada.pdf",
+    "status": 200,
+    "finalUrl": "https://www.enel.com.br/content/dam/enel-br/one-hub-brasil---2018/investidores/informa%C3%A7%C3%B5es-financeiras/2018/DF%20-%20Enel%20Brasil%20_2018%20Assinada.pdf",
+    "sha256": "27f1ebca2526c38f07c4df12691f88892e7fd2db75a8d68d6a663e16b9162829",
+    "title": null
+  },
+  {
+    "key": "pav-enel-processo",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-nega-pedido-da-enel-sao-paulo-e-mantem-processo-sobre-recomendacao-de-caducidade/",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-nega-pedido-da-enel-sao-paulo-e-mantem-processo-sobre-recomendacao-de-caducidade",
+    "sha256": "4dbd9655cb151e611be2c64683e5efe4918ae467a74dcb38d524b710d3c26b86",
+    "title": "ANEEL nega pedido da Enel São Paulo e mantém processo sobre recomendação de caducidade"
+  },
+  {
+    "key": "pav-enem2024",
+    "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/2024",
+    "sha256": "1956d68910f0167ce35de001328db1012bb9f29c4ac7361309e4b5ec47c2368c",
+    "title": "2024 — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira | Inep"
+  },
+  {
+    "key": "pav-trens2026",
+    "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/trabalhadores-da-cptm-realizam-assembleia-sobre-continuidade-da-greve",
+    "status": 200,
+    "finalUrl": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/trabalhadores-da-cptm-realizam-assembleia-sobre-continuidade-da-greve",
+    "sha256": "00c84aba90804e7541ab99a43e5daef0734cad14f4a53aa54675e0d2fa124772",
+    "title": "Trabalhadores da CPTM realizam assembleia sobre continuidade da greve | Agência Brasil"
+  },
+  {
+    "key": "pav-estatais2025",
+    "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/Julho/estatais-federais-lucram-r-169-4-bilhoes-em-2025-aumento-de-45-sobre-2024/",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/Julho/estatais-federais-lucram-r-169-4-bilhoes-em-2025-aumento-de-45-sobre-2024/",
+    "sha256": "349811ffe9360650ac957ad71a5711fc4b4fc0d5760db3ed449bb60a4bbf45d5",
+    "title": "Estatais federais lucram R$ 169,4 bilhões em 2025, aumento de 45% sobre 2024 — Ministério da Gestão e da Inovação em Serviços Públicos"
+  },
+  {
+    "key": "pav-correios",
+    "url": "https://noticias.stf.jus.br/postsnoticias/direto-do-plenario-stf-mantem-monopolio-dos-correios-para-correspondencias/",
+    "status": 200,
+    "finalUrl": "https://noticias.stf.jus.br/postsnoticias/direto-do-plenario-stf-mantem-monopolio-dos-correios-para-correspondencias/",
+    "sha256": "e167387d19d2add769dd060f5858345a0d2c4d66e9a83e6680969431718c7db2",
+    "title": " Supremo Tribunal Federal "
+  },
+  {
+    "key": "pav-chile",
+    "url": "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F38444%2F1%2FBCN__sistema_de_distribucion__aguas__Definitivo.pdf",
+    "status": 200,
+    "finalUrl": "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F38444%2F1%2FBCN__sistema_de_distribucion__aguas__Definitivo.pdf",
+    "sha256": "28eefa4792b4ef4ff2f1a5279d9ef3ec2ae5b8e055e35e4d5e470beba86916a7",
+    "title": null
+  },
+  {
+    "key": "pav-vibra",
+    "url": "https://www.sec.gov/Archives/edgar/data/1119639/000129281422001285/pbraform20f_2021.htm",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "pav-tapajos",
+    "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2026/02/presidente-lula-atende-pauta-indigena-e-revoga-decreto-12.600",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2026/02/presidente-lula-atende-pauta-indigena-e-revoga-decreto-12.600",
+    "sha256": "5a56bc1deb04be02d4efabea29e3b441078a83f7476cf40a6ae963c9ec1fdcb9",
+    "title": "Presidente Lula atende pauta indígena e revoga decreto 12.600"
+  },
+  {
+    "key": "pav-concessao",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "key": "pav-tributaria",
+    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/carga-tributaria/carga-tributaria-no-brasil-2024/@@download/file",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/carga-tributaria/carga-tributaria-no-brasil-2024/@@download/file",
+    "sha256": "ba348410cae9f9d56473d61e847342c02bda9be30fdf4a4fd7edbc2943f3293d",
+    "title": null
+  },
+  {
+    "key": "pav-juros",
+    "url": "https://dspace.mj.gov.br/bitstream/1/13142/2/LEI_PR_2024_14905.pdf",
+    "status": 200,
+    "finalUrl": "https://bibliotecadigital.mj.gov.br/bitstream/1/13142/2/LEI_PR_2024_14905.pdf",
+    "sha256": "7827ecf1a9408e180530dfc2eea2762478499a4f6c5e955e4f30dfbf3d26455b",
+    "title": null
+  },
+  {
+    "key": "pav-bc-autonomia",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp179.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "key": "pav-proer",
+    "url": "https://bcb.gov.br/htms/Deorf/r199812/texto.asp?frame=1",
+    "status": 200,
+    "finalUrl": "https://bcb.gov.br/htms/Deorf/r199812/texto.asp?frame=1",
+    "sha256": "ebfb97ac9aff38457036a89e2e0d9c08d9e2667a61ed0951f9c011b1491e6a94",
+    "title": "Banco Central do Brasil"
+  },
+  {
+    "key": "pav-lai",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "key": "pav-partidos",
+    "url": "https://www.tse.jus.br/partidos/partidos-politicos/partidos-registrados-no-tse",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "pav-art142",
+    "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=531731",
+    "status": 200,
+    "finalUrl": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=531731",
+    "sha256": "c88210bf5a250ede04617f0ff84642eab20b1661ecb8c5aa53eba380011ed9ca",
+    "title": "Supremo Tribunal Federal"
+  },
+  {
+    "key": "pav-golpe",
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+    "status": 200,
+    "finalUrl": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+    "sha256": "5506cfc094fb1a09a4ac6c40b2762e7488b51fe50a1d38c639ddf185bfd4ddae",
+    "title": " Supremo Tribunal Federal "
+  },
+  {
+    "key": "pav-contragolpe",
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-prisao-de-suspeitos-por-planejamento-de-golpe-contra-a-democracia/",
+    "status": 200,
+    "finalUrl": "https://noticias.stf.jus.br/postsnoticias/stf-determina-prisao-de-suspeitos-por-planejamento-de-golpe-contra-a-democracia/",
+    "sha256": "edc3387dead107e24f7a7d7a415b7c55a838c6225fb736672ec23a38c8cd1e6b",
+    "title": " Supremo Tribunal Federal "
+  },
+  {
+    "key": "pav-racismo",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14532.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "key": "pav-deficiencia",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "key": "pav-leolins",
+    "url": "https://web.trf3.jus.br/acordaos/Acordao/BuscarDocumentoPje/356445208",
+    "error": "The read operation timed out"
+  },
+  {
+    "key": "pav-dsd",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK279168/",
+    "status": 200,
+    "finalUrl": "https://www.ncbi.nlm.nih.gov/books/NBK279168/",
+    "sha256": "6e981804138076ae884415ffe8234dd2be8bb373939cd69ddc9754a9cc626577",
+    "title": "Checking your browser - reCAPTCHA"
+  },
+  {
+    "key": "pav-twospirit",
+    "url": "https://www.ihs.gov/sites/telebehavioral/themes/responsive2017/display_objects/documents/slides/lgbt/lgbttwospirit.pdf",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "key": "pav-cfm2026",
+    "url": "https://portal.cfm.org.br/noticias/norma-que-regulamenta-a-assistencia-medica-a-pessoas-transgenero-segue-plenamente-vigente-no-pais/",
+    "status": 200,
+    "finalUrl": "https://portal.cfm.org.br/noticias/norma-que-regulamenta-a-assistencia-medica-a-pessoas-transgenero-segue-plenamente-vigente-no-pais/",
+    "sha256": "1b60272f540a5ed693e024d7137764ba88ee15daa1fbe3868e1a1f56f99198e3",
+    "title": "Norma que regulamenta a assistência médica a pessoas transgênero segue vigente no país | Portal Médico"
+  },
+  {
+    "key": "pav-coi2026",
+    "url": "https://www.olympics.com/ioc/policy-protection-female-womens-category-in-olympic-sport",
+    "error": "The read operation timed out"
+  },
+  {
+    "key": "pav-cfm-excecao",
+    "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=30453",
+    "status": 200,
+    "finalUrl": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=30453",
+    "sha256": "cb32e1d257ee009620afec91bac8427c41057d63ac7da5f9af3d90b8228d0d80",
+    "title": "JFSC autoriza bloqueio hormonal para adolescente trans e afasta restri��o de resolu��o do CFM"
+  },
+  {
+    "key": "pav-bloqueadores",
+    "url": "https://adc.bmj.com/content/early/2024/04/09/archdischild-2023-326669?versioned=true",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "pav-puberdade-precoce",
+    "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/resumidos/PCDT_Resumido_Puberdade_PC_final.pdf",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/conitec/pt-br/midias/protocolos/resumidos/PCDT_Resumido_Puberdade_PC_final.pdf",
+    "sha256": "8c6174ec6e2b0f911eaa1c4fa2c583232abc80ced510a45a0cc6cb086a4d6b2a",
+    "title": "Protocolo Clínico e Diretrizes Terapêuticas da Puberdade Precoce Central "
+  },
+  {
+    "key": "pav-biblia",
+    "url": "https://www.saopaulo.sp.leg.br/iah/fulltext/projeto/PL0468-2025.pdf",
+    "status": 200,
+    "finalUrl": "https://www.saopaulo.sp.leg.br/iah/fulltext/projeto/PL0468-2025.pdf",
+    "sha256": "c06c5d50dbbad43f976fb1b23a27d561434e811139450bc44d13a27e451fedb9",
+    "title": null
+  },
+  {
+    "key": "pav-historiaafro",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.639.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "key": "pav-ambiental",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "key": "pav-eua-juvenil",
+    "url": "https://www.juvenilecompact.org/age-matrix",
+    "status": 200,
+    "finalUrl": "https://www.juvenilecompact.org/age-matrix",
+    "sha256": "da8e786fbf1916b2a0b36cfe5aa49b17768eb9a113073c9fae88cc0c13ccc227",
+    "title": "Age Matrix | Interstate Commission for Juveniles"
+  },
+  {
+    "key": "pav-policia77",
+    "url": "https://www.unicef.org/brazil/innocenti/comunicados-de-imprensa/mortes-de-criancas-e-adolescentes-por-intervencao-policial-crescem-120-no-estado-de-sao-paulo-entre-2022-2024",
+    "status": 200,
+    "finalUrl": "https://www.unicef.org/brazil/innocenti/comunicados-de-imprensa/mortes-de-criancas-e-adolescentes-por-intervencao-policial-crescem-120-no-estado-de-sao-paulo-entre-2022-2024",
+    "sha256": "b62f401f396419fe7c26c38d5311ce7c22243c7b67a39bc8d69ac0d555d9408f",
+    "title": "Mortes de crian&ccedil;as e adolescentes por interven&ccedil;&atilde;o policial crescem 120% no estado de S&atilde;o Paulo entre 2022 e 2024"
+  },
+  {
+    "key": "pav-crimeeua",
+    "url": "https://bjs.ojp.gov/document/ckle24.pdf",
+    "status": 200,
+    "finalUrl": "https://bjs.ojp.gov/document/ckle24.pdf",
+    "sha256": "774b1ae653e632c805e7fda807fb4a3a1a0562df645e1d06200a463b310b03b8",
+    "title": null
+  },
+  {
+    "key": "pav-gangs",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R47083/R47083.5.pdf",
+    "status": 200,
+    "finalUrl": "https://www.congress.gov/crs_external_products/R/PDF/R47083/R47083.5.pdf",
+    "sha256": "721b7fe97444bce68df0f71378ae94c36cec727bb927b2ef81938f6a225ffa06",
+    "title": null
+  },
+  {
+    "key": "pav-khelif",
+    "url": "https://www.olympedia.org/athletes/140408",
+    "status": 200,
+    "finalUrl": "https://www.olympedia.org/athletes/140408",
+    "sha256": "2f22f2a449225562d39bb3f250cfa7a7980b58f88f27c7b98e097b51a827295c",
+    "title": "Olympedia – Imane Khelif"
+  },
+  {
+    "key": "pav-fomeurss",
+    "url": "https://www.loc.gov/exhibits/archives/intn",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "pav-regressividade",
+    "url": "https://repositorio.ipea.gov.br/bitstream/11058/11624/1/TD_2823_Web.pdf",
+    "status": 200,
+    "finalUrl": "https://repositorio.ipea.gov.br/server/api/core/bitstreams/45bee840-f17c-4e29-80e2-0d72e709b497/content",
+    "sha256": "1a46ff92bb15285c3c415a53e0b5f1860da78ce9a3e057866be5079579e768a6",
+    "title": null
+  },
+  {
+    "key": "pav-psol",
+    "url": "https://repositorio.ufjf.br/jspui/bitstream/ufjf/7114/1/brenoalexandrepiresfernandesalves.pdf",
+    "status": 200,
+    "finalUrl": "https://repositorio.ufjf.br/jspui/bitstream/ufjf/7114/1/brenoalexandrepiresfernandesalves.pdf",
+    "sha256": "5eb15dcb393dab8982b000da6302aebd578f5e6c971addc8f1feed8964d46f11",
+    "title": null
+  },
+  {
+    "key": "pav-eleicoes2002",
+    "url": "https://www.tse.jus.br/eleicoes/eleicoes-anteriores/eleicoes-2002/candidaturas-votacao-e-resultados",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "pav-prisao2019",
+    "url": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-cumprimento-da-pena-deve-comecar-apos-esgotamento-de-recursos/",
+    "status": 200,
+    "finalUrl": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-cumprimento-da-pena-deve-comecar-apos-esgotamento-de-recursos/",
+    "sha256": "a162cf1fab6592f2dbb29b59999fdac0fb4d7805e6dddc58c92e7cb117b52797",
+    "title": " Supremo Tribunal Federal "
+  },
+  {
+    "key": "pav-moro-saida",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2020-04/sergio-moro-anuncia-saida-do-ministerio-da-justica",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "pav-levy",
+    "url": "https://www.worldbank.org/pt/about/people/j/joaquim-levy",
+    "status": 200,
+    "finalUrl": "https://www.worldbank.org/pt/about/people/j/joaquim-levy",
+    "sha256": "b0a70d01948ab2b5c13ed1545c0a40ace16d311d21013e3436075a6049d56dc9",
+    "title": "Joaquim Levy"
+  },
+  {
+    "key": "pav-defesa2022",
+    "url": "https://www.gov.br/defesa/pt-br/centrais-de-conteudo/relatorio-das-forcas-armadas-nao-excluiu-a-possibilidade-de-fraude-ou-inconsistencia-nas-urnas-eletronicas/",
+    "status": 200,
+    "finalUrl": "https://www.gov.br/defesa/pt-br/centrais-de-conteudo/relatorio-das-forcas-armadas-nao-excluiu-a-possibilidade-de-fraude-ou-inconsistencia-nas-urnas-eletronicas/",
+    "sha256": "3fd5f71b1e0e9cf952570a96a1e0a9523e49fe93c1ad49ff9651a511fb470d3a",
+    "title": "Relatório das Forças Armadas não excluiu a possibilidade de fraude ou inconsistência nas urnas eletrônicas — Ministério da Defesa"
+  },
+  {
+    "key": "pav-nascimento",
+    "url": "https://www.loc.gov/exhibits/naacp/founding-and-early-years.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "pav-hirschfeld",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/gay-men-under-the-nazi-regime?series=200",
+    "status": 200,
+    "finalUrl": "https://encyclopedia.ushmm.org/content/en/article/gay-men-under-the-nazi-regime?series=200",
+    "sha256": "99eca5331d95f5999e4b2bfde9673e5725a9206bc6d5cbca8b25d14619e4c004",
+    "title": " Gay Men under the Nazi Regime | Holocaust Encyclopedia "
+  },
+  {
+    "key": "pav-suzano",
+    "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=405693",
+    "status": 200,
+    "finalUrl": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=405693",
+    "sha256": "906f3a78b3ed872131de88a0854c6044dc004c0fcb215bbcb0b310c2d2319803",
+    "title": "Supremo Tribunal Federal"
+  },
+  {
+    "key": "pav-prison",
+    "url": "https://www.prisonstudies.org/country/brazil",
+    "status": 200,
+    "finalUrl": "https://www.prisonstudies.org/country/brazil",
+    "sha256": "c808476c04a77f20d2a2f58c2043748d4a75a190eb08d1de77c88d61aa0622ef",
+    "title": "Brazil | World Prison Brief"
+  },
+  {
+    "key": "pav-prison2024",
+    "url": "https://www.prisonstudies.org/sites/default/files/resources/downloads/working_prisoners_in_brazil.pdf",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "pav-mamdani",
+    "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-unveils-30--discount---including-all-produce--all-",
+    "status": 200,
+    "finalUrl": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-unveils-30--discount---including-all-produce--all-",
+    "sha256": "39cff0040e8d623c8770dcaae6f5b42872862f7f691341d88ab5128e0a639bfc",
+    "title": "Mayor Mamdani Unveils 30% Discount — Including All Produce, All Meat and Key Pantry Staples — at New Municipal Grocery Stores - NYC Mayor&#39;s Office"
+  }
+]

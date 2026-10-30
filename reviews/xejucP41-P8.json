@@ -1,0 +1,1348 @@
+{
+  "videoId": "xejucP41-P8",
+  "video": {
+    "id": "xejucP41-P8",
+    "url": "https://www.youtube.com/watch?v=xejucP41-P8",
+    "title": "DEBATE: CONSERVADOR X ESQUERDISTA - LUCAS PAVANATO X ABNER HENRIQUE - REDCAST",
+    "channel": "RedCast [Oficial]",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xejucP41-P8/hqdefault.jpg"
+  },
+  "referenceDate": "2026-09-17",
+  "reviewedAt": "2026-10-30T14:56:12.726Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "f11a7125163c86f2b7d0212edef1ae87b9b28d01671de3d46826cdb3ea4e9a3b",
+  "scannedThrough": 4765,
+  "participants": [
+    {
+      "id": "pavanato",
+      "name": "Lucas Pavanato",
+      "aliases": [
+        "Pavanato",
+        "Lucas"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    },
+    {
+      "id": "abner",
+      "name": "Abner Henrique",
+      "aliases": [
+        "Abner"
+      ],
+      "role": "guest",
+      "source": "self-introduction"
+    }
+  ],
+  "coverageNotes": "A revisão percorre toda a legenda fornecida. Acusações não comprovadas, generalizações sem universo e dados pessoais de saúde não são convertidos em fatos. Preferências políticas, propostas e juízos morais ficam fora do placar.",
+  "limitations": [
+    "O primeiro bloco fornecido começa em 00:38; não há cobertura textual dos segundos anteriores.",
+    "Menções a investigações não equivalem a condenações; a ausência de prova nesta revisão também não certifica inocência geral."
+  ],
+  "claims": [
+    {
+      "cueStart": 1,
+      "cueEnd": 120,
+      "title": "Abertura, publicidade e apresentação pessoal",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Música, regras, publicidade e autobiografia sem registro independente não acrescentam votos factuais.",
+      "sources": []
+    },
+    {
+      "cueStart": 130,
+      "cueEnd": 180,
+      "title": "Glauber Braga agrediu Gabriel Costenaro na Câmara",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Câmara registra empurrões e chutes em abril de 2024 e a suspensão parlamentar posterior. O documento não resolve cada palavra da discussão nem transforma toda versão sobre a mãe do deputado em fato comprovado.",
+      "sources": [
+        "pav-glauber"
+      ]
+    },
+    {
+      "cueStart": 209,
+      "cueEnd": 213,
+      "title": "Pavanato foi o vereador mais votado em 2024",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Verdadeiro",
+      "explanation": "O levantamento nacional baseado nos resultados eleitorais registra 161.386 votos, maior votação para vereador naquele pleito; a Câmara confirma seu mandato municipal.",
+      "sources": [
+        "pav-pavanato",
+        "pav-eleitos2024"
+      ]
+    },
+    {
+      "cueStart": 214,
+      "cueEnd": 299,
+      "title": "Interesse no debate, cortesia e preferências políticas",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Expectativas e avaliações dos interlocutores, sem resultado empírico a pontuar.",
+      "sources": []
+    },
+    {
+      "cueStart": 305,
+      "cueEnd": 311,
+      "title": "Sabesp teria demitido cerca de 40% dos funcionários e elevado a conta",
+      "speaker": "Abner Henrique",
+      "verdict": "Inconclusivo",
+      "explanation": "A alegação reúne pessoal, tarifa e pressão de água sem datas de comparação, quadro de empregados ou tabela tarifária. A privatização é documentada, mas não demonstra sozinha os três números ou a experiência de todos os consumidores.",
+      "sources": [
+        "pav-sabesp"
+      ]
+    },
+    {
+      "cueStart": 311,
+      "cueEnd": 320,
+      "title": "Enel teria sido privatizada meses antes do apagão de outubro de 2024",
+      "speaker": "Abner Henrique",
+      "verdict": "Falso",
+      "explanation": "A Eletropaulo já tinha controle privado e foi adquirida pela Enel em 2018. O apagão de outubro de 2024 não ocorreu meses após a privatização. As provas regulares do Enem daquele ano foram em novembro; preparação para o exame não significa realização simultânea.",
+      "sources": [
+        "pav-enel-hist",
+        "pav-enem2024"
+      ]
+    },
+    {
+      "cueStart": 323,
+      "cueEnd": 332,
+      "title": "Água, energia e transportes deveriam permanecer públicos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "É uma preferência sobre o modelo de prestação de serviços; falhas específicas precisam de indicadores próprios.",
+      "sources": []
+    },
+    {
+      "cueStart": 335,
+      "cueEnd": 340,
+      "title": "Sabesp continuaria sob controle do Estado após a venda",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "O governo paulista informa que sua participação caiu de 50, 3% para 18, 3% com a privatização de julho de 2024; a Equatorial adquiriu 15% . Participação minoritária e prerrogativas específicas não equivalem ao controle estatal anterior.",
+      "sources": [
+        "pav-sabesp"
+      ]
+    },
+    {
+      "cueStart": 341,
+      "cueEnd": 350,
+      "title": "Venda de ativos seria a única alternativa viável de financiamento",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A afirmação de necessidade exclusiva é uma avaliação de alternativas de política pública; não foi apresentado estudo comparativo que a torne inevitável.",
+      "sources": []
+    },
+    {
+      "cueStart": 350,
+      "cueEnd": 367,
+      "title": "105 mil novas ligações e bairros atendidos após a venda",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificado demonstrativo com data, universo e discriminação entre novas ligações, regularizações e economias atendidas que confirme o número enumerado. Os nomes reconhecidos pela legenda também precisam de conferência.",
+      "sources": [
+        "pav-sabesp"
+      ]
+    },
+    {
+      "cueStart": 379,
+      "cueEnd": 405,
+      "title": "Enel é regulada pela União, mas governo nada teria feito",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A ANEEL é a reguladora federal e mantinha, antes do debate, procedimento de recomendação de caducidade contra a Enel SP. Criticar a eficácia da atuação é legítimo; dizer que nenhuma providência existe omite o processo documentado.",
+      "sources": [
+        "pav-enel-processo"
+      ]
+    },
+    {
+      "cueStart": 412,
+      "cueEnd": 434,
+      "title": "Equatorial tem 15% da Sabesp",
+      "speaker": "Abner Henrique",
+      "verdict": "Verdadeiro",
+      "explanation": "O percentual é confirmado pelo governo paulista. Ele não significa participação de 15% do Estado nem, sozinho, controle absoluto de todas as decisões do conselho.",
+      "sources": [
+        "pav-sabesp"
+      ]
+    },
+    {
+      "cueStart": 434,
+      "cueEnd": 449,
+      "title": "Falta de água em toda a Baixada Santista durante uma semana",
+      "speaker": "Abner Henrique",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não delimita municípios, datas e duração por bairro. Relatos locais de interrupção não demonstram ausência uniforme de água em toda a região.",
+      "sources": [
+        "pav-sabesp"
+      ]
+    },
+    {
+      "cueStart": 450,
+      "cueEnd": 456,
+      "title": "CPTM retomou por 90 dias linhas concedidas após incêndio",
+      "speaker": "Abner Henrique",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro de agosto de 2026 confirma a retomada temporária das linhas 11, 12 e 13 pela CPTM após falhas e incêndio no começo da operação da Trivia. A expressão explodiu não identifica laudo técnico e não é confirmada por esse registro.",
+      "sources": [
+        "pav-trens2026"
+      ]
+    },
+    {
+      "cueStart": 457,
+      "cueEnd": 499,
+      "title": "Privatização, estabilidade e eficiência de empregados",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São interpretações sobre incentivos e qualidade do serviço. Estabilidade estatutária, vínculo celetista e obrigações contratuais são regimes distintos; a conversa não mede a produtividade geral.",
+      "sources": []
+    },
+    {
+      "cueStart": 517,
+      "cueEnd": 528,
+      "title": "Estatais só dão prejuízo no governo atual e Correios não têm concorrência",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Déficit fiscal e lucro contábil têm métodos e universos diferentes: o balanço federal registra lucro líquido agregado de R$ 169, 4 bilhões em 2025. O privilégio postal também não cobre todas as encomendas, segmento com concorrência privada.",
+      "sources": [
+        "pav-estatais2025",
+        "pav-correios"
+      ]
+    },
+    {
+      "cueStart": 540,
+      "cueEnd": 550,
+      "title": "Prodam não serviria para nada e 90% das estatais seriam cabides",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram apresentados levantamento de empresas, critério de utilidade ou medição dos 90% . Uma crítica política não comprova que servidores ou dirigentes sejam fictícios ou desnecessários.",
+      "sources": []
+    },
+    {
+      "cueStart": 559,
+      "cueEnd": 575,
+      "title": "Concessões de cemitérios e fim da fila de creches em São Paulo",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "São serviços e séries diferentes. Não foi localizada nesta revisão uma relação documental que vincule universalização de vagas à concessão de cemitérios, nem um corte temporal capaz de sustentar fila zero contínua.",
+      "sources": []
+    },
+    {
+      "cueStart": 580,
+      "cueEnd": 623,
+      "title": "Alimentação estatal, preços e reforma agrária",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Comparação de modelos econômicos e propostas. O efeito de criar uma empresa alimentar não é um resultado observado neste debate.",
+      "sources": []
+    },
+    {
+      "cueStart": 624,
+      "cueEnd": 627,
+      "title": "Houve mortes por fome na União Soviética",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Verdadeiro",
+      "explanation": "A fome de 1932–33 é documentada historicamente. Isso não estabelece que toda empresa pública ou qualquer reforma agrária reproduza as mesmas condições.",
+      "sources": [
+        "pav-fomeurss"
+      ]
+    },
+    {
+      "cueStart": 653,
+      "cueEnd": 662,
+      "title": "Chile teria 99% de água e saneamento contra 50% ou 60% no Brasil",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O relatório chileno distingue água potável e esgotamento nas áreas operacionais urbanas. Não se pode comparar esse recorte com toda a população brasileira nem tratar acesso à água e coleta/tratamento de esgoto como um único percentual.",
+      "sources": [
+        "pav-chile"
+      ]
+    },
+    {
+      "cueStart": 670,
+      "cueEnd": 688,
+      "title": "China demonstra que todo serviço público é melhor",
+      "speaker": "Abner Henrique",
+      "verdict": "Inconclusivo",
+      "explanation": "Tamanho territorial semelhante não é controle estatístico de renda, urbanização, qualidade ou desenho regulatório. Faltam indicadores comparáveis para a conclusão geral.",
+      "sources": []
+    },
+    {
+      "cueStart": 688,
+      "cueEnd": 704,
+      "title": "BR Distribuidora seria o oleoduto vendido que o país aluga",
+      "speaker": "Abner Henrique",
+      "verdict": "Falso",
+      "explanation": "A BR Distribuidora, posteriormente Vibra, era uma empresa de distribuição de combustíveis; suas ações foram alienadas em ofertas em 2019 e 2021. Ativos de transporte por dutos são operações e empresas diferentes; não se pode atribuir o aluguel de um oleoduto à venda da distribuidora.",
+      "sources": [
+        "pav-vibra"
+      ]
+    },
+    {
+      "cueStart": 710,
+      "cueEnd": 737,
+      "title": "Acusações retóricas sobre quem paga privatizações",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Interpretações de política econômica e distribuição de custos, sem uma operação e fluxo financeiro delimitados.",
+      "sources": []
+    },
+    {
+      "cueStart": 738,
+      "cueEnd": 751,
+      "title": "Governo teria privatizado o Rio Tapajós",
+      "speaker": "Abner Henrique",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Houve inclusão de hidrovias em programa de desestatização e discussão de concessão de serviços, com mobilização indígena. O decreto foi revogado em fevereiro de 2026. Isso não equivale à alienação da propriedade do rio.",
+      "sources": [
+        "pav-tapajos",
+        "lua-cf"
+      ]
+    },
+    {
+      "cueStart": 765,
+      "cueEnd": 780,
+      "title": "Poder público pode encerrar uma concessão",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei 8.987 prevê hipóteses como encampação e caducidade, com requisitos, processo e possíveis indenizações. Não é faculdade de simplesmente retirar a empresa sem observar o contrato e a lei.",
+      "sources": [
+        "pav-concessao"
+      ]
+    },
+    {
+      "cueStart": 781,
+      "cueEnd": 872,
+      "title": "Defesa de estatização, competição e serviços universais",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São propostas e avaliações de modelos de prestação de serviços, sem pontuação automática de eficácia.",
+      "sources": []
+    },
+    {
+      "cueStart": 873,
+      "cueEnd": 887,
+      "title": "Tributos sobre consumo pesam proporcionalmente mais sobre os pobres",
+      "speaker": "Abner Henrique",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A análise distributiva distingue carga sobre a renda e sobre o consumo. A mesma cobrança monetária pode consumir parcela maior da renda baixa; o resultado depende da cesta, das isenções e dos tributos considerados.",
+      "sources": [
+        "pav-regressividade"
+      ]
+    },
+    {
+      "cueStart": 900,
+      "cueEnd": 909,
+      "title": "Fortuna de todos os bilionários não cobriria a dívida pública anual",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Patrimônio é estoque, enquanto déficit e juros anuais são fluxos. A fala não identifica lista, ano, moeda e conceito de dívida; não permite uma comparação numérica reproduzível.",
+      "sources": []
+    },
+    {
+      "cueStart": 916,
+      "cueEnd": 930,
+      "title": "Reduzir Selic de 15% para 13% liberaria imediatamente centenas de bilhões",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A repercussão fiscal depende da composição, indexação e prazo da dívida. Não foi demonstrado cálculo que converta a redução citada em economia imediata daquele tamanho; não se aplica simplesmente a mesma taxa a todo o estoque.",
+      "sources": [
+        "lua-divida2026"
+      ]
+    },
+    {
+      "cueStart": 961,
+      "cueEnd": 969,
+      "title": "Brasil tem carga tributária abaixo da média da OCDE",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A comparação de carga total com a média da OCDE é compatível com os dados da Receita, observadas as diferenças de ano e metodologia. Isso não significa carga menor que a de cada país rico nem resolve a avaliação sobre qualidade do gasto; comparar com economias de renda semelhante é outra escolha analítica.",
+      "sources": [
+        "pav-tributaria"
+      ]
+    },
+    {
+      "cueStart": 976,
+      "cueEnd": 984,
+      "title": "Cobrar juros de um empréstimo a um amigo seria sempre crime",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "O Código Civil admite mútuo com juros e a Lei 14.905 atualizou as regras. Usura, limites e atividade financeira irregular exigem condições adicionais; a mera cobrança de juros entre particulares não é automaticamente agiotagem criminosa.",
+      "sources": [
+        "pav-juros"
+      ]
+    },
+    {
+      "cueStart": 1006,
+      "cueEnd": 1045,
+      "title": "Oligopólio bancário e causas políticas das taxas",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Críticas sobre competição e influência política não demonstram uma causalidade única de juros ou fraude.",
+      "sources": []
+    },
+    {
+      "cueStart": 1085,
+      "cueEnd": 1102,
+      "title": "Só Galípolo teria fiscalizado o Master e demais gestores nada fizeram",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A liquidação e o depoimento de Galípolo confirmam atos e cronologia, mas não constituem inventário completo da fiscalização desde a origem do banco. A exclusividade e a omissão geral não são comprovadas.",
+      "sources": [
+        "lua-master-liquidacao",
+        "lua-master-reuniao"
+      ]
+    },
+    {
+      "cueStart": 1112,
+      "cueEnd": 1129,
+      "title": "Autonomia do Banco Central não impede nomeação presidencial",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A LC 179 prevê mandatos e indicação do presidente da República, com aprovação do Senado. Autonomia operacional não elimina o procedimento constitucional de nomeação.",
+      "sources": [
+        "pav-bc-autonomia"
+      ]
+    },
+    {
+      "cueStart": 1130,
+      "cueEnd": 1157,
+      "title": "PROER e socorro a bancos no governo FHC",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O BC documenta o PROER para reestruturação do sistema privado e o PROES relativo a bancos estaduais. Houve apoio público, mas isso não demonstra que todo banco seja sempre salvo nem que programas distintos tenham o mesmo desenho.",
+      "sources": [
+        "pav-proer"
+      ]
+    },
+    {
+      "cueStart": 1170,
+      "cueEnd": 1200,
+      "title": "Vorcaro teria dado dinheiro diretamente a Flávio Bolsonaro",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "É necessário distinguir aportes em uma produção audiovisual, pedidos de financiamento e depósito em conta pessoal. O debate não apresenta os documentos bancários que provem a transferência pessoal alegada; tampouco se certifica ausência de qualquer irregularidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 1234,
+      "cueEnd": 1254,
+      "title": "Sigilo de 100 anos provaria crime na reunião Lula–Master",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A LAI prevê proteção de dados pessoais por até cem anos, distinta da classificação geral de documentos secretos. A reunião de dezembro de 2024 foi relatada publicamente ao Senado; proteção de dados não prova corrupção ou motivo criminoso.",
+      "sources": [
+        "pav-lai",
+        "lua-master-reuniao"
+      ]
+    },
+    {
+      "cueStart": 1255,
+      "cueEnd": 1267,
+      "title": "Contrato da esposa de Moraes provaria interferência e crime do ministro",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Contrato, relação familiar, contatos e uma decisão criminal são fatos distintos. Não foram apresentados nesta revisão prova judicial e nexo que autorizem afirmar o crime como consumado. Ausência de conclusão não é absolvição geral.",
+      "sources": []
+    },
+    {
+      "cueStart": 1278,
+      "cueEnd": 1360,
+      "title": "Flávio não teria recebido nenhum centavo e financiamento seria regular",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Negação política e distinção entre produtor e beneficiário pessoal são relevantes, mas não substituem auditoria dos fluxos, contratos e possíveis contrapartidas. Não foi demonstrado o alcance absoluto da negação.",
+      "sources": []
+    },
+    {
+      "cueStart": 1365,
+      "cueEnd": 1395,
+      "title": "Vorcaro teria sido o doador das campanhas de Bolsonaro e Tarcísio",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A fala pode confundir o banqueiro com familiares ou pessoas de seu círculo. Doações precisam ser conferidas por CPF e prestação de contas; associação pessoal não transfere autoria de um depósito. Nenhuma culpa é inferida por parentesco.",
+      "sources": []
+    },
+    {
+      "cueStart": 1400,
+      "cueEnd": 1413,
+      "title": "Lula é apresentado apenas como condenado por corrupção",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Houve condenações nas instâncias anteriores, mas o STF as anulou em 2021 por incompetência do juízo. Houve também reconhecimento de suspeição de Moro no triplex. Anulação não é julgamento absolutório de mérito, e tampouco permite manter aquelas condenações como válidas.",
+      "sources": [
+        "lula-anulacao",
+        "moro-suspeicao"
+      ]
+    },
+    {
+      "cueStart": 1400,
+      "cueEnd": 1419,
+      "title": "PSOL usa o número 50 e UP usa o 80",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "Os números partidários são distintos no registro do TSE; não se deve confundir uma candidatura da Unidade Popular com candidatura do PSOL.",
+      "sources": [
+        "pav-partidos"
+      ]
+    },
+    {
+      "cueStart": 1420,
+      "cueEnd": 1424,
+      "title": "Dirigente partidário teria sido preso por pedofilia",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não é fornecido nome ou processo que permita conferir a acusação. Não se transforma imputação grave a pessoa indeterminada em prova contra um partido inteiro.",
+      "sources": []
+    },
+    {
+      "cueStart": 1425,
+      "cueEnd": 1429,
+      "title": "PSOL só teria governado uma cidade no país",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "A pesquisa de resultados municipais documenta prefeitos eleitos pelo PSOL em Itaocara e Macapá em 2012. Isso já contradiz a afirmação de uma única cidade. A avaliação de que a cidade foi destruída é juízo político e exige indicadores próprios.",
+      "sources": [
+        "pav-psol"
+      ]
+    },
+    {
+      "cueStart": 1440,
+      "cueEnd": 1472,
+      "title": "Filiação partidária é requisito e prisão citada provaria culpa coletiva",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Constituição exige filiação para candidaturas. Uma prisão preventiva ou investigação de integrante não equivale a condenação nem prova a culpabilidade de todos os filiados. Não foi conferido aqui o processo individual citado no calor da discussão.",
+      "sources": [
+        "lua-cf"
+      ]
+    },
+    {
+      "cueStart": 1498,
+      "cueEnd": 1508,
+      "title": "PL já participou de aliança eleitoral de Lula",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O registro eleitoral da chapa de 2002 inclui José Alencar pelo então PL. Isso não prova identidade programática permanente nem autoriza atribuir hoje a cada filiado todos os atos de antigos aliados.",
+      "sources": [
+        "pav-eleicoes2002"
+      ]
+    },
+    {
+      "cueStart": 1543,
+      "cueEnd": 1580,
+      "title": "Condenações anteriores e libertação de Lula por imóvel não estar no nome",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "As condenações existiram, mas a libertação em 2019 decorreu da orientação sobre execução antes do trânsito em julgado. A anulação em 2021 e a suspeição são decisões posteriores, não uma constatação de que um imóvel fora do nome eliminaria automaticamente todos os elementos.",
+      "sources": [
+        "lula-anulacao",
+        "moro-suspeicao",
+        "pav-prisao2019"
+      ]
+    },
+    {
+      "cueStart": 1605,
+      "cueEnd": 1619,
+      "title": "Documentos de imóvel e alegação de rasura",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram fornecidos documentos originais e laudo que permitam autenticar rasuras ou identificar quem as realizou. Uma fotografia descrita numa discussão não resolve titularidade ou responsabilidade penal.",
+      "sources": []
+    },
+    {
+      "cueStart": 1620,
+      "cueEnd": 1634,
+      "title": "Moro teria sido demitido por Bolsonaro",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "Moro anunciou sua saída do Ministério da Justiça em abril de 2020. A controvérsia sobre interferência na PF é distinta do fato de que ele pediu demissão.",
+      "sources": [
+        "pav-moro-saida"
+      ]
+    },
+    {
+      "cueStart": 1668,
+      "cueEnd": 1686,
+      "title": "Anulação de Lula teria sido só troca de CEP e perda de provas",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Competência jurisdicional e imparcialidade são garantias processuais, com decisões específicas do STF. Prescrição, validade de provas e impossibilidade de julgar são conceitos diferentes; não se pode resumir as decisões a desaparecimento de evidência.",
+      "sources": [
+        "lula-anulacao",
+        "moro-suspeicao"
+      ]
+    },
+    {
+      "cueStart": 1714,
+      "cueEnd": 1730,
+      "title": "Levy foi ministro da Fazenda de Dilma e impeachment é chamado golpe",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro institucional confirma Joaquim Levy como ministro em 2015. A classificação política golpe expressa interpretação do processo e não recebe voto factual por essa palavra.",
+      "sources": [
+        "pav-levy"
+      ]
+    },
+    {
+      "cueStart": 1730,
+      "cueEnd": 1745,
+      "title": "Temer teria legalizado todas as pedaladas que condenaram Dilma",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "É necessário identificar o dispositivo e comparar a conduta específica apontada pelo TCU e pelo Senado. Alteração de regras orçamentárias não implica autorização geral retroativa para qualquer operação de crédito; a fala não identifica a norma que sustentaria esse alcance.",
+      "sources": []
+    },
+    {
+      "cueStart": 1746,
+      "cueEnd": 1768,
+      "title": "Petrobras teria quebrado só por causa da Lava Jato",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A empresa não é equiparada automaticamente a falida por apresentar prejuízo ou impairment. A alegação causal exige separar preço do petróleo, endividamento, câmbio, baixas contábeis e efeitos da corrupção/investigação.",
+      "sources": [
+        "pav-vibra"
+      ]
+    },
+    {
+      "cueStart": 1776,
+      "cueEnd": 1800,
+      "title": "Suspeição de Moro e coordenação com acusação",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O STF reconheceu a suspeição no processo do triplex. Isso não significa decisão automática de nulidade de toda a Lava Jato nem validação de cada mensagem ou acusação citada pelos participantes.",
+      "sources": [
+        "moro-suspeicao"
+      ]
+    },
+    {
+      "cueStart": 1801,
+      "cueEnd": 1846,
+      "title": "Covaxin, cloroquina e joias demonstrariam crimes já comprovados",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "São investigações e fatos com processos distintos. A conversa não apresenta as decisões individuais que permitam equiparar suspeita, indiciamento e condenação em todos eles.",
+      "sources": []
+    },
+    {
+      "cueStart": 1847,
+      "cueEnd": 1895,
+      "title": "Patrimônio de familiares de Lula e maior esquema de INSS da história",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam documentos patrimoniais, datas, identificação inequívoca dos familiares e um critério para o superlativo. Alegações sobre Lulinha não se confundem com referências a Frei Chico, irmão de Lula. Parentesco não prova participação em desvio.",
+      "sources": []
+    },
+    {
+      "cueStart": 1903,
+      "cueEnd": 1935,
+      "title": "Partidos teriam impedido investigação de familiar na CPMI",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Requerimentos, autoria, objeto, votações e datas precisam ser conferidos separadamente. Uma comemoração ou disputa de bancada não demonstra responsabilidade criminal do familiar citado.",
+      "sources": []
+    },
+    {
+      "cueStart": 1936,
+      "cueEnd": 2010,
+      "title": "Quebra de sigilo não teria encontrado nada e filme provaria corrupção",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Resultado de diligência, ausência de divulgação e conclusão final não são equivalentes. Patrocínio de produção cultural tampouco comprova sozinho contrapartida ilícita; não foram conferidos os autos e contratos individuais.",
+      "sources": []
+    },
+    {
+      "cueStart": 2076,
+      "cueEnd": 2110,
+      "title": "Mensalão, Petrolão e devolução de dezenas de bilhões pelo STF",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "As cifras misturam desvios estimados, baixas contábeis, acordos e valores recuperados por órgãos diferentes. Não foi demonstrado documento que sustente os três totais e uma devolução conjunta ordenada pelo STF; a estimativa de UPAs também exige custo e período.",
+      "sources": []
+    },
+    {
+      "cueStart": 2189,
+      "cueEnd": 2203,
+      "title": "Condenação de Bolsonaro seria apenas por golpe à distância, dos EUA",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "A AP 2.668 abrange organização e ações anteriores à posse, e a Operação Contragolpe descreveu planejamento em novembro e dezembro de 2022. Estar nos EUA em janeiro não elimina automaticamente participação em atos anteriores.",
+      "sources": [
+        "pav-golpe",
+        "pav-contragolpe"
+      ]
+    },
+    {
+      "cueStart": 2200,
+      "cueEnd": 2267,
+      "title": "Investigações sobre baleia e certificado de vacinação",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Arquivamento de um caso não resolve outro. Atribuir autoria de fraude a um partido a partir de um endereço eletrônico exige evidência adicional; a discussão não apresenta os autos completos dessas diligências.",
+      "sources": []
+    },
+    {
+      "cueStart": 2268,
+      "cueEnd": 2278,
+      "title": "Discutir artigo constitucional e avaliar se houve tentativa de golpe",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "É uma defesa jurídica sobre a qualificação das condutas. A ADI 6.457 esclarece que o artigo 142 não cria poder moderador; a condenação citada em outro item se baseia em atos e provas próprios, não na simples citação de um dispositivo.",
+      "sources": [
+        "pav-art142"
+      ]
+    },
+    {
+      "cueStart": 2279,
+      "cueEnd": 2285,
+      "title": "Relatório das Forças Armadas não apontou fraude eleitoral",
+      "speaker": "Abner Henrique",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Ministério da Defesa declarou que o relatório não apontou fraude. Também disse não excluir toda possibilidade; isso não equivale a encontrar fraude, e não é certificação lógica de ausência de qualquer risco técnico.",
+      "sources": [
+        "pav-defesa2022"
+      ]
+    },
+    {
+      "cueStart": 2335,
+      "cueEnd": 2346,
+      "title": "Plano de atentados é atribuído a pessoas do baixo clero",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A decisão do STF registra integrantes de forças especiais e um general da reserva, com planejamento contra Lula, Alckmin e Moraes. Baixo clero é expressão política sem graduação objetiva; usá-la para minimizar a organização omite a hierarquia identificada. A participação de cada acusado é questão própria dos autos.",
+      "sources": [
+        "pav-contragolpe"
+      ]
+    },
+    {
+      "cueStart": 2354,
+      "cueEnd": 2374,
+      "title": "Moraes ser alvo tornaria automaticamente todo o julgamento inválido",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "É argumento jurídico que exige cotejo dos incidentes de impedimento e suspeição e dos fundamentos do colegiado. A preferência dos participantes não equivale a decisão de nulidade.",
+      "sources": [
+        "pav-golpe"
+      ]
+    },
+    {
+      "cueStart": 2400,
+      "cueEnd": 2430,
+      "title": "Comediantes também estão sujeitos às leis de discriminação",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A legislação penal e o Estatuto da Pessoa com Deficiência não criam imunidade geral para apresentações humorísticas. Contexto, dolo, tipicidade e prova importam; ofensa subjetiva isolada não basta para condenação automática.",
+      "sources": [
+        "pav-racismo",
+        "pav-deficiencia"
+      ]
+    },
+    {
+      "cueStart": 2473,
+      "cueEnd": 2488,
+      "title": "O Nascimento de uma Nação glorifica a Ku Klux Klan",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro da Library of Congress identifica a obra de 1915 e seu conteúdo racista, inclusive a representação favorável da Klan. Descrever o conteúdo não significa endossá-lo ou equiparar qualquer piada àquele filme.",
+      "sources": [
+        "pav-nascimento"
+      ]
+    },
+    {
+      "cueStart": 2488,
+      "cueEnd": 2515,
+      "title": "Humor, intenção e subjetividade de julgamento",
+      "speaker": "Lucas Pavanato",
+      "verdict": "opinion",
+      "explanation": "É discussão normativa sobre como avaliar uma piada e a intenção do autor. A legislação não cria imunidade humorística, como documentado em outro item; não se transforma cada defesa filosófica da comédia numa alegação autônoma de que a lei não exista.",
+      "sources": [
+        "pav-racismo"
+      ]
+    },
+    {
+      "cueStart": 2521,
+      "cueEnd": 2619,
+      "title": "Humor, mau gosto e debate sobre vídeo reproduzido",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Preferências sobre limites morais do humor e reação a um trecho reproduzido. O texto da legenda, sem assistir ao material original e ao contexto integral, não permite reconstruir com segurança todos os detalhes da edição.",
+      "sources": []
+    },
+    {
+      "cueStart": 2626,
+      "cueEnd": 2654,
+      "title": "Léo Lins foi absolvido no recurso criminal",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O acórdão do TRF 3 registra absolvição no processo referente ao espetáculo. Isso não declara lícita toda manifestação futura, não abrange automaticamente outros processos e não extingue a legislação contra discriminação.",
+      "sources": [
+        "pav-leolins"
+      ]
+    },
+    {
+      "cueStart": 2655,
+      "cueEnd": 2775,
+      "title": "Liberdade de expressão e julgamento moral de piadas",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Juízos normativos sobre permissibilidade e gosto. Defender ou reprovar uma piada não é, por si, um fato que possa ser pontuado.",
+      "sources": []
+    },
+    {
+      "cueStart": 2776,
+      "cueEnd": 2810,
+      "title": "Toda mulher trans teria a mesma vantagem em qualquer esporte",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Vantagens dependem da modalidade, puberdade, tratamento, medidas e critérios. Uma regra de elegibilidade não demonstra uma magnitude universal para cada atleta em toda prova; a fala não identifica os estudos que sustentariam todos os casos.",
+      "sources": [
+        "pav-coi2026"
+      ]
+    },
+    {
+      "cueStart": 2827,
+      "cueEnd": 2886,
+      "title": "Existem variações intersexuais de cromossomos, gônadas e anatomia",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A literatura clínica documenta diferenças do desenvolvimento sexual, com múltiplas causas e apresentações. Identidade de gênero não se deduz automaticamente de cromossomos nem da presença de uma característica isolada.",
+      "sources": [
+        "pav-dsd"
+      ]
+    },
+    {
+      "cueStart": 2887,
+      "cueEnd": 2910,
+      "title": "Two-Spirit seria literalmente um terceiro espírito comum a todos os povos",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Two-Spirit é um termo contemporâneo adotado em 1990, usado por parte de povos indígenas norte-americanos para experiências específicas. Não é tradução literal de uma única categoria antiga universal nem se chama terceiro espírito.",
+      "sources": [
+        "pav-twospirit"
+      ]
+    },
+    {
+      "cueStart": 2903,
+      "cueEnd": 2912,
+      "title": "Toda pessoa intersexual produziria necessariamente um dos dois gametas",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "Diferenças do desenvolvimento sexual incluem situações com gônadas disfuncionais e infertilidade; possuir um cariótipo ou tecido gonadal não implica produção de gametas. A diversidade clínica invalida a generalização de produção necessária.",
+      "sources": [
+        "pav-dsd"
+      ]
+    },
+    {
+      "cueStart": 2944,
+      "cueEnd": 2952,
+      "title": "CFM restringiu bloqueio puberal para incongruência de gênero",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Resolução 2.427/2025 estabelece restrições e permanecia vigente em 2026, com controvérsias judiciais e liminares individuais. A norma não proíbe o uso do medicamento para toda indicação pediátrica; o CFM é autarquia com governo próprio, não uma diretoria do Executivo federal.",
+      "sources": [
+        "cfm",
+        "pav-cfm2026",
+        "pav-puberdade-precoce"
+      ]
+    },
+    {
+      "cueStart": 2950,
+      "cueEnd": 2960,
+      "title": "COI também mudou a elegibilidade feminina em 2026",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O COI anunciou em março de 2026 regra para seus eventos a partir de LA 28, baseada em triagem SRY e exceções especificadas. É uma política futura de elegibilidade olímpica, não conclusão de que toda pessoa trans tenha igual desempenho nem regra retroativa de Paris 2024.",
+      "sources": [
+        "pav-coi2026"
+      ]
+    },
+    {
+      "cueStart": 2965,
+      "cueEnd": 3009,
+      "title": "Tifanny seria medíocre antes e todas as jogadoras seriam contrárias a ela",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Avaliação depreciativa de desempenho precisa de métricas comparáveis, posição e temporadas. Não foi identificado censo de todas as jogadoras que comprove unanimidade; uma entrevista individual não a demonstra.",
+      "sources": []
+    },
+    {
+      "cueStart": 3020,
+      "cueEnd": 3025,
+      "title": "Um teste genético isolado sempre resolveria a classificação de toda pessoa intersexual",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A avaliação clínica de diferenças do desenvolvimento sexual pode envolver cariótipo, genes, hormônios, gônadas e anatomia. Um teste isolado não resolve todas as apresentações nem determina identidade de gênero ou fertilidade.",
+      "sources": [
+        "pav-dsd-guidance"
+      ]
+    },
+    {
+      "cueStart": 3045,
+      "cueEnd": 3075,
+      "title": "Caso de banheiro na Insper demonstraria risco causado por pessoas trans",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "É necessário distinguir banheiro unissex, banheiro feminino e identidade do agressor no caso mencionado. O texto não apresenta registro que prove os detalhes ou permita uma inferência causal sobre toda uma população.",
+      "sources": []
+    },
+    {
+      "cueStart": 3101,
+      "cueEnd": 3110,
+      "title": "Hijras e identidade do imperador Heliogábalo",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Existem categorias de gênero específicas em culturas diferentes; equipará-las exige cuidado histórico. Relatos antigos hostis sobre um imperador não permitem diagnóstico ou identidade contemporânea com certeza. Não foi conferida a passagem histórica exata citada.",
+      "sources": []
+    },
+    {
+      "cueStart": 3165,
+      "cueEnd": 3223,
+      "title": "90% das preferências infantis por brinquedos seriam inatas",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica estudo, amostra, idade e desfecho que produziriam o percentual. Preferências medidas num ambiente social não isolam automaticamente componentes biológicos e culturais.",
+      "sources": []
+    },
+    {
+      "cueStart": 3240,
+      "cueEnd": 3255,
+      "title": "Relato de lesão num combate atribuído ao UFC",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificadas atleta, adversária, evento e data no trecho. A legenda traz FC, possível ruído de transcrição. Não se presume a luta de Fallon Fox ou qualquer outro episódio para preencher a referência; lesão isolada tampouco quantifica vantagem universal.",
+      "sources": []
+    },
+    {
+      "cueStart": 3287,
+      "cueEnd": 3312,
+      "title": "Edinanci Silva e suposta comprovação de produção de gametas",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Elegibilidade olímpica, variação do desenvolvimento sexual e fertilidade são questões diferentes. Sem documento médico divulgado legitimamente pela atleta, não se infere produção de gametas de nome, aparência ou participação esportiva.",
+      "sources": [
+        "pav-dsd-guidance"
+      ]
+    },
+    {
+      "cueStart": 3330,
+      "cueEnd": 3370,
+      "title": "Todos os estudos confirmariam uma única regra de gênero no esporte",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não se fornece revisão com critérios e modalidades que sustente a unanimidade. A política do COI documenta uma decisão regulatória; não é um inventário de toda a pesquisa nem apaga exceções que ela própria prevê.",
+      "sources": [
+        "pav-coi2026"
+      ]
+    },
+    {
+      "cueStart": 3370,
+      "cueEnd": 3400,
+      "title": "Medalha de Imane Khelif comprovaria produção de gametas masculinos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O resultado esportivo e os critérios de elegibilidade não constituem exame de fertilidade ou prontuário. A própria conversa corrige a cor da medalha; não se pontua como erro persistente uma autocorreção imediata.",
+      "sources": [
+        "pav-khelif",
+        "pav-dsd-guidance"
+      ]
+    },
+    {
+      "cueStart": 3420,
+      "cueEnd": 3440,
+      "title": "Nazistas atacaram o instituto de Magnus Hirschfeld em 1933",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O museu do Holocausto registra vandalização e fechamento do Instituto de Ciências Sexuais em maio de 1933. Isso não autentica toda teoria atual, mas confirma a repressão histórica mencionada.",
+      "sources": [
+        "pav-hirschfeld"
+      ]
+    },
+    {
+      "cueStart": 3456,
+      "cueEnd": 3485,
+      "title": "Tibira e ausência de divisão sexual antes da colonização",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O episódio histórico relatado precisa de fonte e tradução contextualizadas; mesmo um registro de execução não prova como todos os povos classificavam sexo e gênero. O superlativo primeiro indígena de toda a história não foi demonstrado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3505,
+      "cueEnd": 3520,
+      "title": "Uso de bloqueadores em crianças e adolescentes",
+      "speaker": "Abner Henrique",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O contexto é cuidado de gênero e é preciso distinguir criança de adolescente: pelo ECA, 13 anos é adolescência. A norma anterior admitia pesquisa de bloqueio a partir do estágio puberal Tanner 2, enquanto a Resolução 2.427/2025 impôs nova restrição, com liminares individuais. O uso por puberdade precoce central é outra indicação e não comprova por si tratamento de gênero em crianças.",
+      "sources": [
+        "pav-cfm2019",
+        "cfm",
+        "eca2025",
+        "pav-cfm-excecao"
+      ]
+    },
+    {
+      "cueStart": 3528,
+      "cueEnd": 3583,
+      "title": "Projeto de Pavanato trata de intervalo bíblico voluntário",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O PL 468/2025 propõe atividades bíblicas com adesão voluntária em intervalo. Apresentar um projeto não demonstra aprovação definitiva, e voluntariedade não resolve sozinha todas as questões constitucionais de sua execução.",
+      "sources": [
+        "pav-biblia"
+      ]
+    },
+    {
+      "cueStart": 3538,
+      "cueEnd": 3558,
+      "title": "Livros escolares sobre Umbanda e possível imposição de culto",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A conversa distingue conhecer mitologias e cantar pontos como culto, mas não identifica livro, escola e atividade concreta. A Lei 10.639 exige história e cultura afro-brasileira; não impõe conversão religiosa. Sem o material citado, não se conclui se houve ensino histórico ou prática devocional obrigatória.",
+      "sources": [
+        "pav-historiaafro",
+        "lua-cf"
+      ]
+    },
+    {
+      "cueStart": 3600,
+      "cueEnd": 3674,
+      "title": "Laicidade e preferências religiosas no currículo",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "É discussão normativa sobre a escola e a religião; não se mede a verdade de uma fé nem a dignidade de seus adeptos.",
+      "sources": []
+    },
+    {
+      "cueStart": 3675,
+      "cueEnd": 3705,
+      "title": "Justiça autorizou bloqueio hormonal em adolescente de 13 anos",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A JFSC publicou em 4/9 decisão liminar de 27/8/2026 para um adolescente de 13 anos, com acompanhamento no HC-USP. Foi afastada restrição da resolução no caso concreto; não se tratou de revogação geral pelo CFM.",
+      "sources": [
+        "pav-cfm-excecao"
+      ]
+    },
+    {
+      "cueStart": 3704,
+      "cueEnd": 3720,
+      "title": "89% de todas as crianças com disforia necessariamente deixam de tê-la",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica estudo ou definição diagnóstica que sustente esse percentual universal. Coortes antigas de encaminhamento não se transportam automaticamente para adolescentes contemporâneos, e orientação sexual não é o mesmo desfecho que identidade de gênero.",
+      "sources": [
+        "pav-bloqueadores"
+      ]
+    },
+    {
+      "cueStart": 3721,
+      "cueEnd": 3795,
+      "title": "Risco de esterilidade com bloqueio puberal",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O participante fala em possibilidade de esterilidade, sem afirmar inevitabilidade. A revisão sistemática encontra evidência limitada e inconsistente para efeitos de longo prazo, incluindo fertilidade. Isso não comprova segurança absoluta nem esterilidade inevitável. Dose, duração, indicação e uso posterior de hormônios importam; não se determina o desfecho de uma criança a distância.",
+      "sources": [
+        "pav-bloqueadores",
+        "pav-puberdade-precoce"
+      ]
+    },
+    {
+      "cueStart": 3826,
+      "cueEnd": 3838,
+      "title": "Zoofilia não ter nome próprio no Código significaria impunidade",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Maus-tratos e abuso contra animais já podem ser punidos pelo artigo 32 da Lei 9.605. Propor um tipo penal específico não significa que qualquer conduta anterior fosse lícita.",
+      "sources": [
+        "pav-ambiental"
+      ]
+    },
+    {
+      "cueStart": 3880,
+      "cueEnd": 3915,
+      "title": "Internação de adolescente pode durar no máximo três anos",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O ECA fixa limite de três anos para internação e liberação compulsória aos 21 anos. Isso não é pena criminal de adulto nem significa que todo caso gere três anos exatos ou que todo adolescente seja solto ao completar 18.",
+      "sources": [
+        "eca2025"
+      ]
+    },
+    {
+      "cueStart": 3886,
+      "cueEnd": 3905,
+      "title": "Adolescente que matou professora e outras três pessoas estaria solto",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Sem escola, data e processo, não foi possível identificar com segurança o caso. Não se presume que episódios distintos tenham o mesmo autor, número de vítimas ou situação atual.",
+      "sources": []
+    },
+    {
+      "cueStart": 3920,
+      "cueEnd": 3940,
+      "title": "Paraisópolis e responsabilidade policial por mortes específicas",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A conversa reúne episódios de anos distintos. É necessário distinguir o baile de 2019 da visita eleitoral de 2022 e apurar causa de morte, autor e decisão em cada caso; não se confirma um encadeamento por aproximação textual.",
+      "sources": []
+    },
+    {
+      "cueStart": 3940,
+      "cueEnd": 3960,
+      "title": "Menino de 13 anos em Sorocaba e avaliação da ação policial",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Sem conferência dos autos e laudo do episódio, não se estabelece necessidade e proporcionalidade de disparos apenas pela descrição no debate. Suposto ato infracional não extingue direitos ou resolve a legalidade da força.",
+      "sources": []
+    },
+    {
+      "cueStart": 3960,
+      "cueEnd": 3968,
+      "title": "PM faz policiamento ostensivo e Polícia Civil investiga",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O artigo 144 distingue policiamento ostensivo e preservação da ordem pública pelas polícias militares das funções de polícia judiciária e apuração de infrações pelas polícias civis, com exceções constitucionais. A previsão de melhor resolução após unificação é uma proposta, sem resultado causal demonstrado.",
+      "sources": [
+        "lua-cf144"
+      ]
+    },
+    {
+      "cueStart": 3976,
+      "cueEnd": 4000,
+      "title": "Policiais teriam se confundido e matado um colega em Heliópolis",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam data e identificação do caso para distinguir fogo amigo, emboscada e versões de investigação. Não se amplia uma ocorrência não identificada para todas as corporações.",
+      "sources": []
+    },
+    {
+      "cueStart": 4005,
+      "cueEnd": 4040,
+      "title": "GCM treinaria só uma vez por ano e emenda de R$ 6 milhões resolveria",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A regra de formação, execução do treinamento e autorização/execução de emenda são documentos distintos. Não foi identificado calendário e empenho que confirmem o quadro geral e o valor efetivamente aplicado.",
+      "sources": []
+    },
+    {
+      "cueStart": 4050,
+      "cueEnd": 4085,
+      "title": "Nos EUA não existiriam limites etários e juiz escolheria livremente",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Falso",
+      "explanation": "As leis estaduais fixam limites de jurisdição juvenil e hipóteses de transferência à justiça adulta. A ausência de idade mínima em alguns estados não elimina esses critérios nem dá discricionariedade ilimitada a todo juiz.",
+      "sources": [
+        "pav-eua-juvenil"
+      ]
+    },
+    {
+      "cueStart": 4110,
+      "cueEnd": 4118,
+      "title": "Legislação penal é competência privativa da União",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O artigo 22, I, da Constituição atribui à União o direito penal. O parágrafo único prevê delegação de questões específicas por lei complementar; autonomia estadual não autoriza qualquer mudança isolada de maioridade penal.",
+      "sources": [
+        "eco-cf22"
+      ]
+    },
+    {
+      "cueStart": 4143,
+      "cueEnd": 4145,
+      "title": "Só R$ 8 de cada R$ 100 arrecadados voltariam a São Paulo",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "É preciso identificar o levantamento e seu conceito de retorno. Transferências intergovernamentais não representam toda despesa federal no Estado, benefícios individuais ou serviços; não foi reproduzida a razão 8/100 para um período definido.",
+      "sources": []
+    },
+    {
+      "cueStart": 4152,
+      "cueEnd": 4153,
+      "title": "77 crianças e adolescentes mortos pela polícia em SP em 2024",
+      "speaker": "Abner Henrique",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "UNICEF e FBSP registram 77 vítimas de 10 a 19 anos em intervenções policiais no estado em 2024. O intervalo inclui 18 e 19 anos, adultos pelo ECA; idade por si não determina se cada morte foi legal ou decorrente de bala perdida.",
+      "sources": [
+        "pav-policia77"
+      ]
+    },
+    {
+      "cueStart": 4160,
+      "cueEnd": 4190,
+      "title": "Não haveria adolescente armado e toda vítima seria ou não criminosa",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Uma generalização sobre todas as ocorrências não é demonstrada pela idade das vítimas. Existência de arma, ação individual e licitude do uso da força precisam ser apuradas por caso; não se presume culpa ou inocência pelo grupo etário.",
+      "sources": []
+    },
+    {
+      "cueStart": 4217,
+      "cueEnd": 4240,
+      "title": "Autores do massacre de Suzano teriam sido presos e continuariam vivos",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "Os dois autores do ataque de 2019, de 17 e 25 anos, morreram no episódio. O processo posterior de um terceiro acusado não os transforma em presos vivos; é necessário distinguir participantes.",
+      "sources": [
+        "pav-suzano"
+      ]
+    },
+    {
+      "cueStart": 4272,
+      "cueEnd": 4276,
+      "title": "Brasil tem uma das maiores populações prisionais absolutas",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O World Prison Brief coloca o Brasil entre as três maiores populações prisionais absolutas. Contagem absoluta não é taxa de encarceramento por habitante nem comprova eficácia causal de toda política penal.",
+      "sources": [
+        "pav-prison"
+      ]
+    },
+    {
+      "cueStart": 4277,
+      "cueEnd": 4283,
+      "title": "Mais de 200 mil presos seriam provisórios",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O estudo de 2025 do ICPR apresenta 214.447 presos provisórios no corte de 2024, superior a 200 mil. O dado não mede culpa e não deve ser confundido com todos os mandados em aberto ou com uma atualização diária na data do debate.",
+      "sources": [
+        "pav-prison2024"
+      ]
+    },
+    {
+      "cueStart": 4284,
+      "cueEnd": 4300,
+      "title": "Trinta mil condenados por homicídio estariam livres",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Mandados em aberto, pessoas procuradas, condenações e prisões preventivas têm universos diferentes. Não foi identificado levantamento que confirme a cifra com a definição usada; mandado não é automaticamente condenação definitiva.",
+      "sources": []
+    },
+    {
+      "cueStart": 4307,
+      "cueEnd": 4405,
+      "title": "Políticas sociais, vulnerabilidade feminina e prevenção do crime",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Defesa de prioridades e mecanismos de política pública. A conversa não oferece estimativa causal delimitada que permita pontuar a eficácia de cada proposta.",
+      "sources": []
+    },
+    {
+      "cueStart": 4406,
+      "cueEnd": 4421,
+      "title": "Maioria de todos os crimes seria cometida por reincidentes",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não há definição de crime, reincidência, território e período na fala. Reentrada em prisão e reincidência legal são medidas diferentes e não cobrem todos os crimes não elucidados.",
+      "sources": []
+    },
+    {
+      "cueStart": 4422,
+      "cueEnd": 4431,
+      "title": "Texas seria um dos estados mais seguros e Califórnia um dos piores",
+      "speaker": "Lucas Pavanato",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A tabela oficial de crimes conhecidos distingue taxas por modalidade e estados; o Texas não ocupa o conjunto de menores taxas de violência. Escolher exemplos não demonstra que leniência, sozinha, cause o ranking; segurança exige indicador e ano comuns.",
+      "sources": [
+        "pav-crimeeua"
+      ]
+    },
+    {
+      "cueStart": 4435,
+      "cueEnd": 4443,
+      "title": "Pobreza aumentou em El Salvador durante Bukele",
+      "speaker": "Abner Henrique",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não fixa série, linha de pobreza e anos. Segurança, renda e pobreza são dimensões distintas; não se confirmou uma tendência única e contínua para todo o mandato.",
+      "sources": [
+        "pav-gangs"
+      ]
+    },
+    {
+      "cueStart": 4457,
+      "cueEnd": 4465,
+      "title": "Governo Bukele negociou com a MS-13",
+      "speaker": "Abner Henrique",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O CRS registra acusações e sanções americanas de 2021 contra dois funcionários do governo por negociações secretas com a gangue. É evidência documental sobre essas autoridades, não condenação criminal pessoal de Bukele nem prova automática de toda reportagem mencionada.",
+      "sources": [
+        "pav-gangs"
+      ]
+    },
+    {
+      "cueStart": 4475,
+      "cueEnd": 4505,
+      "title": "El Salvador seria mais seguro que a Inglaterra e exemplo único",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "É necessário comparar taxas por população, ano, definição de homicídio e cobertura, não só número absoluto. Redução de homicídios registrados não determina todas as dimensões de segurança ou resolve alegações sobre detenções arbitrárias.",
+      "sources": [
+        "pav-gangs"
+      ]
+    },
+    {
+      "cueStart": 4530,
+      "cueEnd": 4545,
+      "title": "Acordos de paz na Colômbia provariam sucesso ou fracasso de toda política",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "É interpretação causal e comparação de modelos. Um acordo não equivale a cessação de todos os conflitos, nem permite prever automaticamente o resultado de outra política.",
+      "sources": []
+    },
+    {
+      "cueStart": 4546,
+      "cueEnd": 4565,
+      "title": "Mercados públicos de Mamdani já teriam reduzido o crime em Nova York",
+      "speaker": "Abner Henrique",
+      "verdict": "Falso",
+      "explanation": "A prefeitura anunciou os mercados municipais para começar a abrir no fim de 2027. Emsetembrode 2026 não se podia atribuir uma queda já observada da criminalidade a lojas que ainda não operavam. Anúncio e resultado são distintos.",
+      "sources": [
+        "pav-mamdani"
+      ]
+    },
+    {
+      "cueStart": 4566,
+      "cueEnd": 4595,
+      "title": "Desemprego, fuga de empresas e gratuidades em Nova York",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A conversa não fornece uma série e uma data de início homogêneas. Anúncios, pilotos de transporte e medidas estaduais não equivalem a gratuidade universal nem demonstram efeito líquido do novo prefeito.",
+      "sources": []
+    },
+    {
+      "cueStart": 4607,
+      "cueEnd": 4634,
+      "title": "80% dos presos paulistas estariam presos por crimes famélicos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Tipificações como tráfico, roubo e furto não demonstram automaticamente fome ou estado de necessidade. Sem base, data e critérios individuais, não se comprova o percentual nem a motivação de todos os crimes.",
+      "sources": []
+    },
+    {
+      "cueStart": 4635,
+      "cueEnd": 4682,
+      "title": "Notícia de adolescente armado comprovaria toda ação policial",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Uma notícia e a versão inicial da polícia não substituem prova e decisão de cada ocorrência. A presença de arma não autoriza inferência de legalidade universal da força letal.",
+      "sources": []
+    },
+    {
+      "cueStart": 4683,
+      "cueEnd": 4725,
+      "title": "Operação no Rio e intenção política de quem protesta",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O episódio não é delimitado com data e autos; atribuir intenção eleitoral a todos os críticos é inferência sobre motivações, não conclusão demonstrada pelas mortes ou por uma declaração isolada.",
+      "sources": []
+    },
+    {
+      "cueStart": 4726,
+      "cueEnd": 4765,
+      "title": "Encerramento, agradecimentos e pedido de voto",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Propaganda eleitoral, expectativas e despedida sem fato novo de resultado a pontuar.",
+      "sources": []
+    }
+  ]
+}

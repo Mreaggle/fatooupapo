@@ -1,0 +1,57 @@
+{
+  "sourceCatalogCount": 147,
+  "reviewedAt": "2026-10-30T15:03:05.538Z",
+  "rows": [
+    {
+      "videoId": "9P1Lqrt_j2M",
+      "reviewedAt": "2026-10-30T15:03:05.538Z",
+      "entries": 98,
+      "publishedClaims": 85,
+      "excluded": 13,
+      "cues": 3230,
+      "sources": 40,
+      "verdicts": {
+        "Inconclusivo": 36,
+        "Impreciso ou fora de contexto": 19,
+        "Majoritariamente verdadeiro": 18,
+        "Falso": 2,
+        "Verdadeiro": 10
+      },
+      "contractValidation": "passed"
+    },
+    {
+      "videoId": "-2kJfglKuY8",
+      "reviewedAt": "2026-10-30T15:03:05.538Z",
+      "entries": 92,
+      "publishedClaims": 82,
+      "excluded": 10,
+      "cues": 1414,
+      "sources": 39,
+      "verdicts": {
+        "Inconclusivo": 41,
+        "Impreciso ou fora de contexto": 16,
+        "Majoritariamente verdadeiro": 9,
+        "Verdadeiro": 11,
+        "Falso": 5
+      },
+      "contractValidation": "passed"
+    },
+    {
+      "videoId": "y-KdHRZ9Ggo",
+      "reviewedAt": "2026-10-30T15:03:05.538Z",
+      "entries": 148,
+      "publishedClaims": 136,
+      "excluded": 12,
+      "cues": 3713,
+      "sources": 81,
+      "verdicts": {
+        "Verdadeiro": 13,
+        "Inconclusivo": 75,
+        "Impreciso ou fora de contexto": 21,
+        "Majoritariamente verdadeiro": 20,
+        "Falso": 7
+      },
+      "contractValidation": "passed"
+    }
+  ]
+}

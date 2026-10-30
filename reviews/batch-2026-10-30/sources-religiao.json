@@ -1,0 +1,887 @@
+{
+  "rel-acts1": {
+    "title": "Atos 1 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ACT01.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-acts2": {
+    "title": "Atos 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ACT02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-acts15": {
+    "title": "Atos 15 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ACT15.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gal2": {
+    "title": "Gálatas 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GAL02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-eph4": {
+    "title": "Efésios 4 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/EPH04.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-eph2": {
+    "title": "Efésios 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/EPH02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-pet2": {
+    "title": "1 Pedro 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/1PE02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mat18": {
+    "title": "Mateus 18 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MAT18.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mat16": {
+    "title": "Mateus 16 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MAT16.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-rom1": {
+    "title": "Romanos 1 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ROM01.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-rom3": {
+    "title": "Romanos 3 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ROM03.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-rev21": {
+    "title": "Apocalipse 21 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/REV21.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-phil2": {
+    "title": "Filipenses 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/PHP02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-titus3": {
+    "title": "Tito 3 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/TIT03.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-james2": {
+    "title": "Tiago 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JAS02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-john3": {
+    "title": "João 3 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JHN03.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mark16": {
+    "title": "Marcos 16 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MRK16.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-luke1": {
+    "title": "Lucas 1 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LUK01.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen2": {
+    "title": "Gênesis 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen3": {
+    "title": "Gênesis 3 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN03.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-luke22": {
+    "title": "Lucas 22 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LUK22.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-john19": {
+    "title": "João 19 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JHN19.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-ex20": {
+    "title": "Êxodo 20 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/EXO20.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-2chron33": {
+    "title": "2 Crônicas 33 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/2CH33.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-2kings21": {
+    "title": "2 Reis 21 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/2KI21.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-ex25": {
+    "title": "Êxodo 25 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/EXO25.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-2sam6": {
+    "title": "2 Samuel 6 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/2SA06.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-ex26": {
+    "title": "Êxodo 26 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/EXO26.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mark2": {
+    "title": "Marcos 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MRK02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mat9": {
+    "title": "Mateus 9 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MAT09.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-john20": {
+    "title": "João 20 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JHN20.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-1cor11": {
+    "title": "1 Coríntios 11 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/1CO11.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-john6": {
+    "title": "João 6 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JHN06.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mat8": {
+    "title": "Mateus 8 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MAT08.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-luke13": {
+    "title": "Lucas 13 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LUK13.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-num23": {
+    "title": "Números 23 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/NUM23.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-hos11": {
+    "title": "Oseias 11 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/HOS11.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-deut4": {
+    "title": "Deuteronômio 4 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/DEU04.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen17": {
+    "title": "Gênesis 17 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN17.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen12": {
+    "title": "Gênesis 12 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN12.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen29": {
+    "title": "Gênesis 29 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN29.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen30": {
+    "title": "Gênesis 30 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN30.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-isa56": {
+    "title": "Isaías 56 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ISA56.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-ex6": {
+    "title": "Êxodo 6 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/EXO06.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen15": {
+    "title": "Gênesis 15 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN15.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-dan9": {
+    "title": "Daniel 9 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/DAN09.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-isa45": {
+    "title": "Isaías 45 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ISA45.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-isa44": {
+    "title": "Isaías 44 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ISA44.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-lev16": {
+    "title": "Levítico 16 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LEV16.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-ex28": {
+    "title": "Êxodo 28 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/EXO28.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-lev25": {
+    "title": "Levítico 25 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LEV25.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-lev17": {
+    "title": "Levítico 17 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LEV17.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-lev5": {
+    "title": "Levítico 5 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LEV05.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-john1": {
+    "title": "João 1 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JHN01.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-2kings22": {
+    "title": "2 Reis 22 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/2KI22.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-jer36": {
+    "title": "Jeremias 36 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JER36.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-john14": {
+    "title": "João 14 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JHN14.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mat5": {
+    "title": "Mateus 5 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MAT05.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-col2": {
+    "title": "Colossenses 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/COL02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mal3": {
+    "title": "Malaquias 3 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MAL03.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-jer31": {
+    "title": "Jeremias 31 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JER31.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-jer38": {
+    "title": "Jeremias 38 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JER38.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mat1": {
+    "title": "Mateus 1 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MAT01.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-luke3": {
+    "title": "Lucas 3 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LUK03.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-luke2": {
+    "title": "Lucas 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LUK02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-lev12": {
+    "title": "Levítico 12 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/LEV12.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-heb7": {
+    "title": "Hebreus 7 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/HEB07.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-jer22": {
+    "title": "Jeremias 22 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/JER22.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-acts10": {
+    "title": "Atos 10 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ACT10.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-acts11": {
+    "title": "Atos 11 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ACT11.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-1kings19": {
+    "title": "1 Reis 19 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/1KI19.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-ruth4": {
+    "title": "Rute 4 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/RUT04.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-dan12": {
+    "title": "Daniel 12 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/DAN12.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-acts23": {
+    "title": "Atos 23 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/ACT23.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-num21": {
+    "title": "Números 21 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/NUM21.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen1": {
+    "title": "Gênesis 1 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN01.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-gen11": {
+    "title": "Gênesis 11 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/GEN11.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-mat28": {
+    "title": "Mateus 28 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/MAT28.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-titus2": {
+    "title": "Tito 2 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/TIT02.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-deut24": {
+    "title": "Deuteronômio 24 — texto bíblico (World English Bible)",
+    "url": "https://ebible.org/eng-web/DEU24.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-dei-verbum": {
+    "title": "Dei Verbum, §§9–10",
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-humani": {
+    "title": "Humani Generis, §§36–37 (1950)",
+    "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-jpii-evol": {
+    "title": "Mensagem de João Paulo II à Academia de Ciências, 22/10/1996",
+    "url": "https://www.pas.va/en/magisterium/saint-john-paul-ii/1996-22-october.html",
+    "publisher": "Pontifícia Academia das Ciências"
+  },
+  "rel-francis-evol": {
+    "title": "Discurso de Francisco à Academia de Ciências, 27/10/2014",
+    "url": "https://www.vatican.va/content/francesco/en/speeches/2014/october/documents/papa-francesco_20141027_plenaria-accademia-scienze.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-unitatis": {
+    "title": "Unitatis Redintegratio (1964)",
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-chieti": {
+    "title": "Documento conjunto de Chieti: sinodalidade e primado no primeiro milênio (2016)",
+    "url": "https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/testo-in-inglese1.html",
+    "publisher": "Comissão Internacional de Diálogo Católico-Ortodoxo"
+  },
+  "rel-pastor-aeternus": {
+    "title": "Pastor Aeternus (18/07/1870)",
+    "url": "https://www.vatican.va/content/pius-ix/it/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-sacraments": {
+    "title": "Catecismo, §§1113–1134: os sete sacramentos",
+    "url": "https://www.vatican.va/archive/catechism_sp/p2s1c1a2_sp.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-sacrament-salvation": {
+    "title": "Catecismo, §§1127–1129: sacramentos e salvação",
+    "url": "https://www.vatican.va/archive/ENG0015/__P33.HTM",
+    "publisher": "Santa Sé"
+  },
+  "rel-baptism-desire": {
+    "title": "Catecismo, §§1257–1261: necessidade do batismo",
+    "url": "https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vi_the_necessity_of_baptism.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-mary-cult": {
+    "title": "Catecismo, §§963–975: Maria e seu culto",
+    "url": "https://www.vatican.va/archive/ENG0015/__P2C.HTM",
+    "publisher": "Santa Sé"
+  },
+  "rel-eucharist": {
+    "title": "Catecismo, §§1356–1381: sacrifício, presença e transubstanciação",
+    "url": "https://www.vatican.va/archive/ENG0015/__P41.HTM",
+    "publisher": "Santa Sé"
+  },
+  "rel-eucharist-sacrifice": {
+    "title": "Catecismo, §1367: sacrifício único de Cristo",
+    "url": "https://www.vatican.va/archive/ENG0015/__P41.HTM",
+    "publisher": "Santa Sé"
+  },
+  "rel-capital-sins": {
+    "title": "Catecismo, §1866: pecados capitais",
+    "url": "https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_8/v_the_proliferation_of_sin.index.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-canon868": {
+    "title": "Código de Direito Canônico, cân. 868: batismo infantil",
+    "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann834-878_en.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-canonization": {
+    "title": "Paul Pallath: Evolution of the Special Law on Canonization (2021)",
+    "url": "https://www.causesanti.va/content/dam/causesanti/interventi-e-articoli/Paul-Pallath---Evolution-of-the-Special-Law-on-Canonization-Especially-after-the-Second-Va.pdf",
+    "publisher": "Dicastério das Causas dos Santos"
+  },
+  "rel-irenaeus3": {
+    "title": "Irineu, Contra as heresias III.3",
+    "url": "https://www.newadvent.org/fathers/0103303.htm",
+    "publisher": "New Advent — tradução de fonte patrística"
+  },
+  "rel-ignatius-rom": {
+    "title": "Inácio de Antioquia, Epístola aos Romanos",
+    "url": "https://www.newadvent.org/fathers/0107.htm",
+    "publisher": "New Advent — tradução de fonte patrística"
+  },
+  "rel-oriental": {
+    "title": "Perfil institucional: Igrejas Ortodoxas Orientais",
+    "url": "https://www.oikoumene.org/church-families/orthodox-churches-oriental",
+    "publisher": "Conselho Mundial de Igrejas"
+  },
+  "rel-westminster": {
+    "title": "Confissão de Westminster, cap. I: cânone bíblico",
+    "url": "https://opc.org/WCF-WIP.html",
+    "publisher": "Orthodox Presbyterian Church"
+  },
+  "rel-jddj": {
+    "title": "Declaração Conjunta sobre a Doutrina da Justificação (1999)",
+    "url": "https://lutheranworld.org/sites/default/files/2022-02/joint_declaration_2019_en.pdf",
+    "publisher": "Federação Luterana Mundial"
+  },
+  "rel-augsburg6": {
+    "title": "Confissão de Augsburgo, art. VI: nova obediência",
+    "url": "https://bookofconcord.org/augsburg-confession/of-new-obedience/",
+    "publisher": "Book of Concord — texto confessional"
+  },
+  "rel-augsburg9": {
+    "title": "Confissão de Augsburgo, art. IX: batismo",
+    "url": "https://bookofconcord.org/augsburg-confession/of-baptism/",
+    "publisher": "Book of Concord — texto confessional"
+  },
+  "rel-augsburg5": {
+    "title": "Confissão de Augsburgo, art. V: ministério",
+    "url": "https://bookofconcord.org/augsburg-confession/of-the-ministry/",
+    "publisher": "Book of Concord — texto confessional"
+  },
+  "rel-anglican25": {
+    "title": "Trinta e Nove Artigos, XXV: sacramentos",
+    "url": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+    "publisher": "Church of England"
+  },
+  "rel-anglican-ordinal": {
+    "title": "Cânones A3–A4: bispos, presbíteros e diáconos",
+    "url": "https://www.churchofengland.org/about/leadership-and-governance/legal-services/canons-church-england/section",
+    "publisher": "Church of England"
+  },
+  "rel-orange": {
+    "title": "Segundo Concílio de Orange (529): texto dos cânones",
+    "url": "https://www.ewtn.com/catholicism/library/local-council-history-and-text-1472",
+    "publisher": "EWTN — transcrição do documento conciliar"
+  },
+  "rel-trent6": {
+    "title": "Concílio de Trento, sessão VI: justificação",
+    "url": "https://history.hanover.edu/texts/trent/ct06.html",
+    "publisher": "Hanover College — documento histórico"
+  },
+  "rel-jamnia": {
+    "title": "Albert Sundberg: The Old Testament of the Early Church Revisited",
+    "url": "https://department.monm.edu/classics/Speel_Festschrift/sundbergJr.htm",
+    "publisher": "Monmouth College — artigo acadêmico"
+  },
+  "rel-masterman": {
+    "title": "Margaret Masterman: The Nature of a Paradigm (1970)",
+    "url": "https://www.cambridge.org/core/books/abs/criticism-and-the-growth-of-knowledge/nature-of-a-paradigm/012EA1E6BA81DECB838CC6B2801DC678",
+    "publisher": "Cambridge University Press"
+  },
+  "rel-molina": {
+    "title": "Luís de Molina e a Concordia (1588)",
+    "url": "https://www.vatican.va/jubilee_2000/pilgrim/documents/ju_gp_01072000-6_it.html",
+    "publisher": "Santa Sé — Comitê do Jubileu"
+  },
+  "rel-lifeway": {
+    "title": "The Way Forward: Insights Report — pesquisa sobre abandono da frequência religiosa",
+    "url": "https://research.lifeway.com/wp-content/uploads/2025/04/The-Way-Forward-Insights-Report.pdf",
+    "publisher": "Lifeway Research"
+  },
+  "rel-ibge-religion": {
+    "title": "Censo 2022: religiões, divulgação em junho de 2025",
+    "url": "https://educa.ibge.gov.br/jovens/materias-especiais/22703-censo-2022-numero-de-catolicos-no-brasil-em-queda.html",
+    "publisher": "IBGE Educa"
+  },
+  "rel-eruvin18": {
+    "title": "Talmude Babilônico, Eruvin 18b:13–14",
+    "url": "https://www.sefaria.org/Eruvin.18b.13?lang=bi",
+    "publisher": "Sefaria"
+  },
+  "rel-sanhedrin56": {
+    "title": "Talmude Babilônico, Sanhedrin 56a:24: sete preceitos",
+    "url": "https://www.sefaria.org/Sanhedrin.56a.24?lang=bi",
+    "publisher": "Sefaria"
+  },
+  "rel-makkot23": {
+    "title": "Talmude Babilônico, Makkot 23b:18: 613 mandamentos",
+    "url": "https://www.sefaria.org/Makkot.23b.18?lang=bi",
+    "publisher": "Sefaria"
+  },
+  "rel-maimonides-kings11": {
+    "title": "Maimônides, Mishneh Torah, Reis e Guerras 11",
+    "url": "https://www.sefaria.org/Mishneh_Torah,_Kings_and_Wars.11?lang=bi",
+    "publisher": "Sefaria"
+  },
+  "rel-maimonides-teshuva1": {
+    "title": "Maimônides, Mishneh Torah, Arrependimento 1",
+    "url": "https://www.sefaria.org/Mishneh_Torah,_Repentance.1?lang=bi",
+    "publisher": "Sefaria"
+  },
+  "rel-avodah10": {
+    "title": "Talmude Babilônico, Avodah Zarah 10b: Antonino e Rabi Judá",
+    "url": "https://www.sefaria.org/Avodah_Zarah.10b?lang=bi",
+    "publisher": "Sefaria"
+  },
+  "rel-maimonides-sanhedrin": {
+    "title": "Maimônides: treze princípios e ressurreição dos mortos",
+    "url": "https://sourcebooks.web.fordham.edu/source/rambam13.asp",
+    "publisher": "Fordham University — Medieval Sourcebook"
+  },
+  "rel-jewish-calendar": {
+    "title": "A duração dos anos do calendário judaico",
+    "url": "https://www.chabad.org/library/article_cdo/aid/526875/jewish/The-Jewish-Calendar-Year.htm",
+    "publisher": "Chabad.org"
+  },
+  "rel-israel-religious-freedom": {
+    "title": "International Religious Freedom Report 2023: Israel (27/06/2024)",
+    "url": "https://www.ecoi.net/en/document/2111884.html",
+    "publisher": "Departamento de Estado dos EUA — reprodução em ecoi.net"
+  },
+  "rel-recife-synagogue": {
+    "title": "Museu Sinagoga Kahal Zur Israel: cadastro institucional",
+    "url": "https://cadastro.museus.gov.br/museus/centro-cultural-judaico-de-pernambuco-museu-sinagoga-kahal-zur-israel/",
+    "publisher": "Instituto Brasileiro de Museus"
+  },
+  "rel-loc-newyork": {
+    "title": "From Haven to Home: refugiados judeus em Nova Amsterdã, 1654",
+    "url": "https://www.loc.gov/exhibits/haventohome/haven-haven.html",
+    "publisher": "Library of Congress"
+  },
+  "rel-bibleviz": {
+    "title": "Bible Cross-References: visualização e origem dos 63.779 vínculos",
+    "url": "https://www.chrisharrison.net/index.php/Visualizations/BibleViz",
+    "publisher": "Chris Harrison — autor da visualização"
+  },
+  "rel-codex-bezae": {
+    "title": "Codex Bezae: texto e história do manuscrito",
+    "url": "https://exhibitions.lib.cam.ac.uk/linesofthought/artifacts/codex-bezae/",
+    "publisher": "Cambridge University Library"
+  },
+  "rel-yemenite-scrolls": {
+    "title": "Diferenças de letras em rolos da Torá iemenitas: resposta de Ari Shvat",
+    "url": "https://www.yeshiva.co/ask/7214",
+    "publisher": "Yeshiva.co — responsum rabínico"
+  },
+  "rel-ephraemi": {
+    "title": "Codex Ephraemi Rescriptus: manuscrito palimpsesto",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb16078783t",
+    "publisher": "Bibliothèque nationale de France"
+  },
+  "rel-palimpsest": {
+    "title": "Manuscripts 101: What is a Palimpsest? (2023)",
+    "url": "https://www.csntm.org/2023/11/29/manuscripts-101-what-is-a-palimpsest/",
+    "publisher": "Center for the Study of New Testament Manuscripts"
+  },
+  "rel-barcelona": {
+    "title": "Disputation of Barcelona, 1263: documentos e contexto",
+    "url": "https://laits.utexas.edu/bodian/me-disputationBarcelona.html",
+    "publisher": "University of Texas at Austin — Miriam Bodian"
+  },
+  "rel-mesopotamia-religion": {
+    "title": "Mesopotamian Deities (2009)",
+    "url": "https://www.metmuseum.org/essays/mesopotamian-deities",
+    "publisher": "Metropolitan Museum of Art"
+  },
+  "rel-egypt-religion": {
+    "title": "Religion and gods in ancient Egypt",
+    "url": "https://australian.museum/learn/cultures/international-collection/ancient-egyptian/religion-and-gods-in-ancient-egypt/",
+    "publisher": "Australian Museum"
+  },
+  "rel-canon": {
+    "title": "Catecismo, §120: cânone de 46 livros e 27 livros",
+    "url": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html",
+    "publisher": "Santa Sé"
+  },
+  "rel-canon-history": {
+    "title": "Eusébio, História Eclesiástica III.25: livros reconhecidos e disputados",
+    "url": "https://www.newadvent.org/fathers/250103.htm",
+    "publisher": "New Advent — tradução de fonte patrística"
+  },
+  "rel-chalcedon": {
+    "title": "Definição de fé do Concílio de Calcedônia (451)",
+    "url": "https://www.newadvent.org/fathers/3811.htm",
+    "publisher": "New Advent — documento conciliar"
+  },
+  "rel-chapters": {
+    "title": "H. A. G. Houghton, The Latin New Testament: divisões em capítulos",
+    "url": "https://academic.oup.com/book/12425/chapter/162893730",
+    "publisher": "Oxford University Press — pesquisa acadêmica"
+  },
+  "rel-dss-daniel": {
+    "title": "An Eye for Form: Epigraphic Essays in Honor of Ada Yardeni, p. 346, fig. 4 (4Q114)",
+    "url": "https://lisa.biu.ac.il/sites/lisa/files/shared/an_eye_for_form-epigraphy.pdf",
+    "publisher": "Eisenbrauns — cópia acadêmica na Bar-Ilan University"
+  },
+  "rel-elohim": {
+    "title": "Brown–Driver–Briggs: verbete אֱלֹהִים, substantivo masculino plural",
+    "url": "https://biblehub.com/hebrew/430.htm",
+    "publisher": "Bible Hub — reprodução de léxico hebraico"
+  },
+  "rel-exousia": {
+    "title": "Thayer e Strong: exousia, autoridade, poder e permissão",
+    "url": "https://biblehub.com/greek/1849.htm",
+    "publisher": "Bible Hub — reprodução de léxicos gregos"
+  },
+  "rel-ruach": {
+    "title": "Brown–Driver–Briggs: verbete רוּחַ, vento, sopro e espírito",
+    "url": "https://biblehub.com/hebrew/7307.htm",
+    "publisher": "Bible Hub — reprodução de léxico hebraico"
+  },
+  "rel-ibge2010": {
+    "title": "Censo 2010: católicos, evangélicos e pessoas sem religião",
+    "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14244-asi-censo-2010-numero-de-catolicos-cai-e-aumenta-o-de-evangelicos-espiritas-e-sem-religiao",
+    "publisher": "IBGE — divulgação de 29/06/2012"
+  },
+  "rel-intf": {
+    "title": "NT Virtual Manuscript Room: catálogo e consulta de variantes",
+    "url": "https://ntvmr.uni-muenster.de/liste",
+    "publisher": "Institut für neutestamentliche Textforschung / Universität Münster"
+  },
+  "rel-isaiah-contents": {
+    "title": "Isaías: índice de 66 capítulos",
+    "url": "https://ebible.org/eng-web/ISA.htm",
+    "publisher": "World English Bible / eBible.org"
+  },
+  "rel-josephus13": {
+    "title": "Flávio Josefo, Antiguidades Judaicas XIII.9.1",
+    "url": "https://penelope.uchicago.edu/Josephus/ant-13.html",
+    "publisher": "LacusCurtius / University of Chicago — texto primário"
+  },
+  "rel-josephus18": {
+    "title": "Flávio Josefo, Antiguidades Judaicas XVIII.1.4",
+    "url": "https://www.ccel.org/j/josephus/works/ant-18.htm",
+    "publisher": "Christian Classics Ethereal Library — texto primário"
+  },
+  "rel-karaites": {
+    "title": "Karaism: origem e relação com a tradição rabínica",
+    "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-judaism/karaism/077F828667CD84E4EC15D751C4610048",
+    "publisher": "The Cambridge History of Judaism — pesquisa acadêmica"
+  },
+  "rel-luther-sin": {
+    "title": "Lutero a Melanchthon, carta nº99, 01/08/1521",
+    "url": "https://www.projectwittenberg.org/pub/resources/text/wittenberg/luther/letsinsbe.txt",
+    "publisher": "Project Wittenberg — tradução de documento primário"
+  },
+  "rel-mishnah-history": {
+    "title": "Lawrence Schiffman: Tannaitic Literature, circa 70–3rd century CE",
+    "url": "https://cojs.org/Tannaitic_Literature_-circa_70-3rd_century_CE/",
+    "publisher": "Center for Online Judaic Studies — pesquisa acadêmica"
+  },
+  "rel-nineveh": {
+    "title": "Nínive, a última capital assíria",
+    "url": "https://archeologie.culture.gouv.fr/khorsabad/en/nineveh-0",
+    "publisher": "Ministère de la Culture / British Museum"
+  },
+  "rel-nt-dates": {
+    "title": "Dale B. Martin, Lecture 2: From Stories to Canon",
+    "url": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-2",
+    "publisher": "Open Yale Courses"
+  },
+  "rel-pardon2000": {
+    "title": "Dia do Perdão: confissão de culpas em relação a Israel (12/03/2000)",
+    "url": "https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20000312_prayer-day-pardon_sp.html",
+    "publisher": "Santa Sé — texto litúrgico"
+  },
+  "rel-sacrament-history": {
+    "title": "Thomas M. Finn: The Sacramental World in the Sentences of Peter Lombard (2008)",
+    "url": "https://theologicalstudies.net/wp-content/uploads/2022/08/69.3.4.pdf",
+    "publisher": "Theological Studies — artigo acadêmico"
+  },
+  "rel-schafer": {
+    "title": "Peter Schäfer: Jesus in the Talmud, introdução (2007)",
+    "url": "https://assets.press.princeton.edu/chapters/i8383.pdf",
+    "publisher": "Princeton University Press"
+  },
+  "rel-temple-history": {
+    "title": "Imagining Jerusalem: história dos templos",
+    "url": "https://exhibits.uflib.ufl.edu/imaginingjerusalem/temple.html",
+    "publisher": "University of Florida Libraries"
+  },
+  "rel-tertullian-praxeas": {
+    "title": "Tertuliano, Contra Práxeas, cap. 2",
+    "url": "https://www.newadvent.org/fathers/0317.htm",
+    "publisher": "New Advent — tradução de fonte patrística"
+  },
+  "rel-unitarian": {
+    "title": "Declaração de crenças de cristãos unitários bíblicos",
+    "url": "https://www.biblicalunitarian.com/articles/what-do-biblical-unitarians-believe",
+    "publisher": "BiblicalUnitarian.com — autodescrição confessional"
+  },
+  "rel-we-remember": {
+    "title": "We Remember: A Reflection on the Shoah (16/03/1998)",
+    "url": "https://www.christianunity.va/content/unitacristiani/it/commissione-per-i-rapporti-religiosi-con-l-ebraismo/commissione-per-i-rapporti-religiosi-con-l-ebraismo-crre/documenti-della-commissione/-noi-ricordiamo--una-riflessione-sulla-shoah---1998-/en.html",
+    "publisher": "Comissão da Santa Sé para as Relações Religiosas com o Judaísmo"
+  },
+  "rel-antisemitism-history": {
+    "title": "Antisemitism in History: From the Early Church to 1400",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/antisemitism-in-history-from-the-early-church-to-1400",
+    "publisher": "United States Holocaust Memorial Museum"
+  },
+  "rel-bar-kokhba": {
+    "title": "Peso oficial da revolta de Bar Kokhba, 132–135 EC",
+    "url": "https://www.imj.org.il/en/exhibitions/bar-kokhba-official-lead-weight",
+    "publisher": "Israel Museum"
+  },
+  "rel-adoption-tribe": {
+    "title": "Adoção e estatuto sacerdotal: comentário rabínico (2013)",
+    "url": "https://a-r-k.de/kommentar/40/",
+    "publisher": "Allgemeine Rabbinerkonferenz Deutschland"
+  },
+  "rel-anderson": {
+    "title": "Robert Anderson, The Coming Prince: cálculo profético proposto pelo autor",
+    "url": "https://www.minaschurch.org/wp-content/uploads/files/The_Coming_Prince-Anderson.pdf",
+    "publisher": "Reprodução integral de obra primária em domínio público"
+  },
+  "rel-jerome": {
+    "title": "Jerônimo, Prólogo aos livros de Samuel e Reis",
+    "url": "https://www.roger-pearse.com/tertullian/fathers/jerome_preface_kings.htm",
+    "publisher": "Roger Pearse / Kevin Edgecomb — tradução de texto patrístico"
+  },
+  "rel-luther-james": {
+    "title": "Cameron MacKenzie: Lutero e seu Novo Testamento de setembro de 1522 (2023)",
+    "url": "https://ctsfw.net/media/pdfs/MacKenzieLuthersSeptemberNewTestamentof1522.pdf",
+    "publisher": "Concordia Theological Quarterly — estudo histórico com documentos originais"
+  },
+  "rel-nazareth": {
+    "title": "Steve Moyise: The Old Testament in the New: An Introduction — prévia editorial",
+    "url": "https://api.pageplace.de/preview/DT0400.9780567656353_A25038096/preview-9780567656353_A25038096.pdf",
+    "publisher": "Bloomsbury / T&T Clark — pesquisa acadêmica"
+  },
+  "rel-tanakh": {
+    "title": "Talmude Babilônico, Bava Batra 14b: ordem dos livros bíblicos",
+    "url": "https://www.sefaria.org/Bava_Batra.14b?lang=bi",
+    "publisher": "Sefaria"
+  },
+  "rel-tortosa": {
+    "title": "Alexander Fidora: A Catalan Fragment of the Christian-Jewish Disputation of Tortosa (2024)",
+    "url": "https://ddd.uab.cat/pub/tralib/tralib_a2024v6/tralib_a2024v6a2.pdf",
+    "publisher": "Translat Library / Universitat Autònoma de Barcelona"
+  },
+  "rel-waldensian": {
+    "title": "John van Schaik: Cátaros, albigenses e bogomilos; distinção dos valdenses",
+    "url": "https://www.iranicaonline.org/articles/cathars-albigensians-and-bogomils/",
+    "publisher": "Encyclopaedia Iranica — artigo acadêmico"
+  },
+  "rel-priest-osasco": {
+    "title": "Nota do Padre José Eduardo de Oliveira e Silva (2024)",
+    "url": "https://diocesedeosasco.com.br/nota-do-padre-jose-eduardo-de-oliveira-e-silva/",
+    "publisher": "Diocese de Osasco"
+  },
+  "rel-priest-degree": {
+    "title": "Apresentação de José Eduardo: doutorado em Roma (20/07/2015)",
+    "url": "https://diocesedivinopolis.org.br/evento-que-abordara-a-ideologia-de-genero-contara-com-a-presenca-do-padre-jose-eduardo-da-diocese-de-osasco/",
+    "publisher": "Diocese de Divinópolis"
+  },
+  "rel-tassos-ufrn": {
+    "title": "Perfil institucional de Tassos Lycurgo Galvão Nunes",
+    "url": "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2306291",
+    "publisher": "SIGAA / UFRN"
+  },
+  "rel-tassos-2024": {
+    "title": "Requerimento 67/2024: Tassos Lycurgo, professor titular de Artes da UFRN",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2401017&filename=Tramitacao-1-REQ-67-2024-CE",
+    "publisher": "Câmara dos Deputados"
+  },
+  "rel-karaites-present": {
+    "title": "Daniel J. Lasker: What is Karaism and Are There Still Karaites? (2022)",
+    "url": "https://liverpooluniversitypress.blog/2022/01/31/what-is-karaism-and-are-there-still-karaites/",
+    "publisher": "Liverpool University Press — autor de Karaism"
+  },
+  "rel-israel-law": {
+    "title": "Proselytizing Restrictions: Israel, direito penal (1993)",
+    "url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2019669712/2019669712.pdf",
+    "publisher": "Law Library of Congress"
+  },
+  "rel-heidelberg": {
+    "title": "Lutero, Disputa de Heidelberg (1518), teses 3–7 e 27",
+    "url": "https://bookofconcord.org/other-resources/sources-and-context/heidelberg-disputation/",
+    "publisher": "Book of Concord — texto primário"
+  },
+  "rel-hotdog-osasco": {
+    "title": "Lei de Osasco nº 5.279, de 06/10/2023, p. 3",
+    "url": "https://osasco.sp.gov.br/wp-content/uploads/2023/10/iomo-2522.pdf",
+    "publisher": "Imprensa Oficial do Município de Osasco"
+  },
+  "rel-eusebius6": {
+    "title": "Eusébio, História Eclesiástica VI.14.10–11: Orígenes em Roma",
+    "url": "https://www.newadvent.org/fathers/250106.htm",
+    "publisher": "New Advent — tradução de fonte patrística"
+  },
+  "rel-carson-peter": {
+    "title": "D. A. Carson: For the Love of God, vol. 2, leitura de 6 de julho",
+    "url": "https://gospeltranslations.org/wiki/For_the_Love_of_God,_Volume_2/July_6",
+    "publisher": "Gospel Translations / The Gospel Coalition — texto do autor"
+  }
+}

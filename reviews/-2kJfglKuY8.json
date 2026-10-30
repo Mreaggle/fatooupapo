@@ -1,0 +1,990 @@
+{
+  "videoId": "-2kJfglKuY8",
+  "video": {
+    "id": "-2kJfglKuY8",
+    "url": "https://www.youtube.com/watch?v=-2kJfglKuY8",
+    "title": "Flávio Bolsonaro na sabatina do Jornal Nacional - 16/10/2026 - na íntegra",
+    "channel": "Deputado Gil Diniz",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-2kJfglKuY8/hqdefault.jpg"
+  },
+  "referenceDate": "2026-10-16",
+  "reviewedAt": "2026-10-30T15:03:05.538Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "48edcfdb9fd3a92a52e5462b7d81eab4de7959dff2295b8d81f7a0a61d50abf3",
+  "scannedThrough": 1414,
+  "participants": [
+    {
+      "id": "flavio-bolsonaro",
+      "name": "Flávio Bolsonaro",
+      "aliases": [
+        "Flávio"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    }
+  ],
+  "claims": [
+    {
+      "cueStart": 26,
+      "cueEnd": 31,
+      "title": "Juros da dívida seriam quase o dobro de saúde e educação juntas",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A comparação não delimita os exercícios, a esfera federativa nem o regime contábil das despesas. O BC registra R$ 1,182 trilhão em juros nominais do setor público em doze meses até agosto de 2026, mas isso não confirma, isoladamente, a proporção com gastos de saúde e educação.",
+      "sources": [
+        "sab-fiscal2026"
+      ]
+    },
+    {
+      "cueStart": 39,
+      "cueEnd": 52,
+      "title": "Compromissos sobre salário mínimo, aposentadorias e pisos sociais",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "São compromissos para um governo futuro, não resultados já executados. Sua realização depende de decisões políticas, orçamento e legislação.",
+      "sources": []
+    },
+    {
+      "cueStart": 60,
+      "cueEnd": 70,
+      "title": "Campanha adversária anunciaria fim de direitos e privatizações",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica as peças de propaganda que permitiriam conferir todas as mensagens atribuídas ao adversário. As hipérboles sobre sol e alienígenas não são tratadas como afirmações literais.",
+      "sources": []
+    },
+    {
+      "cueStart": 77,
+      "cueEnd": 83,
+      "title": "Focus de outubro de 2022 teria previsto juros de 7% para 2026",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Focus de 14/10/2022 projeta 7,75% para o fim de 2025 e não apresenta coluna de 2026. Expectativa de mercado não era promessa governamental nem demonstra o efeito causal exclusivo de um presidente.",
+      "sources": [
+        "sab-focus2022"
+      ]
+    },
+    {
+      "cueStart": 81,
+      "cueEnd": 83,
+      "title": "Selic estaria em torno de 14% na entrevista",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Copom reduziu a meta para 13,75% em 16/9/2026, aproximadamente 14% como dito. A Selic básica não é o juro médio pago por todo o estoque da dívida.",
+      "sources": [
+        "sab-selic-setembro"
+      ]
+    },
+    {
+      "cueStart": 84,
+      "cueEnd": 86,
+      "title": "Dívida bruta estaria em cerca de R$ 11 trilhões",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Verdadeiro",
+      "explanation": "A nota do BC publicada em 30/09/2026 informa R$ 11,1 trilhões para a dívida bruta do governo geral em agosto, ou 82,9% do PIB. O indicador inclui União, INSS, estados e municípios.",
+      "sources": [
+        "sab-fiscal2026"
+      ]
+    },
+    {
+      "cueStart": 86,
+      "cueEnd": 94,
+      "title": "Diferença de sete pontos de juros equivaleria a quase R$ 1 trilhão em quatro anos",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Multiplicar o estoque atual por sete pontos percentuais produz R$ 770 bilhões em um ano, não uma medida observada de economia acumulada em quatro anos. Prazo, composição da dívida, inflação, câmbio e evolução do estoque impedem tratar essa conta estática como gasto comprovadamente evitável.",
+      "sources": [
+        "sab-fiscal2026",
+        "sab-focus2022"
+      ]
+    },
+    {
+      "cueStart": 119,
+      "cueEnd": 125,
+      "title": "Existência de 39 ministérios e promessa de extinguir dez",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "O número exige definir quais órgãos com status ministerial entram na contagem e a composição vigente em 16/10/2026. O trecho não apresenta esse demonstrativo; a extinção de dez é promessa, não economia realizada.",
+      "sources": []
+    },
+    {
+      "cueStart": 127,
+      "cueEnd": 132,
+      "title": "R$ 18 bilhões de superávit sob Bolsonaro versus R$ 36 bilhões de prejuízo sob Lula",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Resultado primário e lucro contábil medem coisas distintas. O relatório oficial informa R$ 169,4 bilhões de lucro líquido das estatais federais em 2025 e registra empresas lucrativas com déficit primário. A cifra fiscal citada não pode ser apresentada como prejuízo de todas as estatais.",
+      "sources": [
+        "sab-estatais2025"
+      ]
+    },
+    {
+      "cueStart": 133,
+      "cueEnd": 139,
+      "title": "União teria mais de trinta mil imóveis avaliados em R$ 1,7 trilhão",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi localizada nesta revisão uma extração patrimonial com os mesmos critérios, data, quantidade e valor. Patrimônio contábil, imóveis disponíveis e ativos alienáveis não são conjuntos equivalentes; o montante citado não prova caixa disponível.",
+      "sources": []
+    },
+    {
+      "cueStart": 139,
+      "cueEnd": 151,
+      "title": "Securitizações renderiam R$ 200 bilhões anuais de imóveis e outros R$ 200 bilhões de dívidas",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "São estimativas de receita futura, sem demonstração de deságio, ativos elegíveis, prazo ou efeito fiscal. Não são receitas arrecadadas nem economia anual já comprovada.",
+      "sources": []
+    },
+    {
+      "cueStart": 145,
+      "cueEnd": 147,
+      "title": "Dívida ativa a receber seria de quase R$ 3 trilhões",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A apuração documental contemporânea aponta estoque de R$ 3,55 trilhões em setembro de 2026, acima da cifra aproximada citada. Estoque de dívida ativa não significa dinheiro integralmente recuperável ou receita recorrente.",
+      "sources": [
+        "sab-contas-flavio"
+      ]
+    },
+    {
+      "cueStart": 153,
+      "cueEnd": 156,
+      "title": "Exploração na Margem Equatorial constaria do programa presidencial de 2022",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A checagem contemporânea registra ausência dessa proposta específica no programa entregue ao TSE. Sem o programa integral preservado neste dossiê, a distinção entre declaração pública e compromisso textual não foi convertida em conclusão categórica.",
+      "sources": [
+        "sab-lupa-flavio"
+      ]
+    },
+    {
+      "cueStart": 157,
+      "cueEnd": 161,
+      "title": "O governo Lula não teria iniciado exploração no Amapá",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O MME registra licença para perfuração exploratória no bloco FZA-M-59 em outubro de 2025, e a ANP informa poços exploratórios em 2025–2026. Perfuração de pesquisa difere de produção comercial; dizer que nada começou apaga essa diferença.",
+      "sources": [
+        "sab-licenca2025",
+        "sab-exploracao2026"
+      ]
+    },
+    {
+      "cueStart": 162,
+      "cueEnd": 169,
+      "title": "Petróleo geraria R$ 100 bilhões de largada e IA reduziria despesa",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "São projeções e propostas. A pesquisa exploratória não estabelece reservas economicamente recuperáveis, data de produção ou receita imediata de royalties.",
+      "sources": [
+        "sab-exploracao2026"
+      ]
+    },
+    {
+      "cueStart": 176,
+      "cueEnd": 178,
+      "title": "Produção comercial na região só seria possível a partir de 2033",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A ANP descreve investimentos exploratórios até 2033, o que não confirma uma data garantida para produção comercial. Não foi recuperado o anúncio da Petrobras com a mesma previsão e seus condicionantes.",
+      "sources": [
+        "sab-exploracao2026"
+      ]
+    },
+    {
+      "cueStart": 181,
+      "cueEnd": 193,
+      "title": "Emenda promulgada encerra escala 6x1 sem reduzir salários",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A Agência Senado documenta a EC 141 em 16/10/2026: dois repousos semanais e transição de 44 para 42 e depois 40 horas, sem redução salarial. A mudança tem calendário gradual, não aplicação integral instantânea.",
+      "sources": [
+        "sab-ec141"
+      ]
+    },
+    {
+      "cueStart": 187,
+      "cueEnd": 195,
+      "title": "Flávio mudou de posição e votou a favor da mudança de jornada",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A entrevista registra a admissão do candidato, mas não foi preservado nesta revisão o extrato nominal da votação para conferir voto, data e texto. Declaração sobre o próprio voto não substitui o registro legislativo.",
+      "sources": []
+    },
+    {
+      "cueStart": 205,
+      "cueEnd": 207,
+      "title": "Bolsonaro extinguiu mais de vinte mil cargos em comissão",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Decreto 9.725/2019 agrupa cargos, funções e gratificações. A contagem superior a vinte mil não corresponde exclusivamente a cargos comissionados, como afirma o trecho.",
+      "sources": [
+        "sab-decreto9725"
+      ]
+    },
+    {
+      "cueStart": 211,
+      "cueEnd": 215,
+      "title": "Lula teria criado 22.500 cargos em comissão",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "O número não vem acompanhado de série do SIAPE ou relação de atos que distinga cargos comissionados, funções ocupadas por servidores e vagas efetivamente preenchidas. Não foi comprovado o total com o recorte declarado.",
+      "sources": []
+    },
+    {
+      "cueStart": 217,
+      "cueEnd": 269,
+      "title": "Promessas de flexibilização da jornada, creches, renda e segurança",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "Conjunto de preferências e compromissos de governo, sem resultado futuro passível de classificação factual nesta data.",
+      "sources": []
+    },
+    {
+      "cueStart": 274,
+      "cueEnd": 280,
+      "title": "Proposta do PL prevê férias e décimo terceiro proporcionais às horas",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não se informa o número da proposição ou a versão do texto. Regimes parcial e intermitente já possuem regras de proporcionalidade; não foi confirmada a proposta específica a que a pergunta se refere.",
+      "sources": []
+    },
+    {
+      "cueStart": 293,
+      "cueEnd": 320,
+      "title": "Proposta de Flávio acaba com reeleição presidencial sem fixar mandato de cinco anos",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Verdadeiro",
+      "explanation": "O texto da PEC consultado cria inelegibilidade presidencial para o período seguinte e mantém a possibilidade de reeleição de governadores e prefeitos. Não altera a duração do mandato.",
+      "sources": [
+        "sab-pec-reeleicao"
+      ]
+    },
+    {
+      "cueStart": 325,
+      "cueEnd": 328,
+      "title": "Lula já teria gastado R$ 350 bilhões para se reeleger",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O levantamento citado reúne impactos orçamentários anunciados, inclusive renúncias fiscais. Não equivale a dinheiro já pago nem comprova que toda medida teve finalidade de reeleição.",
+      "sources": [
+        "sab-lupa-flavio"
+      ]
+    },
+    {
+      "cueStart": 329,
+      "cueEnd": 331,
+      "title": "Esta seria a sétima candidatura presidencial de Lula",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Verdadeiro",
+      "explanation": "A reportagem da convenção de 2/8/2026 confirma a sétima disputa efetiva. Inclui 1989,1994,1998,2002,2006,2022 e 2026; o registro de 2018 foi indeferido e substituído.",
+      "sources": [
+        "sab-setima-disputa"
+      ]
+    },
+    {
+      "cueStart": 362,
+      "cueEnd": 371,
+      "title": "Regra atual de inelegibilidade alcançaria parentes até terceiro grau",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Falso",
+      "explanation": "O art. 14,§ 7º da Constituição e a explicação do TSE estabelecem até segundo grau, incluindo cônjuge e parentes por adoção, com condições e exceções. Não há regra geral de terceiro grau.",
+      "sources": [
+        "sab-inelegibilidade"
+      ]
+    },
+    {
+      "cueStart": 380,
+      "cueEnd": 381,
+      "title": "Flávio tem 45 anos",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Verdadeiro",
+      "explanation": "O perfil oficial registra nascimento em 30/04/1981, compatível com 45 anos em 16/10/2026.",
+      "sources": [
+        "sab-flavio-perfil"
+      ]
+    },
+    {
+      "cueStart": 381,
+      "cueEnd": 384,
+      "title": "Formação em Direito, políticas públicas e MBA",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A biografia consultada registra Direito pela Universidade Candido Mendes, especialização em Políticas Públicas e MBA da FGV. A afirmação de preparo para presidir é opinião, não decorrência verificável desses títulos.",
+      "sources": [
+        "sab-flavio-formacao"
+      ]
+    },
+    {
+      "cueStart": 397,
+      "cueEnd": 407,
+      "title": "Plano registrado no TSE contém seis propostas de reforma do Judiciário",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "As três medidas citadas são atribuídas ao programa, mas não foi obtida a versão integral e autenticada do arquivo de campanha para conferir a contagem e a redação.",
+      "sources": []
+    },
+    {
+      "cueStart": 414,
+      "cueEnd": 423,
+      "title": "Penduricalhos dos três poderes custariam R$ 24 bilhões ao ano",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O estudo mencionado na apuração estima R$ 24,3 bilhões acima do teto nas carreiras jurídicas, não todos os penduricalhos dos três poderes. Outros levantamentos usam universos e valores distintos; não se trata de economia integral garantida.",
+      "sources": [
+        "sab-contas-flavio"
+      ]
+    },
+    {
+      "cueStart": 429,
+      "cueEnd": 444,
+      "title": "Moraes perseguiria adversários para proteger Lula",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Atribuir motivação partidária e finalidade de perseguição exige elementos individualizados sobre decisões e seus fundamentos. A crítica política do candidato não comprova a acusação.",
+      "sources": []
+    },
+    {
+      "cueStart": 451,
+      "cueEnd": 459,
+      "title": "Mensagens indicariam pagamentos ligados a Kassio Nunes Marques e seu filho",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A pergunta faz referência a mensagens e trabalho de consultoria. Sem peças processuais e contratos completos neste dossiê, a alegação não foi convertida em prova de recebimento irregular ou culpa.",
+      "sources": []
+    },
+    {
+      "cueStart": 464,
+      "cueEnd": 491,
+      "title": "Lei 1.079 prevê crimes de responsabilidade de ministros do Supremo",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A lei prevê responsabilização por atividade político-partidária e julgamento em situação de suspeição. A abertura não é automática: exige denúncia, admissibilidade e procedimento no Senado. A existência das hipóteses legais não demonstra que um ministro as praticou.",
+      "sources": [
+        "sab-impeachment-lei"
+      ]
+    },
+    {
+      "cueStart": 480,
+      "cueEnd": 486,
+      "title": "Moraes teria articulado reconciliação de Lula com Alcolumbre",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi localizado documento, agenda ou relato independente que comprove a mediação específica e sua finalidade eleitoral. O vínculo causal descrito permanece não demonstrado.",
+      "sources": []
+    },
+    {
+      "cueStart": 499,
+      "cueEnd": 518,
+      "title": "Financiamento de Dark Horse: quase R$ 70 milhões de R$ 134 milhões pedidos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Há apuração jornalística sobre transferências e o pedido de R$ 134 milhões; os totais e a destinação dependem dos fluxos financeiros completos. Não foi acessada a perícia integral do fundo americano. A existência da denúncia não prova desvio.",
+      "sources": [
+        "sab-uol-flavio"
+      ]
+    },
+    {
+      "cueStart": 524,
+      "cueEnd": 528,
+      "title": "Produtora de Dark Horse teria prestado contas de tudo",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A perícia particular cobre custos apresentados pela produtora e não esclarece toda a origem e circulação dos recursos do fundo estrangeiro. Não equivale a prestação pública integral e auditada.",
+      "sources": [
+        "sab-uol-flavio"
+      ]
+    },
+    {
+      "cueStart": 533,
+      "cueEnd": 551,
+      "title": "Financiamento seria integralmente privado e sem qualquer contrapartida",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A natureza privada alegada não resolve a origem dos recursos ou a existência de contrapartidas. As investigações citadas na imprensa não foram concluídas nesta revisão; não se presume nem regularidade integral nem crime.",
+      "sources": [
+        "sab-uol-flavio"
+      ]
+    },
+    {
+      "cueStart": 553,
+      "cueEnd": 555,
+      "title": "Vorcaro teria pago R$ 30 milhões por fora para filme de Lula",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A PF declarou não ter recebido o depoimento, anexos ou informações com esse teor. O áudio atribuído ao banqueiro não prova, isoladamente, repasse de dinheiro ou responsabilidade de Lula.",
+      "sources": [
+        "sab-pf-vorcaro",
+        "sab-pgr-vorcaro"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 608,
+          "cueEnd": 614
+        }
+      ]
+    },
+    {
+      "cueStart": 576,
+      "cueEnd": 581,
+      "title": "Perícia particular estimaria custo do filme em R$ 75 milhões",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O valor é atribuído a uma perícia da produtora. Sem laudo e anexos integrais, não se confirma custo final, despesas efetivamente pagas ou equivalência entre financiamento contratado e executado.",
+      "sources": [
+        "sab-uol-flavio"
+      ]
+    },
+    {
+      "cueStart": 588,
+      "cueEnd": 604,
+      "title": "Globo e Luciano Huck teriam recebido R$ 160 milhões e diretor foi desligado",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "São afirmações distintas sobre publicidade e vínculo profissional. Não foram obtidos contratos, demonstrativos e comunicado de desligamento que confirmem integralmente valores, destinatário e motivo. A legenda registra “ilícito” em passagem cujo sentido pode ser o oposto; sem áudio isso não é classificado como confissão.",
+      "sources": []
+    },
+    {
+      "cueStart": 619,
+      "cueEnd": 629,
+      "title": "Patrocínios da Globo seguem regras de transparência e não interferem no jornalismo",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação expressa política institucional e defesa editorial da emissora. Não é possível verificar a ausência geral de interferência apenas pela declaração feita na entrevista.",
+      "sources": []
+    },
+    {
+      "cueStart": 639,
+      "cueEnd": 644,
+      "title": "Brasil tem cerca de 1.600 instituições financeiras e 170 bancos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A contagem varia segundo o cadastro, data e inclusão de cooperativas, instituições de pagamento e outras entidades autorizadas. A pergunta não apresenta esses critérios; o par de cifras não foi comprovado.",
+      "sources": []
+    },
+    {
+      "cueStart": 645,
+      "cueEnd": 649,
+      "title": "Vorcaro não teria qualquer irregularidade na época do pedido",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Ausência de condenação pública na data não equivale a ausência de irregularidade. Não foram reunidos contratos e cronologia completa das investigações que permitam sustentar a negativa absoluta.",
+      "sources": []
+    },
+    {
+      "cueStart": 652,
+      "cueEnd": 669,
+      "title": "Vaccari ofereceria R$ 1 bilhão de fundos de pensão por propina de 10%",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato acusa pessoa identificada de crime, mas as notas da PF e PGR não validam o suposto depoimento apresentado na imprensa. Sem documentação financeira e confirmação processual, não se afirma que o repasse ou a cobrança ocorreram.",
+      "sources": [
+        "sab-pf-vorcaro",
+        "sab-pgr-vorcaro"
+      ]
+    },
+    {
+      "cueStart": 675,
+      "cueEnd": 676,
+      "title": "Polícia Federal teria confirmado a narrativa sobre a propina",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Falso",
+      "explanation": "Na nota de 09/10/2026, a PF esclarece que Vorcaro não prestou o depoimento nem entregou documentos com o conteúdo descrito. Receber notícia-crime para investigar não é confirmar sua veracidade.",
+      "sources": [
+        "sab-pf-vorcaro"
+      ]
+    },
+    {
+      "cueStart": 686,
+      "cueEnd": 704,
+      "title": "Reunião ministerial de 2020 revelaria preocupação de Bolsonaro com sua família",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A pergunta reproduz falas de reunião conhecida, mas sua conclusão sobre finalidade de troca de chefias é interpretativa. Sem trecho audiovisual e sequência integral neste dossiê, não se infere intenção a partir da transcrição indireta.",
+      "sources": []
+    },
+    {
+      "cueStart": 707,
+      "cueEnd": 713,
+      "title": "Troca de superintendente do Rio ocorreu por maus resultados",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A motivação exclusiva alegada não foi comprovada. A saída de Moro em 2020 ocorreu no contexto de acusações de interferência e da substituição do diretor-geral, não apenas de uma avaliação administrativa do Rio.",
+      "sources": [
+        "sab-moro-saida"
+      ]
+    },
+    {
+      "cueStart": 718,
+      "cueEnd": 731,
+      "title": "Lula trocou os 27 superintendentes e teria um grupo particular na PF",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Trocas administrativas de chefia não demonstram aparelhamento por si mesmas. A checagem contemporânea documenta substituição de ao menos 26 chefias regionais, mas não prova a alegação adicional sobre grupo pessoal do presidente.",
+      "sources": [
+        "sab-lupa-flavio"
+      ]
+    },
+    {
+      "cueStart": 726,
+      "cueEnd": 728,
+      "title": "Comparação entre uma troca de chefia sob Bolsonaro e vinte e sete sob Lula",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "O contexto pode se referir à troca específica que provocou a crise com Moro, não ao total de chefias alteradas em quatro anos. Há registro de ao menos vinte mudanças no governo Bolsonaro, mas isso não torna falsa uma referência a um episódio isolado. Sem universos e períodos iguais, não se confirma a comparação nem a tese de tratamento desigual.",
+      "sources": [
+        "sab-pf-trocas",
+        "sab-moro-saida"
+      ]
+    },
+    {
+      "cueStart": 732,
+      "cueEnd": 740,
+      "title": "Moro pediu para sair do Ministério e teria sido eleito governador",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Verdadeiro",
+      "explanation": "O Senado documenta o pedido de demissão de Moro em 24 de abril de 2020. O TSE confirma sua eleição a governador do Paraná no primeiro turno de 2026, com 50,10% dos votos válidos. O motivo da ruptura com Bolsonaro e os juízos sobre sua atuação são questões separadas.",
+      "sources": [
+        "sab-moro-saida",
+        "sab-moro2026"
+      ]
+    },
+    {
+      "cueStart": 741,
+      "cueEnd": 745,
+      "title": "Bolsonaro foi condenado a 27 anos por tentativa de golpe",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O STF fixou 27 anos e 3 meses de prisão em 11/09/2025, por cinco crimes relacionados à trama golpista. A menção a 27 anos é arredondamento compatível.",
+      "sources": [
+        "sab-golpe-stf"
+      ]
+    },
+    {
+      "cueStart": 749,
+      "cueEnd": 786,
+      "title": "Julgamento seria uma farsa porque Bolsonaro estava fora do país e não havia armas",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A decisão registra liderança e organização de uma trama, não a acusação de que Bolsonaro quebrou pessoalmente objetos por comunicação remota. Distância física em 8 de janeiro não exclui responsabilidade por participação em organização ou atos anteriores. Criticar o julgamento não anula os fundamentos da condenação.",
+      "sources": [
+        "sab-golpe-stf"
+      ]
+    },
+    {
+      "cueStart": 768,
+      "cueEnd": 775,
+      "title": "Dino foi ministro de Lula e Zanin foi seu advogado",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "São vínculos profissionais anteriores publicamente registrados na checagem contemporânea. Não demonstram, sozinhos, parcialidade ou nulidade de todos os julgamentos. “Até ontem” é recurso retórico, não a data de saída do Ministério.",
+      "sources": [
+        "sab-lupa-flavio"
+      ]
+    },
+    {
+      "cueStart": 771,
+      "cueEnd": 772,
+      "title": "Dino chamou Bolsonaro de demônio",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A entrevista ao UOL de abril de 2022 registra expressão equivalente. Trata-se da existência de declaração política anterior, sem endossar seu conteúdo ou provar nulidade processual.",
+      "sources": [
+        "sab-lupa-flavio"
+      ]
+    },
+    {
+      "cueStart": 803,
+      "cueEnd": 867,
+      "title": "Pai não pediu cargo e Eduardo não seria chanceler",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "Declarações sobre conversas privadas não verificadas e compromissos futuros de nomeação. Não são resultados administrativos já observáveis.",
+      "sources": []
+    },
+    {
+      "cueStart": 803,
+      "cueEnd": 811,
+      "title": "Jair Bolsonaro nunca teria pedido cargo ao filho",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma negativa sobre conversas privadas. Não foram obtidos registros independentes capazes de verificar que nunca houve o pedido. A promessa de futura nomeação é examinada como posição política.",
+      "sources": []
+    },
+    {
+      "cueStart": 821,
+      "cueEnd": 835,
+      "title": "Eduardo estaria impedido de entrar em vários países por medidas de Moraes",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram identificados os países, ordens migratórias e decisões que sustentariam esse impedimento generalizado. Alegações de perseguição e avaliação sobre sua atuação são juízos políticos, sem confirmação de todas as restrições relatadas.",
+      "sources": []
+    },
+    {
+      "cueStart": 840,
+      "cueEnd": 854,
+      "title": "Moraes foi sancionado pelos Estados Unidos com base na Magnitsky",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Verdadeiro",
+      "explanation": "O Tesouro americano anunciou sanções em 30/07/2025 com base na Ordem Executiva 13818 e no regime Global Magnitsky. Isso confirma a sanção, não a afirmação de nulidade dos processos brasileiros.",
+      "sources": [
+        "sab-magnitsky"
+      ]
+    },
+    {
+      "cueStart": 890,
+      "cueEnd": 929,
+      "title": "Promessas de guerra às facções, fronteiras e adesão ao Escudo das Américas",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "Trata-se de propostas de uso das Forças Armadas e de cooperação internacional para eventual governo. Não são resultados de segurança comprovados.",
+      "sources": []
+    },
+    {
+      "cueStart": 904,
+      "cueEnd": 908,
+      "title": "Porto de Santos seria o segundo maior exportador de cocaína do mundo",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A referência consultada trata de carregamentos apreendidos com destino à Europa em 2020, não de ranking mundial atual de toda a droga efetivamente exportada. Atribuir tal classificação ao governo iniciado em 2023 também desloca a data do indicador.",
+      "sources": [
+        "sab-porto"
+      ]
+    },
+    {
+      "cueStart": 924,
+      "cueEnd": 925,
+      "title": "Forças Armadas teriam sido completamente sucateadas",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A expressão não define orçamento, prontidão, efetivo ou indicador de manutenção. Sem métrica e comparação temporal não é possível confirmar uma perda completa de capacidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 930,
+      "cueEnd": 940,
+      "title": "Invasores depredaram sedes dos poderes e atacaram policiais em 8 de janeiro",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O julgamento do STF registra destruição e deterioração do patrimônio público na invasão dos prédios. O detalhe específico de cada arma ou objeto furtado não foi individualmente demonstrado por esse documento.",
+      "sources": [
+        "sab-golpe-stf"
+      ]
+    },
+    {
+      "cueStart": 949,
+      "cueEnd": 961,
+      "title": "Prédios vazios e perfil dos manifestantes impediriam caracterizar golpe",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O fundamento jurídico do julgamento considera a trama organizada e o ataque às instituições, não a necessidade de ocupação permanente de uma cadeira presidencial. O perfil isolado de manifestantes não substitui a análise individual das condutas.",
+      "sources": [
+        "sab-golpe-stf"
+      ]
+    },
+    {
+      "cueStart": 963,
+      "cueEnd": 978,
+      "title": "Lula teria impedido Faixa Azul por vingança contra Ricardo Nunes",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi localizada decisão que demonstre essa motivação pessoal. Competência regulatória e divergência administrativa não comprovam retaliação partidária.",
+      "sources": []
+    },
+    {
+      "cueStart": 979,
+      "cueEnd": 985,
+      "title": "Prefeitura precisou ir à Justiça para obter aval federal a empréstimo na saúde",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica ação judicial, operação de crédito, data ou decisão. Sem esses elementos não se confirma o episódio nem a motivação atribuída à Presidência.",
+      "sources": []
+    },
+    {
+      "cueStart": 1008,
+      "cueEnd": 1011,
+      "title": "Governo seria recordista em assassinatos e espancamentos de mulheres",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação mistura feminicídios, homicídios de mulheres e violência não letal. As séries, períodos e registros diferem; sem especificar o indicador não se pode confirmar um recorde geral nem atribuição causal a um governo.",
+      "sources": [
+        "sab-violencia2026"
+      ]
+    },
+    {
+      "cueStart": 1012,
+      "cueEnd": 1014,
+      "title": "Outubro teria a maior queimada da história brasileira",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A comparação é feita antes do fim do mês e não distingue focos de calor, área queimada, bioma Amazônia ou estado do Amazonas. Não foi preservada extração comparável do INPE para o mesmo intervalo diário; não se confirma o superlativo.",
+      "sources": []
+    },
+    {
+      "cueStart": 1015,
+      "cueEnd": 1016,
+      "title": "Governo seria recordista em criminalidade",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Criminalidade não é um indicador único. O Atlas 2026 informa queda dos homicídios registrados em 2024 ao menor nível da série, incompatível com usar um recorde geral como descrição inequívoca da violência. Isso não significa queda de toda modalidade de crime.",
+      "sources": [
+        "sab-violencia2026"
+      ]
+    },
+    {
+      "cueStart": 1017,
+      "cueEnd": 1018,
+      "title": "Número de pessoas endividadas seria recorde",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperada série comparável com a mesma data e definição. Endividamento, inadimplência e número absoluto de consumidores são indicadores diferentes; o superlativo permanece sem comprovação.",
+      "sources": []
+    },
+    {
+      "cueStart": 1018,
+      "cueEnd": 1019,
+      "title": "Número de empresas fechadas seria recorde",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação não delimita período, série ou conceito de fechamento. Baixas cadastrais não equivalem automaticamente a falências; não foi obtida extração histórica que confirme o recorde.",
+      "sources": []
+    },
+    {
+      "cueStart": 1019,
+      "cueEnd": 1021,
+      "title": "Saída de indústrias para o Paraguai seria recorde",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi localizado levantamento comparável de transferências de fábricas brasileiras. Abertura de filial no Paraguai não demonstra, por si, fechamento da unidade no Brasil nem recorde histórico de saída.",
+      "sources": []
+    },
+    {
+      "cueStart": 1034,
+      "cueEnd": 1088,
+      "title": "Intervalo publicitário e chamadas da emissora",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Trecho de publicidade, ficção e chamadas de programação, fora das declarações da entrevista. Não entra nos indicadores do candidato.",
+      "sources": []
+    },
+    {
+      "cueStart": 1097,
+      "cueEnd": 1108,
+      "title": "Projeto apoiado por Flávio eliminaria marcação de munições policiais",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A Agência Senado descreve expressamente a eliminação da marcação e do código de rastreio no PL 3.723/2019. A existência desse dispositivo está confirmada; não foi recuperado o conjunto dos atos e votos de Flávio que comprovaria a atuação específica atribuída a ele na pergunta.",
+      "sources": [
+        "sab-municoes-projeto",
+        "sab-armas-lei"
+      ]
+    },
+    {
+      "cueStart": 1109,
+      "cueEnd": 1116,
+      "title": "Dino entrou na Maré sem policiais ou seguranças",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Falso",
+      "explanation": "Em audiência documentada pelo Ministério da Justiça, Dino informou que as polícias foram comunicadas por escrito e que havia dezenas de agentes no perímetro. A presença de segurança contradiz a negativa absoluta.",
+      "sources": [
+        "sab-dino-mare"
+      ]
+    },
+    {
+      "cueStart": 1126,
+      "cueEnd": 1129,
+      "title": "Governo não fiscaliza entrada de armas ou drogas nas fronteiras",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "A existência de contrabando não demonstra ausência total de fiscalização. A fala não oferece dados de inspeções ou apreensões, e não foi comprovada uma política de fronteiras sem controles.",
+      "sources": []
+    },
+    {
+      "cueStart": 1140,
+      "cueEnd": 1151,
+      "title": "Lei antifacção e PEC da Segurança teriam sido alteradas para punir criminosos",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho mistura voto, tramitação e julgamento de valor sobre os textos. Sem identificar a versão e os dispositivos, não se confirma que a proposta original só controlava policiais ou que a mudança elimine toda progressão de pena.",
+      "sources": []
+    },
+    {
+      "cueStart": 1152,
+      "cueEnd": 1183,
+      "title": "Propostas de endurecimento penal e um milhão de câmeras de IA",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "São projetos de governo e efeitos esperados, não garantia empiricamente estabelecida de prisão sem confronto ou de reconhecimento sem erro.",
+      "sources": []
+    },
+    {
+      "cueStart": 1189,
+      "cueEnd": 1194,
+      "title": "Maioria aprovaria restringir armas em pesquisa Quaest de setembro",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não se fornece número de registro, questionário ou percentuais. Sem a publicação primária da rodada citada, não foi confirmada a proporção entre todos os entrevistados e entre mulheres.",
+      "sources": []
+    },
+    {
+      "cueStart": 1210,
+      "cueEnd": 1218,
+      "title": "Queda de homicídios no primeiro ano provaria que mais armas não aumentam violência",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Uma comparação anual não identifica o efeito causal da política de armas: há mudanças demográficas, territoriais e de facções. A variação citada também depende da série usada. O Atlas não autoriza concluir causalidade pela mera coincidência temporal.",
+      "sources": [
+        "sab-violencia2026"
+      ]
+    },
+    {
+      "cueStart": 1221,
+      "cueEnd": 1229,
+      "title": "Constituição garantiria direito a possuir arma para legítima defesa",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A legítima defesa é regulada pelo Código Penal; o Estatuto do Desarmamento condiciona aquisição, registro e porte. Não existe, na Constituição, autorização geral e automática para possuir ou portar arma por invocar autodefesa.",
+      "sources": [
+        "sab-legitima-defesa",
+        "sab-armas-lei"
+      ]
+    },
+    {
+      "cueStart": 1246,
+      "cueEnd": 1253,
+      "title": "Estatuto proíbe cidadãos de se defender e autoriza criminosos a comprar armas",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Falso",
+      "explanation": "A Lei 10.826 admite aquisição legal mediante requisitos e tipifica posse, porte e comércio ilegais. Não autoriza criminosos a comprar armas de guerra nem revoga a legítima defesa.",
+      "sources": [
+        "sab-armas-lei",
+        "sab-legitima-defesa"
+      ]
+    },
+    {
+      "cueStart": 1260,
+      "cueEnd": 1265,
+      "title": "Nenhum beneficiário teve aumento no governo Lula antes de setembro 2026",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Falso",
+      "explanation": "O novo Bolsa Família introduziu em 2023 adicionais de R$ 150 por criança pequena e R$ 50 para outros dependentes e gestantes. Manter o piso e alterar benefícios não equivale a deixar todos os beneficiários quatro anos sem aumento.",
+      "sources": [
+        "sab-bolsa2023"
+      ]
+    },
+    {
+      "cueStart": 1265,
+      "cueEnd": 1267,
+      "title": "Bolsonaro levou benefício médio de R$ 190 ao mínimo de R$ 600",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A comparação troca média por piso. O Auxílio Brasil passou por R$ 400 e o adicional que levou a R$ 600 em 2022 era temporário; o mínimo permanente de R$ 600 e adicionais do Bolsa Família foram assegurados depois.",
+      "sources": [
+        "sab-bolsa2023"
+      ]
+    },
+    {
+      "cueStart": 1274,
+      "cueEnd": 1283,
+      "title": "Canella foi preso na véspera e é investigado por lavagem com postos de combustíveis",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A PF registra a oitava fase da Unha e Carne em 15 de outubro. O MPF identifica a prisão de Canella nessa data e a investigação por lavagem em rede de postos. A nota do MPF é posterior à entrevista, mas documenta evento anterior; não se trata de condenação e os vínculos eleitorais alegados não provam participação de Flávio no esquema.",
+      "sources": [
+        "sab-canella2026",
+        "sab-canella-mpf"
+      ]
+    },
+    {
+      "cueStart": 1283,
+      "cueEnd": 1288,
+      "title": "Rodrigo Bacellar estava preso sob suspeita de ligação com o Comando Vermelho",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A decisão judicial documentada descreve prisão e suspeitas de articulação ou favorecimento do grupo criminoso. Isso confirma a existência da medida e da investigação, sem equivaler a culpa definitiva nem comprovar a responsabilidade de qualquer candidato que o apoiou.",
+      "sources": [
+        "sab-bacellar"
+      ]
+    },
+    {
+      "cueStart": 1288,
+      "cueEnd": 1292,
+      "title": "Cláudio Castro foi tornado inelegível",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O TSE documenta a inelegibilidade por abuso de poder político e econômico nas eleições de 2022, no caso Ceperj/Uerj. Essa decisão eleitoral não é prova de culpa penal no caso Master mencionado no mesmo contexto.",
+      "sources": [
+        "sab-castro2026"
+      ]
+    },
+    {
+      "cueStart": 1296,
+      "cueEnd": 1310,
+      "title": "Defesa de apuração e promessa de penas mais duras",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "Posição política sobre investigação, presunção de inocência e legislação futura. Não classifica como verdadeiros os crimes atribuídos a aliados na pergunta anterior.",
+      "sources": []
+    },
+    {
+      "cueStart": 1315,
+      "cueEnd": 1326,
+      "title": "Cláudio Lottenberg foi anunciado para a Saúde e criticou demora em vacinas",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram recuperados o anúncio original e a entrevista integral do médico para validar a citação e a data. A pergunta não prova qual seria sua autonomia num governo futuro.",
+      "sources": []
+    },
+    {
+      "cueStart": 1334,
+      "cueEnd": 1341,
+      "title": "Lottenberg presidiu o Einstein, chamado de melhor hospital do Brasil",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relatório institucional de 2007 registra Lottenberg na presidência. Em 2026, o Einstein foi o primeiro da América Latina no ranking Newsweek; pesquisa Datafolha de 2025 também o colocou em primeiro entre os médicos consultados. “Melhor” depende dos critérios e não significa superioridade em toda especialidade ou desfecho.",
+      "sources": [
+        "sab-einstein2007",
+        "sab-einstein2026"
+      ]
+    },
+    {
+      "cueStart": 1342,
+      "cueEnd": 1367,
+      "title": "Promessas de SUS padrão Einstein, telemedicina e prontuário único",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "opinion",
+      "explanation": "São objetivos para execução futura. A proposta não comprova eliminação de filas ou disponibilidade universal das vagas privadas em uma semana.",
+      "sources": []
+    },
+    {
+      "cueStart": 1377,
+      "cueEnd": 1406,
+      "title": "Faltariam nove dias para o segundo turno em 25 de outubro",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Verdadeiro",
+      "explanation": "A entrevista é de 16/10/2026 e o calendário eleitoral fixa o segundo turno em 25/10. A diferença de nove dias está correta.",
+      "sources": [
+        "sab-calendario"
+      ]
+    },
+    {
+      "cueStart": 1406,
+      "cueEnd": 1409,
+      "title": "Voto é secreto e ninguém pode exigir sua revelação",
+      "speaker": "Flávio Bolsonaro",
+      "verdict": "Verdadeiro",
+      "explanation": "O sigilo do voto é garantia constitucional e eleitoral. A pessoa não precisa revelar sua escolha a terceiros.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    }
+  ],
+  "limitations": [
+    "Entrevista retransmitida pelo canal Deputado Gil Diniz; não houve validação acústica. O último bloco termina cerca de dois segundos após a duração informada pelo player, possível diferença de alinhamento da legenda.",
+    "As premissas jornalísticas estão registradas sem atribuição ao candidato. Declarações sobre investigações em curso não equivalem a comprovação de crime.",
+    "A primeira legenda começa em 00:00:01,400. O início anterior não está no SRT. A última legenda avança cerca de 2 segundos além da duração informada pelo player; os tempos originais foram preservados."
+  ],
+  "coverageNotes": "Foram lidos os blocos 1–1414, incluindo o intervalo publicitário 1034–1088. Os nomes próprios reconhecidos incorretamente pelo SRT foram preservados na citação e interpretados com cautela na conclusão."
+}

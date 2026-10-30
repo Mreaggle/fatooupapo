@@ -1,0 +1,1936 @@
+{
+  "videoId": "b-dvcPHV8ck",
+  "video": {
+    "id": "b-dvcPHV8ck",
+    "url": "https://www.youtube.com/watch?v=b-dvcPHV8ck",
+    "title": "DEBATE: CAPITALISMO X SOCIALISMO - RENATA BARRETO E ELIAS JABBOUR - Inteligência Ltda. Podcast #599",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/b-dvcPHV8ck/hqdefault.jpg"
+  },
+  "referenceDate": "2022-08-29",
+  "reviewedAt": "2026-10-30T15:01:54.279Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "33cbb9376f493043db867b3a808b444034640f24142ae4664473616dd0b6a0f5",
+  "scannedThrough": 5743,
+  "participants": [
+    {
+      "id": "renata-barreto",
+      "name": "Renata Barreto",
+      "aliases": [
+        "Renata"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "elias-jabbour",
+      "name": "Elias Jabbour",
+      "aliases": [
+        "Elias"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    }
+  ],
+  "coverageNotes": "Todos os 5.743 blocos fornecidos foram lidos. A última legenda termina em 03:32:26,650, aproximadamente 20 segundos antes da duração de 03:32:47 informada pelo player; a revisão não reconstrói esse intervalo final sem legendas.",
+  "limitations": [
+    "A legenda automática tem numerosos nomes e números corrompidos. Quando a leitura não distingue erro de reconhecimento de erro de fala, a conclusão permanece inconclusiva e não imputa erro pessoal ao debatedor.",
+    "A referência histórica é 29/08/2022. Séries consolidadas publicadas depois são usadas somente para retratar anos anteriores e têm essa condição explicitada quando relevante; não se usaram indicadores atuais como se fossem dados disponíveis no debate.",
+    "A pesquisa confirma documentos e distingue conceitos, mas várias estatísticas e alegações gerais não fornecem universo, denominador, janela ou identificação do estudo. Essas lacunas específicas estão em cada item; Inconclusivo não equivale a falso.",
+    "Não houve conferência acústica, validação humana independente ou autenticação de imagens mostradas durante a gravação. Locutores seguros foram atribuídos pelo contexto textual; passagens mistas ficaram sem autoria individual."
+  ],
+  "claims": [
+    {
+      "cueStart": 1,
+      "cueEnd": 124,
+      "title": "Abertura, anúncios e apresentação do programa",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A abertura contém música, publicidade e organização do debate; não gera votos factuais adicionais.",
+      "sources": []
+    },
+    {
+      "cueStart": 125,
+      "cueEnd": 144,
+      "title": "Formação e idades anunciadas dos convidados",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A apresentação identifica um geógrafo e professor da UERJ e uma economista. A identificação nominal consta do título original, mas não foram obtidos documentos civis e acadêmicos contemporâneos que comprovem, em conjunto, as duas idades e todas as credenciais anunciadas. Não se confundiu apresentação do programa com validação independente.",
+      "sources": []
+    },
+    {
+      "cueStart": 229,
+      "cueEnd": 264,
+      "title": "Como classificar a economia chinesa",
+      "speaker": "Elias Jabbour",
+      "verdict": "opinion",
+      "explanation": "A definição de socialismo a partir de formas de propriedade e de capitalismo a partir de liberdade econômica expressa critérios teóricos concorrentes. O rótulo não recebe veredito factual isolado.",
+      "sources": []
+    },
+    {
+      "cueStart": 273,
+      "cueEnd": 290,
+      "title": "Manifesto e intervenções despóticas na propriedade",
+      "speaker": "Renata Barreto",
+      "verdict": "Verdadeiro",
+      "explanation": "O capítulo II do Manifesto contém a proposta de intervenções despóticas nos direitos de propriedade durante a transformação revolucionária. Isso confirma a referência textual; não demonstra que todo governo que se declara socialista reproduza a mesma trajetória.",
+      "sources": [
+        "eco-manifesto"
+      ]
+    },
+    {
+      "cueStart": 313,
+      "cueEnd": 348,
+      "title": "Banco da Inglaterra e origem do capitalismo",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O banco foi criado em 1694 para financiar o governo e começou como instituição privada. O episódio documenta colaboração entre Estado e capital, mas não estabelece, sozinho, que todo o capitalismo tenha sido criado pelo Estado ou que mercados privados não participassem de sua formação.",
+      "sources": [
+        "eco-boe1694"
+      ]
+    },
+    {
+      "cueStart": 349,
+      "cueEnd": 396,
+      "title": "Comércio, escambo e capitalismo como formação histórica",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os interlocutores empregam definições diferentes de mercado e capitalismo. A discussão conceitual e a atribuição de primazia a Estado ou indivíduos são interpretações históricas, sem uma medida empírica única no trecho.",
+      "sources": []
+    },
+    {
+      "cueStart": 409,
+      "cueEnd": 420,
+      "title": "Biden e um trilhão de dólares em tecnologia",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O CHIPS and Science Act foi sancionado em 9/8/2022. A lei combina dotações, incentivos e autorizações plurianuais; o componente CHIPS destinou cerca de US$52,7 bilhões. Não equivale a um desembolso imediato de US$1 trilhão exclusivamente em tecnologia; agregar programas de infraestrutura exige outra delimitação.",
+      "sources": [
+        "eco-chips"
+      ]
+    },
+    {
+      "cueStart": 421,
+      "cueEnd": 444,
+      "title": "Estrangeiros não poderiam comprar empresas americanas",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O CFIUS examina transações abrangidas por sua competência por risco à segurança nacional. Há aprovações, condicionamentos e abandonos; o relatório do ano 2022 não sustenta proibição universal de aquisições por estrangeiros. O documento publicado posteriormente registra as transações daquele ano.",
+      "sources": [
+        "eco-cfius2022"
+      ]
+    },
+    {
+      "cueStart": 445,
+      "cueEnd": 504,
+      "title": "Concentração, concorrência e preços",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São argumentos sobre o funcionamento de oligopólios, incentivos e intervenção. Os exemplos hipotéticos não especificam uma empresa, preço e período que permitam decidir uma causalidade geral por verdadeiro ou falso.",
+      "sources": []
+    },
+    {
+      "cueStart": 541,
+      "cueEnd": 552,
+      "title": "Brasil cobraria tarifa sobre todo trigo importado",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Havia uma quota anual de 750 mil toneladas com alíquota zero para trigo extrazona e preferências comerciais no Mercosul. A existência de tarifas fora dessas condições não permite generalizar a cobrança para toda importação de trigo.",
+      "sources": [
+        "eco-trigo"
+      ]
+    },
+    {
+      "cueStart": 553,
+      "cueEnd": 600,
+      "title": "Mercantilismo e reformas econômicas do leste europeu",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "O argumento relaciona liberdade, planejamento e desenvolvimento por uma interpretação histórica. Sem definição uniforme de regime e resultado, a conclusão causal não é tratada como estatística.",
+      "sources": []
+    },
+    {
+      "cueStart": 613,
+      "cueEnd": 624,
+      "title": "Estados Unidos com 27 emendas e Brasil com quase 300",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "As 27 emendas americanas estão documentadas. A numeração brasileira havia chegado à EC 125 em julho 2022, além das seis emendas de revisão de 1994; não se aproximava de 300 emendas constitucionais. Alterações de artigos não são a mesma unidade de contagem.",
+      "sources": [
+        "eco-emendas-us",
+        "eco-ec125"
+      ]
+    },
+    {
+      "cueStart": 625,
+      "cueEnd": 648,
+      "title": "Dinamarca sem salário mínimo ou proteção previdenciária",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "É correto que a Dinamarca não adota salário mínimo legal nacional: pisos são negociados coletivamente. Isso não significa ausência de direitos trabalhistas ou pensões; a orientação oficial inclui contribuições previdenciárias nos contratos. Ausência de instituições chamadas INSS ou FGTS não elimina proteção social.",
+      "sources": [
+        "eco-dinamarca-trabalho"
+      ]
+    },
+    {
+      "cueStart": 625,
+      "cueEnd": 648,
+      "title": "Carga tributária dinamarquesa seria próxima à brasileira",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "A comparação não fixa ano nem a inclusão de contribuições e níveis de governo. Revenue Statistics 2022 apresenta a série tributária dinamarquesa, mas a fala não fornece a tabela brasileira compatível. A descrição vaga de proximidade não pode ser validada como igualdade de cargas.",
+      "sources": [
+        "eco-dinamarca-tax"
+      ]
+    },
+    {
+      "cueStart": 673,
+      "cueEnd": 684,
+      "title": "Países prósperos citados teriam Estados diminutos",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O próprio índice Heritage inclui Dinamarca e outros países com elevada tributação e gasto público. Sua nota agrega direitos de propriedade, regulação e outros componentes. Colocação alta no índice não demonstra governo diminuto em despesa ou proteção social.",
+      "sources": [
+        "eco-heritage2022",
+        "eco-dinamarca-tax"
+      ]
+    },
+    {
+      "cueStart": 685,
+      "cueEnd": 708,
+      "title": "Hamilton, List e o Relatório sobre Manufaturas",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda embaralha nomes e uma possível relação de correspondência entre os autores. Sem identificar a passagem ou carta, não é possível saber se a afirmação é sobre influência intelectual ou troca direta de cartas. Não se atribui anacronismo pessoal com base nesse reconhecimento truncado.",
+      "sources": []
+    },
+    {
+      "cueStart": 709,
+      "cueEnd": 768,
+      "title": "Compras públicas estrangeiras e proteção de todas as indústrias",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho reúne percentuais e práticas de países distintos sem nomear edital, legislação ou período. Restrição por segurança nacional não equivale à exclusão de todo fornecedor estrangeiro. O exemplo disponível do CFIUS é sobre investimento, não uma tabela de participação em compras governamentais.",
+      "sources": [
+        "eco-cfius2022"
+      ]
+    },
+    {
+      "cueStart": 769,
+      "cueEnd": 780,
+      "title": "Setor privado não faria nada em inovação",
+      "speaker": "Elias Jabbour",
+      "verdict": "Falso",
+      "explanation": "A NSF registra participação empresarial majoritária no financiamento e na execução da P&D americana em 2020. O papel decisivo de pesquisa pública em algumas tecnologias não elimina o investimento privado. Dados históricos posteriormente consolidados refutam a ausência absoluta.",
+      "sources": [
+        "eco-nsf2020"
+      ]
+    },
+    {
+      "cueStart": 781,
+      "cueEnd": 792,
+      "title": "Fundo alemão de 15 milhões de euros",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Nome do fundo, valor e objetivo aparecem incompletos no SRT. Não há identificação suficiente para distinguir um programa de pesquisa de um banco de desenvolvimento ou para conferir a unidade monetária.",
+      "sources": []
+    },
+    {
+      "cueStart": 805,
+      "cueEnd": 816,
+      "title": "Collor teria reduzido tarifas de 30% para 10% no primeiro ato",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A publicação contemporânea do Ipea descrevia um cronograma de redução da tarifa média de 32,2% em 1990 para 14,2% em 1994, com alíquotas diversas por produto. Não corresponde a redução uniforme de 30% para 10% no primeiro ato; média, tarifa modal e alíquotas individuais são medidas distintas.",
+      "sources": [
+        "eco-collor"
+      ]
+    },
+    {
+      "cueStart": 865,
+      "cueEnd": 924,
+      "title": "O Capital, modelos de comunismo e propriedade",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A discussão versa sobre interpretação de obras e sobre que formas de propriedade merecem o nome de socialismo. As avaliações de coerência dos sistemas não são contadas como fatos estatísticos.",
+      "sources": []
+    },
+    {
+      "cueStart": 937,
+      "cueEnd": 972,
+      "title": "China acabaria com toda religião",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala usa uma generalização sobre objetivo e prática religiosa sem delimitar grupo, lei e período. A investigação sobre Xinjiang documenta repressão severa a muçulmanos, mas não comprova que toda religião tenha sido eliminada em todo o país.",
+      "sources": [
+        "eco-xinjiang"
+      ]
+    },
+    {
+      "cueStart": 985,
+      "cueEnd": 1008,
+      "title": "Lei britânica da bandeira vermelha e influência de interesses econômicos",
+      "speaker": "Renata Barreto",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A seção 3 da lei britânica de 1865 exigia equipe de ao menos três pessoas e uma delas com bandeira vermelha pelo menos 60 jardas à frente da locomotiva rodoviária. A regra é confirmada; o texto legislativo, por si, não prova a explicação exclusiva por lobby de uma indústria.",
+      "sources": [
+        "eco-redflag"
+      ]
+    },
+    {
+      "cueStart": 1093,
+      "cueEnd": 1104,
+      "title": "Constituição americana seria exatamente a mesma",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O documento-base permanece o de 1787, mas sofreu 27 emendas, incluindo transformações substantivas como abolição da escravidão e extensão do voto. Continuidade formal não significa texto e direitos intocados.",
+      "sources": [
+        "eco-emendas-us"
+      ]
+    },
+    {
+      "cueStart": 1105,
+      "cueEnd": 1117,
+      "title": "O que explica crescimento chinês após Deng",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A discussão atribui resultados a mercados, Estado e reformas. Essa decomposição causal é interpretação econômica; não se apresenta um experimento ou modelo que permita atribuir todo crescimento a um só fator.",
+      "sources": []
+    },
+    {
+      "cueStart": 1118,
+      "cueEnd": 1140,
+      "title": "Agenda 2030 manda diminuir a produção de comida",
+      "speaker": "Renata Barreto",
+      "verdict": "Falso",
+      "explanation": "O objetivo 2 propõe acabar com a fome, aumentar produtividade agrícola e promover sistemas sustentáveis de produção. Não contém ordem geral para reduzir oferta de comida ou produzir fome como etapa de transição.",
+      "sources": [
+        "eco-agenda"
+      ]
+    },
+    {
+      "cueStart": 1177,
+      "cueEnd": 1188,
+      "title": "Todos os dez primeiros presidentes dos Estados Unidos tinham escravizados",
+      "speaker": "Elias Jabbour",
+      "verdict": "Falso",
+      "explanation": "John Adams, o segundo presidente, declarou nunca ter possuído escravizados; a documentação do National Park Service registra esse fato. Esse contraexemplo basta para refutar o absoluto sobre os dez primeiros.",
+      "sources": [
+        "eco-adams"
+      ]
+    },
+    {
+      "cueStart": 1201,
+      "cueEnd": 1236,
+      "title": "Colonialismo teria destruído toda a tecelagem indiana",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não define região, intervalo e medida de destruição. Perda de participação manufatureira e desindustrialização não significam desaparecimento de toda produção têxtil. Não se confirmou a abrangência absoluta do relato.",
+      "sources": []
+    },
+    {
+      "cueStart": 1237,
+      "cueEnd": 1248,
+      "title": "Nova Zelândia e Austrália reduzidas a leite e minério na comparação econômica",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O trecho usa uma redução retórica para desqualificar esses países como parâmetro industrial e chega a reconhecer outros produtos no final. Não é adequado lê-lo como negação literal de toda outra exportação. Stats NZ registra carne e turismo, e a documentação australiana inclui carvão, gás e serviços; a concentração em produtos primários não descreve toda a estrutura econômica usada na comparação.",
+      "sources": [
+        "eco-nzexport",
+        "eco-auexport"
+      ]
+    },
+    {
+      "cueStart": 1249,
+      "cueEnd": 1258,
+      "title": "Alemanha teria exatamente oito bancos de desenvolvimento",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não enumera as instituições nem distingue Kf W, bancos regionais de fomento e Landesbanken. Esses conjuntos não são intercambiáveis; não foi possível confirmar a contagem de oito sob uma definição consistente.",
+      "sources": [],
+      "alsoAt": [
+        {
+          "cueStart": 4177,
+          "cueEnd": 4188
+        }
+      ]
+    },
+    {
+      "cueStart": 1261,
+      "cueEnd": 1284,
+      "title": "Gasto estatal do Brasil seria menor que o dos Estados Unidos e Alemanha",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Falta o ano e a definição: governo central ou geral, despesa primária ou total, com ou sem transferências. A pandemia alterou fortemente as séries. Comparar cargas tributárias, por sua vez, não resolve uma afirmação sobre despesa.",
+      "sources": [
+        "eco-dinamarca-tax"
+      ]
+    },
+    {
+      "cueStart": 1296,
+      "cueEnd": 1308,
+      "title": "Participação dos salários voltara ao nível brasileiro de 1930",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi apresentada uma série homogênea de remuneração dos empregados sobre PIB que alcance 1930. Massa salarial, rendimento médio e participação do trabalho são indicadores diferentes, especialmente com revisões das contas nacionais.",
+      "sources": []
+    },
+    {
+      "cueStart": 1321,
+      "cueEnd": 1380,
+      "title": "Bancos e política industrial no Japão e Coreia",
+      "speaker": "Elias Jabbour",
+      "verdict": "opinion",
+      "explanation": "A atribuição de primazia a crédito dirigido, política nacional ou empresários é uma interpretação de desenvolvimento. Não se transformou essa tese geral em prova exclusiva de sucesso de um sistema.",
+      "sources": []
+    },
+    {
+      "cueStart": 1393,
+      "cueEnd": 1404,
+      "title": "Alemanha 16ªe Brasil 133ºno Heritage 2022",
+      "speaker": "Renata Barreto",
+      "verdict": "Verdadeiro",
+      "explanation": "A edição 2022 do índice registra essas posições. A confirmação vale para o ranking e seu método, não para concluir que a posição demonstra causalmente uma teoria econômica.",
+      "sources": [
+        "eco-heritage2022"
+      ]
+    },
+    {
+      "cueStart": 1453,
+      "cueEnd": 1478,
+      "title": "Rendas de Luxemburgo e Estônia e cronologia de Mart Laar",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "Os valores aparecem sem ano, paridade de compra ou moeda constante, e a comparação é atravessada por falhas de reconhecimento. Não se usaram números atuais para reconstruir valores pretéritos; tampouco se atribuiu ao debatedor o ano truncado da legenda.",
+      "sources": []
+    },
+    {
+      "cueStart": 1501,
+      "cueEnd": 1524,
+      "title": "Todos os médicos que alertaram sobre covid teriam sido mortos ou desaparecido",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "A alegação não nomeia o conjunto de médicos nem individualiza causas e datas de morte ou desaparecimento. Repressão à expressão e doença são eventos diferentes; a universalização não pode ser comprovada por casos isolados.",
+      "sources": []
+    },
+    {
+      "cueStart": 1540,
+      "cueEnd": 1560,
+      "title": "Desligamento nuclear alemão explicaria a crise energética europeia",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho mistura situação de reatores, gás russo e política climática sem período e sem decomposição da oferta. Não há base para atribuir exclusivamente a uma decisão a crise europeia de 2022. O indicador de emissões da IEA não resolve essa atribuição causal.",
+      "sources": [
+        "eco-iea2021"
+      ]
+    },
+    {
+      "cueStart": 1575,
+      "cueEnd": 1608,
+      "title": "Capitalismo e abolição da escravidão",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A explicação da abolição por um sistema econômico é uma tese histórica e moral. Não se apresenta uma medida que isole sua contribuição de guerras, legislação e movimentos abolicionistas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1575,
+      "cueEnd": 1608,
+      "title": "Origem da palavra escravo no termo eslavo",
+      "speaker": "Renata Barreto",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O verbete etimológico do Oxford English Dictionary relaciona o latim medieval sclavus ao nome dos povos eslavos escravizados. A conexão lexical é aceita com discussão de alternativas; não significa que a instituição da escravidão tenha surgido entre eslavos ou somente naquele período.",
+      "sources": [
+        "eco-etimologia"
+      ]
+    },
+    {
+      "cueStart": 1615,
+      "cueEnd": 1644,
+      "title": "Friedman e Schwartz teriam negado a relação entre moeda e inflação",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda não preserva com clareza título, ano ou frase atribuída. Sem edição e página não se pode resolver se a discussão trata de prazo de transmissão, demanda de moeda ou negação da relação. Não se autenticou uma citação reconstruída.",
+      "sources": []
+    },
+    {
+      "cueStart": 1653,
+      "cueEnd": 1668,
+      "title": "Investimento chinês na ordem de 45% do PIB",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A série histórica de formação bruta de capital do Banco Mundial registra aproximadamente 42,7% em 2021 e 46,3% em 2011. A ordem de grandeza é compatível; não é uma taxa fixa por vinte anos nem apenas investimento estatal.",
+      "sources": [
+        "eco-invest-china"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 5413,
+          "cueEnd": 5424
+        }
+      ]
+    },
+    {
+      "cueStart": 1669,
+      "cueEnd": 1728,
+      "title": "Estados Unidos teriam passado vinte anos sem inflação",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A série histórica de preços ao consumidor registra aumentos ao longo do período, anteriores à aceleração de 2021–2022. Inflação baixa não equivale a inflação zero; expansão monetária também não determina mecanicamente uma alta imediata de mesma proporção.",
+      "sources": [
+        "eco-cpi-hist"
+      ]
+    },
+    {
+      "cueStart": 1753,
+      "cueEnd": 1788,
+      "title": "Ano do Nobel de Paul Romer",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O prêmio foi concedido em 2018, mas o nome e o ano aparecem corrompidos na legenda, que sugere 1993. Sem conferência do áudio não se sabe se houve erro de fala ou de reconhecimento; não se atribui uma data errada ao participante.",
+      "sources": [
+        "eco-romer"
+      ]
+    },
+    {
+      "cueStart": 1753,
+      "cueEnd": 1788,
+      "title": "99,7% das inovações fracassariam",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não há estudo, setor, período ou definição de inovação citados. Fracasso de projetos de pesquisa, startups e patentes são universos distintos; uma taxa universal não foi confirmada.",
+      "sources": [
+        "eco-nsf2020"
+      ]
+    },
+    {
+      "cueStart": 1753,
+      "cueEnd": 1788,
+      "title": "SMIC e um trilhão em investimento em um ano",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Nome, cifra, moeda e janela estão truncados no SRT. Um avanço de processo industrial não demonstra por si só o investimento agregado descrito. Não se completou a cifra a partir de notícias de outras datas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1797,
+      "cueEnd": 1801,
+      "title": "43% dos dólares teriam sido emitidos em dois anos",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A fala não fixa agregado nem datas. O Fed mudou a definição de M 1 em maio 2020 para incluir depósitos de poupança, produzindo quebra de série. Crescimento percentual entre dois estoques também não equivale à parcela do estoque final criada; não se confirma 43% de todo dólar existente.",
+      "sources": [
+        "eco-m1"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 1873,
+          "cueEnd": 1885
+        }
+      ]
+    },
+    {
+      "cueStart": 1813,
+      "cueEnd": 1825,
+      "title": "Califórnia exigiria três pessoas para um caminhão",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A AB 5 codifica um teste com três requisitos para classificar trabalho independente; o texto não determina três empregados por caminhão. Como há possível erro de reconhecimento em número e objeto, não se atribui ao locutor uma versão acústica não conferida.",
+      "sources": [
+        "eco-ab5"
+      ]
+    },
+    {
+      "cueStart": 1884,
+      "cueEnd": 1896,
+      "title": "Fed passou a remunerar reservas excedentes em 2008",
+      "speaker": "Elias Jabbour",
+      "verdict": "Verdadeiro",
+      "explanation": "O anúncio de 6/10/2008 fixou vigência a partir de 9/10/2008 para remunerar reservas obrigatórias e excedentes. A antecipação do regime é documentalmente confirmada.",
+      "sources": [
+        "eco-fed2008"
+      ]
+    },
+    {
+      "cueStart": 1897,
+      "cueEnd": 1920,
+      "title": "Inflação americana perto do maior patamar em quarenta anos",
+      "speaker": "Renata Barreto",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O CPI acumulou 9,1% em junho 2022 e 8,5% em julho. O pico de junho era o mais alto desde 1981; é correto o enquadramento histórico americano, sem supor que todos os meses ou todos os países tenham o mesmo recorde.",
+      "sources": [
+        "eco-cpi2022"
+      ]
+    },
+    {
+      "cueStart": 1897,
+      "cueEnd": 1920,
+      "title": "Energia nuclear seria a mais limpa e a mais segura de todas",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "A classificação exige métrica: emissões do ciclo de vida, mortes por unidade de energia, acidentes ou resíduos. Não há tabela comparativa identificada no trecho; baixa emissão operacional não decide sozinha todos esses critérios.",
+      "sources": [
+        "eco-iea2021"
+      ]
+    },
+    {
+      "cueStart": 1933,
+      "cueEnd": 1968,
+      "title": "Primeira inflação e fim do lastro em ouro",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda torna ambígua a cronologia e não especifica país, padrão monetário ou índice. Não é possível validar uma primeira inflação universal a partir dessa formulação, nem decidir se a discussão era sobre um episódio moderno particular.",
+      "sources": []
+    },
+    {
+      "cueStart": 1933,
+      "cueEnd": 1968,
+      "title": "Bitcoin impediria inflação por ser limitado",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Limite de unidades, emissão de outras criptomoedas e variação de preços são conceitos diferentes. A legenda não conserva o enunciado técnico com precisão suficiente para distinguir limite do protocolo de uma alegação sobre poder de compra.",
+      "sources": []
+    },
+    {
+      "cueStart": 1993,
+      "cueEnd": 2004,
+      "title": "Prédios vazios implodidos provariam uma bolha chinesa",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica o empreendimento exibido, a cidade ou sua condição jurídica. A implosão de um conjunto não mede a vacância nacional; a previsão de colapso é uma hipótese econômica, não resultado observado no trecho.",
+      "sources": []
+    },
+    {
+      "cueStart": 2017,
+      "cueEnd": 2028,
+      "title": "China teria roubado toda a tecnologia e propriedade intelectual",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados patentes, processos ou réus suficientes para sustentar a abrangência nacional. A existência de acusações ou condenações específicas não demonstra que toda tecnologia chinesa decorra de roubo.",
+      "sources": []
+    },
+    {
+      "cueStart": 2017,
+      "cueEnd": 2028,
+      "title": "Há documentação de graves abusos contra uigures",
+      "speaker": "Renata Barreto",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A investigação original da HRW de 2018 reúne entrevistas, documentos e políticas oficiais sobre detenção e repressão em Xinjiang. Isso sustenta a existência dos abusos; chamar juridicamente de genocídio exige critérios próprios e não equivale a condenação internacional transitada.",
+      "sources": [
+        "eco-xinjiang"
+      ]
+    },
+    {
+      "cueStart": 2041,
+      "cueEnd": 2054,
+      "title": "China não aderiu ao Acordo de Paris",
+      "speaker": "Renata Barreto",
+      "verdict": "Falso",
+      "explanation": "A China ratificou o acordo em 3/9/2016, junto aos Estados Unidos. A alegação de que estava fora em 2022 é incompatível com o registro da UNFCCC.",
+      "sources": [
+        "eco-paris"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 2271,
+          "cueEnd": 2292
+        }
+      ]
+    },
+    {
+      "cueStart": 2063,
+      "cueEnd": 2100,
+      "title": "Estados Unidos teriam 800 bases e contagens precisas de intervenções",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala agrega bases, instalações, países e operações militares sem definir o universo. As contagens 17 e 47 tampouco vêm acompanhadas da lista e critério de inclusão. Não é possível validá-las como totais comparáveis.",
+      "sources": []
+    },
+    {
+      "cueStart": 2063,
+      "cueEnd": 2100,
+      "title": "Estados Unidos só teriam vivido dez anos de paz",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há definição de guerra, data inicial ou lista anual. Somar presença militar, conflitos autorizados e guerras formais produz contagens diferentes; o absoluto não foi documentalmente estabelecido.",
+      "sources": []
+    },
+    {
+      "cueStart": 2111,
+      "cueEnd": 2137,
+      "title": "Denúncias sobre uigures dependeriam de um único pesquisador e não teriam prova",
+      "speaker": "Elias Jabbour",
+      "verdict": "Falso",
+      "explanation": "O relatório HRW de 2018 tem pesquisa própria, entrevistas com 58 ex-residentes, incluindo ex-detidos e familiares, além de documentação oficial. Independentemente da avaliação de Adrian Zenz, a evidência não se reduz à palavra de uma única pessoa.",
+      "sources": [
+        "eco-xinjiang"
+      ]
+    },
+    {
+      "cueStart": 2161,
+      "cueEnd": 2210,
+      "title": "Tiananmen teria sido somente um conflito, sem massacre de civis",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A documentação anterior ao debate registra disparos de tropas contra estudantes, trabalhadores e outros civis em 3–4/6/1989, com centenas ou possivelmente milhares de mortos. A existência de enfrentamentos não elimina mortes de civis; a classificação de mero conflito omite esse componente.",
+      "sources": [
+        "eco-tiananmen"
+      ]
+    },
+    {
+      "cueStart": 2161,
+      "cueEnd": 2210,
+      "title": "Dez mil mortos em Tiananmen como total estabelecido",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não há contagem pública independente e consensual com esse total exato. A documentação consultada trabalha com centenas a milhares e registra bloqueios à investigação. Não se converte uma estimativa específica em número definitivamente apurado.",
+      "sources": [
+        "eco-tiananmen"
+      ]
+    },
+    {
+      "cueStart": 2221,
+      "cueEnd": 2232,
+      "title": "Pessoas negras seriam 80% dos presos americanos",
+      "speaker": "Elias Jabbour",
+      "verdict": "Falso",
+      "explanation": "As tabelas BJS de 2020 situam a participação de negros não hispânicos entre condenados em prisões estaduais/federais na ordem de um terço, distante de 80%. Existe sobrerrepresentação racial, mas ela não valida o percentual citado; prisões e cadeias locais também exigem universos explícitos.",
+      "sources": [
+        "eco-bjs2020"
+      ]
+    },
+    {
+      "cueStart": 2221,
+      "cueEnd": 2232,
+      "title": "Estados Unidos consumiriam metade da cocaína mundial",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se especifica se metade se refere a usuários, volume, valor ou apreensões, nem o ano-base. Esses indicadores não são equivalentes. Não foi confirmada uma participação mundial única de 50%.",
+      "sources": []
+    },
+    {
+      "cueStart": 2243,
+      "cueEnd": 2256,
+      "title": "China investiria mais em energia verde que Estados Unidos e Europa juntos",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam ano e definição de investimento: renováveis, transição energética, redes ou eficiência. Somar regiões sob uma rubrica e China sob outra não produz comparação válida. A IEA confirma expansão renovável, mas isso não resolve a desigualdade numérica apresentada.",
+      "sources": [
+        "eco-iea2021"
+      ]
+    },
+    {
+      "cueStart": 2243,
+      "cueEnd": 2256,
+      "title": "China plantaria 2,5 vezes mais árvores que o resto do mundo",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A FAO registra forte ganho de área florestal na China, porém hectares líquidos, reflorestamento bruto e número de árvores são indicadores distintos. Não se localizou nessa base a razão universal 2,5 para árvores plantadas no intervalo não informado.",
+      "sources": [
+        "eco-forest2020"
+      ]
+    },
+    {
+      "cueStart": 2257,
+      "cueEnd": 2268,
+      "title": "China seria o único país com neutralidade climática em 2050",
+      "speaker": "Elias Jabbour",
+      "verdict": "Falso",
+      "explanation": "A estratégia chinesa de 2021 prevê pico deCO2 antes de 2030 e neutralidade antes de 2060; a UE já tinha lei de neutralidade para 2050. Não era compromisso exclusivo chinês. Como o número 2050 aparece em frase truncada, a exclusividade é o ponto refutado com segurança, sem atribuir pessoalmente uma troca acústica de 2050 por 2060.",
+      "sources": [
+        "eco-clima2060",
+        "eco-clima-ue"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 2461,
+          "cueEnd": 2472
+        }
+      ]
+    },
+    {
+      "cueStart": 2271,
+      "cueEnd": 2292,
+      "title": "China emitiria três ou quatro vezes o segundo maior emissor",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O relatório IEA sobre CO2 energético em 2021 registra 11,9 bilhões de toneladas para China e cerca de 4,6 bilhões para EUA: aproximadamente 2,6 vezes nessa métrica. O resultado depende do recorte e não autoriza 3–4 vezes como razão genérica; emissões acumuladas e per capita são outras medidas.",
+      "sources": [
+        "eco-iea2021"
+      ]
+    },
+    {
+      "cueStart": 2305,
+      "cueEnd": 2328,
+      "title": "Holanda nacionalizaria fazendas para cumprir ordem alimentar da Agenda 2030",
+      "speaker": "Renata Barreto",
+      "verdict": "Falso",
+      "explanation": "O plano neerlandês de 2022 respondia à poluição por nitrogênio, proteção de áreas naturais e obrigações jurídicas europeias. Incluía redução de emissões e compra de estabelecimentos; não era uma ordem da ONU para reduzir comida nem nacionalização geral da produção.",
+      "sources": [
+        "eco-holanda2022",
+        "eco-agenda"
+      ]
+    },
+    {
+      "cueStart": 2330,
+      "cueEnd": 2344,
+      "title": "China sempre cumpriria todas as metas ambientais",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A palavra sempre abrange metas de natureza e períodos diferentes. Uma estratégia anunciada para 2060 ainda não podia estar cumprida em 2022, e expansão renovável não demonstra execução integral de cada compromisso.",
+      "sources": [
+        "eco-clima2060",
+        "eco-iea2021"
+      ]
+    },
+    {
+      "cueStart": 2353,
+      "cueEnd": 2365,
+      "title": "Subsídio agrícola europeu de 300 milhões por ano",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "O orçamento da PAC em 2021–2027 é de€386,6 bilhões ao longo de sete anos. A cifra da legenda não esclarece se milhões foi erro de reconhecimento de bilhões, nem a moeda e o componente. Não se atribui um erro de unidade ao locutor sem áudio.",
+      "sources": [
+        "eco-cap"
+      ]
+    },
+    {
+      "cueStart": 2366,
+      "cueEnd": 2388,
+      "title": "Subvenção agrícola brasileira de 1,35%",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há denominador definido: valor de produção, receita dos produtores, orçamento ou PIB. São medidas que dão percentuais diferentes. A comparação com a PAC não valida esse número sem indicador e ano comuns.",
+      "sources": [
+        "eco-cap"
+      ]
+    },
+    {
+      "cueStart": 2366,
+      "cueEnd": 2388,
+      "title": "Embrapa foi criada como empresa pública em 1973",
+      "speaker": "Elias Jabbour",
+      "verdict": "Verdadeiro",
+      "explanation": "A memória institucional da Embrapa documenta a instalação em 26/4/1973. Isso confirma a origem pública e o marco temporal, sem demonstrar que toda inovação agrícola posterior tenha origem exclusiva na instituição.",
+      "sources": [
+        "eco-embrapa"
+      ]
+    },
+    {
+      "cueStart": 2401,
+      "cueEnd": 2436,
+      "title": "Tempo de assessoria parlamentar e episódio de Ronaldo Caiado",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "São relatos autobiográficos e de conversa privada sem nomeação de cargos e datas que permita conferência integral. Não se presumiu que o próprio relato documentasse o episódio ou a sua interpretação.",
+      "sources": []
+    },
+    {
+      "cueStart": 2449,
+      "cueEnd": 2460,
+      "title": "Juros e desmatamento",
+      "speaker": "Elias Jabbour",
+      "verdict": "opinion",
+      "explanation": "A afirmação é uma explicação econômica de incentivos, sem modelo e dados que isolem a contribuição dos juros. Atribuir-lhes primazia causal permanece interpretação.",
+      "sources": []
+    },
+    {
+      "cueStart": 2473,
+      "cueEnd": 2484,
+      "title": "Estados Unidos não teriam um quilômetro de alta velocidade ferroviária",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O governo autorizou o Acela a operar a 150 milhas por hora em 2000. A rede americana é limitada e não equivale à extensa malha chinesa; contudo, negar qualquer trecho ou serviço de alta velocidade ignora esse caso. Linha exclusiva e velocidade em linha modernizada são distinções relevantes.",
+      "sources": [
+        "eco-acela"
+      ]
+    },
+    {
+      "cueStart": 2485,
+      "cueEnd": 2508,
+      "title": "China já tinha 40 mil quilômetros de alta velocidade",
+      "speaker": "Elias Jabbour",
+      "verdict": "Verdadeiro",
+      "explanation": "A operadora estatal registrava mais de 40 mil quilômetros em operação ao final de 2021. É a dimensão da rede existente; os planos futuros não são quilômetros já entregues.",
+      "sources": [
+        "eco-hsr"
+      ]
+    },
+    {
+      "cueStart": 2485,
+      "cueEnd": 2508,
+      "title": "Uma viagem de duas horas em Xangai teria caído a sete ou dez minutos",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam origem, destino e modos de transporte comparados. A dimensão nacional da rede não comprova a duração desse trajeto específico.",
+      "sources": [
+        "eco-hsr"
+      ]
+    },
+    {
+      "cueStart": 2529,
+      "cueEnd": 2544,
+      "title": "Japão continuaria ocupado pelos Estados Unidos",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A ocupação aliada ocorreu em 1945–1952. Bases e aliança de segurança posteriores têm outro fundamento jurídico e não prolongam automaticamente a ocupação do pós-guerra. O emprego político de ocupado não descreve o status jurídico vigente em 2022.",
+      "sources": [
+        "eco-japao"
+      ]
+    },
+    {
+      "cueStart": 2545,
+      "cueEnd": 2559,
+      "title": "Esperança de vida chinesa passou de 35 para perto de 70 antes das reformas",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A NBS registra 35 anos em 1949 e 68 em 1981. A melhora é expressiva e a ordem de grandeza procede, mas arredondar para 70 em 1980 não é um valor exato; os dados mais antigos têm limitações de registro.",
+      "sources": [
+        "eco-nbs-vida"
+      ]
+    },
+    {
+      "cueStart": 2560,
+      "cueEnd": 2580,
+      "title": "Política de filho único, abortos forçados e envelhecimento",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho reúne coerção reprodutiva e consequências demográficas sem delimitar província, caso ou intervalo. A série populacional confirma transição demográfica, mas não quantifica os episódios de coerção narrados ou atribui todo envelhecimento a uma só política.",
+      "sources": [
+        "eco-nbs-vida"
+      ]
+    },
+    {
+      "cueStart": 2603,
+      "cueEnd": 2616,
+      "title": "Esperança de vida chinesa ultrapassou a americana no início da década",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O anúncio chinês anterior ao debate indica 78,2 anos em 2021. OCDC divulgou em 31/8/2022, dois dias depois do debate, estimativa americana preliminar de 76,1 para 2021. A comparação retrospectiva é compatível, mas essa divulgação posterior não é prova de disponibilidade daquela cifra americana em 29/8.",
+      "sources": [
+        "eco-vida-china2021",
+        "eco-vida-us2021"
+      ]
+    },
+    {
+      "cueStart": 2603,
+      "cueEnd": 2616,
+      "title": "Guerras do Ópio e caracterização da China como colonizada por cem anos",
+      "speaker": "Elias Jabbour",
+      "verdict": "opinion",
+      "explanation": "A expressão resume uma interpretação de dominação e imposição externa. Ela não especifica soberania integral, concessões ou protetorados; a classificação histórica ampla não recebe uma contagem estatística.",
+      "sources": []
+    },
+    {
+      "cueStart": 2629,
+      "cueEnd": 2652,
+      "title": "Grande Salto teria matado entre 40 e 70 milhões e Mao 70 milhões",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "As estimativas variam por período, contrafactual e definição de mortes. A pesquisa de Meng,Qian,Yared analisa a fome de 1959–1961 e seus mecanismos; ela não estabelece os dois totais agregados da fala como números consensuais. Não se confundem fome, Revolução Cultural e toda a era Mao.",
+      "sources": [
+        "eco-fome-china"
+      ]
+    },
+    {
+      "cueStart": 2725,
+      "cueEnd": 2748,
+      "title": "Fome chinesa seria explicada sobretudo por clima e isolamento",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A investigação econômica identifica mecanismos de requisição de grãos e falhas de informação e resposta do planejamento, além do choque de produção. Fatores climáticos não eliminam responsabilidade das políticas. A multiplicidade de causas não permite reduzir o evento a desastre natural.",
+      "sources": [
+        "eco-fome-china"
+      ]
+    },
+    {
+      "cueStart": 2749,
+      "cueEnd": 2784,
+      "title": "Campanha contra pardais e influência de Lysenko",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não distingue documentos da campanha, práticas agronômicas e intenção pessoal atribuída a Mao. A explicação por superstição é inferência psicológica; o estudo sobre a fome não demonstra sozinho cada prática citada.",
+      "sources": [
+        "eco-fome-china"
+      ]
+    },
+    {
+      "cueStart": 2795,
+      "cueEnd": 2819,
+      "title": "PIBindustrial chinês cresceu 6,6% ao ano até 1975",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se fixa o ano inicial, índice real, método de ponderação ou se a taxa é do produto industrial ou de todo o PIB. A indicação genérica ao Banco Mundial não resolve essas escolhas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2821,
+      "cueEnd": 2832,
+      "title": "Datas de metrô de Pequim e primeiro satélite chinês",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A documentação oficial registra início do metrô em 1969 e lançamento do Dongfanghong I em 24/4/1970. O SRT sugere 1975 e 1971, mas está severamente truncado. Registram-se as datas documentadas sem afirmar erro pessoal não conferido no áudio.",
+      "sources": [
+        "eco-pequim-metro",
+        "eco-satellite"
+      ]
+    },
+    {
+      "cueStart": 2821,
+      "cueEnd": 2832,
+      "title": "Primeira bomba atômica chinesa em 1964",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O registro oficial chinês data o primeiro teste de 16/10/1964. Esse marco é distinto da bomba de hidrogênio de 1967 e do satélite de 1970.",
+      "sources": [
+        "eco-bomb"
+      ]
+    },
+    {
+      "cueStart": 2833,
+      "cueEnd": 2916,
+      "title": "Bangladesh e Coreia do Norte como testes de sistemas econômicos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os participantes divergem sobre que métrica define capitalismo. Usar países como contraexemplo depende desse pressuposto; o ranking é verificado separadamente e não demonstra causalidade sozinho.",
+      "sources": []
+    },
+    {
+      "cueStart": 2917,
+      "cueEnd": 2940,
+      "title": "Independência de Bangladesh e mortalidade comparada desde 1949",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda mistura anos e países na passagem. Uma série do território que virou Bangladesh não é automaticamente a de um Estado já independente, e taxas brutas exigem estrutura etária comparável. Não se reconstruíram valores de 1949 a partir de séries posteriores incompletas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2941,
+      "cueEnd": 2952,
+      "title": "Vinte milhões morreriam de fome por ano e nenhum em China,Cuba ou Vietnã",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há base de mortalidade, ano ou classificação da causa apresentada. Índices de subalimentação não são contagem de óbitos. O absoluto nenhum exigiria registros de causas de morte de cada país, não apenas posição baixa no GHI.",
+      "sources": [
+        "eco-ghi2021"
+      ]
+    },
+    {
+      "cueStart": 2953,
+      "cueEnd": 2964,
+      "title": "Fim do Obamacare causaria 100 a 150 mil mortes por ano",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "O resultado deriva de supor uma mortalidade incremental fixa para toda a população que perderia cobertura, sem estudo identificado. Pessoas seguradas e não seguradas têm perfis diferentes; multiplicar cobertura por uma taxa não produz automaticamente estimativa causal de mortes.",
+      "sources": []
+    },
+    {
+      "cueStart": 2973,
+      "cueEnd": 2988,
+      "title": "População chinesa foi de cerca de 600 milhões a 1 bilhão entre 1949 e 1980",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A tabela NBS registra 541,67 milhões em 1949 e 987,05 milhões em 1980. O ponto final é boa aproximação; o inicial é superestimado, e crescimento populacional não quantifica por si só vidas salvas por um regime.",
+      "sources": [
+        "eco-nbs-pop"
+      ]
+    },
+    {
+      "cueStart": 2973,
+      "cueEnd": 2988,
+      "title": "China teria salvado cinco milhões de vidas por ano em relação a Bangladesh",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Trata-se de contrafactual baseado em aplicar taxa bruta de outro país à população chinesa. Sem controlar idade, composição e condições iniciais, não se identificam mortes observadas nem o efeito isolado do sistema político.",
+      "sources": [
+        "eco-nbs-vida"
+      ]
+    },
+    {
+      "cueStart": 3001,
+      "cueEnd": 3012,
+      "title": "Quotas e requisições de grãos contribuíram para a fome chinesa",
+      "speaker": "Renata Barreto",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A pesquisa institucional encontra maior mortalidade em certas regiões de alta produção e modela requisições e informação deficiente no planejamento. Sustenta o papel das políticas; não demonstra que todo relato particular de exportação ou falsificação na fala tenha sido apurado.",
+      "sources": [
+        "eco-fome-china"
+      ]
+    },
+    {
+      "cueStart": 3025,
+      "cueEnd": 3048,
+      "title": "Coletivização soviética e seis mil tanques em Berlim",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica a operação, data, total de tanques presentes ou em produção. O nexo entre exportação agrícola e cada equipamento militar também não é demonstrado por uma contagem isolada.",
+      "sources": []
+    },
+    {
+      "cueStart": 3073,
+      "cueEnd": 3096,
+      "title": "Lista dos dez países com mais fome no GHI",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O GHI 2021 inclui países citados entre situações graves, mas há empates e países sem pontuação suficiente para entrar no ranking, incluindo casos muito graves. A enumeração verbal não reproduz de modo rigoroso um top 10 completo e comparável. O índice reúne subalimentação e indicadores infantis, não apenas mortes de fome.",
+      "sources": [
+        "eco-ghi2021"
+      ]
+    },
+    {
+      "cueStart": 3110,
+      "cueEnd": 3120,
+      "title": "População mundial de 1 bilhão em 1800 a quase 8 bilhões",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda usa milhão em uma das pontas de uma comparação cujo contexto sugere bilhão. Não se atribui ao participante um erro de unidade sem conferir o áudio. Também são aproximadas as estimativas do início do século XIX.",
+      "sources": []
+    },
+    {
+      "cueStart": 3110,
+      "cueEnd": 3120,
+      "title": "Riqueza mundial cresceu 9000% desde 1800",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não se define riqueza como estoque patrimonial,PIBreal total ou renda por pessoa, nem a paridade de preços. Esses indicadores produzem taxas muito diferentes; o percentual não pode ser validado sem a série usada.",
+      "sources": []
+    },
+    {
+      "cueStart": 3153,
+      "cueEnd": 3180,
+      "title": "Estados Unidos não teriam construído uma única ponte no Afeganistão",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica inventário de infraestrutura nem separa financiamento americano de execução por contratistas ou autoridades afegãs. O absoluto não foi corroborado; avaliação dos resultados de vinte anos exige projetos individualizados, não só o gasto agregado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3193,
+      "cueEnd": 3204,
+      "title": "Estados Unidos tinham a maior população prisional",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O World Prison Population List publicado em dezembro 2021 registrava mais de 2 milhões nos EUA e quase 1,7 milhão na China. A posição procede entre os totais publicados, com a ressalva explícita de detenções chinesas não contabilizadas e diferenças de cobertura.",
+      "sources": [
+        "eco-prisoes2021"
+      ]
+    },
+    {
+      "cueStart": 3205,
+      "cueEnd": 3216,
+      "title": "Mortes de crianças no Iêmen e custo de eleição presidencial americana",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "As duas cifras e suas unidades saem truncadas no SRT. O relatório ONU 2021 menciona mais de 377 mil mortes ligadas ao conflito, incluindo 10 mil crianças, com métodos e categorias distintos. Não se converte o número ilegível em uma imputação específica de autoria nem se reconstrói o gasto eleitoral sem escopo.",
+      "sources": [
+        "eco-yemen"
+      ]
+    },
+    {
+      "cueStart": 3249,
+      "cueEnd": 3276,
+      "title": "Apoio americano a mujahedin equivaleria a financiar diretamente a Al Qaeda",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O histórico da Comissão 9/11 distingue a guerra antissoviética, redes de voluntários árabes e constituição da Al Qaeda. Apoio a grupos afegãos não comprova, por identidade, financiamento direto à organização terrorista que realizou os atentados.",
+      "sources": [
+        "eco-911"
+      ]
+    },
+    {
+      "cueStart": 3249,
+      "cueEnd": 3276,
+      "title": "Iraque teria financiado os atentados de 11 de Setembro",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "AComissão 9/11 não encontrou evidência de relação operacional colaborativa de Iraque com Al Qaeda para ataques aos EUA. Contatos entre pessoas e governos não estabelecem financiamento do 11/9.",
+      "sources": [
+        "eco-911"
+      ]
+    },
+    {
+      "cueStart": 3273,
+      "cueEnd": 3288,
+      "title": "PIBpor pessoa afegão dobrou sob a ocupação americana",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam os anos, preços correntes ou constantes e poder de compra. Mesmo um crescimento entre dois pontos não isolaria o efeito da presença militar; não se atribuiu causalidade exclusiva a ela.",
+      "sources": []
+    },
+    {
+      "cueStart": 3273,
+      "cueEnd": 3288,
+      "title": "Mulheres afegãs perderam todo acesso à educação já em 2022",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A UNICEF documenta a manutenção da proibição de escolas secundárias para meninas em março 2022. Isso não equivale a todas as modalidades e idades sem educação. Restrições universitárias posteriores aagosto 2022 não foram retroativamente aplicadas à data do debate.",
+      "sources": [
+        "eco-unicef2022"
+      ]
+    },
+    {
+      "cueStart": 3313,
+      "cueEnd": 3336,
+      "title": "Hamas controlaria toda a Palestina",
+      "speaker": "Renata Barreto",
+      "verdict": "Falso",
+      "explanation": "A documentação da ONU distingue a tomada de Gaza pelo Hamas em 2007 e a administração palestina sediada na Cisjordânia. Controle de Gaza não significa controle de todos os territórios palestinos.",
+      "sources": [
+        "eco-hamas2007"
+      ]
+    },
+    {
+      "cueStart": 3341,
+      "cueEnd": 3360,
+      "title": "Primeira Emenda permitiria qualquer fala",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A proteção americana é ampla, mas a Suprema Corte permite punir incitação dirigida e provável a produzir ação ilegal iminente. Defesa abstrata de ideias e ameaça ou incitação concreta não são juridicamente a mesma coisa; portanto não existe licença para absolutamente qualquer fala.",
+      "sources": [
+        "eco-brandenburg"
+      ]
+    },
+    {
+      "cueStart": 3381,
+      "cueEnd": 3408,
+      "title": "Oito bilionários controlariam toda mídia americana e sete famílias 70% da brasileira",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se define mercado, propriedade, receita ou audiência, nem a lista de grupos e ano. Contagem de famílias não se converte automaticamente em quota de controle; não foi obtida uma base homogênea que confirme os dois absolutos.",
+      "sources": []
+    },
+    {
+      "cueStart": 3395,
+      "cueEnd": 3408,
+      "title": "Carter teria validado sem ressalvas a democracia eleitoral venezuelana",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Em 2019 o próprio Carter esclareceu que seu elogio de 2012 se referia às máquinas e foi indevidamente usado para legitimar eleições posteriores que o Centro não observou. A avaliação técnica não equivale a chancela geral de todos os pleitos e condições de competição.",
+      "sources": [
+        "eco-carter2019"
+      ]
+    },
+    {
+      "cueStart": 3410,
+      "cueEnd": 3444,
+      "title": "Colégio Eleitoral e definição de democracia",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os debatedores atribuem significados diferentes à representação e à escolha indireta. Preferir um modelo não é, por si, afirmação factual de fraude ou de inexistência de eleição.",
+      "sources": []
+    },
+    {
+      "cueStart": 3410,
+      "cueEnd": 3444,
+      "title": "Venezuela teria 90% de pobres",
+      "speaker": "Renata Barreto",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A ENCOVI 2021, disponível na data do debate, estimava pobreza de renda em 94,5% da população . A ordem de grandeza próxima de 90% procede, mas o denominador importa; a pesquisa não mede todas as dimensões de pobreza e foi coletada em fevereiro–abril 2021, não é uma taxa instantânea de agosto 2022.",
+      "sources": [
+        "eco-encovi2021"
+      ]
+    },
+    {
+      "cueStart": 3471,
+      "cueEnd": 3520,
+      "title": "Fundo venezuelano de 80 milhões ou bilhões teria sido congelado",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "O valor e o tipo de ativo estão corrompidos na legenda. A decisão britânica trata de cerca de US$1,95 bilhão em ouro e de outra operação de US$120 milhões; ela não documenta o total global de 80 da fala. Não se somaram jurisdições e ativos diferentes como se fossem um fundo único.",
+      "sources": [
+        "eco-gold"
+      ]
+    },
+    {
+      "cueStart": 3471,
+      "cueEnd": 3520,
+      "title": "Ouro venezuelano no Banco da Inglaterra estava bloqueado para disputa de representação",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O julgamento UKSC 57 de 2021 registra o ouro e o conflito entre diretorias que reivindicavam poder para instruir o BCV. Confirma a indisponibilidade discutida, mas não uma transferência da propriedade do ouro ao governo britânico.",
+      "sources": [
+        "eco-gold"
+      ]
+    },
+    {
+      "cueStart": 3525,
+      "cueEnd": 3564,
+      "title": "Impeachment de 2016 seria golpe motivado pela distribuição de renda",
+      "speaker": "Elias Jabbour",
+      "verdict": "opinion",
+      "explanation": "Golpe e motivação de classe são interpretações políticas e causais. A existência de uma explicação teórica não prova intenção individual nem substitui o julgamento institucional e a análise jurídica dos atos.",
+      "sources": []
+    },
+    {
+      "cueStart": 3525,
+      "cueEnd": 3564,
+      "title": "Créditos do impeachment depois foram legalizados e todos os presidentes faziam igual",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não individualiza decretos, exercícios e a lei posterior invocada. Sem esses atos, não se estabelece identidade entre condutas anteriores, regras vigentes e o objeto específico do julgamento de 2016.",
+      "sources": []
+    },
+    {
+      "cueStart": 3577,
+      "cueEnd": 3600,
+      "title": "Sanções impediriam qualquer compra de comida ou remédio pela Venezuela",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A orientação OFAC baseada no decreto de 2019 contém exceções humanitárias e permite determinadas exportações de alimentos e medicamentos. Isso não exclui dificuldades bancárias e efeitos indiretos das sanções, mas refuta a proibição jurídica absoluta de qualquer compra.",
+      "sources": [
+        "eco-ofac519"
+      ]
+    },
+    {
+      "cueStart": 3601,
+      "cueEnd": 3612,
+      "title": "Bush teria fechado 17 canais de TV",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há lista de emissoras, datas ou agência responsável. Não se pode equiparar encerramento comercial, fim de licença e censura presidencial sem identificar os casos.",
+      "sources": []
+    },
+    {
+      "cueStart": 3625,
+      "cueEnd": 3636,
+      "title": "TVestatal venezuelana teria surgido de confisco de uma emissora privada",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O caso RCTV envolve a não renovação da concessão em 2007 e medidas sobre equipamentos; a Corte IDH reconheceu violação à liberdade de expressão. Concessão de frequência, propriedade empresarial e anúncio musical são questões distintas; o relato comprimido não demonstra confisco integral de toda a empresa.",
+      "sources": [
+        "eco-rctv"
+      ]
+    },
+    {
+      "cueStart": 3661,
+      "cueEnd": 3684,
+      "title": "China possuía três trilhões de dólares de reservas",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O comunicado NBS de 2021 registra reservas cambiais deUS$3,2502 trilhões ao final daquele ano, compatíveis com a ordem de grandeza citada em 2022. Não se confunde esse conjunto com apenas títulos do Tesouro americano ou com um estoque necessariamente disponível para congelamento unilateral.",
+      "sources": [
+        "eco-nbs2021"
+      ]
+    },
+    {
+      "cueStart": 3661,
+      "cueEnd": 3684,
+      "title": "China como maior compradora de títulos americanos",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A pesquisa do Tesouro para 30/6/2022 coloca Japão à frente da China em estoque de Treasuries. Se compradora significa fluxo de novas compras, a fala não fixa o período e o indicador é outro. Ser grande credora não demonstra liderança em qualquer das medidas; a publicação posterior descreve a posição histórica daquele mês.",
+      "sources": [
+        "eco-ust2022"
+      ]
+    },
+    {
+      "cueStart": 3685,
+      "cueEnd": 3756,
+      "title": "Soberania, autodeterminação e intervenção internacional",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A discussão apresenta juízos sobre legitimidade e responsabilidades de potências. Esses valores e inferências gerais não são convertidos em fatos mensuráveis.",
+      "sources": []
+    },
+    {
+      "cueStart": 3769,
+      "cueEnd": 3792,
+      "title": "Riqueza escandinava seria consequência de Estado pequeno entre 1850 e 1950",
+      "speaker": "Renata Barreto",
+      "verdict": "opinion",
+      "explanation": "O argumento é uma explicação de longo prazo que exige comparar vários fatores históricos. O tamanho contemporâneo de governo ou uma correlação não identifica sozinho a causa da industrialização.",
+      "sources": []
+    },
+    {
+      "cueStart": 3793,
+      "cueEnd": 3804,
+      "title": "Suécia teria se industrializado como divisão da Alemanha nazista",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não apresenta série industrial, anos de início ou documentação do vínculo descrito. Comércio com a Alemanha nos anos 1930 e 1940 não comprova que toda a industrialização tenha nascido nesse período ou sob essa relação.",
+      "sources": []
+    },
+    {
+      "cueStart": 3804,
+      "cueEnd": 3816,
+      "title": "Noruega teria 70% da propriedade nas mãos do Estado",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não se esclarece se a quota é do patrimônio líquido, empresas listadas, ativos financeiros ou toda propriedade nacional. A autocorreção imediata de Nokia para Finlândia foi preservada sem gerar erro adicional; não resolve o percentual norueguês.",
+      "sources": []
+    },
+    {
+      "cueStart": 3853,
+      "cueEnd": 3888,
+      "title": "Dinamarca seria oitava no Heritage 2022",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A edição 2022 coloca Dinamarca em 10ºlugar. Continua sendo posição elevada; a diferença não altera o sentido qualitativo, mas o ordinal citado não corresponde à edição consultada.",
+      "sources": [
+        "eco-heritage2022"
+      ]
+    },
+    {
+      "cueStart": 3853,
+      "cueEnd": 3888,
+      "title": "Abrir empresa na Dinamarca demoraria um dia",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não define tipo de empresa, cadastro digital, licenças setoriais ou início efetivo da operação. Um prazo de registro não é prazo universal para toda atividade; não se confirmou a afirmação geral.",
+      "sources": []
+    },
+    {
+      "cueStart": 3853,
+      "cueEnd": 3888,
+      "title": "Todos os ministros dinamarqueses só usariam trem e não teriam carro oficial",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se apresenta norma de frota ou relação de deslocamentos de todos os ministros. Exemplo pessoal de transporte público não prova proibição geral de automóveis oficiais.",
+      "sources": []
+    },
+    {
+      "cueStart": 3889,
+      "cueEnd": 3910,
+      "title": "Dinamarca não teria barreiras tarifárias de importação",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Dinamarca integra a união aduaneira europeia, que adota tarifa comercial comum para bens de fora do bloco. Facilidade de comércio e ausência de tarifa entre membros não significam tarifa zero e ausência de regras para todas as importações.",
+      "sources": [
+        "eco-wtoeu"
+      ]
+    },
+    {
+      "cueStart": 3889,
+      "cueEnd": 3910,
+      "title": "Setor de saúde dinamarquês bloquearia todo produto estrangeiro",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica produto, regra de autorização ou restrição de compra. União aduaneira e aprovação sanitária não equivalem a veto nacional de todo medicamento ou equipamento estrangeiro.",
+      "sources": [
+        "eco-wtoeu"
+      ]
+    },
+    {
+      "cueStart": 3911,
+      "cueEnd": 3936,
+      "title": "Teto de gastos limitaria saúde e educação mas não juros",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A EC 95 estabelecia limites para despesas primárias federais, abrangendo saúde e educação, com regras próprias de pisos e exceções. Juros e amortização da dívida são despesas financeiras e não integravam esse teto. Isso não significa orçamento ilimitado, nem ausência de outras normas sobre financiamento e endividamento.",
+      "sources": [
+        "eco-ec95"
+      ]
+    },
+    {
+      "cueStart": 3911,
+      "cueEnd": 3936,
+      "title": "Quinhentos bilhões anuais de juros iriam para cem famílias",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O BCB registrou R$448,4 bilhões em juros nominais do setor público consolidado em 2021, ordem de grandeza próxima à cifra. O relatório não identifica cem famílias como destinatárias finais: títulos e intermediação têm credores diversos. O total de juros não prova essa concentração de beneficiários.",
+      "sources": [
+        "eco-juros2021"
+      ]
+    },
+    {
+      "cueStart": 3961,
+      "cueEnd": 3972,
+      "title": "Eike já era bilionário antes de extrair uma gota de petróleo",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A verificação exige fixar o ano do patrimônio e separar OGXdas demais empresas e da estreia produtiva. Não se obteve nesse conjunto uma série patrimonial e operacional comparável que confirme a frase na sua abrangência.",
+      "sources": []
+    },
+    {
+      "cueStart": 3990,
+      "cueEnd": 4020,
+      "title": "Estado americano investiria dois ou três trilhões em P&D",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "ANational Science Foundation apurou US$717 bilhões de P&Dtotal em 2020 e estimava US$792 bilhões em 2021, com empresas responsáveis pela maior parte. Valor acumulado por muitos anos não é gasto estatal anual. A cifra sem janela e setor não corresponde ao indicador anual consolidado.",
+      "sources": [
+        "eco-nsf2020"
+      ]
+    },
+    {
+      "cueStart": 3990,
+      "cueEnd": 4020,
+      "title": "Pesquisa da DARPA está na origem da internet",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A DARPA documenta o desenvolvimento da ARPANET nos anos 1960 e a primeira conexão de 1969. Essa origem pública é confirmada, mas a internet atual reúne pesquisa, infraestrutura e comercialização de múltiplos agentes; não significa criação exclusiva de todo serviço digital pelo Estado.",
+      "sources": [
+        "eco-arpanet"
+      ]
+    },
+    {
+      "cueStart": 3990,
+      "cueEnd": 4020,
+      "title": "Celular teria sido inventado pela DARPA",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A documentação da primeira chamada pública portátil identifica Martin Cooper, da Motorola, em 1973. É outra trajetória tecnológica, distinta da ARPANET. Antecedentes de pesquisa e redes não permitem atribuir a invenção do aparelho portátil à DARPA.",
+      "sources": [
+        "eco-cooper",
+        "eco-arpanet"
+      ]
+    },
+    {
+      "cueStart": 4033,
+      "cueEnd": 4044,
+      "title": "Nenhum empresário investiria em inovação de alto risco",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "A fonte NSF registra financiamento empresarial de P&D, mas não fornece o limiar de risco que a fala pressupõe. Sem definição ou estudo da distribuição de risco não se valida a ausência universal de investimento empreendedor.",
+      "sources": [
+        "eco-nsf2020"
+      ]
+    },
+    {
+      "cueStart": 4045,
+      "cueEnd": 4056,
+      "title": "Space X passou nove anos sem financiamento ou cliente estatal",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Fundada em 2002, a Space X recebeu acordo COTS da NASA em 2006, inicialmente de US$278 milhões, e contratos posteriores. Havia também capital privado; a documentação não sustenta nove anos de desenvolvimento anteriores ao apoio governamental.",
+      "sources": [
+        "eco-cots"
+      ]
+    },
+    {
+      "cueStart": 4045,
+      "cueEnd": 4056,
+      "title": "Santos Dumont teria financiado sozinho suas invenções",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se define quais experimentos e período, e não foram examinadas contas pessoais e dos projetos. Origem familiar de recursos e financiamento integral de toda a trajetória são afirmações diferentes.",
+      "sources": []
+    },
+    {
+      "cueStart": 4057,
+      "cueEnd": 4068,
+      "title": "Facebook seria obrigado a entregar todos os dados ao governo americano",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica lei, ordem judicial, programa e período. Obrigações de responder a ordens legais não estabelecem, por si, entrega automática e irrestrita de todo dado de todo usuário. Não se confirmou esse absoluto.",
+      "sources": []
+    },
+    {
+      "cueStart": 4093,
+      "cueEnd": 4116,
+      "title": "Linha de telefone era patrimônio declarado noimposto de renda",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não identifica a regra do IR, ano e se trata de direito de uso ou ações de plano de expansão. Preço elevado de linha não demonstra sozinho o tratamento tributário de todos os assinantes.",
+      "sources": []
+    },
+    {
+      "cueStart": 4117,
+      "cueEnd": 4128,
+      "title": "Estados Unidos teriam 200 operadoras equivalentes às quatro ou cinco brasileiras",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O FCC registra três operadoras nacionais com rede móvel própria ao final de 2022. Contar revendedoras virtuais e empresas regionais para um país e apenas redes nacionais no outro mistura universos. O relatório posterior descreve aquele ano, sem presumir 200 competidores nacionais comparáveis.",
+      "sources": [
+        "eco-fcc2022"
+      ]
+    },
+    {
+      "cueStart": 4141,
+      "cueEnd": 4176,
+      "title": "Bancos privados criam moeda ao emprestar",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Bank of England explica que empréstimos bancários normalmente criam depósitos. Isso é criação de moeda bancária sujeita a regulação e restrições, não permissão de emitir livremente cédulas soberanas ou emprestar sem limites.",
+      "sources": [
+        "eco-money"
+      ]
+    },
+    {
+      "cueStart": 4177,
+      "cueEnd": 4200,
+      "title": "Privatização teria destruído toda a tecnologia da Telebras",
+      "speaker": "Elias Jabbour",
+      "verdict": "Falso",
+      "explanation": "O CPqD, criado na Telebras em 1976, tornou-se fundação privada em 1998 e continuou a pesquisar. Pode-se discutir perda de capacidade e prioridades, mas a continuidade documentada contradiz a destruição de toda a tecnologia e de toda pesquisa.",
+      "sources": [
+        "eco-cpqd"
+      ]
+    },
+    {
+      "cueStart": 4225,
+      "cueEnd": 4236,
+      "title": "Brasil proíbe bombas de autosserviço nos postos",
+      "speaker": "Renata Barreto",
+      "verdict": "Verdadeiro",
+      "explanation": "ALei 9.956 de 2000 proíbe o funcionamento de bombas de autosserviço. A confirmação é sobre a regra brasileira, sem presumir que todos os estados americanos tenham a mesma legislação.",
+      "sources": [
+        "eco-frentista"
+      ]
+    },
+    {
+      "cueStart": 4237,
+      "cueEnd": 4272,
+      "title": "Marx teria previsto que tecnologia acaba com todos os empregos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A discussão não apresenta edição e página e contrapõe interpretações sobre maquinaria, salário e redução de jornada. Não se autenticou a previsão universal ou a frase atribuída ao discurso fúnebre de Engels; um resumo dos interlocutores não substitui o texto.",
+      "sources": []
+    },
+    {
+      "cueStart": 4273,
+      "cueEnd": 4308,
+      "title": "Lei de ferro dos salários seria criação ou doutrina de Marx",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Na Crítica do Programa de Gotha,Marx atribui a formulação a Lassalle e critica sua fundamentação. Há antecedentes clássicos e influência de Ricardo e Malthus, mas não é correto tratá-la simplesmente como lei criada e endossada por Marx.",
+      "sources": [
+        "eco-gotha"
+      ]
+    },
+    {
+      "cueStart": 4309,
+      "cueEnd": 4368,
+      "title": "Automação sempre gera melhores empregos e qual desindustrialização é desejável",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São teses sobre efeitos e políticas que dependem de horizonte e distribuição. A possibilidade de novos setores não determina que todo trabalhador afetado obtenha renda maior; o trecho não oferece uma série específica para testar essa universalização.",
+      "sources": []
+    },
+    {
+      "cueStart": 4357,
+      "cueEnd": 4380,
+      "title": "Coreia do Sul seria o país que mais inova no mundo",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se define patente, intensidade de P&D, produtividade ou índice composto. Esses rankings diferem; não se confirmou uma liderança universal em inovação com um indicador não nomeado.",
+      "sources": [
+        "eco-nsf2020"
+      ]
+    },
+    {
+      "cueStart": 4381,
+      "cueEnd": 4608,
+      "title": "Dialética, passagem do feudalismo e projeto nacional",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "O trecho desenvolve critérios para superação do capitalismo e preferência por burguesia industrial e projeto nacional. São interpretações teóricas e objetivos políticos; não se lhes atribui veredito factual de sucesso futuro.",
+      "sources": []
+    },
+    {
+      "cueStart": 4609,
+      "cueEnd": 4644,
+      "title": "Nazismo e fascismo seriam formas de socialismo",
+      "speaker": "Renata Barreto",
+      "verdict": "opinion",
+      "explanation": "O argumento compara regimes por certas características e origens de pessoas. A classificação ideológica é uma tese histórica; uso do termo socialista em nome de partido não demonstra identidade institucional ou programática com Marx.",
+      "sources": []
+    },
+    {
+      "cueStart": 4669,
+      "cueEnd": 4692,
+      "title": "Houve privatizações na Alemanha nazista",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A pesquisa de Germà Bel documenta transferências de empresas e serviços para mãos privadas nos anos 1930. Confirma a ocorrência das privatizações, mas não que ausência de regulação ou liberalismo político caracterizassem o regime.",
+      "sources": [
+        "eco-nazi-priv"
+      ]
+    },
+    {
+      "cueStart": 4669,
+      "cueEnd": 4692,
+      "title": "Violações de propriedade sob o nazismo",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O Holocaust Memorial Museum documenta confiscos de propriedade judaica. O diálogo transcrito contém negações sobrepostas e não deixa seguro se o absoluto nunca foi de fato enunciado ou corrigido. A documentação refuta a inexistência histórica de confiscos, mas não permite imputar essa frase pessoal sem áudio.",
+      "sources": [
+        "eco-aryanization"
+      ]
+    },
+    {
+      "cueStart": 4693,
+      "cueEnd": 4704,
+      "title": "Todo o campo liberal alemão apoiou o nazismo",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não enumera partidos, indivíduos, período ou critério para classificar liberal. Votos parlamentares e trajetórias individuais não sustentam automaticamente um todo homogêneo; não foi comprovado apoio universal.",
+      "sources": []
+    },
+    {
+      "cueStart": 4693,
+      "cueEnd": 4728,
+      "title": "Frases da Doutrina do Fascismo e de Lênin autenticariam um mesmo projeto",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda registra títulos e termos incompletos, e a biografia de Lênin não é identificada. Sem edição e página não se autenticou a redação nem o contexto; semelhança entre frases isoladas não comprova identidade de programas econômicos.",
+      "sources": []
+    },
+    {
+      "cueStart": 4753,
+      "cueEnd": 4776,
+      "title": "Currículos soviético e nazista teriam tratamentos opostos de toda filosofia alemã",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não são identificados programas, escolas, disciplinas e anos. O absoluto toda não foi comprovado por comparação de documentos curriculares; não se inferiu currículo nacional a partir de uma preferência filosófica atribuída ao regime.",
+      "sources": []
+    },
+    {
+      "cueStart": 4777,
+      "cueEnd": 4800,
+      "title": "Comunidades rurais chinesas praticariam a mesma autogestão há dois mil anos",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se define instituição, poder de decisão e continuidade territorial. Administração de aldeia, direitos de terra e decisões de produção mudaram historicamente; não foi obtida documentação de continuidade ininterrupta do modelo descrito.",
+      "sources": []
+    },
+    {
+      "cueStart": 4837,
+      "cueEnd": 4896,
+      "title": "Crise de 2008 decorreria de governo obrigar bancos a emprestar sem critérios",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O relatório FCIC de 2011 examina falhas de regulação, governança, alavancagem, crédito e securitização, com dissensos anexos. A maioria rejeitou a CRA como fator significativo da crise. Culpar uma única obrigação pública de reduzir padrões não resume a investigação nem o debate econômico.",
+      "sources": [
+        "eco-fcic"
+      ]
+    },
+    {
+      "cueStart": 4909,
+      "cueEnd": 4956,
+      "title": "Houve desregulamentação financeira antes de 2008",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A FCIC documenta mudanças e falhas regulatórias anteriores à crise. Isso confirma que o período não foi de intervenção homogênea em uma só direção; não demonstra que toda medida de desregulamentação seja causa suficiente da crise.",
+      "sources": [
+        "eco-fcic"
+      ]
+    },
+    {
+      "cueStart": 4969,
+      "cueEnd": 4980,
+      "title": "Fala de Lula sobre coronavírus como defesa de todas as crises pelo Estado",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda não fornece data ou gravação original da declaração mencionada. Não foi autenticado o contexto nem se transformou a paráfrase em apoio a mortes ou prova de adesão ao fascismo.",
+      "sources": []
+    },
+    {
+      "cueStart": 4993,
+      "cueEnd": 5016,
+      "title": "Gasto público em proporção do PIB cresceu ou caiu sob Reagan",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O Economic Report of the President 2016 registra queda da despesa federal de 21,6% doPIB em 1981 para 20,5% em 1989, com aumento da parcela de defesa. No diálogo há respostas contraditórias e não se define se o universo é governo federal ou geral nem o par de anos. O recorte federal não demonstra crescimento ao comparar apenas esses extremos, sem resolver todas as interpretações da fala.",
+      "sources": [
+        "eco-reagan"
+      ]
+    },
+    {
+      "cueStart": 5017,
+      "cueEnd": 5100,
+      "title": "Salários reais americanos ficaram congelados por quarenta anos",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A tabela histórica BLS 1979–2021 mostra mudanças nos rendimentos reais, com trajetórias diferentes por sexo e período. Crescimento inferior à produtividade não é congelamento literal de todos os salários por quarenta anos; o próprio participante qualifica depois a formulação.",
+      "sources": [
+        "eco-wages2021"
+      ]
+    },
+    {
+      "cueStart": 5065,
+      "cueEnd": 5076,
+      "title": "Cortar imposto de ricos nunca aumenta produtividade",
+      "speaker": "Elias Jabbour",
+      "verdict": "opinion",
+      "explanation": "A afirmação extrapola uma interpretação da literatura para qualquer desenho tributário e contexto. Sem estudo e definição de produtividade identificados, não há efeito causal universal a validar; preferência tributária permanece argumento político-econômico.",
+      "sources": []
+    },
+    {
+      "cueStart": 5077,
+      "cueEnd": 5088,
+      "title": "48% dos americanos queriam fugir do país",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há instituto, pergunta, data ou população da pesquisa. Desejo de emigrar, insatisfação e expectativa de futuro não são a mesma variável; não se confirmou a cifra.",
+      "sources": []
+    },
+    {
+      "cueStart": 5113,
+      "cueEnd": 5148,
+      "title": "Salários chineses cresceram 300% urbanos e 200% no total em dez anos",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se define renda domiciliar versus salário, média versus mediana, empregados formais ou população, nem valores reais ou nominais. As rubricas não são intercambiáveis; não se confirmou a dupla porcentagem sem uma série identificada.",
+      "sources": []
+    },
+    {
+      "cueStart": 5149,
+      "cueEnd": 5160,
+      "title": "China seria o país com mais greves do mundo",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Não existe no trecho uma base internacional e critérios de registro. Eventos de protesto, greves reportadas e dias perdidos não equivalem entre países; o superlativo não foi demonstrado.",
+      "sources": []
+    },
+    {
+      "cueStart": 5161,
+      "cueEnd": 5184,
+      "title": "China acabou com a pobreza",
+      "speaker": "Elias Jabbour",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Banco Mundial documentou queda de quase 800 milhões de pessoas abaixo da linha internacional de US$1,90 PPC e eliminação da pobreza extrema segundo a linha nacional. O mesmo conjunto de publicações mantém pobreza sob patamares mais altos: não é ausência de toda pobreza.",
+      "sources": [
+        "eco-pobreza-china",
+        "eco-mpo-china"
+      ]
+    },
+    {
+      "cueStart": 5173,
+      "cueEnd": 5196,
+      "title": "Linha de US$5,50 mostrava pobreza remanescente na China",
+      "speaker": "Renata Barreto",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Macro Poverty Outlook de abril 2022 projetava 10,8% abaixo de US$5,50 por pessoa/dia em PPC 2011. A distinção de linhas é correta. A China era classificada como renda média alta, e não média baixa; trata-se de linha analítica, não mínimo nominal em dólares cambiais.",
+      "sources": [
+        "eco-mpo-china"
+      ]
+    },
+    {
+      "cueStart": 5221,
+      "cueEnd": 5256,
+      "title": "China ainda tinha cerca de 500 milhões de moradores rurais",
+      "speaker": "Elias Jabbour",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O comunicado NBS publicado em fevereiro 2022 registra 498,35 milhões de moradores rurais no final de 2021. Confirma a ordem de grandeza, sem presumir que todo morador rural seja agricultor ou tenha o mesmo regime de propriedade.",
+      "sources": [
+        "eco-nbs2021"
+      ]
+    },
+    {
+      "cueStart": 5245,
+      "cueEnd": 5256,
+      "title": "China urbanizou 250 milhões em dez anos e não tem favelas",
+      "speaker": "Elias Jabbour",
+      "verdict": "Inconclusivo",
+      "explanation": "Os comunicados contemporâneos NBS registram 690,79 milhões de urbanos em 2011 e 914,25 milhões em 2021: acréscimo de 223,46 milhões, próximo mas inferior a 250 milhões. A variação inclui crescimento natural e reclassificação, além de migração. Esses números não demonstram inexistência de assentamentos precários; esse absoluto exige critério e levantamento habitacional.",
+      "sources": [
+        "eco-nbs2011",
+        "eco-nbs2021"
+      ]
+    },
+    {
+      "cueStart": 5281,
+      "cueEnd": 5292,
+      "title": "Macri manteve todos os subsídios e não executou reformas liberais",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se enumeram políticas e anos para separar manutenção parcial, redução e extinção. O rótulo liberal é avaliado segundo o critério da participante; não comprova que todos os subsídios permaneceram iguais.",
+      "sources": []
+    },
+    {
+      "cueStart": 5317,
+      "cueEnd": 5352,
+      "title": "Keystone XL e a projeção de 17 mil empregos",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "O relatório americano de 2012 estimava milhares de empregos temporários na construção e impacto de longo prazo pequeno. A fala cita 17 mil sem distinguir postos diretos, indiretos ou empregos-ano e sem identificar a versão da projeção; não se tratou a cifra como promessa de postos permanentes. O projeto transportaria óleo canadense, não seria produção instantânea americana.",
+      "sources": [
+        "eco-keystone"
+      ]
+    },
+    {
+      "cueStart": 5353,
+      "cueEnd": 5364,
+      "title": "Independência energética sob Trump e dependência sob Biden",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Independência não é definida no trecho e pode envolver segurança de abastecimento e exposição geopolítica, além de saldo comercial. A EIA registra superávit de energia total desde 2019, inclusive 2021–2022, enquanto importações de petróleo bruto continuaram nos dois governos. Esses dados contextualizam a continuidade comercial, sem substituir o conceito da participante; não demonstram uma ruptura geral de independência para dependência apenas pela troca de presidente.",
+      "sources": [
+        "eco-eua-energia",
+        "eco-eia2021"
+      ]
+    },
+    {
+      "cueStart": 5365,
+      "cueEnd": 5388,
+      "title": "Brasil não seria autossuficiente em petróleo porque todo óleo precisa ser refinado fora",
+      "speaker": "Renata Barreto",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O MME distingue posição exportadora em petróleo bruto e importação líquida de derivados específicos. O país tem refino interno; vender parte do óleo e importar diesel não implica incapacidade de refinar todo tipo de petróleo brasileiro nem déficit líquido em óleo cru.",
+      "sources": [
+        "eco-mme-refino"
+      ]
+    },
+    {
+      "cueStart": 5365,
+      "cueEnd": 5388,
+      "title": "Petrobras teria tido a maior dívida corporativa do mundo",
+      "speaker": "Renata Barreto",
+      "verdict": "Inconclusivo",
+      "explanation": "O enunciado não fixa data, dívida bruta ou líquida e universo de empresas, incluindo ou excluindo bancos. Não se confirmou uma liderança mundial sem classificação e demonstrações comparáveis.",
+      "sources": []
+    },
+    {
+      "cueStart": 5401,
+      "cueEnd": 5508,
+      "title": "Teorias de inflação monetária, oferta e restrição externa",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os participantes explicitam condições e defendem mecanismos econômicos distintos. Hipóteses sobre persistência e causalidade não são acontecimentos observados isolados; o trecho não determina o peso de cada fator em um episódio mensurado.",
+      "sources": []
+    },
+    {
+      "cueStart": 5449,
+      "cueEnd": 5460,
+      "title": "Oligopsônio e monopsônio como poder de oferta",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda mistura os termos e a explicação. Não é possível distinguir se houve troca verbal entre oferta e compra ou erro de reconhecimento. A referência conceitual não basta para imputar ao debatedor uma definição incorreta sem áudio.",
+      "sources": []
+    },
+    {
+      "cueStart": 5509,
+      "cueEnd": 5520,
+      "title": "Origem pública e difusão privada da internet",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Origem da ARPANET e expansão comercial são etapas complementares. A relevância relativa de cada uma para o valor atual é avaliação econômica, não uma exclusão factual do papel da outra.",
+      "sources": [
+        "eco-arpanet"
+      ]
+    },
+    {
+      "cueStart": 5521,
+      "cueEnd": 5544,
+      "title": "Patente de celular em 1947 por William e AT&T",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda não preserva o nome do inventor, número ou jurisdição da patente. Proposta teórica de rede celular e patente de aparelho portátil são marcos diferentes; não se autenticou a patente citada a partir dessa formulação.",
+      "sources": [
+        "eco-cooper"
+      ]
+    },
+    {
+      "cueStart": 5533,
+      "cueEnd": 5544,
+      "title": "Primeira chamada pública portátil por Martin Cooper em 1973",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O registro municipal de Nova York identifica a chamada de 3/4/1973, feita por Cooper trabalhando na Motorola. O adjetivo portátil distingue esse marco de radiotelefonia veicular anterior.",
+      "sources": [
+        "eco-cooper"
+      ]
+    },
+    {
+      "cueStart": 5545,
+      "cueEnd": 5743,
+      "title": "Encerramento, publicidade e projetos pessoais",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "O trecho final contém agradecimentos, avaliações do debate, anúncios de cursos e redes sociais e planos futuros. Esses conteúdos não acrescentam afirmações políticas verificáveis identificadas ao inventário.",
+      "sources": []
+    }
+  ]
+}

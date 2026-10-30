@@ -1,0 +1,786 @@
+{
+  "videoId": "Lfz5UPiuM4I",
+  "video": {
+    "id": "Lfz5UPiuM4I",
+    "url": "https://www.youtube.com/watch?v=Lfz5UPiuM4I",
+    "title": "LULA NA GLOBO: ENTREVISTA COMPLETA DO 2º TURNO | \"ORGIA, MULHERES, DINHEIRO E VORCARO\"",
+    "channel": "TV Afiada",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Lfz5UPiuM4I/hqdefault.jpg"
+  },
+  "referenceDate": "2026-10-15",
+  "reviewedAt": "2026-10-30T14:56:12.698Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "1b5838e98f38a4bfada82f8656eabe47768de317627976b691ed5bda97ddfdeb",
+  "scannedThrough": 1239,
+  "participants": [
+    {
+      "id": "lula",
+      "name": "Luiz Inácio Lula da Silva",
+      "aliases": [
+        "Lula"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    }
+  ],
+  "claims": [
+    {
+      "cueStart": 12,
+      "cueEnd": 24,
+      "title": "Quarto mandato, resultado eleitoral e rejeição do governo",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A pergunta combina resultado eleitoral e pesquisas de rejeição sem identificar instituto, datas, pergunta ou critério de maioria. A disputa pelo quarto mandato é verificável, mas a generalização sobre rejeição quase permanente não foi estabelecida com uma série homogênea de levantamentos.",
+      "sources": []
+    },
+    {
+      "cueStart": 29,
+      "cueEnd": 43,
+      "title": "Responsabilidade pessoal e avaliação da reconstrução do governo",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "Autoavaliação política e atribuição de responsabilidade, sem indicador operacional que permita classificar o desempenho global como fato ou falsidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 46,
+      "cueEnd": 49,
+      "title": "Crescimento do PIB de 7, 5% em 2010",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O IBGE registra crescimento real de 7, 5% em 2010. O número corresponde àquele ano, não à taxa de cada um dos oito anos de mandato. A posição no ranking aparece com hesitação na legenda e é examinada separadamente adiante.",
+      "sources": [
+        "lua-pib2010"
+      ]
+    },
+    {
+      "cueStart": 50,
+      "cueEnd": 51,
+      "title": "Criação de 22 milhões de empregos em oito anos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A RAIS registra saldo de 15, 384 milhões de vínculos formais em 2003–2010, não 22 milhões. Empregos formais, admissões brutas e pessoas ocupadas são medidas diferentes; a fala não apresenta outra série que sustente 22 milhões nos oito anos.",
+      "sources": [
+        "lua-rais2010"
+      ]
+    },
+    {
+      "cueStart": 53,
+      "cueEnd": 64,
+      "title": "Orçamento de 2023 não teria recursos para Bolsa Família, saúde e educação",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "O orçamento proposto já continha dotações para essas áreas. Segundo a IFI, a previsão do benefício era cerca de R$ 405; a PEC da Transição ampliou o espaço fiscal para manter R$ 600 e outras despesas. Insuficiência para cumprir as promessas não significa inexistência de recursos.",
+      "sources": [
+        "lua-ifi2023"
+      ]
+    },
+    {
+      "cueStart": 72,
+      "cueEnd": 74,
+      "title": "Data de 25 de outubro para o segundo turno de 2026",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O calendário do TSE fixa o segundo turno em 25/10/2026. A previsão de vitória é uma expectativa eleitoral, sem classificação factual.",
+      "sources": [
+        "lua-eleicoes"
+      ]
+    },
+    {
+      "cueStart": 94,
+      "cueEnd": 96,
+      "title": "Tamanho das bancadas do PT na eleição de 2022",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Câmara registrou 68 deputados eleitos pelo PT, em um total de 513; a referência a 70 é uma aproximação e não a contagem eleitoral exata. O contexto de bancada minoritária no Congresso é correto, mas não equivale à bancada da federação ou à base governista.",
+      "sources": [
+        "lua-bancada2022"
+      ]
+    },
+    {
+      "cueStart": 96,
+      "cueEnd": 99,
+      "title": "Aprovação de 99% das propostas pretendidas pelo governo",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi apresentado o conjunto de propostas que compõe o denominador nem critério para considerar um texto aprovado após alterações. Aprovações relevantes não demonstram, por si, a taxa de 99% .",
+      "sources": []
+    },
+    {
+      "cueStart": 98,
+      "cueEnd": 99,
+      "title": "Aprovação da reforma tributária após décadas de discussão",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A EC 132/2023 aprovou a reforma da tributação do consumo. A referência a quarenta anos é uma síntese política de discussões anteriores; não significa que uma mesma proposta tenha tramitado sem mudanças por todo esse tempo.",
+      "sources": [
+        "lua-reforma-tributaria"
+      ]
+    },
+    {
+      "cueStart": 100,
+      "cueEnd": 108,
+      "title": "Todos os partidos, salvo o PL, teriam participado do ministério",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação exige conferir toda a composição ministerial e as vinculações partidárias ao longo do mandato. A lista inicial confirma diversidade de partidos, mas não basta para comprovar a participação de todas as legendas salvo o PL entre 2023 e 2026. Não se infere adesão institucional de um partido apenas da ocupação individual de um cargo.",
+      "sources": [
+        "lua-ministerios"
+      ]
+    },
+    {
+      "cueStart": 123,
+      "cueEnd": 139,
+      "title": "Rejeição de indicado de Lula ao Supremo pelo Senado",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O Senado rejeitou Jorge Messias em 29/04/2026 por 42 votos contrários e 34 favoráveis. A rejeição é um fato institucional, distinto da avaliação sobre governabilidade feita na pergunta.",
+      "sources": [
+        "lua-messias"
+      ]
+    },
+    {
+      "cueStart": 145,
+      "cueEnd": 159,
+      "title": "Tarifas americanas, apoio externo ao adversário e alinhamento regional",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A pergunta reúne episódios tarifários e uma avaliação geopolítica sem individualizar os atos e países. Não foi estabelecida nesta revisão uma medida verificável para quase toda a América do Sul estar numa mesma órbita política.",
+      "sources": []
+    },
+    {
+      "cueStart": 160,
+      "cueEnd": 174,
+      "title": "Ausência de pedidos de apoio eleitoral a ministros e partidos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "É um relato sobre conversas e decisões internas. A declaração pública documenta a posição do entrevistado, mas não comprova que nenhum pedido de apoio tenha ocorrido em todo o período.",
+      "sources": []
+    },
+    {
+      "cueStart": 183,
+      "cueEnd": 194,
+      "title": "Três reuniões com Trump e telefonema de uma hora e meia",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Quantidade, duração e conteúdo dos contatos não foram integralmente confirmados por registros oficiais de ambas as partes. A referência a dois homens de oitenta anos é aproximada e não resolve a comprovação das reuniões.",
+      "sources": []
+    },
+    {
+      "cueStart": 195,
+      "cueEnd": 200,
+      "title": "Negociação comercial de ministros com os Estados Unidos naquela semana",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não identifica reunião, data, interlocutores ou documento de resultado. Sem agenda específica correspondente, não foi possível concluir a conferência do episódio narrado.",
+      "sources": []
+    },
+    {
+      "cueStart": 203,
+      "cueEnd": 212,
+      "title": "Variações do comércio com EUA, China, Indonésia, Alemanha e Vietnã",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há período, base de comparação ou definição de relação comercial: exportações, importações, corrente ou saldo. Os percentuais não são comparáveis sem esse recorte; crescimento de vendas também não comprova recorde de superávit.",
+      "sources": []
+    },
+    {
+      "cueStart": 215,
+      "cueEnd": 220,
+      "title": "Lei de reciprocidade e aplicação de retaliação comercial",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Lei 15.122/2025 já havia sido sancionada por Lula. Criar o instrumento legal e aplicar uma contramedida são atos distintos. O trecho só é compatível com os registros se entendido como não ter acionado determinada retaliação, e não como inexistência da lei.",
+      "sources": [
+        "lua-reciprocidade"
+      ]
+    },
+    {
+      "cueStart": 230,
+      "cueEnd": 241,
+      "title": "Designação de PCC e CV como terroristas e pesquisa Datafolha",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A conferência exige o ato americano específico, sua vigência e a íntegra da pergunta e amostra da pesquisa de junho. A legenda ainda contém uma correção numérica; não se adota 2% como dado literal nem se presume que aprovação popular confirme eficácia da medida.",
+      "sources": []
+    },
+    {
+      "cueStart": 248,
+      "cueEnd": 265,
+      "title": "Terrorismo nos EUA seria restrito a terrorismo de Estado",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "A legislação americana e a lista de organizações terroristas estrangeiras abrangem atores não estatais. Os atentados de 11 de setembro foram cometidos pela Al-Qaeda, não por um Estado. Finalidade financeira não exclui automaticamente outras definições legais, que variam por jurisdição.",
+      "sources": [
+        "lua-terrorismo-eua"
+      ]
+    },
+    {
+      "cueStart": 268,
+      "cueEnd": 273,
+      "title": "Proposta de cooperação contra o crime entregue a Trump",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi conferido o documento integral entregue ao presidente americano nem o conteúdo exato narrado. A declaração do próprio proponente documenta o anúncio, mas não comprova todos os termos ou sua implementação.",
+      "sources": []
+    },
+    {
+      "cueStart": 274,
+      "cueEnd": 276,
+      "title": "Lei antifacção aprovada e sancionada em 2026",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "sources": [
+        "lua-antifaccao"
+      ],
+      "explanation": "A Lei 15.358/2026 foi sancionada em 24/03/2026 e estabeleceu o marco de combate a facções, com novas figuras e penas mais severas. Existência de lei não prova, por si, redução da criminalidade."
+    },
+    {
+      "cueStart": 277,
+      "cueEnd": 282,
+      "title": "A Constituição nunca teria permitido atuação da União na segurança pública",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "O art.144 da Constituição de 1988 já prevê Polícia Federal e Polícia Rodoviária Federal e define competências federais. A proposta de ampliar coordenação não cria do zero a possibilidade constitucional de a União atuar na segurança.",
+      "sources": [
+        "lua-cf144"
+      ]
+    },
+    {
+      "cueStart": 298,
+      "cueEnd": 304,
+      "title": "Quase 80% teriam medo de roubos, mortes em assaltos e golpes",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relatório FBSP/Datafolha de 2026 informa medo de furto ou roubo do celular em 80, 6% dos entrevistados e também níveis elevados para outros crimes. Trata-se de percepção de risco em pesquisa, não de proporção efetivamente vitimada; percentuais variam conforme o evento perguntado.",
+      "sources": [
+        "lua-medo2026"
+      ]
+    },
+    {
+      "cueStart": 313,
+      "cueEnd": 343,
+      "title": "Plano para ministério e financiamento de 138 presídios",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "O governo havia anunciado intenção de converter 138 unidades em segurança máxima. Trata-se de plano, não de prova de que 138 unidades já foram financiadas, concluídas ou que seus efeitos ocorreram. As promessas de proteção são excluídas do placar.",
+      "sources": [
+        "lua-presidios138"
+      ]
+    },
+    {
+      "cueStart": 344,
+      "cueEnd": 367,
+      "title": "PEC da Segurança e proposta de maioridade de Camilo Santana",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "O Senado registrou em 15/10/2026 a retirada da PEC 18/2025 de pauta após disputa sobre maioridade penal. A emenda 87 de Camilo Santana mantém 18 anos como regra e prevê 16 nos crimes hediondos. A notícia confirma a tramitação e a proposta, não uma mudança constitucional já vigente.",
+      "sources": [
+        "lua-pec18"
+      ]
+    },
+    {
+      "cueStart": 370,
+      "cueEnd": 397,
+      "title": "Posição favorável à maioridade de 16 anos e disputa com proposta de 14",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "Manifestação de preferência normativa sobre punição e sobre o veículo legislativo adequado. Não demonstra consenso da sociedade inteira nem antecipa a eficácia ou aprovação de uma mudança.",
+      "sources": []
+    },
+    {
+      "cueStart": 406,
+      "cueEnd": 419,
+      "title": "Crise de reputação do Supremo e promiscuidade",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Expressões avaliativas sobre reputação e intensidade de crise. Não há métrica histórica definida para classificá-la como a maior; a existência de suspeitas não estabelece culpa de ministros.",
+      "sources": []
+    },
+    {
+      "cueStart": 426,
+      "cueEnd": 441,
+      "title": "Prisão de Márcio Canella e vínculo com a família Bolsonaro",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala combina operação policial, suplência eleitoral e motivação de adversários. Não foi conferido o conjunto de peças e registros eleitorais necessário para confirmar todos os elos; uma prisão cautelar não equivale a condenação.",
+      "sources": []
+    },
+    {
+      "cueStart": 454,
+      "cueEnd": 486,
+      "title": "Pedido de vista de Dino e denúncias sobre vários ministros",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Pedido de vista e acusações precisam ser vinculados a processo, data e conteúdo dos autos. Não se conclui que todos os ministros citados cometeram ilícitos nem que a motivação interna de Dino esteja demonstrada pelo relato da entrevista.",
+      "sources": []
+    },
+    {
+      "cueStart": 502,
+      "cueEnd": 509,
+      "title": "Reforma do Judiciário durante o primeiro governo Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A EC 45/2004, promulgada pelo Congresso durante o primeiro mandato, realizou ampla reforma e criou o CNJ. Houve participação do Executivo e do Judiciário, mas a emenda não foi um ato pessoal do presidente nem a primeira alteração judicial de toda a história brasileira.",
+      "sources": [
+        "lua-ec45"
+      ]
+    },
+    {
+      "cueStart": 511,
+      "cueEnd": 535,
+      "title": "Mandato para ministros, ética e necessidade de investigação",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "Propostas institucionais e juízos éticos. Relatos genéricos de festas ou suspeitas não são convertidos em prova de infração individual.",
+      "sources": []
+    },
+    {
+      "cueStart": 536,
+      "cueEnd": 540,
+      "title": "Três conversas com Fachin para cobrar apuração",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Declaração sobre conversas não acompanhada de registros completos. A revisão não tem acesso que permita confirmar a quantidade e o teor de todos os contatos.",
+      "sources": []
+    },
+    {
+      "cueStart": 550,
+      "cueEnd": 560,
+      "title": "Andrei Rodrigues teria ido a festa de Vorcaro em Londres",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A pergunta inclui participação no evento e cronologia de investigações. Sem documentação primária suficiente para esses elementos, o registro permanece inconclusivo e não atribui prática de crime ao diretor.",
+      "sources": []
+    },
+    {
+      "cueStart": 563,
+      "cueEnd": 583,
+      "title": "Repreensão de Lula ao diretor da PF por viagem a Londres",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A repreensão é narrada pelo próprio entrevistado e não foi corroborada por registro independente da conversa. Qualificação do trabalho do delegado é avaliação pessoal, excluída da conclusão.",
+      "sources": []
+    },
+    {
+      "cueStart": 608,
+      "cueEnd": 618,
+      "title": "Reunião com Vorcaro no Planalto em dezembro de 2024",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Galípolo confirmou em depoimento ao Senado a reunião no Planalto em dezembro de 2024 com Lula e Vorcaro. Isso confirma o encontro, não todos os detalhes sobre investigações já formalizadas nem a existência de favorecimento.",
+      "sources": [
+        "lua-master-reuniao"
+      ]
+    },
+    {
+      "cueStart": 624,
+      "cueEnd": 646,
+      "title": "Outros banqueiros procuraram o presidente e orientação técnica ao BC",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O depoimento de Galípolo confirma orientação técnica no episódio Master. Não foi conferida a totalidade das reuniões mencionadas com outros bancos e seus conteúdos; o conjunto da afirmação não recebe confirmação automática.",
+      "sources": [
+        "lua-master-reuniao"
+      ]
+    },
+    {
+      "cueStart": 647,
+      "cueEnd": 654,
+      "title": "Banco Master teria fechado um mês após a reunião de dezembro de 2024",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "O encontro confirmado ocorreu em dezembro de 2024 e o BC decretou a liquidação em 18/11/2025. O intervalo foi de cerca de onze meses, não um mês. A cronologia não comprova por si só ingerência ou regularidade de cada ato.",
+      "sources": [
+        "lua-master-reuniao",
+        "lua-master-liquidacao"
+      ]
+    },
+    {
+      "cueStart": 664,
+      "cueEnd": 676,
+      "title": "Contrato do escritório de Lewandowski e continuidade pela família",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram conferidos contrato integral, pagamentos e delimitação de serviços e períodos. A descrição da pergunta não é tomada como condenação ou comprovação de conflito de interesses individual.",
+      "sources": []
+    },
+    {
+      "cueStart": 685,
+      "cueEnd": 711,
+      "title": "Saída de Lewandowski do Supremo e regras de quarentena",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Constituição impõe a magistrados impedimento de advogar por três anos no juízo ou tribunal do qual se afastaram. Não é uma proibição geral de todo trabalho privado por três anos; também não é correto resumir todas as restrições a uma liberação irrestrita depois de uma única quarentena.",
+      "sources": [
+        "lua-quarentena"
+      ]
+    },
+    {
+      "cueStart": 733,
+      "cueEnd": 737,
+      "title": "Decisões do Supremo nunca poderiam ser revistas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O STF é a instância máxima em matérias constitucionais, mas há recursos e hipóteses de revisão de decisões, inclusive alteração de jurisprudência e revisão criminal cabível. Não ter órgão judicial superior não significa imutabilidade de toda decisão.",
+      "sources": [
+        "lua-cf"
+      ]
+    },
+    {
+      "cueStart": 752,
+      "cueEnd": 763,
+      "title": "Primeiro reajuste do Bolsa Família anunciado 17 dias antes da eleição",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Decreto 13.120, de 17/09/2026, corrigiu os benefícios pelo INPC acumulado desde março de 2023. De 17/09 a 04/10 são 17 dias. A recriação do programa e adicionais em 2023 não devem ser confundidos com correção posterior dos valores nominais básicos.",
+      "sources": [
+        "lua-bolsa2026"
+      ]
+    },
+    {
+      "cueStart": 764,
+      "cueEnd": 780,
+      "title": "Lula não sabia da ausência de reajuste do Bolsa Família",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Trata-se de alegação sobre conhecimento pessoal e reuniões internas. A data do decreto não permite comprovar quando o entrevistado tomou ciência do problema.",
+      "sources": []
+    },
+    {
+      "cueStart": 784,
+      "cueEnd": 805,
+      "title": "Proposta orçamentária de 2027 prevê superávit primário",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O PLOA enviado em 31/08/2026 prevê superávit primário de R$ 18, 6 bilhões antes dos ajustes, pouco mais de 0, 1% do PIB. A meta fiscal ajustada é diferente, de 0, 5% do PIB. São previsões e critérios de cálculo; não resultado já executado.",
+      "sources": [
+        "lua-ploa2027"
+      ]
+    },
+    {
+      "cueStart": 806,
+      "cueEnd": 808,
+      "title": "Governo anterior teria deixado déficit de 2, 8% do PIB",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "sources": [
+        "lua-contas2022"
+      ],
+      "explanation": "O governo central encerrou 2022 com superávit primário de R$ 54, 9 bilhões segundo o TCU. Déficits nominais, previsões para 2023 e gastos posteriores à PEC são medidas distintas. A fala não explicita a série que geraria 2, 8% e a apresenta como se fosse o resultado recebido; esse recorte não corresponde ao fechamento primário de 2022."
+    },
+    {
+      "cueStart": 830,
+      "cueEnd": 844,
+      "title": "FGV, 84 milhões de negativados e três edições do Desenrola",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A pergunta combina pesquisas e períodos sem indicar relatórios específicos. Endividamento, inadimplência e uso de poupança são conceitos diferentes; o número de negativados exige mês e fonte originais, sem equivaler a toda população endividada.",
+      "sources": []
+    },
+    {
+      "cueStart": 850,
+      "cueEnd": 852,
+      "title": "78% da população estava endividada na posse",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A PEIC da CNC mede famílias endividadas, inclusive com prestações em dia, não 78% de todos os indivíduos brasileiros. O percentual próximo de 78% é compatível com a pesquisa de famílias na média de 2022, mas a troca do universo muda o sentido do indicador.",
+      "sources": [
+        "lua-peic2022"
+      ]
+    },
+    {
+      "cueStart": 853,
+      "cueEnd": 857,
+      "title": "Primeiro Desenrola atendeu cerca de 15 milhões de pessoas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O balanço do Ministério da Fazenda informa 15, 5 milhões de beneficiados e R$ 53, 2 bilhões renegociados até o encerramento em 2024. Renegociar dívidas não significa necessariamente quitar todas as dívidas de cada participante.",
+      "sources": [
+        "lua-desenrola1"
+      ]
+    },
+    {
+      "cueStart": 858,
+      "cueEnd": 879,
+      "title": "Desenrola 3, leilão, descontos e compra de dívidas até R$ 4 mil",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A MP 1.393/2026 criou o Desenrola 3.0 e autoriza compra de carteiras com desconto mínimo de 90% . A regra geral alcança dívidas originais inferiores a R$ 10 mil, não R$ 4 mil. Os R$ 150 bilhões se referem a dívidas potencialmente elegíveis; a reserva pública para aquisição é de até R$ 15 bilhões e os descontos aos devedores dependem de etapas futuras. Não se trata de compra já concluída.",
+      "sources": [
+        "lua-desenrola3"
+      ]
+    },
+    {
+      "cueStart": 880,
+      "cueEnd": 898,
+      "title": "Perdão de dívidas do MEI já estaria realizado",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Em 15/10/2026 o Senado aprovou o projeto com estimativa de cerca de R$ 12, 57 bilhões de dívida ativa e 3, 6 milhões de MEIs. Aprovação legislativa não equivale a perdão já operacionalizado; a notícia prevê vigência e etapas posteriores. O aval de R$ 5 mil não foi conferido no mesmo documento.",
+      "sources": [
+        "lua-mei2026"
+      ]
+    },
+    {
+      "cueStart": 905,
+      "cueEnd": 907,
+      "title": "Novas medidas não alterariam o espaço fiscal",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi apresentada memória de cálculo do impacto, compensações ou execução. Renúncia de receita e garantias públicas precisam de avaliação própria; promessa de neutralidade não substitui demonstração fiscal.",
+      "sources": []
+    },
+    {
+      "cueStart": 914,
+      "cueEnd": 925,
+      "title": "Galípolo preside o Banco Central há um ano e nove meses",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "Galípolo tomou posse como presidente do BC em 01/01/2025. Em 15/10/2026 o intervalo era de aproximadamente um ano e nove meses. A interpretação econômica atribuída a discurso recente não é confirmada por essa cronologia.",
+      "sources": [
+        "lua-galipolo"
+      ]
+    },
+    {
+      "cueStart": 939,
+      "cueEnd": 949,
+      "title": "Dívida com FMI e empréstimos brasileiros ao Fundo",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O FMI confirma a quitação antecipada de todo o saldo em 2005, de cerca de US$ 15, 46 bilhões naquele ato, após pagamentos anteriores. Confundir o tamanho de programas, os saques e o saldo final prejudica a comparação com US$ 30 bilhões; os US$ 15 bilhões emprestados depois não foram estabelecidos por esse documento.",
+      "sources": [
+        "lua-fmi2005"
+      ]
+    },
+    {
+      "cueStart": 943,
+      "cueEnd": 947,
+      "title": "Reservas internacionais de US$ 270 bilhões ao fim de 2010",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Banco Central informa US$ 288, 6 bilhões em dezembro de 2010. É verdadeiro que as reservas cresceram fortemente, mas US$ 270 bilhões não é o fechamento oficial daquele ano.",
+      "sources": [
+        "lua-reservas2010"
+      ]
+    },
+    {
+      "cueStart": 939,
+      "cueEnd": 955,
+      "title": "Posições do Brasil no ranking econômico e previsão para 2027",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "É preciso definir PIB nominal em dólares ou por poder de compra e usar a mesma edição da base em todos os anos. A previsão de posição em 2027 não é um resultado observado nem consequência automática do crescimento real.",
+      "sources": []
+    },
+    {
+      "cueStart": 968,
+      "cueEnd": 974,
+      "title": "Dívida pública teria aumentado dez pontos do PIB no mandato",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A nota do BC disponível antes da entrevista aponta DBGG de 82, 9% do PIB em agosto de 2026; no fim de 2022 era 71, 7% , diferença de 11, 2 pontos. Dez pontos é aproximação da tendência, não cálculo exato. A avaliação de sustentabilidade é distinta do dado observado.",
+      "sources": [
+        "lua-divida2026"
+      ]
+    },
+    {
+      "cueStart": 978,
+      "cueEnd": 980,
+      "title": "Lula criou família com cinco filhos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A referência é biográfica e não demonstra competência fiscal. Não foram conferidos registros familiares nesta revisão; a analogia entre orçamento doméstico e dívida pública é argumento político.",
+      "sources": []
+    },
+    {
+      "cueStart": 995,
+      "cueEnd": 1017,
+      "title": "Tese distributiva e maior política de crédito da história",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "Preferência por microcrédito e distribuição de renda é orientação de política econômica. O superlativo maior não tem universo, série monetária ou medida de abrangência definidos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1018,
+      "cueEnd": 1021,
+      "title": "Fome teria acabado em 2014 e atingia 33 milhões no retorno ao governo",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Sair do Mapa da Fome significa prevalência de subalimentação abaixo do limiar da FAO, não zero pessoas com fome. A estimativa de 33, 1 milhões em 2022 vem de pesquisa da Rede PENSSAN sobre insegurança alimentar grave, indicador e metodologia distintos dos usados pela FAO. A saída de 2014 ocorreu durante a presidência de Dilma Rousseff.",
+      "sources": [
+        "lua-fome2014",
+        "lua-fome2022"
+      ]
+    },
+    {
+      "cueStart": 1046,
+      "cueEnd": 1049,
+      "title": "Adversário não daria aumento real do salário mínimo",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Seria necessário cotejar a versão completa do programa e as declarações do adversário até a data da entrevista. Uma descrição do concorrente feita em campanha não prova sua posição ou futura execução.",
+      "sources": []
+    },
+    {
+      "cueStart": 1059,
+      "cueEnd": 1066,
+      "title": "Matriz limpa e tarifa crescendo o dobro da inflação",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O balanço energético confirma elevada participação renovável, mas matriz energética total e matriz elétrica não são a mesma medida. O dobro da inflação exige período e série tarifária definidos, ausentes na pergunta.",
+      "sources": [
+        "lua-ben2026"
+      ]
+    },
+    {
+      "cueStart": 1071,
+      "cueEnd": 1078,
+      "title": "Privatização da Eletrobras e tarifa atribuída a ela",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A capitalização de 2022 reduziu o controle estatal, mas preços ao consumidor incorporam transmissão, distribuição, tributos, encargos e compra de energia. O fato da privatização não demonstra sozinho a causalidade nem a avaliação a troco de banana, que é juízo político.",
+      "sources": [
+        "lua-eletrobras"
+      ]
+    },
+    {
+      "cueStart": 1081,
+      "cueEnd": 1104,
+      "title": "Expectativa de R$ 500 bilhões em data centers e novas energias",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "Projeção de investimento e estratégia de desenvolvimento. Valor anunciado ou potencial não equivale a investimento contratado ou executado.",
+      "sources": []
+    },
+    {
+      "cueStart": 1105,
+      "cueEnd": 1111,
+      "title": "Todo cidadão já poderia migrar ao mercado livre de energia",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O cronograma oficial prevê abertura da baixa tensão comercial/industrial até novembro de 2027 e dos residenciais até novembro de 2028. Emoutubro de 2026 não havia acesso imediato de todo cidadão; autorização futura não é disponibilidade atual.",
+      "sources": [
+        "lua-mercadoenergia"
+      ]
+    },
+    {
+      "cueStart": 1115,
+      "cueEnd": 1128,
+      "title": "Fila de especialistas não teria diminuído significativamente",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Sem série nacional homogênea de tempo de espera, unidade e período, não se estabelece a intensidade da redução. Mais procedimentos não comprova automaticamente menor tempo de espera de todos os pacientes.",
+      "sources": []
+    },
+    {
+      "cueStart": 1133,
+      "cueEnd": 1140,
+      "title": "Mais Médicos passou de 12 mil para cerca de 28 mil",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Houve forte expansão do programa, mas o balanço oficial aponta 13.726 profissionais em 2022 e a Mensagem ao Congresso de 2026 informa 27, 4 mil. Isso não corresponde à base de 12 mil nem, por diferença de estoques, a 16 mil contratações líquidas. Vagas ofertadas, contratações e médicos em exercício não são a mesma medida.",
+      "sources": [
+        "lua-maismedicos",
+        "lua-maismedicos2022"
+      ]
+    },
+    {
+      "cueStart": 1145,
+      "cueEnd": 1151,
+      "title": "Previsão de 150 carretas de saúde no ano",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "O Ministério da Saúde anunciou a meta de 150 unidades até o fim de 2026. O registro confirma a existência do plano, mas a entrega futura e seus efeitos não recebem voto de Fato como resultado já alcançado.",
+      "sources": [
+        "lua-carretas"
+      ]
+    },
+    {
+      "cueStart": 1162,
+      "cueEnd": 1169,
+      "title": "Dez mil ambulâncias sem renovação e compra de dez mil SAMU",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi encontrada nesta revisão uma discriminação entre frota do SAMU, outros veículos sanitários, aquisições e unidades efetivamente entregues que sustente os dois números. Os programas citados têm escopos diferentes.",
+      "sources": []
+    },
+    {
+      "cueStart": 1170,
+      "cueEnd": 1177,
+      "title": "Auditoria do TCU apontaria falta de solução das filas pelo Mais Médicos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi identificada a deliberação específica mencionada. Mais Médicos atua prioritariamente na atenção primária; auditoria de atenção especializada não pode ser atribuída automaticamente ao mesmo programa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1179,
+      "cueEnd": 1184,
+      "title": "Hospitais privados atendem SUS em troca de créditos de dívidas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O Agora Tem Especialistas prevê créditos financeiros por prestação de serviços ao SUS para compensação de obrigações elegíveis. A regra não significa perdão automático de qualquer dívida de qualquer hospital.",
+      "sources": [
+        "lua-especialistas"
+      ]
+    },
+    {
+      "cueStart": 1184,
+      "cueEnd": 1188,
+      "title": "Quinze milhões de cirurgias eletivas em 2025",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O balanço oficial apresentado na Câmara registra 14, 9 milhões de cirurgias eletivas em 2025, arredondáveis a 15 milhões. Não são 15 milhões de pacientes distintos nem prova de eliminação das filas. A projeção para 2026 permanece futura.",
+      "sources": [
+        "lua-cirurgias2025"
+      ]
+    },
+    {
+      "cueStart": 1207,
+      "cueEnd": 1211,
+      "title": "Seis mil obras de saúde e educação paralisadas na chegada ao governo",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não delimita levantamento, data de corte e diferença entre paralisada e inacabada. Há inventários com universos diversos; não foi confirmado o total exato de 6 mil para o conjunto de equipamentos enumerados.",
+      "sources": []
+    },
+    {
+      "cueStart": 1219,
+      "cueEnd": 1227,
+      "title": "Escala 6 por 1 e proposta de transporte gratuito nos fins de semana",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "Promessa eleitoral e avaliação de política pública. Discussão ou votação parlamentar não permite registrar antecipadamente gratuidade implantada para toda a população.",
+      "sources": []
+    },
+    {
+      "cueStart": 1229,
+      "cueEnd": 1232,
+      "title": "Gratuidade até 80 k Wh e desconto até 120 k Wh",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "As regras preveem gratuidade da tarifa até 80 k Wh para elegíveis da Tarifa Social e isenção da CDE até 120 k Wh para outro grupo de baixa renda. Não vale para todo consumidor e pode haver outros componentes na fatura; o desconto de 120 k Wh não é gratuidade integral.",
+      "sources": [
+        "lua-luzpovo"
+      ]
+    },
+    {
+      "cueStart": 1233,
+      "cueEnd": 1235,
+      "title": "Gás gratuito para 17 milhões de pessoas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A documentação oficial usa metas e contagens em famílias, com expansão gradual e público elegível. Não foi estabelecido um balanço de entregas efetivas a 17 milhões de indivíduos na data da entrevista; meta anunciada não comprova execução.",
+      "sources": [
+        "lua-gaspovo"
+      ]
+    }
+  ],
+  "limitations": [
+    "O vídeo fornecido é uma republicação da sabatina, e o título/canal preservados pertencem ao vídeo indicado. O SRT não permite autenticar áudio ou edição da republicação.",
+    "As premissas factuais das perguntas também foram examinadas. Perguntas sem autoria estruturada segura ficam sem participante no placar; não se atribuem ao entrevistado."
+  ]
+}

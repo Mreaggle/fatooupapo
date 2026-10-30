@@ -62,7 +62,7 @@ export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onC
           </form>
           {requestLinks && <RequestPanel videoUrl={url} queueUrl={requestLinks.queue} />}
         </div>
-        {recent.status === 'ready' && <DebateCarousel debates={recent.debates} />}
+        {recent.status === 'ready' && <DebateCarousel debates={recent.debates.slice(0, 6)} />}
       </section>
       <RecentDebates {...recent} />
     </main>

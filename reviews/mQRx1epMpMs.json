@@ -1,0 +1,1325 @@
+{
+  "videoId": "mQRx1epMpMs",
+  "video": {
+    "id": "mQRx1epMpMs",
+    "url": "https://www.youtube.com/watch?v=mQRx1epMpMs",
+    "title": "DEBATE: CATÓLICOS X EVANGÉLICOS: PE JOSE EDUARDO E PASTOR TASSOS - Inteligência Ltda.Podcast #1582",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/mQRx1epMpMs/hqdefault.jpg"
+  },
+  "referenceDate": "2025-07-08",
+  "reviewedAt": "2026-10-30T14:59:06.000Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "10b6e37064bfbfd54f65abd5b52cbfed1e9facd2d8afa361c635e04d9caec82f",
+  "scannedThrough": 4888,
+  "participants": [
+    {
+      "id": "jose-eduardo",
+      "name": "José Eduardo de Oliveira e Silva",
+      "aliases": [
+        "Padre José Eduardo",
+        "Padre Zé Eduardo",
+        "José Eduardo"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "tassos-lycurgo",
+      "name": "Tassos Lycurgo",
+      "aliases": [
+        "Pastor Tassos",
+        "Tassos"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "rogerio-vilela",
+      "name": "Rogério Vilela",
+      "aliases": [
+        "Vilela",
+        "Professor Vilela"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
+  "claims": [
+    {
+      "cueStart": 119,
+      "cueEnd": 121,
+      "title": "José Eduardo se apresenta como padre da diocese de Osasco",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A Diocese de Osasco publicou em 2024 nota assinada por José Eduardo de Oliveira e Silva que confirma seu sacerdócio e atuação como pároco em Osasco, antes da data do debate.",
+      "sources": [
+        "rel-priest-osasco"
+      ]
+    },
+    {
+      "cueStart": 122,
+      "cueEnd": 127,
+      "title": "Cachorro-quente de Osasco foi reconhecido como patrimônio imaterial",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei municipal 5.279/2023 reconhece o cachorro-quente e seus modos de criar e fazer como patrimônio cultural imaterial. Isso confirma o núcleo da conversa; tombamento é terminologia simplificada, e a lei não estabelece exclusividade nacional nem uma receita obrigatória única.",
+      "sources": [
+        "rel-hotdog-osasco"
+      ]
+    },
+    {
+      "cueStart": 128,
+      "cueEnd": 136,
+      "title": "Doutorado em teologia na Pontifícia Universidade da Santa Cruz",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "Apresentação institucional da Diocese de Divinópolis, publicada em 20/07/2015, identifica José Eduardo como doutor em Teologia Moral pela Pontifícia Universidade da Santa Cruz, em Roma. A conclusão confere essa formação, sem certificar cada atividade biográfica mencionada no restante do trecho.",
+      "sources": [
+        "rel-priest-degree"
+      ]
+    },
+    {
+      "cueStart": 172,
+      "cueEnd": 175,
+      "title": "Tassos se apresenta como professor titular de Artes da UFRN",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "O perfil institucional da UFRN o identifica no Departamento de Artes como professor titular. Um requerimento da Câmara dos Deputados de março de 2024 já apresenta essa mesma função, situando-a antes do debate.",
+      "sources": [
+        "rel-tassos-ufrn",
+        "rel-tassos-2024"
+      ]
+    },
+    {
+      "cueStart": 191,
+      "cueEnd": 218,
+      "title": "Premissas e intenção do debate religioso",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Proposta de método e caracterização confessional do debate; não é proposição factual isolada a pontuar.",
+      "sources": []
+    },
+    {
+      "cueStart": 221,
+      "cueEnd": 244,
+      "title": "Escritura, Tradição e Magistério na doutrina católica",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A constituição Dei Verbum, especialmente os parágrafos 9 e 10, articula Escritura e Tradição e atribui ao Magistério a interpretação autêntica. A checagem confirma o conteúdo da doutrina, não sua verdade religiosa.",
+      "sources": [
+        "rel-dei-verbum"
+      ]
+    },
+    {
+      "cueStart": 295,
+      "cueEnd": 319,
+      "title": "Atos narra quarenta dias de aparições e reúne cerca de 120 discípulos",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "Atos 1:3 menciona quarenta dias; Atos 1:15 fala em cerca de 120 pessoas. Trata-se de correspondência textual, não de comprovação empírica dos eventos sobrenaturais.",
+      "sources": [
+        "rel-acts1"
+      ]
+    },
+    {
+      "cueStart": 324,
+      "cueEnd": 327,
+      "title": "Ruach pode significar vento, sopro e espírito em hebraico",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "A palavra hebraica ruach tem esses sentidos, conforme contexto. A associação do ruído de Atos a uma palavra hebraica é interpretação do debatedor: o relato de Atos foi transmitido em grego.",
+      "sources": [
+        "rel-ruach"
+      ]
+    },
+    {
+      "cueStart": 351,
+      "cueEnd": 362,
+      "title": "Atos registra três mil batizados e a intervenção de Tiago no concílio",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Atos 2:41 registra cerca de três mil adesões; Atos 15:13–21 contém a intervenção de Tiago. O texto também atribui falas e decisões aos apóstolos, anciãos e comunidade; chamar Tiago de líder exclusivo excede a descrição explícita.",
+      "sources": [
+        "rel-acts2",
+        "rel-acts15"
+      ]
+    },
+    {
+      "cueStart": 365,
+      "cueEnd": 401,
+      "title": "A igreja como corpo místico universal",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Afirmação de identidade eclesiológica e de pertencimento religioso. As tradições discordam sobre o alcance institucional; não cabe declarar um ramo o verdadeiro por checagem factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 414,
+      "cueEnd": 419,
+      "title": "Cânone católico tem sete livros e acréscimos além do protestante",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A lista católica inclui sete livros deuterocanônicos e partes de Ester e Daniel ausentes do cânone protestante usual. A contagem de dez textos depende de como os acréscimos são divididos; não equivale a dez livros.",
+      "sources": [
+        "rel-canon"
+      ]
+    },
+    {
+      "cueStart": 438,
+      "cueEnd": 458,
+      "title": "Cátaros, begardos, beguinas e valdenses rejeitavam todos a matéria",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A fala reúne movimentos diferentes numa única genealogia. A pesquisa distingue o dualismo cátaro dos valdenses, que não pregavam esse dualismo. Portanto, a rejeição da matéria não pode ser atribuída indistintamente a todos os grupos enumerados; também há origens e datas diferentes.",
+      "sources": [
+        "rel-waldensian"
+      ]
+    },
+    {
+      "cueStart": 468,
+      "cueEnd": 472,
+      "title": "Existem mais de trinta mil denominações protestantes",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram indicados levantamento, data e conceito de denominação. Contagens globais frequentemente contabilizam organizações em cada país e ramos não protestantes; o número isolado não mede trinta mil teologias distintas.",
+      "sources": []
+    },
+    {
+      "cueStart": 506,
+      "cueEnd": 518,
+      "title": "Fundação de Jerusalém e liderança apostólica",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "A conclusão sobre qual instituição contemporânea corresponde à igreja original é eclesiológica. Os relatos de Jerusalém não resolvem por si a reivindicação institucional exclusiva.",
+      "sources": []
+    },
+    {
+      "cueStart": 519,
+      "cueEnd": 520,
+      "title": "Paulo repreendeu Pedro publicamente",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "Gálatas 2:11–14 relata que Paulo se opôs a Cefas em Antioquia e falou diante de todos por causa de sua conduta com os gentios. Isso confirma o episódio no texto, sem resolver a controvérsia sobre infalibilidade.",
+      "sources": [
+        "rel-gal2"
+      ]
+    },
+    {
+      "cueStart": 539,
+      "cueEnd": 553,
+      "title": "Passagens sobre sacerdócio, unidade e reunião em nome de Jesus",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "As referências correspondem a Efésios 4:4–6, 1 Pedro 2:9 e Mateus 18:20. As conclusões sobre qual denominação é legítima são interpretações posteriores, não fatos demonstrados pela simples citação.",
+      "sources": [
+        "rel-eph4",
+        "rel-pet2",
+        "rel-mat18"
+      ]
+    },
+    {
+      "cueStart": 578,
+      "cueEnd": 594,
+      "title": "Encíclicas papais e aceitação da pesquisa evolucionista",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Humani Generis é de Pio XII, de 1950, não de Pio X como consta na legenda. O documento permite investigar a evolução do corpo humano com ressalvas; não transforma darwinismo em dogma. João Paulo II reconheceu em 1996 a força de evidências científicas. A forma do nome pode decorrer da transcrição automática.",
+      "sources": [
+        "rel-humani",
+        "rel-jpii-evol"
+      ]
+    },
+    {
+      "cueStart": 601,
+      "cueEnd": 611,
+      "title": "Compatibilidade entre Gênesis e evolução",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Questão de interpretação bíblica e de compromisso teológico, sem teste factual para decidir qual leitura é religiosamente correta.",
+      "sources": []
+    },
+    {
+      "cueStart": 621,
+      "cueEnd": 633,
+      "title": "Comunidades cristãs precederam a redação do Novo Testamento",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "As cartas e evangelhos são escritos de comunidades cristãs já existentes. A precedência histórica não comprova, por si, uma tese sobre o monopólio atual de interpretação.",
+      "sources": [
+        "rel-nt-dates"
+      ]
+    },
+    {
+      "cueStart": 642,
+      "cueEnd": 656,
+      "title": "Pedro e Paulo fundaram a igreja de Roma",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Irineu transmite essa tradição apostólica, mas Romanos 1 mostra uma comunidade cristã existente antes da chegada de Paulo. A associação dos apóstolos à consolidação e ao martírio em Roma não permite concluir que foram os primeiros a iniciar a comunidade local.",
+      "sources": [
+        "rel-irenaeus3",
+        "rel-rom1"
+      ]
+    },
+    {
+      "cueStart": 657,
+      "cueEnd": 662,
+      "title": "Todas as igrejas anteriores à Reforma reconhecem a sucessão de Pedro em Roma",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A tradição ortodoxa reconhece o lugar histórico de Roma, mas isso não equivale a aceitar sua jurisdição universal ou a formulação católica do papado. Documentos de diálogo distinguem primazia e sua interpretação. O universal nenhuma exige qualificação.",
+      "sources": [
+        "rel-chieti"
+      ]
+    },
+    {
+      "cueStart": 670,
+      "cueEnd": 709,
+      "title": "Humani Generis distingue pesquisa evolucionista e rejeição do poligenismo",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Os parágrafos 36 e 37 permitem discussão da evolução do corpo e apresentam restrição ao poligenismo por sua relação com a doutrina do pecado original. Trata-se da posição do documento de 1950; a referência ao nome do papa na legenda está abreviada de modo impreciso.",
+      "sources": [
+        "rel-humani"
+      ]
+    },
+    {
+      "cueStart": 713,
+      "cueEnd": 745,
+      "title": "Limites entre fé e hipóteses científicas",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "opinion",
+      "explanation": "Argumento epistemológico sobre revelação, ciência e autoridade; a checagem não avalia a verdade do pressuposto religioso.",
+      "sources": []
+    },
+    {
+      "cueStart": 765,
+      "cueEnd": 769,
+      "title": "Francisco disse em 2014 que Deus não é um mago com varinha",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "A fala consta do discurso de 27 de outubro de 2014 à Pontifícia Academia das Ciências. O contexto trata da compatibilidade entre criação e evolução, e não da negação da crença em Deus.",
+      "sources": [
+        "rel-francis-evol"
+      ]
+    },
+    {
+      "cueStart": 786,
+      "cueEnd": 788,
+      "title": "Vaticano II promoveu abertura ao diálogo com outros cristãos",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "O decreto Unitatis Redintegratio de 1964 se dedica ao ecumenismo e reconhece elementos cristãos em comunidades separadas. A abertura não elimina as diferenças doutrinais registradas no próprio texto.",
+      "sources": [
+        "rel-unitatis"
+      ]
+    },
+    {
+      "cueStart": 790,
+      "cueEnd": 802,
+      "title": "Todos os ramos cristãos concordam com Trindade e nascimento virginal",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Esses pontos caracterizam as tradições nicenas majoritárias citadas, mas não toda comunidade que se identifica como cristã. Unitários bíblicos, por exemplo, professam Jesus como Messias e o nascimento virginal, porém declaram que somente o Pai é Deus. O contraexemplo basta para limitar o universal; não se decide aqui quem merece religiosamente o nome cristão.",
+      "sources": [
+        "rel-unitarian"
+      ]
+    },
+    {
+      "cueStart": 805,
+      "cueEnd": 830,
+      "title": "Modo de batismo e unidade entre denominações",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Preferência confessional e critério pessoal de unidade cristã; as diferentes práticas não podem ser resolvidas como veredito empírico de salvação.",
+      "sources": []
+    },
+    {
+      "cueStart": 854,
+      "cueEnd": 861,
+      "title": "Orígenes visitou igrejas para entrar em contato com a tradição apostólica",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Eusébio VI.14.10–11 registra a visita de Orígenes a Roma por desejar conhecer sua antiga igreja. Isso confirma uma viagem, mas não basta para certificar o itinerário geral e a motivação específica por todas as igrejas apostólicas descritos na fala.",
+      "sources": [
+        "rel-eusebius6"
+      ]
+    },
+    {
+      "cueStart": 862,
+      "cueEnd": 877,
+      "title": "Irineu apresenta sucessão dos bispos de Roma em Contra as heresias",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "Contra as heresias III,3 apresenta a tradição de Roma e enumera sucessores de Lino até Eleutério. É testemunho do autor no século II; a extensão normativa de sua linguagem é tema de interpretação entre as igrejas.",
+      "sources": [
+        "rel-irenaeus3"
+      ]
+    },
+    {
+      "cueStart": 894,
+      "cueEnd": 907,
+      "title": "Carlos Magno perguntou ao papa sobre recitação silenciosa do credo",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O episódio não veio acompanhado de documento identificável. É necessário distinguir relatos sobre Carlos Magno e controvérsia do Filioque da introdução do credo na missa romana em 1014; a narrativa exata da recitação em silêncio não foi confirmada.",
+      "sources": []
+    },
+    {
+      "cueStart": 928,
+      "cueEnd": 957,
+      "title": "Infalibilidade papal e alternativas eclesiológicas",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "A crítica ao significado teológico da infalibilidade é argumento confessional. A data de sua definição dogmática é tratada separadamente.",
+      "sources": []
+    },
+    {
+      "cueStart": 963,
+      "cueEnd": 974,
+      "title": "Cristianismo explica de modo geral o avanço de universidades e da condição feminina",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação agrega muitos séculos e regiões sem indicadores ou comparação causal. Existem instituições cristãs de ensino e mudanças sociais documentadas, mas isso não demonstra o balanço geral nem uma causa exclusiva para o avanço da humanidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 979,
+      "cueEnd": 1002,
+      "title": "1 Pedro chama Cristo de pedra viva e pedra angular",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "O tema aparece em 1 Pedro 2:4–8; a numeração indicada como versos 2 a 4 é incompleta. O texto pode ser conferido, mas a disputa sobre a relação entre Cristo e o papel de Pedro é interpretativa.",
+      "sources": [
+        "rel-pet2"
+      ]
+    },
+    {
+      "cueStart": 1033,
+      "cueEnd": 1035,
+      "title": "A repreensão de Paulo a Pedro como questão disciplinar",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "opinion",
+      "explanation": "Gálatas 2 descreve a conduta de Pedro diante de gentios. Classificar a correção como apenas disciplinar ou também doutrinal é interpretação teológica, excluída do placar empírico.",
+      "sources": [
+        "rel-gal2"
+      ]
+    },
+    {
+      "cueStart": 1036,
+      "cueEnd": 1038,
+      "title": "A definição da infalibilidade papal ocorreu no Vaticano I, no século XIX",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A constituição Pastor Aeternus foi promulgada em 18 de julho de 1870 no Concílio Vaticano I. A definição não diz que toda opinião ou conduta pessoal de um papa é infalível.",
+      "sources": [
+        "rel-pastor-aeternus"
+      ]
+    },
+    {
+      "cueStart": 1040,
+      "cueEnd": 1045,
+      "title": "Inácio diz que Roma preside na caridade e Irineu invoca sua tradição",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A saudação da Carta aos Romanos de Inácio usa a expressão presidir no amor, e Irineu III,3 invoca a sucessão romana. A leitura desses testemunhos como equivalentes à definição de 1870 é uma conclusão confessional distinta.",
+      "sources": [
+        "rel-ignatius-rom",
+        "rel-irenaeus3"
+      ]
+    },
+    {
+      "cueStart": 1063,
+      "cueEnd": 1099,
+      "title": "Interpretação das Escrituras e autoridade de pastores",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Debate normativo sobre interpretação e disciplina eclesial; não se transforma a discordância em prova de falsidade religiosa de qualquer participante.",
+      "sources": []
+    },
+    {
+      "cueStart": 1103,
+      "cueEnd": 1121,
+      "title": "Efésios e Apocalipse descrevem apóstolos, profetas e fundamentos",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "Efésios 2:20 menciona fundamento de apóstolos e profetas, Efésios 4:11 enumera ministérios e Apocalipse 21:14 fala de doze fundamentos. A aplicação dessas imagens ao primado romano é interpretação teológica.",
+      "sources": [
+        "rel-eph2",
+        "rel-eph4",
+        "rel-rev21"
+      ]
+    },
+    {
+      "cueStart": 1122,
+      "cueEnd": 1133,
+      "title": "Mateus 16 e João 21 fundamentam o primado de Pedro",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "opinion",
+      "explanation": "Os textos são invocados como fundamentos teológicos do primado. Confirmar a presença de Pedro nas passagens não decide a interpretação católica ou protestante do cargo.",
+      "sources": []
+    },
+    {
+      "cueStart": 1169,
+      "cueEnd": 1177,
+      "title": "Petros, petra e a interpretação da pedra de Mateus 16",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "O texto de Mateus 16:18 faz o jogo entre o nome Pedro e pedra. A conclusão de que a pedra é Cristo ou a confissão de Pedro, e o uso disso contra o primado romano, pertencem à exegese disputada. O contraste lexical alegado não foi usado para atribuir um voto empírico a essa leitura.",
+      "sources": [
+        "rel-mat16"
+      ]
+    },
+    {
+      "cueStart": 1202,
+      "cueEnd": 1208,
+      "title": "Todas as igrejas cristãs reconhecem os primeiros quatro ou cinco concílios",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A extensão universal é incorreta: igrejas ortodoxas orientais rejeitam Calcedônia e a Igreja do Oriente tem outra história de recepção conciliar. O número de concílios reconhecidos distingue famílias cristãs.",
+      "sources": [
+        "rel-oriental"
+      ]
+    },
+    {
+      "cueStart": 1216,
+      "cueEnd": 1236,
+      "title": "Inspiração sobrenatural e superioridade da Bíblia",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Declaração de fé e avaliação do valor do texto, sem prova empírica estabelecida pela afirmação de interconexões.",
+      "sources": []
+    },
+    {
+      "cueStart": 1261,
+      "cueEnd": 1288,
+      "title": "Molinismo teria origem mais protestante",
+      "speaker": null,
+      "verdict": "Falso",
+      "explanation": "O molinismo deve o nome a Luís de Molina, jesuíta católico cuja Concordia foi publicada em 1588. A adoção posterior por autores protestantes, como William Lane Craig, não altera essa origem. O trecho contém interrupções, por isso não foi atribuído a um só locutor.",
+      "sources": [
+        "rel-molina"
+      ]
+    },
+    {
+      "cueStart": 1289,
+      "cueEnd": 1320,
+      "title": "Justificação pela fé e salvação do ladrão crucificado",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "A narrativa de Lucas 23:39–43 é usada para defender uma doutrina da salvação. A conclusão de que o personagem não praticou nenhuma boa obra e o que isso significa sacramentalmente são interpretações teológicas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1325,
+      "cueEnd": 1355,
+      "title": "Mateus 16 menciona chaves e Mateus 18 menciona ligar e desligar",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "Mateus 16:19 contém as chaves dirigidas a Pedro; Mateus 18:18 usa o plural para ligar e desligar sem repetir a palavra chaves. A equivalência dos poderes e suas consequências institucionais são interpretações confessionais.",
+      "sources": [
+        "rel-mat16",
+        "rel-mat18"
+      ]
+    },
+    {
+      "cueStart": 1355,
+      "cueEnd": 1360,
+      "title": "D. A. Carson interpreta a pedra de Mateus 16 como Pedro",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "Em For the Love of God, vol. 2, leitura de 6 de julho, Carson relaciona a pedra a Pedro e reconhece uma primazia de papel histórico. No mesmo texto rejeita deduzir transmissão dessa primazia ou infalibilidade papal. A conclusão confere a atribuição ao exegeta, não escolhe a exegese correta.",
+      "sources": [
+        "rel-carson-peter"
+      ]
+    },
+    {
+      "cueStart": 1362,
+      "cueEnd": 1381,
+      "title": "Escritura e Tradição formam uma única fonte na formulação católica",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Dei Verbum 9 descreve Escritura e Tradição como ligadas e procedentes da mesma fonte divina; o parágrafo 10 fala em um único depósito. Isso não significa que sejam o mesmo tipo de transmissão.",
+      "sources": [
+        "rel-dei-verbum"
+      ]
+    },
+    {
+      "cueStart": 1391,
+      "cueEnd": 1404,
+      "title": "Cânone protestante usual tem 66 livros e o católico sete a mais",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "As listas usuais somam 66 e 73 livros. O acréscimo católico está no Antigo Testamento, incluindo ainda porções de Ester e Daniel; outros cânones cristãos orientais podem ter composição diferente.",
+      "sources": [
+        "rel-canon",
+        "rel-westminster"
+      ]
+    },
+    {
+      "cueStart": 1411,
+      "cueEnd": 1420,
+      "title": "Católicos e luteranos assinaram declaração sobre justificação em 1999",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A declaração conjunta foi assinada em 31 de outubro de 1999 pela Federação Luterana Mundial e pela Igreja Católica. Ela registra consenso em verdades básicas, sem declarar eliminadas todas as diferenças entre tradições.",
+      "sources": [
+        "rel-jddj"
+      ]
+    },
+    {
+      "cueStart": 1421,
+      "cueEnd": 1431,
+      "title": "Todos os evangélicos reputam a doutrina católica pelagiana",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há pesquisa representativa nem definição de todos os evangélicos que sustente a atribuição universal. O próprio diálogo ecumênico documenta posições protestantes variadas; não se generalizou uma controvérsia a todo fiel.",
+      "sources": []
+    },
+    {
+      "cueStart": 1433,
+      "cueEnd": 1450,
+      "title": "Orange e Trento negam que a graça inicial possa ser merecida",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O II Concílio de Orange (529), cânones 5–8, e Trento, sessão VI, capítulo 8, rejeitam que a graça inicial seja obtida por mérito humano anterior. A checagem é documental e não decide a doutrina da salvação.",
+      "sources": [
+        "rel-orange",
+        "rel-trent6"
+      ]
+    },
+    {
+      "cueStart": 1456,
+      "cueEnd": 1491,
+      "title": "A interpretação da doutrina de Lutero sobre obras e graça",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "opinion",
+      "explanation": "Lutero usa linguagem severa sobre pecado nas obras dos justos em Heidelberg, teses 6–7, mas a tese 27 também fala em obra agradável a Deus pela graça; Augsburgo VI exige bons frutos. A avaliação antropológica dessas distinções é disputa teológica, excluída do placar empírico.",
+      "sources": [
+        "rel-heidelberg",
+        "rel-augsburg6"
+      ]
+    },
+    {
+      "cueStart": 1511,
+      "cueEnd": 1518,
+      "title": "Filipenses 2:12: salvação ou santificação na legenda",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Filipenses 2:12 traz salvação na tradução consultada; o SRT registra santificação. A relação doutrinal entre as duas é interpretativa, e a diferença de palavra pode decorrer da legenda. Sem áudio, não se certifica que o debatedor citou a passagem com esse erro.",
+      "sources": [
+        "rel-phil2"
+      ]
+    },
+    {
+      "cueStart": 1542,
+      "cueEnd": 1556,
+      "title": "Romanos e Gálatas falam em justificação pela fé sem obras da lei",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "As formulações correspondem a Romanos 3:28 e Gálatas 2:16. O significado de obras da lei e sua relação com outras passagens é questão exegética distinta.",
+      "sources": [
+        "rel-rom3",
+        "rel-gal2"
+      ]
+    },
+    {
+      "cueStart": 1583,
+      "cueEnd": 1619,
+      "title": "Efésios, Tito e Tiago contêm as passagens citadas sobre fé e obras",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "Efésios 2:8–9, Tito 3:5 e Tiago 2:24 contêm, respectivamente, as formulações sobre graça, misericórdia e obras invocadas. A checagem de conteúdo não determina qual harmonização teológica é correta.",
+      "sources": [
+        "rel-eph2",
+        "rel-titus3",
+        "rel-james2"
+      ]
+    },
+    {
+      "cueStart": 1624,
+      "cueEnd": 1632,
+      "title": "A Estrutura das Revoluções Científicas é o livro mais citado do século XX",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam base bibliométrica, áreas incluídas e critério de citação. A influência do livro de Kuhn não basta para confirmar o superlativo em todo o século e em todas as disciplinas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1631,
+      "cueEnd": 1634,
+      "title": "Margaret Masterman identificou vinte sentidos de paradigma em Kuhn",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O ensaio de Masterman existe e examina a multiplicidade de usos de paradigma em Kuhn. Na p. 61 ela conta pelo menos 21 sentidos, depois agrupados em famílias; vinte é uma aproximação pequena que preserva a substância da referência.",
+      "sources": [
+        "rel-masterman"
+      ]
+    },
+    {
+      "cueStart": 1643,
+      "cueEnd": 1646,
+      "title": "Lutero queria tirar Tiago da Bíblia",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Lutero questionou a posição de Tiago e o chamou de epístola de palha no prefácio de 1522, mas sua tradução publicada conservou Tiago. Criticar o peso doutrinário não equivale a eliminar o livro de suas Bíblias.",
+      "sources": [
+        "rel-luther-james"
+      ]
+    },
+    {
+      "cueStart": 1643,
+      "cueEnd": 1650,
+      "title": "O cânone original não tinha Tiago, Apocalipse e só possuía dez cartas paulinas",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Eusébio III.25 registra livros reconhecidos e disputados, incluindo Tiago e Apocalipse; isso documenta recepção gradual e divergências. Essas listas não autorizam tratar uma coleção de dez cartas paulinas e aquelas exclusões como um cânone cristão universal original.",
+      "sources": [
+        "rel-canon-history"
+      ]
+    },
+    {
+      "cueStart": 1663,
+      "cueEnd": 1668,
+      "title": "Um concílio em Jâmnia definiu o cânone hebraico no ano 90",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A reconstrução de um concílio que encerrou formalmente o cânone em Jâmnia por volta de 90 foi contestada pela pesquisa especializada. Debates rabínicos sobre livros não demonstram uma decisão universal de fechamento naquele ano.",
+      "sources": [
+        "rel-jamnia"
+      ]
+    },
+    {
+      "cueStart": 1691,
+      "cueEnd": 1848,
+      "title": "Harmonização de fé, obras e confissão de fé",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Discussão sobre como compatibilizar textos e sobre o que salva. As posições foram registradas sem converter uma interpretação confessional em fato empírico.",
+      "sources": []
+    },
+    {
+      "cueStart": 1852,
+      "cueEnd": 1860,
+      "title": "A interpretação moral da frase peca forte atribuída a Lutero",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "opinion",
+      "explanation": "A carta a Melanchthon de 01/08/1521 contém a expressão e linguagem enfática sobre confiar em Cristo apesar do pecado. A conclusão de que ela autoriza pecar livremente é uma leitura polêmica de suas consequências teológicas; não foi convertida em voto empírico. Augsburgo VI, por sua vez, exige bons frutos da fé.",
+      "sources": [
+        "rel-luther-sin",
+        "rel-augsburg6"
+      ]
+    },
+    {
+      "cueStart": 1881,
+      "cueEnd": 2090,
+      "title": "Santificação, salvação e alcance da sola fide",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Debate doutrinal com reiteradas definições de justificação e salvação. Não há critério empírico que decida a validade religiosa de uma das posições.",
+      "sources": []
+    },
+    {
+      "cueStart": 2111,
+      "cueEnd": 2120,
+      "title": "Trento condenou determinada formulação de sola fide",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O cânon 9 da sessão VI de Trento condena a formulação de fé somente entendida de modo a excluir toda cooperação na preparação para a justificação. O texto deve ser lido com essa qualificação, e não como autorização atribuída aos protestantes para pecar.",
+      "sources": [
+        "rel-trent6"
+      ]
+    },
+    {
+      "cueStart": 2131,
+      "cueEnd": 2149,
+      "title": "Teologia liberal e hipergrace seriam a mesma linhagem doutrinal",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram definidos autores, obras e filiações históricas. Hipergrace e teologia liberal abrangem debates diferentes; exemplos anedóticos de pastores não demonstram essa genealogia geral.",
+      "sources": []
+    },
+    {
+      "cueStart": 2191,
+      "cueEnd": 2218,
+      "title": "O catolicismo reconhece sete sacramentos como sinais eficazes da graça",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O Catecismo 1113 enumera os sete sacramentos e 1127–1129 descreve sua eficácia e necessidade no sistema doutrinal católico. Não se trata de comprovação empírica da ação da graça.",
+      "sources": [
+        "rel-sacraments",
+        "rel-sacrament-salvation"
+      ]
+    },
+    {
+      "cueStart": 2255,
+      "cueEnd": 2279,
+      "title": "Todo protestantismo considera só duas ordenanças sem relação com graça",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A descrição se ajusta a correntes batistas e pentecostais, mas não a todo protestantismo. A Confissão de Augsburgo IX ensina batismo para salvação e a doutrina anglicana fala em sinais eficazes da graça.",
+      "sources": [
+        "rel-augsburg9",
+        "rel-anglican25"
+      ]
+    },
+    {
+      "cueStart": 2348,
+      "cueEnd": 2380,
+      "title": "A igreja sempre enumerou sete sacramentos e não houve contestação nos mil primeiros anos",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O próprio Catecismo 1117 descreve reconhecimento gradual do tesouro sacramental. A enumeração de sete foi sistematizada na Idade Média; não se comprovou que esse número técnico e sua compreensão fossem unânimes desde o início.",
+      "sources": [
+        "rel-sacraments",
+        "rel-sacrament-history"
+      ]
+    },
+    {
+      "cueStart": 2391,
+      "cueEnd": 2430,
+      "title": "Pecado, arrependimento e possibilidade de condenação",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Argumento teológico sobre salvação, natureza pessoal e arrependimento; não recebe pontuação factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 2441,
+      "cueEnd": 2457,
+      "title": "Atos 2, João 3 e Marcos 16 relacionam batismo a perdão e salvação",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "As passagens existem em Atos 2:38, João 3:5 e Marcos 16:16. O final longo de Marcos tem história textual própria; sua invocação não resolve a disputa sobre modalidade ou necessidade absoluta do sacramento.",
+      "sources": [
+        "rel-acts2",
+        "rel-john3",
+        "rel-mark16"
+      ]
+    },
+    {
+      "cueStart": 2461,
+      "cueEnd": 2539,
+      "title": "Modalidades de batismo e o ladrão crucificado",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Interpretações sobre batismo de desejo, água, Espírito e salvação. A narrativa é discutida dentro dos sistemas confessionais, não testada empiricamente.",
+      "sources": []
+    },
+    {
+      "cueStart": 2541,
+      "cueEnd": 2560,
+      "title": "Doutrina católica reconhece batismo de sangue e de desejo",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O Catecismo 1258–1259 descreve martírio antes do batismo e desejo explícito acompanhado de arrependimento e caridade. A expressão não indica três sacramentos repetíveis distintos.",
+      "sources": [
+        "rel-baptism-desire"
+      ]
+    },
+    {
+      "cueStart": 2603,
+      "cueEnd": 2611,
+      "title": "Jerônimo chamou livros deuterocanônicos de apócrifos",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "No prólogo aos livros de Samuel e Reis, Jerônimo distinguiu a lista hebraica e pôs livros fora dela entre apócrifos; em outros prólogos reconheceu uso eclesial de alguns deles. A posição não resume sozinha a recepção de toda a igreja.",
+      "sources": [
+        "rel-jerome"
+      ]
+    },
+    {
+      "cueStart": 2615,
+      "cueEnd": 2690,
+      "title": "Maria, veneração e avaliação da religiosidade popular",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Declarações confessionais e juízos sobre devoção e idolatria. Observações pessoais não medem o comportamento de todos os fiéis nem decidem o valor religioso da prática.",
+      "sources": []
+    },
+    {
+      "cueStart": 2645,
+      "cueEnd": 2654,
+      "title": "A doutrina católica distingue adoração a Deus e veneração de Maria e santos",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "O Catecismo 971 afirma que a devoção mariana difere essencialmente da adoração prestada a Deus. A distinção de latria, dulia e hiperdulia descreve categorias teológicas; não comprova o comportamento individual de todo católico.",
+      "sources": [
+        "rel-mary-cult"
+      ]
+    },
+    {
+      "cueStart": 2728,
+      "cueEnd": 2735,
+      "title": "Nazaré não é mencionada no Antigo Testamento",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A ausência de Nazaré nomeada no Antigo Testamento é confirmada no estudo consultado. Isso não demonstra inexistência da aldeia, e a ausência de toda a literatura intertestamentária ou sua importância econômica exigiriam investigação adicional, não sendo inferidas apenas desse silêncio.",
+      "sources": [
+        "rel-nazareth"
+      ]
+    },
+    {
+      "cueStart": 2749,
+      "cueEnd": 2763,
+      "title": "Calcedônia confessa uma pessoa e duas naturezas em Cristo",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A definição de Calcedônia de 451 formula uma pessoa e hipóstase em duas naturezas. A checagem confirma a formulação conciliar, sem provar a metafísica da encarnação.",
+      "sources": [
+        "rel-chalcedon"
+      ]
+    },
+    {
+      "cueStart": 2764,
+      "cueEnd": 2960,
+      "title": "Maternidade divina, encarnação e prática devocional",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Argumentos cristológicos e avaliação religiosa de práticas. O significado de mãe de Deus é apresentado como confissão, não como conclusão de observação empírica.",
+      "sources": []
+    },
+    {
+      "cueStart": 2975,
+      "cueEnd": 2981,
+      "title": "Lucas traz a expressão mãe do meu Senhor",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "Lucas 1:43 põe a expressão na fala de Isabel. A aplicação do título Theotokos é uma interpretação cristológica posterior, e a checagem se limita à presença da expressão no texto.",
+      "sources": [
+        "rel-luke1"
+      ]
+    },
+    {
+      "cueStart": 2990,
+      "cueEnd": 3191,
+      "title": "Idolatria, sacrifício e veneração",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Divergência sobre significado religioso dos gestos e do sacrifício. Não se declarou idólatra uma população por uma definição confessional concorrente.",
+      "sources": []
+    },
+    {
+      "cueStart": 3192,
+      "cueEnd": 3202,
+      "title": "Romanos 3 fala de todos pecarem e Lucas 1 chama Deus de salvador",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "Romanos 3:23 contém a universalização invocada; Lucas 1:46–47 registra a referência de Maria a Deus como seu salvador. A compatibilização com a Imaculada Conceição é interpretação teológica.",
+      "sources": [
+        "rel-rom3",
+        "rel-luke1"
+      ]
+    },
+    {
+      "cueStart": 3210,
+      "cueEnd": 3315,
+      "title": "Preservação de Maria do pecado e analogia com o paraíso",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Exposição e contestação de dogma mariano e de analogias da criação; não cabe certificação empírica de ausência de pecado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3320,
+      "cueEnd": 3324,
+      "title": "Gênesis também apresenta animais formados da terra",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "Gênesis 2:19 descreve animais e aves formados da terra. O texto não reserva essa imagem apenas a Adão; suas implicações teológicas são tratadas separadamente.",
+      "sources": [
+        "rel-gen2"
+      ]
+    },
+    {
+      "cueStart": 3330,
+      "cueEnd": 3440,
+      "title": "Intercessão de santos como causa instrumental",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Debate sobre eficácia sobrenatural da oração e interpretação da devoção. Não se verificam milagres ou causalidade sobrenatural a partir do texto.",
+      "sources": []
+    },
+    {
+      "cueStart": 3451,
+      "cueEnd": 3499,
+      "title": "Critérios de consciência para o batismo infantil",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Argumentos confessionais sobre validade do batismo e requisitos de consciência. A checagem não determina qual prática salva.",
+      "sources": []
+    },
+    {
+      "cueStart": 3501,
+      "cueEnd": 3524,
+      "title": "Atos 2 não descreve exame individual antes dos três mil batismos",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Atos 2:41 fala dos que acolheram a mensagem e não descreve avaliação individual de compreensão. A frase retórica de que nada entenderam é depois delimitada pelo debatedor como falta de verificação ou garantia; o relato não prova que ninguém compreendeu nem que houve exame formal.",
+      "sources": [
+        "rel-acts2"
+      ]
+    },
+    {
+      "cueStart": 3533,
+      "cueEnd": 3540,
+      "title": "A Igreja Católica só batiza bebês com garantia de educação cristã",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O cânon 868 requer consentimento parental e esperança fundada de educação católica. Há exceção em perigo de morte e não se exige que ambos os pais sejam católicos; a frase simplifica os requisitos.",
+      "sources": [
+        "rel-canon868"
+      ]
+    },
+    {
+      "cueStart": 3563,
+      "cueEnd": 3590,
+      "title": "Promessas e gestos de devoção no Círio de Nazaré",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "O juízo de que um gesto é veneração ou adoração pertence à controvérsia religiosa. Sem levantamento, não se generalizaram intenções de todos os participantes.",
+      "sources": []
+    },
+    {
+      "cueStart": 3600,
+      "cueEnd": 3610,
+      "title": "Candomblé e Umbanda teriam a mesma relação necessária com sacrifícios",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho aproxima tradições internamente diversas e não define o sentido de sacrifício. Sem delimitar terreiro, vertente e rito, não é possível atribuir a todas as casas uma prática sacrificial idêntica.",
+      "sources": []
+    },
+    {
+      "cueStart": 3611,
+      "cueEnd": 3621,
+      "title": "O protestantismo foi a única religião a separar sacrifício e adoração",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A comparação abrange todas as culturas sem delimitação de adoração e sacrifício. O próprio interlocutor usa sacrifício em sentido espiritual; não foi comprovada a exclusividade histórica atribuída ao protestantismo.",
+      "sources": []
+    },
+    {
+      "cueStart": 3622,
+      "cueEnd": 3660,
+      "title": "Ceia, sacrifício espiritual e sacrifício de Cristo",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Discussão sobre significado sacrificial do culto, sem critério empírico para decidir a validade da crença.",
+      "sources": []
+    },
+    {
+      "cueStart": 3664,
+      "cueEnd": 3710,
+      "title": "Lucas 22 e João 19 mencionam cálices e vinho azedo",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Lucas 22:16–20 distingue o cálice e o pão; João 19:28–30 menciona vinho azedo. Identificar o líquido da cruz como o quarto cálice pascal ou situar esse cálice nas bodas é hipótese exegética não explícita nos relatos.",
+      "sources": [
+        "rel-luke22",
+        "rel-john19"
+      ]
+    },
+    {
+      "cueStart": 3721,
+      "cueEnd": 3751,
+      "title": "Comércio de relíquias e materiais religiosos como desvio",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Exemplos anedóticos e juízos religiosos; não se verificaram transações comerciais específicas sem identificação dos produtos e responsáveis.",
+      "sources": []
+    },
+    {
+      "cueStart": 3752,
+      "cueEnd": 3764,
+      "title": "Arquitetura de igrejas americanas é mais bonita e Deus une belo e bom",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Avaliação estética e metafísica, sem indicador objetivo para ordenar a beleza das igrejas.",
+      "sources": []
+    },
+    {
+      "cueStart": 3765,
+      "cueEnd": 3790,
+      "title": "Êxodo 20 proíbe imagens e culto a elas",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Verdadeiro",
+      "explanation": "Êxodo 20:4–5 contém a proibição citada. A relação com outras imagens permitidas e com práticas modernas exige interpretação do contexto, não apenas leitura isolada.",
+      "sources": [
+        "rel-ex20"
+      ]
+    },
+    {
+      "cueStart": 3821,
+      "cueEnd": 3830,
+      "title": "Cada pessoa no candomblé só pode cultuar um orixá",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A existência de um orixá associado à pessoa não demonstra proibição de cultuar outros. Faltou delimitar nação, comunidade e norma ritual; não se tomou a analogia de monolatria como descrição universal do candomblé.",
+      "sources": []
+    },
+    {
+      "cueStart": 3832,
+      "cueEnd": 3840,
+      "title": "Manassés sacrificou seu filho no vale de Ben-Hinom",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "2 Crônicas 33:6 situa a prática de passar filhos pelo fogo em Ben-Hinom; 2 Reis 21:6 também registra esse ato. A identificação específica da imagem ou divindade não é estabelecida no trecho citado e o debatedor reconhece dúvida.",
+      "sources": [
+        "rel-2chron33",
+        "rel-2kings21"
+      ]
+    },
+    {
+      "cueStart": 3841,
+      "cueEnd": 3853,
+      "title": "Êxodo 25 manda fazer dois querubins de ouro",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "Êxodo 25:18–22 contém a instrução e a localização no propiciatório da arca. Isso confirma o conteúdo do texto, não decide sozinho a disputa sobre culto de imagens.",
+      "sources": [
+        "rel-ex25"
+      ]
+    },
+    {
+      "cueStart": 3862,
+      "cueEnd": 3870,
+      "title": "Uzá morreu após tocar a arca quando Davi a transportava",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "2 Samuel 6:6–7 narra a morte de Uzá após tocar a arca. A explicação resumida como não era sacerdote não é a causa literalmente apresentada nesses versículos e exige contexto adicional.",
+      "sources": [
+        "rel-2sam6"
+      ]
+    },
+    {
+      "cueStart": 3874,
+      "cueEnd": 3890,
+      "title": "Êxodo descreve querubins no véu e Gênesis na entrada do Éden",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Êxodo 26:31 manda bordar querubins no véu, sem fixar ali a quantidade de dois; Gênesis 3:24 menciona os guardiões do caminho. A associação simbólica com o véu rasgado é interpretação do debatedor.",
+      "sources": [
+        "rel-ex26",
+        "rel-gen3"
+      ]
+    },
+    {
+      "cueStart": 3898,
+      "cueEnd": 3903,
+      "title": "Marcos 2:7 atribui a Jesus a fala de que só Deus perdoa pecados",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Em Marcos 2:6–7 são os escribas que formulam a objeção sobre perdão e blasfêmia. Jesus responde nos versículos seguintes. A premissa foi apresentada por pergunta do público, sem autoria imputada aos debatedores.",
+      "sources": [
+        "rel-mark2"
+      ]
+    },
+    {
+      "cueStart": 3930,
+      "cueEnd": 3949,
+      "title": "Mateus 9:8 diz que Deus deu autoridade aos homens",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O versículo registra o temor da multidão e sua glorificação a Deus por tal autoridade. A existência da frase não determina a extensão do ministério de absolvição defendido pelo participante.",
+      "sources": [
+        "rel-mat9"
+      ]
+    },
+    {
+      "cueStart": 3946,
+      "cueEnd": 3958,
+      "title": "João 20:23 fala de perdoar e reter pecados",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A passagem contém a formulação invocada. A checagem confirma o texto, sem resolver como cada tradição interpreta seu destinatário e sua aplicação.",
+      "sources": [
+        "rel-john20"
+      ]
+    },
+    {
+      "cueStart": 4001,
+      "cueEnd": 4010,
+      "title": "Exousia quer dizer o que vem da essência",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A lexicografia grega relaciona exousia a exesti, no campo de permissão, autoridade e poder. Não é explicação etimológica adequada decompô-la como essência e daí deduzir poder metafísico.",
+      "sources": [
+        "rel-exousia"
+      ]
+    },
+    {
+      "cueStart": 4011,
+      "cueEnd": 4060,
+      "title": "Contrição perfeita, sacramento e autoperdão",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Doutrina sobre perdão e aconselhamento pastoral. A eficácia sobrenatural do sacramento ou a absolvição divina não são certificadas pela análise textual.",
+      "sources": []
+    },
+    {
+      "cueStart": 4064,
+      "cueEnd": 4080,
+      "title": "O argumento do laboratório contra a transubstanciação",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "É uma objeção filosófica à doutrina, excluída do placar empírico. O Catecismo 1376 distingue mudança da substância e permanência das espécies sensíveis. A definição documental pode ser descrita, mas nem sua verdade metafísica nem sua refutação por esse argumento foram tratadas como fato laboratorial.",
+      "sources": [
+        "rel-eucharist"
+      ]
+    },
+    {
+      "cueStart": 4114,
+      "cueEnd": 4150,
+      "title": "O catolicismo distingue mudança da substância e permanência das aparências",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A explicação corresponde ao Catecismo 1376 e ao cânon 2 da sessão XIII de Trento. A checagem verifica o conteúdo da doutrina, sem confirmar um milagre ou conversão física.",
+      "sources": [
+        "rel-eucharist"
+      ]
+    },
+    {
+      "cueStart": 4188,
+      "cueEnd": 4200,
+      "title": "A missa católica implicaria matar Cristo novamente",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Catecismo 1367 afirma que o sacrifício da cruz e o eucarístico são um único sacrifício, com modo diverso de oferecimento. Descrever o ensino oficial como nova morte de Jesus não corresponde à formulação católica.",
+      "sources": [
+        "rel-eucharist-sacrifice"
+      ]
+    },
+    {
+      "cueStart": 4304,
+      "cueEnd": 4311,
+      "title": "1 Coríntios 11 contém advertência sobre o corpo e sangue",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "1 Coríntios 11:27–29 adverte sobre comer e beber indignamente e culpa em relação ao corpo e sangue. O SRT registra dignamente, aparentemente omitindo o prefixo; não foi certificado um erro oral de citação. O sentido sacramental defendido é questão exegética.",
+      "sources": [
+        "rel-1cor11"
+      ]
+    },
+    {
+      "cueStart": 4330,
+      "cueEnd": 4351,
+      "title": "João 6 fala de carne como comida e espírito que dá vida",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "As formulações aparecem em João 6:55 e 6:63 e integram uma controvérsia narrada no capítulo. Traduzir o verbo comer e concluir sentido literal ou sacramental exige análise exegética separada.",
+      "sources": [
+        "rel-john6"
+      ]
+    },
+    {
+      "cueStart": 4363,
+      "cueEnd": 4400,
+      "title": "Memorial judaico, tempo e eternidade e o cordeiro",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Construção teológica sobre memorial e sacrifício eterno. As tradições divergem quanto ao significado sacramental; não se atribuiu veredito empírico.",
+      "sources": []
+    },
+    {
+      "cueStart": 4412,
+      "cueEnd": 4431,
+      "title": "As igrejas protestantes não têm sacerdócio ministerial",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O protestantismo não é uniforme: o ordinal anglicano ordena bispos, presbíteros e diáconos e a Confissão de Augsburgo V trata do ministério da igreja. A rejeição de sacrifício propiciatório eucarístico não equivale à inexistência de todo ministério ordenado.",
+      "sources": [
+        "rel-anglican-ordinal",
+        "rel-augsburg5"
+      ]
+    },
+    {
+      "cueStart": 4461,
+      "cueEnd": 4539,
+      "title": "Pão, corpo e memória na Última Ceia",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Discussão exegética e sacramental reiterada. O texto de Lucas 22:19 não decide por teste empírico a disputa entre memorialismo e transubstanciação.",
+      "sources": []
+    },
+    {
+      "cueStart": 4551,
+      "cueEnd": 4560,
+      "title": "Premissa de uma pergunta: canonização exigiria três milagres",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A pergunta contém uma premissa documental imprecisa: não há regra bíblica de três milagres para canonização. O estudo jurídico do dicastério registra, nas causas ordinárias de não mártires, um milagre para beatificação e outro posterior para canonização, com exceções. A resposta do padre distingue corretamente o procedimento eclesiástico de uma regra bíblica.",
+      "sources": [
+        "rel-canonization"
+      ]
+    },
+    {
+      "cueStart": 4562,
+      "cueEnd": 4571,
+      "title": "Mateus descreve reunião com Abraão, Isaac e Jacó",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Mateus 8:11 menciona pessoas do oriente e ocidente com os patriarcas; o norte e sul aparecem em Lucas 13:29. A fala combina duas passagens paralelas. A realização futura é uma crença religiosa.",
+      "sources": [
+        "rel-mat8",
+        "rel-luke13"
+      ]
+    },
+    {
+      "cueStart": 4598,
+      "cueEnd": 4630,
+      "title": "Aliança política e caracterização de ideologias como satânicas",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Avaliação moral, religiosa e proposta de ação política. Não se tratou associação entre grupos sociais e forças sobrenaturais como fato demonstrado.",
+      "sources": []
+    },
+    {
+      "cueStart": 4632,
+      "cueEnd": 4640,
+      "title": "Três em quatro jovens cristãos abandonam a fé ao entrar na universidade",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica pesquisa, país, faixa etária ou medida de abandono. Estudos de afastamento de cultos não equivalem a perda da fé e não isolam a universidade como causa; a taxa de 75% e a causa única não foram comprovadas.",
+      "sources": [
+        "rel-lifeway"
+      ]
+    },
+    {
+      "cueStart": 4641,
+      "cueEnd": 4675,
+      "title": "Família e igreja como resistência cultural",
+      "speaker": "Tassos Lycurgo",
+      "verdict": "opinion",
+      "explanation": "Proposta e avaliação de propósito religioso, sem promessa de resultado factual verificado.",
+      "sources": []
+    },
+    {
+      "cueStart": 4772,
+      "cueEnd": 4781,
+      "title": "Católicos e evangélicos estariam chegando a equilíbrio demográfico no Brasil",
+      "speaker": "José Eduardo de Oliveira e Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A fala descreve aproximação ao longo do tempo, sem afirmar que já exista paridade. O Censo 2022 divulgado antes do debate mostra queda da proporção católica e crescimento evangélico, reduzindo a distância. Ainda eram 56,7% e 26,9%, respectivamente, entre pessoas de 10 anos ou mais; os dados não fixam quando ou se haverá equilíbrio.",
+      "sources": [
+        "rel-ibge-religion"
+      ]
+    },
+    {
+      "cueStart": 4831,
+      "cueEnd": 4836,
+      "title": "Enquete do chat teria quase cinco mil votos e 67% pela opção carne",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O resultado é anunciado no programa, mas o arquivo SRT não contém registro auditável da enquete. Mesmo se confirmado no vídeo, seria votação espontânea da audiência e não pesquisa representativa sobre crenças.",
+      "sources": []
+    }
+  ],
+  "coverageNotes": "A revisão distingue afirmações históricas e documentais de interpretações religiosas. Dogmas, metafísica, alegações sobrenaturais e divergências exegéticas não recebem veredito empírico. A conferência de citações religiosas atesta o conteúdo da tradução ou do documento indicado, e não a ocorrência material dos eventos narrados.",
+  "limitations": [
+    "A correspondência de uma citação com um texto religioso verifica seu conteúdo, não comprova historicamente o evento narrado nem a verdade da crença. Cânones, traduções e tradições interpretativas podem divergir.",
+    "O SRT fornecido começa em 01:42,310; não há cobertura textual do vídeo anterior a esse instante. A leitura integral refere-se aos blocos efetivamente fornecidos, não a eventuais falas ausentes no início.",
+    "Os timestamps do SRT foram preservados, sem retiming. O fim da última legenda excede ligeiramente a duração informada pelo player; isso não foi tratado como fala adicional verificada."
+  ]
+}

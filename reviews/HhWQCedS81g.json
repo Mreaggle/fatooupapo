@@ -1,0 +1,1529 @@
+{
+  "videoId": "HhWQCedS81g",
+  "video": {
+    "id": "HhWQCedS81g",
+    "url": "https://www.youtube.com/watch?v=HhWQCedS81g",
+    "title": "DEBATE: PRISÃO DOS MCS POZE E ORUAM: ARTHUR DO VAL X MC SMITH - Inteligência Ltda. Podcast #1558",
+    "channel": "Inteligência Ltda",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HhWQCedS81g/hqdefault.jpg"
+  },
+  "referenceDate": "2025-06-11",
+  "reviewedAt": "2026-10-30T15:01:54.274Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "55694bea2e206acb49f1478c45d4a95b589c47840ce40d0b98e18eea23db7f74",
+  "scannedThrough": 5069,
+  "participants": [
+    {
+      "id": "arthur-do-val",
+      "name": "Arthur do Val",
+      "aliases": [
+        "Arthur",
+        "Mamãe Falei"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "mc-smith",
+      "name": "MC Smith",
+      "aliases": [
+        "Smith",
+        "Wallace Ferreira da Mota"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    }
+  ],
+  "claims": [
+    {
+      "cueStart": 131,
+      "cueEnd": 135,
+      "title": "Trajetória profissional e curso de História de MC Smith",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato de 15 anos de carreira em entrevista de 2021 é compatível com aproximadamente 19 anos em 2025. Não foi localizado registro acadêmico que confirme a matrícula em História na data do debate; a autobiografia não comprova todo o conjunto.",
+      "sources": [
+        "eco-smith-carreira"
+      ]
+    },
+    {
+      "cueStart": 188,
+      "cueEnd": 194,
+      "title": "Alcance do projeto conhecido como anti-Oruam",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O PL 26/2025 restringe contratação pela administração municipal de apresentações acessíveis a menores com apologia ao crime ou drogas. Não é proibição geral de eventos ou de um gênero musical; continuava como projeto em junho de 2025.",
+      "sources": [
+        "eco-pl"
+      ]
+    },
+    {
+      "cueStart": 217,
+      "cueEnd": 221,
+      "title": "Policiais revenderiam armas retiradas de traficantes",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "É uma acusação de desvio de armas sem identificar ocorrência, inquérito ou responsáveis no trecho. A existência de corrupção policial não permite confirmar este episódio indeterminado nem atribuí-lo à corporação.",
+      "sources": []
+    },
+    {
+      "cueStart": 222,
+      "cueEnd": 231,
+      "title": "A polícia existiria para manter o tráfico e o caos",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "Explicação política generalizante sobre incentivos das instituições; não apresenta recorte ou caso verificável. Fica fora do placar factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 305,
+      "cueEnd": 318,
+      "title": "A Câmara municipal não cria crimes penais",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A competência para legislar sobre direito penal é privativa da União, conforme art. 22, I. O debate contrapõe essa competência à regulação administrativa de contratações municipais.",
+      "sources": [
+        "eco-cf22"
+      ]
+    },
+    {
+      "cueStart": 354,
+      "cueEnd": 369,
+      "title": "Apologia de fato criminoso já é prevista no art. 287",
+      "speaker": "Arthur do Val",
+      "verdict": "Verdadeiro",
+      "explanation": "O Código Penal de 1940 já contém o art. 287, com pena de detenção de três a seis meses ou multa. Aplicar o tipo a uma manifestação concreta exige análise jurídica; mencionar crime numa obra não equivale automaticamente a apologia.",
+      "sources": [
+        "eco-cp"
+      ]
+    },
+    {
+      "cueStart": 361,
+      "cueEnd": 377,
+      "title": "O projeto apenas impediria contratação de quem já teve apologia reconhecida",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O texto estabelece cláusula contratual, fiscalização e sanção administrativa por apologia durante o evento; não se resume a excluir quem tenha condenação penal anterior. A atuação administrativa também exige devido processo.",
+      "sources": [
+        "eco-pl",
+        "eco-pl-texto"
+      ]
+    },
+    {
+      "cueStart": 394,
+      "cueEnd": 397,
+      "title": "MC Smith foi preso em 2010",
+      "speaker": "MC Smith",
+      "verdict": "Verdadeiro",
+      "explanation": "Há registro contemporâneo de prisão em dezembro de 2010 por suspeitas de apologia e associação ao tráfico, posteriormente revogada pelo STJ. Prisão investigativa não equivale a condenação.",
+      "sources": [
+        "eco-smith2010"
+      ]
+    },
+    {
+      "cueStart": 405,
+      "cueEnd": 427,
+      "title": "Origem prisional do Comando Vermelho e propósito assistencial",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A origem na Ilha Grande, durante a ditadura e ao fim dos anos 1970, é documentada. Reduzir sua constituição a tirar de ricos para ajudar pobres transforma uma narrativa dos fundadores em finalidade comprovada e omite conflitos violentos entre grupos de presos.",
+      "sources": [
+        "eco-cv"
+      ]
+    },
+    {
+      "cueStart": 428,
+      "cueEnd": 433,
+      "title": "A primeira favela do Brasil ficaria em Canudos",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Canudos tinha um morro chamado Favela. O nome foi levado ao Rio e associado ao morro da Providência; os estudos urbanos não fazem do arraial baiano a primeira favela urbana brasileira no sentido utilizado hoje.",
+      "sources": [
+        "eco-favela-hist",
+        "eco-canudos"
+      ]
+    },
+    {
+      "cueStart": 433,
+      "cueEnd": 438,
+      "title": "Canudos teria surgido da recusa de pagar indulgências à Coroa",
+      "speaker": "MC Smith",
+      "verdict": "Falso",
+      "explanation": "Belo Monte se consolidou em 1893, durante a República. O conflito envolveu tensões religiosas, políticas e uma disputa de materiais para uma igreja; a recusa de pagar indulgências à Coroa não corresponde à cronologia documentada.",
+      "sources": [
+        "eco-canudos"
+      ]
+    },
+    {
+      "cueStart": 439,
+      "cueEnd": 452,
+      "title": "População de Canudos e derrotas das expedições militares",
+      "speaker": "MC Smith",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A estimativa de 22 mil moradores está na ordem de grandeza das estimativas históricas, que variam. Três expedições foram derrotadas e a quarta destruiu o arraial em 1897; a composição específica dos recrutas descrita no trecho não foi demonstrada.",
+      "sources": [
+        "eco-canudos"
+      ]
+    },
+    {
+      "cueStart": 453,
+      "cueEnd": 456,
+      "title": "Favela é o nome de uma planta da família Euphorbiaceae",
+      "speaker": "MC Smith",
+      "verdict": "Verdadeiro",
+      "explanation": "Favela ou faveleira é planta do gênero Cnidoscolus e da família Euphorbiaceae, conforme a ESALQ. O nome popular se relaciona à denominação histórica do morro baiano.",
+      "sources": [
+        "eco-planta"
+      ]
+    },
+    {
+      "cueStart": 457,
+      "cueEnd": 478,
+      "title": "Retornados de Canudos e origem do morro da Providência",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Combatentes de Canudos ocuparam o morro em 1897, mas já havia moradores anteriores. A derivação de Providência da frase das autoridades é uma tradição explicativa, não uma etimologia documental demonstrada; o trecho também mistura a denominação posterior Palácio Duque de Caxias.",
+      "sources": [
+        "eco-favela-hist"
+      ]
+    },
+    {
+      "cueStart": 480,
+      "cueEnd": 500,
+      "title": "Alianças coloniais e imigração como política de exclusão",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "O trecho combina interpretação de processos de colonização, conflitos indígenas e imigração com um juízo amplo sobre sua finalidade. Sem episódio, período e política definidos, não recebe voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 506,
+      "cueEnd": 548,
+      "title": "Luiz Gama, abolição, Guerra do Paraguai e Canudos",
+      "speaker": "MC Smith",
+      "verdict": "Falso",
+      "explanation": "O trecho mistura a Guerra do Paraguai (1864–1870), abolição (1888) e Canudos (1897). Luiz Gama morreu em 1882: não participou de uma articulação com Isabel para libertar pessoas em 1888.",
+      "sources": [
+        "eco-canudos",
+        "eco-gama",
+        "eco-paraguai"
+      ]
+    },
+    {
+      "cueStart": 549,
+      "cueEnd": 551,
+      "title": "Brasil teria 215 milhões de habitantes e 15 milhões em favelas",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Censo 2022 identificou aproximadamente 16,4 milhões em favelas, não 15 milhões. O total nacional depende da edição da estimativa ou do Censo; o trecho mistura números arredondados sem informar a mesma referência temporal.",
+      "sources": [
+        "eco-favela2022"
+      ]
+    },
+    {
+      "cueStart": 552,
+      "cueEnd": 558,
+      "title": "Quase toda a população como pobre em contraste com uma minoria rica",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O diálogo reconhece imediatamente que a soma não fecha e corrige a comparação; não se trata de erro aritmético sustentado sem ressalva. Pobre também pode estar sendo usado coloquialmente como não rico. A taxa monetária de 27,4% apurada pelo IBGE para 2023 é outra definição e não refuta sozinha essa classificação social; faltam critério e fonte para os percentuais apresentados.",
+      "sources": [
+        "eco-pobreza2023"
+      ]
+    },
+    {
+      "cueStart": 559,
+      "cueEnd": 564,
+      "title": "Pirâmide social do Iluminismo",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica a imagem ou o esquema citado. A analogia com estamentos franceses não comprova a distribuição de renda brasileira nem permite autenticar uma origem precisa da pirâmide.",
+      "sources": []
+    },
+    {
+      "cueStart": 565,
+      "cueEnd": 575,
+      "title": "Criminalização histórica da capoeira e perseguição cultural",
+      "speaker": "MC Smith",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Código Penal de 1890 criminalizou a capoeiragem em espaços públicos e disciplinou vadiagem. Isso documenta repressão a práticas associadas à população negra; atribuir um único motivo a toda perseguição é interpretação.",
+      "sources": [
+        "eco-capoeira"
+      ]
+    },
+    {
+      "cueStart": 576,
+      "cueEnd": 584,
+      "title": "O samba só teria sobrevivido porque Tia Ciata curou Wenceslau Brás",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A cura e a proteção de sua casa aparecem na tradição oral sobre Tia Ciata. Essa tradição não prova que a sobrevivência de todo o samba decorreu exclusivamente desse episódio ou da nomeação de dois seguranças.",
+      "sources": [
+        "eco-ciata"
+      ]
+    },
+    {
+      "cueStart": 646,
+      "cueEnd": 654,
+      "title": "O Ministério da Educação regularia uma grade excessivamente extensa",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "A avaliação de extensão e adequação curricular é opinião no trecho, sem indicador comparativo ou norma específica apresentada.",
+      "sources": []
+    },
+    {
+      "cueStart": 668,
+      "cueEnd": 675,
+      "title": "Letras atribuídas a MC Smith citariam FB, Mica e armas",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda contém a atribuição e a recitação, mas não permite autenticar a gravação original, autoria, versão e contexto artístico. O uso de nomes numa letra tampouco comprova associação criminosa do intérprete.",
+      "sources": []
+    },
+    {
+      "cueStart": 680,
+      "cueEnd": 701,
+      "title": "Condenação de FB a 225 anos pela queda de helicóptero",
+      "speaker": "Arthur do Val",
+      "verdict": "Verdadeiro",
+      "explanation": "O MPRJ documentou condenação pelo júri em 21/06/2023 por coordenar o ataque de 2009, com três policiais mortos e seis tentativas de homicídio. A notícia confirma a condenação, sem atestar aqui trânsito em julgado.",
+      "sources": [
+        "eco-fb"
+      ]
+    },
+    {
+      "cueStart": 702,
+      "cueEnd": 710,
+      "title": "Crimes e morte de Paulo Roberto de Souza Paz, o Mica",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A identificação de Mica e sua morte em cela têm cobertura jornalística, mas o conjunto inclui responsabilidade por tribunais do crime, sequestro e data que exigem decisões ou registros específicos não reunidos nesta revisão.",
+      "sources": []
+    },
+    {
+      "cueStart": 723,
+      "cueEnd": 731,
+      "title": "Três tipos de moradores de favela",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "Classificação retórica do debatedor, não tipologia estatística verificada.",
+      "sources": []
+    },
+    {
+      "cueStart": 779,
+      "cueEnd": 813,
+      "title": "Recitação de Vida Bandida",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "Letra artística e narrativa de personagem. Seu conteúdo não é apresentado como descrição comprovada de eventos concretos de cada verso e fica fora do placar.",
+      "sources": []
+    },
+    {
+      "cueStart": 821,
+      "cueEnd": 833,
+      "title": "Direitos das crianças na proposta anti-Oruam",
+      "speaker": "MC Smith",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O trecho reproduz os objetivos de proteção infantojuvenil e desenvolvimento que constam do texto do projeto. São disposições propostas, não prova de que os direitos sejam realizados na prática.",
+      "sources": [
+        "eco-pl-texto"
+      ]
+    },
+    {
+      "cueStart": 835,
+      "cueEnd": 850,
+      "title": "Crianças de comunidade não conheceriam figuras históricas e reconheceriam armas",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A generalização depende de pesquisa com população e perguntas definidas. Vivência pessoal e exemplos não medem o conhecimento de todas as crianças da comunidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 892,
+      "cueEnd": 899,
+      "title": "Smith, Oruam e Poze teriam dezenas de milhões de ouvintes mensais",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se identifica plataforma, soma ou valor individual nem registro histórico de junho de 2025. Visualizações acumuladas, seguidores e ouvintes mensais são métricas diferentes.",
+      "sources": []
+    },
+    {
+      "cueStart": 900,
+      "cueEnd": 970,
+      "title": "A música empurraria jovens diretamente para o crime",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho estabelece causalidade individual sem estudo que isole contexto, exposição e outros fatores. Letras e imagens de baile, por si, não demonstram esse efeito sobre a conduta dos ouvintes.",
+      "sources": []
+    },
+    {
+      "cueStart": 974,
+      "cueEnd": 1007,
+      "title": "MC Smith teria feito publicidade de cassino online em stories",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho afirma exibir stories, mas o arquivo fornecido é apenas textual. Sem o material original, sua data e identificação da plataforma, a publicidade específica não foi autenticada.",
+      "sources": []
+    },
+    {
+      "cueStart": 1016,
+      "cueEnd": 1019,
+      "title": "Idades de Arthur do Val e MC Smith em junho de 2025",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O relato de nascimento de Smith em 1987 é compatível com 38 anos em 2025. A afirmação conjunta depende das datas de aniversário de ambos e não foi comprovada com registros biográficos primários nesta revisão.",
+      "sources": []
+    },
+    {
+      "cueStart": 1020,
+      "cueEnd": 1033,
+      "title": "Maioria das pessoas da periferia seria filha de mães solteiras",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não define universo, cidade, período nem o que chama de mãe solteira. Famílias chefiadas por mulheres, ausência paterna e estado civil são indicadores diferentes.",
+      "sources": []
+    },
+    {
+      "cueStart": 1037,
+      "cueEnd": 1054,
+      "title": "Tráfico não imporia serviços aos moradores; cobrança por gás e internet",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Investigações e reportagens anteriores ao debate descrevem serviços compulsórios e extorsões também em áreas do CV. Isso contradiz a negação genérica, sem autorizar a mesma caracterização de toda favela.",
+      "sources": [
+        "eco-cvnet",
+        "eco-barricada"
+      ]
+    },
+    {
+      "cueStart": 1089,
+      "cueEnd": 1095,
+      "title": "Reportagem de 5 de fevereiro de 2025 sobre taxa de barricadas",
+      "speaker": "Arthur do Val",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Reportagem de fevereiro de 2025 registrou denúncias de moradores de Jacarepaguá sobre taxa de barricadas e pedágio. Confirma a existência das denúncias, sem comprovar judicialmente cada fato ou generalizar para todo território.",
+      "sources": [
+        "eco-barricada"
+      ]
+    },
+    {
+      "cueStart": 1146,
+      "cueEnd": 1154,
+      "title": "Toda Jacarepaguá teria sido dominada por milícias",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A reportagem contemporânea descreve avanço do CV sobre áreas antes sob milícias ou sem domínio criminoso. O controle não era homogêneo de toda Jacarepaguá; o absoluto omite variação territorial e temporal.",
+      "sources": [
+        "eco-barricada"
+      ]
+    },
+    {
+      "cueStart": 1168,
+      "cueEnd": 1197,
+      "title": "Casos de condenação injusta nos Estados Unidos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O diálogo alude a casos diferentes, inclusive a Rubin Carter, sem identificar claramente a primeira pessoa na legenda. A revisão não deve fundir uma retratação de acusação de estupro com a história de Carter, condenado por homicídio.",
+      "sources": []
+    },
+    {
+      "cueStart": 1204,
+      "cueEnd": 1208,
+      "title": "Reportagem de março de 2025 sobre internet imposta pelo CV",
+      "speaker": "Arthur do Val",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Notícias de março de 2025 descrevem investigações sobre controle compulsório de provedores pelo CV, inclusive sob a marca CV Net. A existência do fenômeno é documentada; não se confirmou a data exata do título recitado.",
+      "sources": [
+        "eco-cvnet"
+      ]
+    },
+    {
+      "cueStart": 1263,
+      "cueEnd": 1266,
+      "title": "Somente milícias cobrariam compulsoriamente por serviços",
+      "speaker": "MC Smith",
+      "verdict": "Falso",
+      "explanation": "A imposição de internet não era exclusiva das milícias. A cobertura de março de 2025 descreve ação do CV contra provedores e cobrança por serviços em áreas dominadas.",
+      "sources": [
+        "eco-cvnet"
+      ]
+    },
+    {
+      "cueStart": 1272,
+      "cueEnd": 1287,
+      "title": "Origem do CV em 1969 e William Professor como fundador",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "William da Silva Lima é reconhecido como um dos fundadores; a formação da facção se liga ao fim dos anos 1970, com consolidação em 1979. O ano de 1969 citado de memória não corresponde à referência usual de formação do grupo.",
+      "sources": [
+        "eco-cv"
+      ]
+    },
+    {
+      "cueStart": 1290,
+      "cueEnd": 1307,
+      "title": "Traficantes seriam equivalentes a empresários legais",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "Analogia moral e econômica do debatedor. Não substitui a distinção legal entre atividade empresarial lícita e organização criminosa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1312,
+      "cueEnd": 1323,
+      "title": "Elias Maluco e o assassinato de Tim Lopes",
+      "speaker": "Arthur do Val",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O CNMP registra condenação definitiva de Elias Maluco por homicídio triplamente qualificado de Tim Lopes, incluindo métodos cruéis. Confirma o núcleo do assassinato; os detalhes adicionais de mutilação não foram todos autenticados.",
+      "sources": [
+        "eco-tim"
+      ]
+    },
+    {
+      "cueStart": 1361,
+      "cueEnd": 1364,
+      "title": "Michel Temer participou de congresso do MBL",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A presença em evento é verificável em agenda e registro audiovisual, mas o trecho não informa ano ou edição. A opinião de que deveria estar preso não é uma condenação judicial.",
+      "sources": []
+    },
+    {
+      "cueStart": 1401,
+      "cueEnd": 1407,
+      "title": "As Forças Armadas compactuariam institucionalmente com tráfico",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "É acusação generalizada a três instituições sem operação, documento ou agentes individualizados. Ocorrências específicas de desvio não demonstram adesão institucional de todas as Forças.",
+      "sources": []
+    },
+    {
+      "cueStart": 1415,
+      "cueEnd": 1426,
+      "title": "Criminosos deveriam ser presos ou mortos pela polícia",
+      "speaker": "Arthur do Val",
+      "verdict": "opinion",
+      "explanation": "Defesa normativa sobre política de segurança, sem fato consumado a checar. Não significa que a legislação autorize matar qualquer suspeito.",
+      "sources": []
+    },
+    {
+      "cueStart": 1452,
+      "cueEnd": 1457,
+      "title": "O MBL ainda não era partido em junho de 2025",
+      "speaker": "Arthur do Val",
+      "verdict": "Verdadeiro",
+      "explanation": "O MBL era movimento e não partido registrado em junho de 2025. O registro do Partido Missão só foi deferido pelo TSE em 4 de novembro de 2025; o ato posterior documenta essa cronologia.",
+      "sources": [
+        "eco-missao"
+      ]
+    },
+    {
+      "cueStart": 1474,
+      "cueEnd": 1484,
+      "title": "Nunes seria o prefeito mais corrupto e ligado ao PCC",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A primeira parte é superlativo valorativo; as acusações de ligação com crime organizado exigem identificação de investigação e provas. Não há condenação ou comparação objetiva demonstrada no trecho.",
+      "sources": []
+    },
+    {
+      "cueStart": 1496,
+      "cueEnd": 1503,
+      "title": "Obras emergenciais de Nunes superariam quatro antecessores",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A comparação não informa período, atualização monetária ou a base dos percentuais de 8% e 300%. Sem a série e os contratos auditados, não é possível confirmar os números.",
+      "sources": []
+    },
+    {
+      "cueStart": 1504,
+      "cueEnd": 1514,
+      "title": "TCM teria apontado fracionamento, concentração e R$ 40 milhões inúteis",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho reúne supostos achados de auditorias sem número de processo, período ou obras. Irregularidade, dano e conclusão sobre culpa não são intercambiáveis; os valores exigem o relatório original.",
+      "sources": []
+    },
+    {
+      "cueStart": 1521,
+      "cueEnd": 1526,
+      "title": "Mínimo constitucional da educação e R$ 1,7 bilhão não aplicado",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O mínimo constitucional geral é 25% da receita de impostos e transferências, não de toda receita municipal. A alegação de falta em 2021–2022 exige ainda as regras excepcionais da pandemia e as contas municipais de cada exercício.",
+      "sources": []
+    },
+    {
+      "cueStart": 1527,
+      "cueEnd": 1534,
+      "title": "Empenhos de dezembro provariam maquiagem na saúde",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "Empenho, liquidação e pagamento têm estágios distintos na execução orçamentária. Concentrar empenhos em dezembro não prova, sozinho, fraude nem permite confirmar o percentual de 30% sem a base anual.",
+      "sources": []
+    },
+    {
+      "cueStart": 1535,
+      "cueEnd": 1549,
+      "title": "Transwolff e UPBus e vínculos com crime organizado",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A operação contra dirigentes e o rompimento de contratos das duas empresas são documentados pela Prefeitura em fevereiro de 2025. Isso confirma apuração e consequências administrativas, mas não culpa pessoal do prefeito nem todos os valores citados.",
+      "sources": [
+        "eco-transwolff"
+      ]
+    },
+    {
+      "cueStart": 1563,
+      "cueEnd": 1584,
+      "title": "R$ 50 bilhões de orçamento secreto seriam integralmente desviados",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O montante e o período não são definidos; orçamento autorizado não equivale ao valor desviado. Casos de kits de robótica e tratores precisam ser individualizados e não permitem tratar toda emenda como roubo provado.",
+      "sources": []
+    },
+    {
+      "cueStart": 1588,
+      "cueEnd": 1589,
+      "title": "Haveria eleição no ano seguinte a junho de 2025",
+      "speaker": "MC Smith",
+      "verdict": "Verdadeiro",
+      "explanation": "O calendário constitucional prevê eleições gerais em 2026, ano seguinte ao debate. Isso não comprova a intenção eleitoral atribuída aos adversários.",
+      "sources": [
+        "eco-eleicoes"
+      ]
+    },
+    {
+      "cueStart": 1645,
+      "cueEnd": 1680,
+      "title": "Cláusula e multa de 100% no projeto anti-Oruam",
+      "speaker": "MC Smith",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O texto lido prevê cláusula de não apologia, denúncia por qualquer pessoa e sanção administrativa incluindo multa equivalente ao contrato. O debate trata de uma proposta; não era penalidade automaticamente vigente em junho de 2025.",
+      "sources": [
+        "eco-pl-texto"
+      ]
+    },
+    {
+      "cueStart": 1681,
+      "cueEnd": 1688,
+      "title": "A proposta atingiria qualquer contratante privado de shows",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O dispositivo lido se aplica às contratações da administração pública municipal acessíveis a crianças e adolescentes. Não estabelece nesse texto proibição geral de contratação privada.",
+      "sources": [
+        "eco-pl-texto"
+      ]
+    },
+    {
+      "cueStart": 1727,
+      "cueEnd": 1736,
+      "title": "Arthur teria sido o deputado mais econômico e usado zero verba",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Uso de zero verba indenizatória pode ser conferido nos demonstrativos da Alesp, mas não demonstra menor custo total nem recorde de toda a história; assessores e estrutura têm outras rubricas. A série não foi reunida nesta revisão.",
+      "sources": []
+    },
+    {
+      "cueStart": 1737,
+      "cueEnd": 1748,
+      "title": "Arthur teria barrado sozinho aumentos e contratos na Alesp",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala lista fiscais de renda, veículos, publicidade e benefício natalino sem processos e votações identificados. Atuação parlamentar e resultado colegiado não autorizam atribuir causalidade exclusiva a uma pessoa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1749,
+      "cueEnd": 1752,
+      "title": "Única redução de salário parlamentar da história do Brasil",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O superlativo nacional não define redução nominal, correção ou desconto durante a pandemia. Sem levantamento histórico de todas as casas legislativas, a exclusividade não está demonstrada.",
+      "sources": []
+    },
+    {
+      "cueStart": 1782,
+      "cueEnd": 1789,
+      "title": "Oruam pediu liberdade de Marcinho VP no Lollapalooza de 2024",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A presença e a camiseta precisam ser confirmadas no registro original do festival; o SRT transcreve a data de forma ambígua como 24/04. Não se toma o erro de legenda como erro do falante.",
+      "sources": []
+    },
+    {
+      "cueStart": 1793,
+      "cueEnd": 1801,
+      "title": "Oruam disparou arma de calibre 12 e houve laudo de munição real",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A cobertura situa o disparo em 16 de dezembro de 2024 em Igaratá e as ordens judiciais em Santa Isabel. O SRT registra data divergente; sem áudio não se atribui esse erro ao falante nem se examina a perícia da munição.",
+      "sources": [
+        "eco-oruambusca"
+      ]
+    },
+    {
+      "cueStart": 1802,
+      "cueEnd": 1811,
+      "title": "Cuspe em fã e ameaça sexual contra Amanda Vettorazzo",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala mistura dois eventos e interpreta a expressão dar um jack. Sem os vídeos completos e contexto, não se confirma o gesto ou o sentido penal da expressão.",
+      "sources": []
+    },
+    {
+      "cueStart": 1811,
+      "cueEnd": 1814,
+      "title": "Oruam pediu liberdade de Boladin 211, acusado de agredir adolescente",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A mensagem e o processo da agressão precisam ser individualizados. A fala não substitui o registro original nem permite afirmar condenação do citado.",
+      "sources": []
+    },
+    {
+      "cueStart": 1814,
+      "cueEnd": 1846,
+      "title": "Prisão de Oruam, fiança e busca que localizou foragido armado",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Há registro de operações distintas de fevereiro: manobra e busca por disparo, com localização de foragido. Não se confirmou todo o conjunto de datas, valores e qualificações; investigação não é condenação.",
+      "sources": [
+        "eco-oruambusca"
+      ]
+    },
+    {
+      "cueStart": 1847,
+      "cueEnd": 1854,
+      "title": "Morte de Marcelo de Souza Matos e baile de Poze no dia seguinte",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A cronologia publicada confirma apuração sobre apresentações de Poze e morte de agente policial, mas não resolve pela legenda a apresentação exata nem responsabilidade do artista pela morte. Correlação temporal não prova autoria.",
+      "sources": [
+        "eco-poze"
+      ]
+    },
+    {
+      "cueStart": 1858,
+      "cueEnd": 1875,
+      "title": "Oruam apareceria em fotos com Gotinha, Pi e Funil",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O SRT não contém as imagens; identidades, contexto e data não foram autenticados. Fotografias conjuntas, mesmo autênticas, não bastam para provar associação criminosa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1875,
+      "cueEnd": 1877,
+      "title": "Prisão temporária de MC Poze em 29 de maio de 2025",
+      "speaker": "Arthur do Val",
+      "verdict": "Verdadeiro",
+      "explanation": "Poze foi preso temporariamente em 29 de maio de 2025 e obteve liberdade em 3 de junho. São atos cautelares, não sentença condenatória por tráfico.",
+      "sources": [
+        "eco-poze"
+      ]
+    },
+    {
+      "cueStart": 1913,
+      "cueEnd": 1919,
+      "title": "O pai de Arthur teria sido engraxate",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Relato biográfico pessoal sem registro independente reunido. Não é possível deduzir a condição econômica de toda a infância apenas a partir de uma ocupação do pai.",
+      "sources": []
+    },
+    {
+      "cueStart": 1950,
+      "cueEnd": 1953,
+      "title": "Defesa de morte e tortura de policiais criminosos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "É proposição normativa, não ocorrência factual. A classificação não endossa tortura ou execução extrajudicial.",
+      "sources": []
+    },
+    {
+      "cueStart": 1980,
+      "cueEnd": 2006,
+      "title": "História do policial Léo e seu filho morto em perseguição",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não fornece sobrenomes, data ou ocorrência que identifiquem o caso com segurança. A narrativa e a fotografia mencionada precisam de confirmação fora da legenda.",
+      "sources": []
+    },
+    {
+      "cueStart": 2026,
+      "cueEnd": 2037,
+      "title": "BOPE mataria apenas moradores e episódio com marido de cantora",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A palavra apenas generaliza todas as operações. O relato específico não tem identificação completa, data nem laudo de autoria do disparo; não se comprova o caso pela descrição oral.",
+      "sources": []
+    },
+    {
+      "cueStart": 2072,
+      "cueEnd": 2087,
+      "title": "De 453 a 673 mortes anuais pela polícia",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O SRT alterna números incompletos e recortes de Brasil e São Paulo. O Anuário registra 6.393 mortes por intervenção policial no país em 2023; o relatório paulista registra 814 em 2024, incluindo policiais civis/militares em serviço ou fora. Sem áudio não se resolve a numeração pronunciada.",
+      "sources": [
+        "eco-anuario2024",
+        "eco-cam120"
+      ]
+    },
+    {
+      "cueStart": 2107,
+      "cueEnd": 2115,
+      "title": "Cassação de Arthur por combate a privilégios e caso de assédio na Alesp",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O fundamento formal da cassação foi quebra de decoro após áudios sexistas sobre ucranianas, reconhecidos pelo próprio Arthur. Atribuir a sanção apenas ao combate a privilégios não corresponde ao processo documentado.",
+      "sources": [
+        "eco-cassacao"
+      ]
+    },
+    {
+      "cueStart": 2136,
+      "cueEnd": 2144,
+      "title": "Mortes pela PM paulista teriam crescido 120%",
+      "speaker": "MC Smith",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O relatório UNICEF/FBSP registra alta de 120% entre 2022 e 2024 nas mortes de pessoas de 10 a 19 anos por PMs em serviço: de 35 para 77. É esse recorte, não todo Brasil ou todas as idades, que sustenta o percentual.",
+      "sources": [
+        "eco-cam120"
+      ]
+    },
+    {
+      "cueStart": 2149,
+      "cueEnd": 2164,
+      "title": "Crime organizado mataria 45 mil por ano contra 400–600 pela polícia",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Atlas registra 45.747 homicídios totais em 2023, sem atribuir todos ao crime organizado. A letalidade policial nacional era de 6.393, não algumas centenas. A comparação mistura categorias e escalas.",
+      "sources": [
+        "eco-atlas2025",
+        "eco-anuario2024"
+      ]
+    },
+    {
+      "cueStart": 2167,
+      "cueEnd": 2173,
+      "title": "Guto Zacarias teria entrado no lugar de Arthur na Alesp",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Guto foi eleito para iniciar primeiro mandato em 2023 e antes era assessor de Arthur. Não assumiu sua vaga por suplência após a cassação de 2022; no meu lugar expressa continuidade política, não sucessão formal.",
+      "sources": [
+        "eco-guto"
+      ]
+    },
+    {
+      "cueStart": 2176,
+      "cueEnd": 2255,
+      "title": "Guto Zacarias seria usado pelo MBL por ser negro",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São avaliações políticas sobre autonomia e identidade; não constituem fato comprovado pela cor da pele ou pela aliança partidária.",
+      "sources": []
+    },
+    {
+      "cueStart": 2310,
+      "cueEnd": 2316,
+      "title": "Ostentar airsoft como arma real seria sempre crime",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O simulacro pode integrar ameaça, roubo ou outra infração, mas a aparência de arma real, isoladamente, não torna qualquer exibição um crime penal. É necessário apontar conduta e tipo legal específicos.",
+      "sources": [
+        "eco-cp"
+      ]
+    },
+    {
+      "cueStart": 2347,
+      "cueEnd": 2349,
+      "title": "Arthur possui vídeos praticando tiro em estande",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato não identifica registro ou data. A existência de imagem com arma não prova ou afasta autorização e regularidade em situação específica.",
+      "sources": []
+    },
+    {
+      "cueStart": 2370,
+      "cueEnd": 2375,
+      "title": "Joias de Poze já teriam sido apreendidas duas ou três vezes",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O número de apreensões e a origem patrimonial exigem processos e inventários das operações; o relato não os individualiza.",
+      "sources": []
+    },
+    {
+      "cueStart": 2380,
+      "cueEnd": 2419,
+      "title": "Vídeos demonstrariam Poze com fuzil ou pistola real",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Sem examinar os arquivos originais, perícia e datas, esta revisão textual não identifica armas reais, simulacros ou montagem. A legenda registra disputa sobre as imagens, não resolve sua autenticidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 2425,
+      "cueEnd": 2437,
+      "title": "Smith foi investigado por foto dos bastidores do filme Alemão",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A participação no filme é verificável, mas o chamado policial e o contexto da foto exigem registro específico não apresentado na legenda.",
+      "sources": []
+    },
+    {
+      "cueStart": 2438,
+      "cueEnd": 2441,
+      "title": "Se Poze tivesse ligação com crime, necessariamente estaria preso",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Liberdade provisória não é absolvição nem comprova inexistência de investigação; prisão também não comprova culpa. A conclusão não decorre do estado de custódia.",
+      "sources": [
+        "eco-cf5"
+      ]
+    },
+    {
+      "cueStart": 2451,
+      "cueEnd": 2474,
+      "title": "Facções também obtêm armas roubadas de delegacias",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O roubo de armas policiais é uma modalidade possível de desvio, mas o trecho não identifica a ocorrência ou o vídeo referido. Tampouco quantifica sua participação no abastecimento do tráfico em comparação a outras rotas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2475,
+      "cueEnd": 2498,
+      "title": "A maioria ou a minoria dos policiais seria corrupta",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Nenhum dos interlocutores apresenta pesquisa representativa sobre corrupção no efetivo. O número de mortes ou casos conhecidos não permite medir quantos agentes participam de esquemas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2499,
+      "cueEnd": 2534,
+      "title": "Prisão de Luciano Ayan e compartilhamento de conteúdo falso sobre Marielle",
+      "speaker": "MC Smith",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O empresário foi preso sob suspeita de lavagem em 2020 e a circulação do conteúdo pelo Ceticismo Político e MBL está documentada. A postagem original do MBL compartilhava um link, não prova autoria de toda a cadeia de boatos; a prisão não comprova o crime investigado.",
+      "sources": [
+        "eco-ayan",
+        "eco-marielle"
+      ]
+    },
+    {
+      "cueStart": 2595,
+      "cueEnd": 2606,
+      "title": "A Justiça teria declarado a prisão de Ayan errada e ele não seria ligado ao MBL",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se localizou neste levantamento decisão definitiva que sustente a formulação ampla de que não houve lavagem. Há registros de vínculos empresariais com integrante do movimento; revogação de prisão não equivale a absolvição de mérito.",
+      "sources": [
+        "eco-ayan"
+      ]
+    },
+    {
+      "cueStart": 2637,
+      "cueEnd": 2678,
+      "title": "Defesa de guerra bélica e midiática contra facções",
+      "speaker": "Arthur do Val",
+      "verdict": "opinion",
+      "explanation": "Proposta de política de segurança e interpretação sobre propaganda; não é resultado já medido. O grau de eficácia não pode ser deduzido da defesa retórica.",
+      "sources": []
+    },
+    {
+      "cueStart": 2679,
+      "cueEnd": 2714,
+      "title": "Avaliações sobre cultura de favela e referências juvenis",
+      "speaker": "Arthur do Val",
+      "verdict": "opinion",
+      "explanation": "Juízos de valor sobre cultura, oportunidades e modelos pessoais; não constituem classificação factual de moradores ou de toda produção cultural.",
+      "sources": []
+    },
+    {
+      "cueStart": 2715,
+      "cueEnd": 2729,
+      "title": "Mudanças de residência de artistas e mansão de R$ 40 milhões",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A mudança para imóvel valorizado não comprova que ocorreu na primeira oportunidade, e o valor demanda avaliação ou escritura datada. A inferência sobre os desejos de todos os moradores é opinião.",
+      "sources": []
+    },
+    {
+      "cueStart": 2739,
+      "cueEnd": 2749,
+      "title": "Arthur esteve na Rocinha durante intervenção com tanques",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato não fixa data e pode se referir à operação de 2017 ou à intervenção federal de 2018. Sua presença e o veículo empregado não foram autenticados na legenda.",
+      "sources": []
+    },
+    {
+      "cueStart": 2811,
+      "cueEnd": 2845,
+      "title": "Recomendação para não jogar em loterias e cassinos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Conselho e disputa sobre publicidade de jogos. Não há demonstração neste trecho de ganho, perda ou contrato específico.",
+      "sources": []
+    },
+    {
+      "cueStart": 2859,
+      "cueEnd": 2882,
+      "title": "MCs presos em 2010 e suposto pagamento de R$ 40 milhões por traficantes",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A prisão dos MCs é documentada; o pagamento de R$ 40 milhões e a alegação de que teria frustrado a operação não vêm acompanhados de inquérito ou decisão. Não se deduz suborno a partir de um relato de terceiros.",
+      "sources": [
+        "eco-smith2010"
+      ]
+    },
+    {
+      "cueStart": 2883,
+      "cueEnd": 2954,
+      "title": "Relato de extorsão e ameaça de flagrante forjado contra Smith e família",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O episódio narrado não é individualizado por boletim, processo ou identificação verificável dos agentes. A legenda permite registrar a denúncia pessoal, sem confirmar autores, quantia ou providências posteriores.",
+      "sources": []
+    },
+    {
+      "cueStart": 2901,
+      "cueEnd": 2908,
+      "title": "Interceptação telefônica seria autorizada pelo Ministério Público",
+      "speaker": "MC Smith",
+      "verdict": "Falso",
+      "explanation": "A Constituição exige ordem judicial para interceptação telefônica nas hipóteses legais. O Ministério Público pode requerer a medida, mas não substituir a autorização do juiz.",
+      "sources": [
+        "eco-cf5"
+      ]
+    },
+    {
+      "cueStart": 2955,
+      "cueEnd": 3018,
+      "title": "Relato de sequestro policial e intervenção de traficante Furica",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "É outro relato pessoal de abuso, sem data precisa ou processo que permita confirmar ameaça, identidade dos policiais ou diálogo atribuído a terceiro. Não se converte a narrativa em prova de colaboração de toda a polícia.",
+      "sources": []
+    },
+    {
+      "cueStart": 3039,
+      "cueEnd": 3050,
+      "title": "Sebastián Marroquín é Juan Pablo Escobar e mudou de nome",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A identidade pública é amplamente documentada, mas não se reuniu aqui registro primário que estabeleça nome e mudança legal. A lição moral atribuída à história permanece interpretação do debatedor.",
+      "sources": []
+    },
+    {
+      "cueStart": 3051,
+      "cueEnd": 3064,
+      "title": "Frank Sinatra e envio de cocaína a Nova York",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "Relatos de vínculos de Sinatra com integrantes da máfia não demonstram a afirmação específica de transporte de cocaína. O trecho não aponta remessa, processo ou fonte documental.",
+      "sources": []
+    },
+    {
+      "cueStart": 3065,
+      "cueEnd": 3088,
+      "title": "Documentário do filho de Escobar e efeito em milhões de jovens",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A existência de Los pecados de mi padre não comprova impacto causal em milhões de jovens. As aspas atribuídas à Reuters carecem de identificação da entrevista para cotejo literal e data.",
+      "sources": []
+    },
+    {
+      "cueStart": 3099,
+      "cueEnd": 3116,
+      "title": "Livros de Clóvis Moura e Lima Barreto sobre marginalização",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho mistura indicação bibliográfica e interpretação literária. Sem edição ou passagem delimitada, não se classifica a leitura política como dado empírico sobre toda a sociedade.",
+      "sources": []
+    },
+    {
+      "cueStart": 3135,
+      "cueEnd": 3143,
+      "title": "Primo de deputado teria sido preso com 30 kg de cocaína",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "Não há nome, local ou data no trecho que permita individualizar o flagrante com segurança. O parentesco também precisaria de comprovação independente.",
+      "sources": []
+    },
+    {
+      "cueStart": 3144,
+      "cueEnd": 3151,
+      "title": "A polícia brasileira teria sido criada apenas para prender escravizados fugidos",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A instituição joanina de 1808 tinha funções de repressão e controle de escravizados, mas também segurança, obras, abastecimento e ordem urbana. Reduzir sua criação a uma finalidade única apaga essas atribuições documentadas.",
+      "sources": [
+        "eco-policiahist"
+      ]
+    },
+    {
+      "cueStart": 3183,
+      "cueEnd": 3281,
+      "title": "Limites de expressão, racismo e comparação com humor de Léo Lins",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São avaliações normativas sobre manifestações distintas. A posição de que determinado espetáculo é arte não decide, por si, sua licitude nem os efeitos de eventual decisão judicial.",
+      "sources": []
+    },
+    {
+      "cueStart": 3282,
+      "cueEnd": 3290,
+      "title": "Registros de vítimas de crime organizado seriam dez ou onze vezes os de racismo",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Não existe universo estatístico especificado que torne as categorias comparáveis: boletim, vítima, inquérito e ocorrência não são medidas iguais, e os grupos de crimes não foram definidos.",
+      "sources": []
+    },
+    {
+      "cueStart": 3291,
+      "cueEnd": 3314,
+      "title": "Maioria do crime organizado e da polícia seria negra",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Composição de condenados, suspeitos, homicídios e efetivos são universos diferentes. A cor da população local não demonstra a composição das organizações criminosas nem substitui uma pesquisa de efetivo.",
+      "sources": []
+    },
+    {
+      "cueStart": 3315,
+      "cueEnd": 3337,
+      "title": "Maioria da polícia brasileira seria preta ou parda",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Os dados da Senasp citados no próprio debate indicavam 56,8% de brancos e 42% de negros. Há diferenças por corporação e estado; exemplos de Bahia e Sergipe não autorizam inverter o total da amostra nacional.",
+      "sources": [
+        "eco-policiacor"
+      ]
+    },
+    {
+      "cueStart": 3337,
+      "cueEnd": 3341,
+      "title": "Negros representariam aproximadamente 77% das vítimas de homicídio",
+      "speaker": "MC Smith",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A proporção é compatível, como arredondamento, com a participação de pessoas negras nos homicídios registrados nas edições recentes do Atlas disponíveis no debate. É necessário manter ano e categoria; não é distribuição do total da população.",
+      "sources": [
+        "eco-atlas2025"
+      ]
+    },
+    {
+      "cueStart": 3339,
+      "cueEnd": 3350,
+      "title": "Pardos poderiam ser classificados como brancos ou negros conforme conveniência",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Nas séries oficiais usadas no Atlas, negros correspondem à soma das categorias preta e parda do registro. Debater limites da classificação não autoriza trocar a metodologia caso a caso ou descartar a desigualdade observada.",
+      "sources": [
+        "eco-atlas2025"
+      ]
+    },
+    {
+      "cueStart": 3375,
+      "cueEnd": 3377,
+      "title": "Não existiriam crimes de opinião no Brasil",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Não há tipo penal genericamente chamado crime de opinião, mas manifestações podem constituir, por exemplo, incitação, apologia ou crimes contra a honra. A liberdade de expressão não elimina a responsabilização prevista em lei.",
+      "sources": [
+        "eco-cp"
+      ]
+    },
+    {
+      "cueStart": 3387,
+      "cueEnd": 3400,
+      "title": "56,8% brancos, 42% negros e vitimização dos policiais",
+      "speaker": null,
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Os valores correspondem à pesquisa Senasp de 2019 e às estatísticas reproduzidas no debate público. Negros incluem pretos e pardos nesse uso; somar pardos novamente para obter maioria nacional é erro de categoria. Não são um novo censo de 2025.",
+      "sources": [
+        "eco-policiacor"
+      ]
+    },
+    {
+      "cueStart": 3443,
+      "cueEnd": 3470,
+      "title": "Perfil social e ideológico de juízes e cadeia de recursos",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A existência de instâncias recursais é verificável, mas a generalização de família privilegiada e orientação à esquerda exige levantamento definido. Os relatos individuais não sustentam o perfil de todo o Judiciário.",
+      "sources": []
+    },
+    {
+      "cueStart": 3483,
+      "cueEnd": 3494,
+      "title": "Dom João VI teria criado as primeiras universidades ao chegar com 70 pessoas",
+      "speaker": "MC Smith",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Em 1808 foram criadas instituições e cursos superiores, não universidades como as que se organizaram posteriormente; a Universidade do Rio data de 1920. O tamanho da comitiva no SRT é ambíguo e não foi tomado como número pronunciado com segurança.",
+      "sources": [
+        "eco-universidade"
+      ]
+    },
+    {
+      "cueStart": 3507,
+      "cueEnd": 3518,
+      "title": "Joaquim Barbosa só teria virado juiz perto dos 70 anos",
+      "speaker": "MC Smith",
+      "verdict": "Falso",
+      "explanation": "Nascido em 1954, Barbosa tomou posse no STF em junho de 2003, aos 48 anos; antes foi membro do Ministério Público Federal desde 1984. Não ingressou no Supremo próximo dos 70.",
+      "sources": [
+        "eco-jb"
+      ]
+    },
+    {
+      "cueStart": 3531,
+      "cueEnd": 3540,
+      "title": "Guto teria aprovado o projeto Escola 360",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O projeto aparece na divulgação do mandato, mas não foi localizada nesta revisão a tramitação completa e a redação aprovada até 11/06/2025. Aprovação em uma etapa não equivale à execução de escola aberta durante 360 dias.",
+      "sources": []
+    },
+    {
+      "cueStart": 3541,
+      "cueEnd": 3550,
+      "title": "Brizola e Darcy Ribeiro criaram os CIEPs com ensino integral e alimentação",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A associação histórica é verificável, mas o trecho não delimita unidade, ano e resultados; não foram reunidos documentos suficientes sobre a extensão de atendimento descrita nesta revisão.",
+      "sources": []
+    },
+    {
+      "cueStart": 3551,
+      "cueEnd": 3554,
+      "title": "Tudo aumentaria menos o salário",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "Generalização retórica sobre custo de vida, sem índice, renda e período definidos; não deve ser lida como série de preços e salários.",
+      "sources": []
+    },
+    {
+      "cueStart": 3567,
+      "cueEnd": 3578,
+      "title": "Juros gregos de 16% ao ano e brasileiros de 19% ao mês em 1995",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "Faltam modalidade, prazo e fonte da comparação. Taxa básica, crédito ao consumidor e inflação não são intercambiáveis; números lembrados de um discurso de Enéas não demonstram uma série comparável.",
+      "sources": []
+    },
+    {
+      "cueStart": 3589,
+      "cueEnd": 3617,
+      "title": "Retirada de música do Spotify e interpretação de sua letra",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A retirada de uma faixa é um ato de plataforma que exige data e registro específico; a discussão sobre consentimento na ficção não decide a ocorrência de crime real. Não se reproduz letra para lhe atribuir efeito penal automaticamente.",
+      "sources": []
+    },
+    {
+      "cueStart": 3618,
+      "cueEnd": 3627,
+      "title": "Linchamento de homem que manteria adolescente em cativeiro",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O relato não identifica vítima, suspeito, local exato e data. A legenda não permite escolher com segurança entre episódios de violência noticiados em cidades diferentes.",
+      "sources": []
+    },
+    {
+      "cueStart": 3663,
+      "cueEnd": 3698,
+      "title": "Funk teria transformado todos os gêneros e surgido após industrialização do samba",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "A avaliação de influência estética e o sentido de música popular são interpretações culturais. Não constituem medida que invalide outros gêneros como populares.",
+      "sources": []
+    },
+    {
+      "cueStart": 3675,
+      "cueEnd": 3686,
+      "title": "Nenhum ingresso de Djavan ou Caetano custaria menos de R$ 300",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O absoluto depende de cidade, data, setor, meia-entrada e shows públicos ou gratuitos. O trecho não apresenta tabela de preços que sustente a proibição de toda alternativa abaixo desse valor.",
+      "sources": []
+    },
+    {
+      "cueStart": 3699,
+      "cueEnd": 3711,
+      "title": "Arrastão de 1992 teria levado à proibição geral do funk e prisão de produtores",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "A criminalização do funk tem episódios e normas em anos diferentes. O trecho não individualiza ato que proibisse toda execução em clubes nem processo e data de prisão de cada produtor.",
+      "sources": []
+    },
+    {
+      "cueStart": 3747,
+      "cueEnd": 3758,
+      "title": "Nelson Motta teria cunhado complexo de vira-lata",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A expressão é associada a Nelson Rodrigues, mas o SRT registra Nelson Mota e há falas sobrepostas. Sem áudio não se atribui um erro de autoria seguro ao participante.",
+      "sources": []
+    },
+    {
+      "cueStart": 3782,
+      "cueEnd": 3794,
+      "title": "Brasil investiria aproximadamente 5% do PIB em educação",
+      "speaker": "Arthur do Val",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O perfil da OCDE publicado antes do debate informa 5,1% do PIB em 2017 para seu recorte de gasto educacional. O arredondamento é compatível; não mede suficiência, eficiência nem gasto por aluno e precisa de recorte temporal.",
+      "sources": [
+        "eco-educacao"
+      ]
+    },
+    {
+      "cueStart": 3807,
+      "cueEnd": 3824,
+      "title": "Mais neurônios até os 22 e cérebro completamente formado aos 25",
+      "speaker": "Arthur do Val",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A maturação cerebral prossegue pela faixa dos 20 anos, mas poda sináptica não é simplesmente criar muitos neurônios até os 22 e só então eliminá-los. Não há aniversário universal de 25 anos que complete todas as funções decisórias.",
+      "sources": [
+        "eco-neuro",
+        "eco-podas"
+      ]
+    },
+    {
+      "cueStart": 3831,
+      "cueEnd": 3842,
+      "title": "Oruam teria dito que jovens copiam sua aparência",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A citação não traz entrevista, data nem material original para cotejo. Mesmo que autêntica, não mede quantos ouvintes reproduzem uma conduta concreta.",
+      "sources": []
+    },
+    {
+      "cueStart": 3854,
+      "cueEnd": 3866,
+      "title": "O Partido Missão ainda coletava assinaturas em junho de 2025",
+      "speaker": "Arthur do Val",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro partidário só foi deferido pelo TSE em novembro de 2025. Na data do debate tratava-se de organização em formação, e não de um partido com registro eleitoral já aprovado.",
+      "sources": [
+        "eco-missao"
+      ]
+    },
+    {
+      "cueStart": 3939,
+      "cueEnd": 3997,
+      "title": "Revista Valete, Livro Amarelo e romance de Arthur",
+      "speaker": "Arthur do Val",
+      "verdict": "opinion",
+      "explanation": "É divulgação do próprio projeto editorial e de suas ideias. A resenha da capa e a recomendação política não são classificação factual de populações ou acontecimentos.",
+      "sources": []
+    },
+    {
+      "cueStart": 4003,
+      "cueEnd": 4022,
+      "title": "Político seria funcionário do cidadão",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "A discussão usa funcionário em sentido coloquial e debate representação política; não descreve vínculo trabalhista individual entre eleitor e mandatário.",
+      "sources": []
+    },
+    {
+      "cueStart": 4023,
+      "cueEnd": 4044,
+      "title": "Fundão superaria saneamento e valores recebidos por Renato e Amanda",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "Comparação sem anos ou escopo do saneamento não é verificável como formulada. Os valores eleitorais exigem prestação de contas de cada candidatura e separar fundo partidário, fundo eleitoral e despesas totais; a fala não fornece esses demonstrativos.",
+      "sources": []
+    },
+    {
+      "cueStart": 4047,
+      "cueEnd": 4058,
+      "title": "Mudança de posição sobre aceitar recursos eleitorais",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Os interlocutores comparam propostas e declarações políticas. A legitimidade da mudança é avaliação de coerência, não prova de desvio de recursos.",
+      "sources": []
+    },
+    {
+      "cueStart": 4107,
+      "cueEnd": 4118,
+      "title": "Marcelo Freixo teria sido o maior beneficiário do PSB, com R$ 8 milhões",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A candidatura e o período não foram especificados. O total e o superlativo exigem comparação com todas as candidaturas do partido no mesmo pleito, distinguindo transferências e gasto final.",
+      "sources": []
+    },
+    {
+      "cueStart": 4143,
+      "cueEnd": 4178,
+      "title": "Arthur relata uso não autorizado e devolução da van do vizinho",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O próprio participante admite o relato e oferece uma explicação; não se localizaram registro do proprietário ou processo que confirmem circunstâncias e idade. A palavra roubo usada coloquialmente não define, sozinha, o enquadramento jurídico.",
+      "sources": []
+    },
+    {
+      "cueStart": 4207,
+      "cueEnd": 4221,
+      "title": "Oruam e Poze seriam traficantes de drogas",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Suspeitas, fotografias ou prisão temporária não equivalem a condenação por tráfico. O trecho não apresenta decisão definitiva que sustente chamar ambos de traficantes naquela data; a situação de Poze incluía soltura em 3 de junho.",
+      "sources": [
+        "eco-poze"
+      ]
+    },
+    {
+      "cueStart": 4238,
+      "cueEnd": 4274,
+      "title": "Tortura pública reduziria rapidamente o crime",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho propõe punição e prevê efeito causal sem avaliação empírica que o demonstre. A Constituição proíbe tortura e tratamento degradante; a comparação com o CECOT não estabelece legalidade ou eficácia no Brasil.",
+      "sources": [
+        "eco-cf5"
+      ]
+    },
+    {
+      "cueStart": 4287,
+      "cueEnd": 4336,
+      "title": "Fernandinho Beira-Mar teria comandado tortura e morte por telefone",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A recitação de um áudio exige autenticação da gravação, identificação dos envolvidos e confronto com o processo. O relato não permite validar cada detalhe das mutilações ou o motivo atribuído ao crime.",
+      "sources": []
+    },
+    {
+      "cueStart": 4294,
+      "cueEnd": 4298,
+      "title": "Policiais de Paraisópolis teriam matado crianças",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O episódio deve ser identificado com vítimas, idades e conclusões processuais. A formulação genérica não distingue mortes, mecanismo de lesão e autoria individual, pontos que não se resolvem apenas pelo diálogo.",
+      "sources": []
+    },
+    {
+      "cueStart": 4371,
+      "cueEnd": 4394,
+      "title": "Áudio envolvendo Bárbara Tonela e ameaça de estupro",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda reproduz disputa sobre gravação de terceiros e seu contexto. Sem material integral autenticado ou decisão, não se conclui que houve ameaça penal nem que todos os participantes apoiam violência sexual.",
+      "sources": []
+    },
+    {
+      "cueStart": 4406,
+      "cueEnd": 4454,
+      "title": "Letras atribuídas a Smith legitimariam homicídio de mulheres",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A autoria e a versão das letras não foram cotejadas com gravação original. A inferência de que todo jovem reproduzirá um homicídio a partir da canção é causalidade não demonstrada; o repúdio à violência não depende dessa inferência.",
+      "sources": []
+    },
+    {
+      "cueStart": 4455,
+      "cueEnd": 4480,
+      "title": "Arthur reconhece áudios sexistas sobre refugiadas ucranianas",
+      "speaker": null,
+      "verdict": "Verdadeiro",
+      "explanation": "A veracidade dos áudios foi reconhecida no processo legislativo de cassação de 2022. A referência documental confirma a fala e a sanção de decoro; não demonstra, por si, prática de aliciamento ou abuso sexual físico.",
+      "sources": [
+        "eco-cassacao"
+      ]
+    },
+    {
+      "cueStart": 4488,
+      "cueEnd": 4508,
+      "title": "Maior doação privada brasileira à Ucrânia, acima de R$ 250 mil",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se reuniu prestação de contas e recibos que confirmem montante, destinação e o superlativo entre todas as doações privadas brasileiras. A finalidade relatada da viagem não substitui esses comprovantes.",
+      "sources": []
+    },
+    {
+      "cueStart": 4557,
+      "cueEnd": 4574,
+      "title": "Arthur teria aliciado refugiadas usando sua pobreza",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O áudio contém linguagem sexista, mas não prova abordagem com promessa, troca ou coação efetivamente praticada. Uma acusação de aliciamento exige fatos adicionais, não somente interpretação da gravação.",
+      "sources": [
+        "eco-cassacao"
+      ]
+    },
+    {
+      "cueStart": 4643,
+      "cueEnd": 4658,
+      "title": "Álvaro Borba seria bandeirante e estátua incendiada por Galo",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "O diálogo confunde nomes e depois os corrige. A estátua noticiada é a de Borba Gato; não se deve atribuir identidade histórica ou culpa pelo incêndio ao jornalista Álvaro Borba a partir desse jogo verbal.",
+      "sources": []
+    },
+    {
+      "cueStart": 4825,
+      "cueEnd": 4838,
+      "title": "MC Smith cogita disputar eleição em 2026",
+      "speaker": "MC Smith",
+      "verdict": "opinion",
+      "explanation": "É intenção condicional de candidatura futura, não candidatura registrada nem resultado ocorrido.",
+      "sources": []
+    },
+    {
+      "cueStart": 4839,
+      "cueEnd": 4850,
+      "title": "Érica Hilton incentivaria candidatura de Oruam",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala não indica publicação, data e termos do incentivo. Apoio cultural, defesa de garantias e proposta de candidatura são atos distintos e não podem ser fundidos sem o registro original.",
+      "sources": []
+    },
+    {
+      "cueStart": 4923,
+      "cueEnd": 4946,
+      "title": "Relato sobre violência sofrida pela mãe de MC Smith",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "Relato pessoal de violência sexual e trajetória familiar, sem registro independente reunido. A ausência de confirmação nesta revisão não significa negar a experiência narrada.",
+      "sources": []
+    },
+    {
+      "cueStart": 4959,
+      "cueEnd": 4970,
+      "title": "UPPs teriam tomado todo território usando apenas 20% da força",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "O percentual não tem denominador, operação ou período. A expansão inicial das UPPs não demonstra domínio duradouro de todo território nem permite calcular força empregada a partir deste relato.",
+      "sources": []
+    },
+    {
+      "cueStart": 4971,
+      "cueEnd": 4983,
+      "title": "Nenhuma letra de proibidão defenderia estupro de mulher",
+      "speaker": "MC Smith",
+      "verdict": "Inconclusivo",
+      "explanation": "Afirmação absoluta sobre um repertório amplo e não delimitado. Não se classificou todo o gênero a partir de versos isolados nem foi possível verificar todas as letras existentes.",
+      "sources": []
+    },
+    {
+      "cueStart": 5001,
+      "cueEnd": 5010,
+      "title": "Poze teria declarado filiação ao Comando Vermelho na ficha de custódia",
+      "speaker": "Arthur do Val",
+      "verdict": "Inconclusivo",
+      "explanation": "A ficha mencionada não foi fornecida ou autenticada nesta revisão. Mesmo um registro administrativo de classificação penitenciária precisa de contexto e não equivale sozinho a condenação por associação.",
+      "sources": [
+        "eco-poze"
+      ]
+    }
+  ],
+  "coverageNotes": "O SRT fornecido começa em 00:03:12,799, inicialmente com ruído e música, e não contém legendas anteriores a esse ponto. O fim da última legenda (03:00:00) ultrapassa em cerca de dois segundos a duração pública indicada pelo player (02:59:58). Leitura integral significa todos os 5.069 blocos existentes, sem reconstrução do intervalo ausente.",
+  "limitations": [
+    "A revisão é textual: vídeos, fotos, stories e áudios apresentados durante o debate não puderam ser autenticados a partir do SRT. As alegações que dependem desses materiais permanecem inconclusivas.",
+    "Dados e situação processual são analisados na referência de 11/06/2025. Atos posteriores usados para documentar cronologia estão expressamente identificados e não transformam suspeitas de então em culpa.",
+    "O SRT contém sobreposição de falas e números ou nomes incompletos. Não se atribuiu erro pessoal ao debatedor quando a transcrição, sem áudio, não permite distinguir erro de reconhecimento de erro de fala."
+  ]
+}

@@ -1,0 +1,1621 @@
+{
+  "videoId": "y-KdHRZ9Ggo",
+  "video": {
+    "id": "y-KdHRZ9Ggo",
+    "url": "https://www.youtube.com/watch?v=y-KdHRZ9Ggo",
+    "title": "LULA - Flow News #077",
+    "channel": "Flow Podcast",
+    "thumbnailUrl": "https://i.ytimg.com/vi/y-KdHRZ9Ggo/hqdefault.jpg"
+  },
+  "participants": [
+    {
+      "id": "lula",
+      "name": "Luiz Inácio Lula da Silva",
+      "aliases": [
+        "Lula",
+        "Presidente Lula"
+      ],
+      "role": "guest",
+      "source": "video-title"
+    },
+    {
+      "id": "igor-coelho",
+      "name": "Igor Coelho",
+      "aliases": [
+        "Igor",
+        "Igor 3K"
+      ],
+      "role": "host",
+      "source": "self-introduction"
+    }
+  ],
+  "referenceDate": "2026-10-01",
+  "reviewedAt": "2026-10-30T15:03:05.538Z",
+  "reviewStatus": "reviewed",
+  "reviewMethod": "text-and-document-review",
+  "transcriptSha256": "8633c97f85ed6bd9491eb7293407378bce8057c35d8d090f382d64a323bca011",
+  "scannedThrough": 3713,
+  "claims": [
+    {
+      "cueStart": 1,
+      "cueEnd": 45,
+      "title": "Apresentação, avaliação sobre debates e intenção de campanha",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Preferências e estratégia de campanha não são resultados factuais já realizados.",
+      "sources": []
+    },
+    {
+      "cueStart": 47,
+      "cueEnd": 62,
+      "title": "Globo não fez debates presidenciais em 1994 e 1998",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O acervo da própria emissora registra a ausência de debates nesses dois anos. A confirmação da ausência não prova a motivação de proteger um candidato.",
+      "sources": [
+        "sab-globo1994",
+        "sab-globo1998"
+      ]
+    },
+    {
+      "cueStart": 50,
+      "cueEnd": 62,
+      "title": "A emissora teria cancelado debates exclusivamente para beneficiar Fernando Henrique",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O acervo informa justificativas editoriais, inclusive número de candidatos. A finalidade partidária exclusiva atribuída por Lula não foi documentalmente demonstrada.",
+      "sources": [
+        "sab-globo1998"
+      ]
+    },
+    {
+      "cueStart": 61,
+      "cueEnd": 65,
+      "title": "Lula disputou o segundo turno de 2002 contra José Serra",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A base de resultados preservada na Biblioteca do TSE registra Lula e José Serra como os concorrentes do segundo turno de 2002.",
+      "sources": [
+        "sab-resultados2002"
+      ]
+    },
+    {
+      "cueStart": 112,
+      "cueEnd": 129,
+      "title": "Ausência de Lula no debate de 2006 e uso de cadeira vazia",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperada a gravação original e a regra integral do debate para conferir emissora, organização e contexto exato. A qualificação política dos outros concorrentes não equivale à filiação partidária.",
+      "sources": []
+    },
+    {
+      "cueStart": 170,
+      "cueEnd": 179,
+      "title": "Noventa por cento apoiariam pena de morte se ela fosse perguntada",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "É hipótese sobre uma pergunta futura e uma avaliação política, sem pesquisa identificada.",
+      "sources": []
+    },
+    {
+      "cueStart": 185,
+      "cueEnd": 240,
+      "title": "Recordações de pesquisas e conversas eleitorais em 1989",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "As porcentagens de intenção de voto e diálogos pessoais não identificam pesquisa, data ou registros independentes; permanecem relato autobiográfico.",
+      "sources": []
+    },
+    {
+      "cueStart": 209,
+      "cueEnd": 235,
+      "title": "Balbina produziria trezentos megawatts e Itaipu doze a treze mil",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Balbina tem capacidade de 250 MW. O histórico MME registra Itaipu com 10.500 MW em 1989,12.600 MW em 1991–2006 e 14.000 MW desde 2007. A comparação mistura potência e produção e não fixa a data dos valores.",
+      "sources": [
+        "sab-balbina",
+        "sab-itaipu-historico"
+      ]
+    },
+    {
+      "cueStart": 245,
+      "cueEnd": 255,
+      "title": "Lula ficou aproximadamente quinhentos mil votos à frente de Brizola em 1989",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A base eleitoral da Georgetown/OEA registra 11.622.673 votos para Lula e 11.168.228 para Brizola: diferença de 454.445. Meio milhão é arredondamento aproximado, não valor exato.",
+      "sources": [
+        "sab-eleicao1989"
+      ]
+    },
+    {
+      "cueStart": 256,
+      "cueEnd": 269,
+      "title": "Todos os votos de Brizola foram transferidos para Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Resultados agregados não mostram a escolha individual de cada eleitor no segundo turno. O apoio de um candidato não implica transferência integral e demonstrável.",
+      "sources": [
+        "sab-eleicao1989"
+      ]
+    },
+    {
+      "cueStart": 302,
+      "cueEnd": 316,
+      "title": "Collor faltou ao primeiro debate de 1989 enquanto outros candidatos compareceram",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperada a gravação integral com lista e data do evento especificamente recordado. Não se confirma todo o episódio apenas com o resultado eleitoral.",
+      "sources": []
+    },
+    {
+      "cueStart": 331,
+      "cueEnd": 349,
+      "title": "Lula deixou o governo com oitenta e sete por cento de aprovação",
+      "speaker": "Igor Coelho",
+      "verdict": "Verdadeiro",
+      "explanation": "A pesquisa CNI-Ibope de dezembro 2010 registra 87% de aprovação pessoal do presidente, enquanto avaliação do governo ótimo/bom era 80%. O dado se refere à pesquisa e pergunta específicas, não a consenso universal.",
+      "sources": [
+        "sab-ibope2010"
+      ]
+    },
+    {
+      "cueStart": 391,
+      "cueEnd": 405,
+      "title": "Flávio teria começado como vereador aos vinte e um anos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "O perfil oficial mostra eleição como deputado estadual e posse na Alerj aos 21 anos, em 2003. O cargo foi confundido com vereador. A fala não diz que ele foi vereador durante 21 anos.",
+      "sources": [
+        "sab-flavio-perfil"
+      ]
+    },
+    {
+      "cueStart": 435,
+      "cueEnd": 450,
+      "title": "Pessoas ocupadas com diploma superior passaram de quatro ou cinco para vinte e cinco milhões",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A afirmação exige séries compatíveis de ocupação, idade e escolaridade entre 2003 e 2026. Matrículas, graduados acumulados e população ocupada são universos diferentes; não se encontrou a extração com os mesmos números.",
+      "sources": [],
+      "alsoAt": [
+        {
+          "cueStart": 635,
+          "cueEnd": 645
+        }
+      ]
+    },
+    {
+      "cueStart": 451,
+      "cueEnd": 465,
+      "title": "Prouni colocou três milhões e oitocentos mil jovens na universidade",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O balanço MEC 2005–2025 confirma 3,6 milhões de bolsas ocupadas; há expansão posterior, mas não foi obtida extração atualizada que feche 3,8 milhões em 1/10/2026. A fala se refere a acesso, não a todos já formados.",
+      "sources": [
+        "sab-prouni"
+      ]
+    },
+    {
+      "cueStart": 466,
+      "cueEnd": 480,
+      "title": "Terras indígenas ocupam cerca de quatorze por cento do Brasil",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O TCU registra proporção próxima de 13,7% no recorte territorial analisado. O arredondamento é compatível, mas a situação das terras varia por etapa de identificação, declaração e homologação.",
+      "sources": [
+        "sab-terras-indigenas"
+      ]
+    },
+    {
+      "cueStart": 485,
+      "cueEnd": 494,
+      "title": "A rede técnica passou de cento e quarenta para oitocentos e dois institutos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A comparação é de unidades ou campi, não de instituições denominadas institutos. O MEC registra 686 unidades em março de 2026 e expansão planejada por mais de cem;802 é meta anunciada, não quantidade integral comprovadamente em operação naquele mês.",
+      "sources": [
+        "sab-rede-federal",
+        "sab-rede-historia"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 721,
+          "cueEnd": 735
+        }
+      ]
+    },
+    {
+      "cueStart": 485,
+      "cueEnd": 500,
+      "title": "Lula seria o presidente que mais criou universidades e extensões",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "É necessário distinguir criação por lei, desmembramento, novos campi e unidades em funcionamento e comparar todos os governos com a mesma regra. Não foi obtida série que confirme o superlativo.",
+      "sources": []
+    },
+    {
+      "cueStart": 509,
+      "cueEnd": 515,
+      "title": "Supercomputadores já foram levados ao RN, Rio e Paraíba",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O LNCC informa aquisição ainda em andamento para Macaíba em agosto de 2026 e operação do Santos Dumont em Petrópolis desde 2015. O Ciquanta também é projeto de implantação. Anúncio e compra não equivalem a três novas instalações prontas.",
+      "sources": [
+        "sab-supercomputador",
+        "sab-ciquanta"
+      ]
+    },
+    {
+      "cueStart": 524,
+      "cueEnd": 540,
+      "title": "Emprego de familiares de Adriano da Nóbrega provaria envolvimento de Flávio com milícia",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala mistura cargo parlamentar, relações de gabinete e crime. Sem peças processuais completas não se estabelece participação criminosa; contratação ou homenagem não prova autoria de homicídio. O próprio entrevistado reconhece não saber quem mandou matar.",
+      "sources": []
+    },
+    {
+      "cueStart": 575,
+      "cueEnd": 600,
+      "title": "O esquema do INSS veio do governo anterior e foi encerrado pelo atual",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A investigação trata de descontos de 2019–2024, atravessando os dois governos. Houve operação e suspensão em 2025 e proibição legal em 2026, mas a cronologia não prova autoria exclusiva do governo anterior nem ausência de falhas posteriores.",
+      "sources": [
+        "sab-inss-origem",
+        "sab-inss-reembolso"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 2710,
+          "cueEnd": 2750
+        }
+      ]
+    },
+    {
+      "cueStart": 585,
+      "cueEnd": 600,
+      "title": "Cinco milhões de pessoas já receberam três bilhões e meio de ressarcimento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O balanço oficial localizado confirma ressarcimentos, mas não fixa a combinação exata de R$ 3,5 bilhões e cinco milhões em 1/10. Totais mudam diariamente; não se converte aproximação em confirmação sem data correspondente.",
+      "sources": [
+        "sab-inss-reembolso"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 2720,
+          "cueEnd": 2740
+        }
+      ]
+    },
+    {
+      "cueStart": 585,
+      "cueEnd": 600,
+      "title": "Foram recuperados seis bilhões dos responsáveis por descontos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Bloqueio judicial, apreensão, valor de patrimônio e dinheiro efetivamente recuperado são diferentes. Não foi obtido demonstrativo que comprove R$ 6 bilhões em caixa disponível para ressarcimento.",
+      "sources": [],
+      "alsoAt": [
+        {
+          "cueStart": 2735,
+          "cueEnd": 2750
+        }
+      ]
+    },
+    {
+      "cueStart": 597,
+      "cueEnd": 615,
+      "title": "O Master foi criado por adversários e roubou sessenta bilhões",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A liquidação do conglomerado é documentada, mas não comprova quem criou a fraude, o prejuízo líquido final ou culpa de todas as pessoas relacionadas. Mudança de nome e controle não equivalem à criação originária de um banco.",
+      "sources": [
+        "sab-master-liquidacao"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 2004,
+          "cueEnd": 2055
+        }
+      ]
+    },
+    {
+      "cueStart": 601,
+      "cueEnd": 615,
+      "title": "Festas, capital estrangeiro e envolvimento de todos os citados no Master",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda contém palavras aparentemente mal reconhecidas e o trecho reúne acusações sem documentos identificáveis. Não foram demonstrados a participação de cada pessoa ou crimes por mera proximidade.",
+      "sources": []
+    },
+    {
+      "cueStart": 616,
+      "cueEnd": 675,
+      "title": "Educação, politização e planejamento de longo prazo",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São diagnósticos e valores políticos. Avaliar capacidade do povo ou qual governo deixou a casa destruída não tem métrica definida.",
+      "sources": []
+    },
+    {
+      "cueStart": 676,
+      "cueEnd": 685,
+      "title": "SAMU nacional, Farmácia Popular e Brasil Sorridente foram implantados nos primeiros governos Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A linha do tempo do Ministério da Saúde registra SAMU 192 em 2003 e os outros programas em 2004. Isso se refere à estrutura nacional, sem negar experiências locais anteriores.",
+      "sources": [
+        "sab-sus-programas"
+      ]
+    },
+    {
+      "cueStart": 680,
+      "cueEnd": 686,
+      "title": "O Pronaf só existia no Rio Grande do Sul antes de Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "O programa federal começou em 1995–1996 e já alcançava agricultores nordestinos em 1999. A expansão posterior não transforma a cobertura anterior em exclusividade do Rio Grande do Sul.",
+      "sources": [
+        "sab-pronaf-nordeste",
+        "sab-pronaf"
+      ]
+    },
+    {
+      "cueStart": 684,
+      "cueEnd": 690,
+      "title": "Minha Casa Minha Vida e Água para Todos foram criados nos governos do PT",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fonte do Água para Todos confirma criação em 2011 no governo Dilma, não pessoalmente no mandato Lula. Não foi anexado o ato de criação do Minha Casa Minha Vida ao mesmo conjunto documental. O pronome nós pode designar os governos do partido.",
+      "sources": [
+        "sab-agua2011"
+      ]
+    },
+    {
+      "cueStart": 688,
+      "cueEnd": 705,
+      "title": "A Transnordestina já foi feita e só Lula tinha planejamento com governadores",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O Ministério dos Transportes registra obras, entregas parciais e contratos ainda em 2026. A ferrovia não estava integralmente concluída. A exclusividade histórica de planejamento presidencial não foi demonstrada.",
+      "sources": [
+        "sab-transnordestina"
+      ]
+    },
+    {
+      "cueStart": 721,
+      "cueEnd": 735,
+      "title": "Cento e doze novas unidades técnicas seriam construídas em quatro anos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "É meta de expansão. A entrega de todas as unidades exige balanço de conclusão, funcionamento e cronograma, não apenas anúncio.",
+      "sources": [
+        "sab-rede-federal"
+      ]
+    },
+    {
+      "cueStart": 736,
+      "cueEnd": 746,
+      "title": "Institutos federais oferecem também cursos superiores",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O MEC descreve oferta de qualificação, cursos técnicos, graduação e pós-graduação na Rede Federal. O atendimento não se restringe ao ensino médio.",
+      "sources": [
+        "sab-rede-federal"
+      ]
+    },
+    {
+      "cueStart": 751,
+      "cueEnd": 770,
+      "title": "Já existe conselho nacional de minerais críticos vinculado à Presidência",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A Lei 15.506 e o Decreto 13.118, de 16/9/2026, criaram e regulamentaram o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos. As metas industriais são futuras.",
+      "sources": [
+        "sab-minerais-conselho"
+      ]
+    },
+    {
+      "cueStart": 781,
+      "cueEnd": 795,
+      "title": "Comércio caiu nove vírgula sete por cento com os EUA e cresceu com China, Alemanha e Vietnã",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se informa período, exportações versus corrente comercial nem base cambial. Não foi obtida tabela Comex Stat com a mesma combinação de percentuais; não se conclui compensação absoluta a partir de taxas relativas.",
+      "sources": []
+    },
+    {
+      "cueStart": 795,
+      "cueEnd": 810,
+      "title": "Brasil compensou todas as perdas do tarifaço com superávit e novos parceiros",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Superávit agregado não mede perda contrafactual, empresas atingidas ou quantidade que seria exportada sem tarifas. A cifra está incompleta na legenda; não foi confirmado o valor total.",
+      "sources": []
+    },
+    {
+      "cueStart": 800,
+      "cueEnd": 810,
+      "title": "Lula teria conversado com Trump no dia anterior",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperado registro público de reunião ou ligação de 30/9/2026 com duração e conteúdo suficientes para confirmar o episódio descrito.",
+      "sources": []
+    },
+    {
+      "cueStart": 811,
+      "cueEnd": 819,
+      "title": "Sessenta por cento do nióbio importado pelos EUA vem do Brasil",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se explicita ano, forma do mineral ou se mede volume/valor. Não foi recuperada tabela mineral ou aduaneira com o percentual no recorte da fala.",
+      "sources": []
+    },
+    {
+      "cueStart": 821,
+      "cueEnd": 825,
+      "title": "Os EUA acumularam superávit de quatrocentos e quinze bilhões no comércio com o Brasil",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O período está ausente ou mal transcrito e a fala soma bens e serviços. Sem série bilateral e anos delimitados, o total não foi comprovado; resultado em bens não deve ser confundido com bens e serviços.",
+      "sources": []
+    },
+    {
+      "cueStart": 856,
+      "cueEnd": 875,
+      "title": "Conversas particulares com Trump e artigos em jornais americanos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram recuperados todos os artigos e registros das conversas para conferir a quantidade e o diálogo citado. As interpretações sobre respeito e narrativa são opiniões.",
+      "sources": []
+    },
+    {
+      "cueStart": 875,
+      "cueEnd": 890,
+      "title": "Dinheiro de Dark Horse teria financiado Eduardo nos EUA",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A acusação exige rastreamento de transferências e finalidade. A documentação pública consultada não demonstra essa cadeia; não se atribui crime ou desvio por parentesco.",
+      "sources": []
+    },
+    {
+      "cueStart": 886,
+      "cueEnd": 892,
+      "title": "Eduardo Bolsonaro foi demitido da Polícia Federal",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A publicação de 21/9/2026 registra demissão do cargo de escrivão por abandono, após procedimento administrativo. É penalidade funcional distinta de condenação criminal.",
+      "sources": [
+        "sab-eduardo-pf"
+      ]
+    },
+    {
+      "cueStart": 890,
+      "cueEnd": 892,
+      "title": "Eduardo será necessariamente preso se retornar ao Brasil",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fonte registra condenação e recurso, mas a frase absoluta depende da situação executória e de ordens vigentes na data do retorno. Não foi anexado mandado correspondente.",
+      "sources": [
+        "sab-eduardo-pf"
+      ]
+    },
+    {
+      "cueStart": 901,
+      "cueEnd": 930,
+      "title": "Golpe de 1964, crise institucional e proposta de investigação de todos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "A existência do episódio histórico não demonstra o superlativo de maior crise, e a exigência de investigação é posição política. Acusações pessoais são examinadas separadamente.",
+      "sources": []
+    },
+    {
+      "cueStart": 931,
+      "cueEnd": 950,
+      "title": "Luciano Huck viajava em avião de Vorcaro e o Will Bank financiava seu programa",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A reportagem de 30/9 descreve uso de aeronaves e patrocínio do Will Bank. A assessoria de Huck confirma relação comercial e nega sociedade. Isso não prova participação em fraude nem a finalidade de barateamento de cada voo.",
+      "sources": [
+        "sab-huck-will"
+      ]
+    },
+    {
+      "cueStart": 946,
+      "cueEnd": 960,
+      "title": "Políticos e outras pessoas participavam de festas supostamente criminosas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "As pessoas não são individualizadas com evidência verificável; os termos da legenda são instáveis. Não se infere crime ou culpa a partir de mensagens fragmentárias ou companhia em festa.",
+      "sources": []
+    },
+    {
+      "cueStart": 961,
+      "cueEnd": 975,
+      "title": "Reforma política e interpretação de que ministros servem ao bolsonarismo",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "São propostas institucionais e avaliação de alinhamento político. Não se trata de conclusão judicial sobre os ministros.",
+      "sources": []
+    },
+    {
+      "cueStart": 976,
+      "cueEnd": 990,
+      "title": "A Constituição não exige notável saber jurídico para ministro do STF",
+      "speaker": "Igor Coelho",
+      "verdict": "Falso",
+      "explanation": "O art. 101 exige expressamente notável saber jurídico e reputação ilibada. Não exigir diploma específico no texto constitucional é diferente de dispensar o requisito de conhecimento.",
+      "sources": [
+        "sab-cf-camara"
+      ]
+    },
+    {
+      "cueStart": 1006,
+      "cueEnd": 1018,
+      "title": "Flávio Dino integrou governos e foi nomeado ministro do STF por Lula",
+      "speaker": "Igor Coelho",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O histórico público é compatível com passagem pelo Ministério da Justiça no governo Lula. A trajetória política não demonstra automaticamente parcialidade em um julgamento.",
+      "sources": [
+        "sab-dino-mare"
+      ]
+    },
+    {
+      "cueStart": 1021,
+      "cueEnd": 1035,
+      "title": "Lula ficou quinhentos e oitenta dias preso",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O registro contemporâneo da soltura em 8/11/2019 informa 580 dias, desde 7/4/2018. A forma 15 e 80 no primeiro trecho é aparente erro da legenda, esclarecido pela repetição posterior.",
+      "sources": [
+        "sab-lula580"
+      ],
+      "alsoAt": [
+        {
+          "cueStart": 2930,
+          "cueEnd": 2940
+        }
+      ]
+    },
+    {
+      "cueStart": 1021,
+      "cueEnd": 1035,
+      "title": "Seis ministros nomeados por Lula participaram do julgamento do mensalão",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho não delimita sessão e composição. Contar ministros nomeados por Dilma como se tivessem sido nomeados por Lula altera o resultado; não foi recuperada a lista nominal da sessão mencionada.",
+      "sources": []
+    },
+    {
+      "cueStart": 1036,
+      "cueEnd": 1046,
+      "title": "Toffoli impediu Lula de comparecer ao enterro do irmão",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A análise exige teor e horário da decisão, condições de deslocamento e momento do sepultamento. Não foi anexada a ordem completa para confirmar uma proibição incondicional.",
+      "sources": []
+    },
+    {
+      "cueStart": 1062,
+      "cueEnd": 1070,
+      "title": "Flávio Dino presidiu a Associação dos Juízes Federais",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A galeria oficial da Ajufe registra a presidência de Flávio Dino de junho de 2000 a junho de 2002.",
+      "sources": [
+        "sab-dino-ajufe"
+      ]
+    },
+    {
+      "cueStart": 1084,
+      "cueEnd": 1093,
+      "title": "Decisão do STF encerra qualquer possibilidade de recurso ou revisão",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A Constituição confere função de guarda constitucional ao STF, mas há procedimentos de recurso, revisão e modulação conforme cada caso. A autoridade da decisão não elimina todos os meios processuais.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 1169,
+      "cueEnd": 1186,
+      "title": "CNJ e CNMP foram criados em 2004 e só têm integrantes das próprias carreiras",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A EC 45/2004 criou os conselhos. O CNJ possui composição híbrida, incluindo OAB e cidadãos indicados pelo Congresso; portanto não é composto apenas por juízes. O desenho não foi ato exclusivo de um presidente.",
+      "sources": [
+        "sab-cnj-historia"
+      ]
+    },
+    {
+      "cueStart": 1236,
+      "cueEnd": 1290,
+      "title": "A crise seria a primeira discussão para valer de impeachment de ministro do STF",
+      "speaker": "Igor Coelho",
+      "verdict": "opinion",
+      "explanation": "O apresentador qualifica politicamente a intensidade da crise e admite não saber se houve outras. A lei já prevê o procedimento, mas isso não refuta um juízo sobre relevância histórica.",
+      "sources": [
+        "sab-impeachment-lei"
+      ]
+    },
+    {
+      "cueStart": 1276,
+      "cueEnd": 1305,
+      "title": "Dino pediu vista de noventa dias no caso mencionado",
+      "speaker": null,
+      "verdict": "Inconclusivo",
+      "explanation": "A regra geral de noventa dias é confirmada pela Emenda Regimental 58/2022, mas não foi recuperado andamento que confirme o pedido e o caso especificamente referido. O prazo não garante fim do julgamento após noventa dias.",
+      "sources": [
+        "sab-vista90"
+      ]
+    },
+    {
+      "cueStart": 1306,
+      "cueEnd": 1320,
+      "title": "Ministros receberam vantagens de resorts e festas em contrapartida por decisões",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "É acusação grave que exige contratos, transferências e nexo com ato de ofício. Sem esse conjunto, não se transforma alegação em culpa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1334,
+      "cueEnd": 1365,
+      "title": "Havia plano para matar Lula, Alckmin e Moraes e tentativa de golpe",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O julgamento do STF documenta a organização e ações da trama golpista. A responsabilidade deve seguir as condutas atribuídas e provadas em cada processo, sem presumir que todos executaram pessoalmente cada plano.",
+      "sources": [
+        "sab-golpe-stf"
+      ]
+    },
+    {
+      "cueStart": 1340,
+      "cueEnd": 1365,
+      "title": "A bomba do aeroporto prova autoria pessoal de Bolsonaro em cada atentado",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A existência de um atentado investigado não prova automaticamente ordem pessoal do ex-presidente para aquele evento. Não foi anexada decisão com esse nexo específico.",
+      "sources": [
+        "sab-golpe-stf"
+      ]
+    },
+    {
+      "cueStart": 1350,
+      "cueEnd": 1365,
+      "title": "Bolsonaro foi expulso do Exército por planejar bombas em quartéis",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "Ele foi absolvido no recurso ao STM em 1988 e não foi expulso por essa acusação. A passagem à reserva para a carreira política é situação distinta.",
+      "sources": [
+        "sab-bolsonaro-exercito"
+      ]
+    },
+    {
+      "cueStart": 1428,
+      "cueEnd": 1446,
+      "title": "Pé-de-Meia teria reduzido a evasão em sessenta e seis por cento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O balanço nacional disponível informa abandono de 6,4% em 2022 para 3,6% em 2024, queda de cerca de 43%. Sessenta e seis por cento não corresponde a esse resultado nacional. A comparação temporal, isoladamente, tampouco estima quanto da queda foi causado pelo programa iniciado em 2024.",
+      "sources": [
+        "sab-pe-de-meia"
+      ]
+    },
+    {
+      "cueStart": 1433,
+      "cueEnd": 1439,
+      "title": "Quinhentos mil jovens deixavam a escola para ajudar no orçamento familiar",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperado o levantamento com ano, faixa etária e motivo declarado de abandono que sustente esse contingente. A fala descreve um diagnóstico anterior, não quinhentos mil abandonos já evitados pelo programa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1458,
+      "cueEnd": 1467,
+      "title": "Bolsas de três mil para futuros professores a partir do Enem",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O edital Capes 2/2026 prevê R$ 1.050 mensais para candidatos com nota Enem de pelo menos 650 em licenciaturas presenciais:700 sacáveis e 350 em poupança. Não corresponde a bolsa mensal de R$ 3 mil para esse mesmo público.",
+      "sources": [
+        "sab-bolsa-licenciatura"
+      ]
+    },
+    {
+      "cueStart": 1477,
+      "cueEnd": 1494,
+      "title": "A universidade de Santo Domingo surgiu em 1532 e a primeira federal brasileira em 1920",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A UASD registra 1538, e a UFRJ confirma 1920 para a primeira universidade criada pelo governo federal. A comparação não significa inexistência anterior de cursos superiores ou outras experiências universitárias brasileiras.",
+      "sources": [
+        "sab-uasd",
+        "sab-ufrj"
+      ]
+    },
+    {
+      "cueStart": 1506,
+      "cueEnd": 1526,
+      "title": "Petróleo e profundidade na pesquisa da Margem Equatorial",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O entrevistado relata petróleo e condiciona o potencial comercial a se der certo. Licença e perfuração confirmam pesquisa, mas não bastam para demonstrar volume recuperável; os 575 km/175 km e 7.000 m exigem ficha do poço. Não se atribui a ele declaração de reserva comercial provada.",
+      "sources": [
+        "sab-licenca2025",
+        "sab-exploracao2026"
+      ]
+    },
+    {
+      "cueStart": 1538,
+      "cueEnd": 1545,
+      "title": "Lula acabou com a fome duas vezes",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Houve duas saídas do Mapa da Fome, divulgadas em 2014 e 2025. O indicador é prevalência estimada de subalimentação abaixo de 2,5%, não inexistência absoluta de fome ou insegurança alimentar.",
+      "sources": [
+        "sab-mapa-fome"
+      ]
+    },
+    {
+      "cueStart": 1545,
+      "cueEnd": 1555,
+      "title": "Transposição e adutoras somam mil e quatrocentos e quinze mil quilômetros",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O trecho agrega canais principais, ramais e adutoras sem inventário de obras. Não foi recuperada lista que sustente as duas extensões e o que foi efetivamente concluído.",
+      "sources": []
+    },
+    {
+      "cueStart": 1608,
+      "cueEnd": 1635,
+      "title": "Delmiro Gouveia construiu fábrica e compradores estrangeiros destruíram suas máquinas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperada documentação histórica primária com todos os detalhes narrados, incluindo quantidade de trabalhadores, compra, data e destino das máquinas. A citação literária de Galeano não substitui essa prova.",
+      "sources": []
+    },
+    {
+      "cueStart": 1665,
+      "cueEnd": 1680,
+      "title": "Americanos e europeus deixaram de investir na América Latina e na África",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala situa uma mudança depois da queda do Muro de Berlim, mas não delimita fluxo, estoque, países ou setor. Não foi localizada série que sustente interrupção absoluta de todos os investimentos nessas regiões.",
+      "sources": []
+    },
+    {
+      "cueStart": 1681,
+      "cueEnd": 1697,
+      "title": "Hospital inteligente do HC-USP será feito com cooperação chinesa",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O projeto e pedido de financiamento ao NDB são oficiais e incluem cooperação tecnológica. A previsão de operação do hospital é 2029; anúncio e financiamento não significam hospital já funcionando.",
+      "sources": [
+        "sab-hospital-inteligente"
+      ]
+    },
+    {
+      "cueStart": 1697,
+      "cueEnd": 1710,
+      "title": "Cirurgia robótica da próstata nunca causa incontinência ou impotência",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "O NCI inclui incontinência urinária e disfunção erétil entre complicações da prostatectomia e informa resultados funcionais semelhantes entre técnicas em diversos estudos. Assistência robótica não elimina esses riscos.",
+      "sources": [
+        "sab-nci-prostata"
+      ]
+    },
+    {
+      "cueStart": 1713,
+      "cueEnd": 1749,
+      "title": "Produção nacional permitirá oferta de canetas pelo SUS conforme critérios",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O Ministério da Saúde confirma produção e preparação de protocolo, com estudo-piloto em setembro 2026. A oferta ampla ainda era futura. Lula ressalva que não será distribuição a todos, portanto não se imputa essa promessa irrestrita.",
+      "sources": [
+        "sab-canetas2026"
+      ]
+    },
+    {
+      "cueStart": 1758,
+      "cueEnd": 1769,
+      "title": "O governo expande radioterapia para todos os estados",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala descreve expansão em andamento. Não foi obtido balanço de funcionamento estado por estado em 1/10; anúncio, entrega e equipamento apto a atender são etapas distintas.",
+      "sources": []
+    },
+    {
+      "cueStart": 1770,
+      "cueEnd": 1779,
+      "title": "Já haveria cento e cinquenta carretas de saúde montadas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O balanço de 19/9 informa 120 unidades em funcionamento e previsão de 150 até o fim do ano, com doze novas a caminho. Contratação, montagem e atendimento são etapas distintas; não foi comprovada a meta completa em operação em 1/10.",
+      "sources": [
+        "sab-carretas-setembro"
+      ]
+    },
+    {
+      "cueStart": 1777,
+      "cueEnd": 1781,
+      "title": "Referência a quarenta e sete por cento no atendimento às mulheres",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda não identifica denominador ou indicador do 47%, e não afirma claramente que essa parcela nunca fez exame. Sem áudio e pesquisa correspondente, não se pode reconstruir uma estatística precisa.",
+      "sources": []
+    },
+    {
+      "cueStart": 1813,
+      "cueEnd": 1817,
+      "title": "Pacote contra violência de gênero tem onze leis, quatro decretos e três portarias",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperada relação normativa fechada e datada que permita confirmar as três contagens. Existência de medidas não valida uma soma sem identificar os atos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1815,
+      "cueEnd": 1819,
+      "title": "Mais de cem mil pessoas teriam sido presas após o pacto contra feminicídio",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O balanço localizado da Operação Mulher Segura informa 41.848 prisões até 23/9. Ele não corresponde necessariamente a todas as operações do pacto; não confirma nem refuta sozinho o total de cem mil apresentado sem recorte.",
+      "sources": [
+        "sab-mulher-segura"
+      ]
+    },
+    {
+      "cueStart": 1820,
+      "cueEnd": 1822,
+      "title": "Medidas protetivas seriam decididas em três dias",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala pode descrever o tempo efetivo de atendimento, mas não foi localizado levantamento nacional que comprove decisão em três dias. A lei prevê até 48 horas para remessa policial e até 48 horas para decisão após recebimento, além de atuação imediata em situações específicas. Prazo legal não comprova desempenho real.",
+      "sources": [
+        "sab-protetivas-prazo"
+      ]
+    },
+    {
+      "cueStart": 1823,
+      "cueEnd": 1835,
+      "title": "Afastamento remunerado por até seis meses para mulheres sob proteção",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Foi assinado em 1/10 um parecer vinculante, não nova lei, para cumprir decisão do STF. A medida exige ordem judicial e condição de segurada; o empregador paga os primeiros 15 dias e o INSS assume o restante. O núcleo de proteção existe, com condições omitidas.",
+      "sources": [
+        "sab-protecao-salario"
+      ]
+    },
+    {
+      "cueStart": 1861,
+      "cueEnd": 1875,
+      "title": "Reforma tributária trocará centenas de tributos por poucos em janeiro",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O modelo substitui cinco tributos de consumo por CBS/IBS e prevê transição até 2033. Não extingue todo o sistema tributário nem implanta integralmente os novos tributos de uma vez em janeiro.",
+      "sources": [
+        "sab-reforma-calendario"
+      ]
+    },
+    {
+      "cueStart": 1877,
+      "cueEnd": 1892,
+      "title": "Dividendos de grandes acionistas continuam sempre isentos de Imposto de Renda",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "Desde janeiro de 2026, a Lei 15.270 prevê retenção de 10% em certas distribuições acima de R$ 50 mil mensais. O tratamento depende de condições e transição; não é correto afirmar isenção universal vigente.",
+      "sources": [
+        "sab-dividendos"
+      ]
+    },
+    {
+      "cueStart": 1877,
+      "cueEnd": 1892,
+      "title": "Petrobras pagou quarenta e cinco bilhões em dividendos sem imposto aos beneficiários",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fala se refere ao conjunto dos beneficiários, não a um único acionista. Sem exercício, deliberação de dividendos e situação fiscal dos recebedores, o total e a isenção integral não foram demonstrados.",
+      "sources": []
+    },
+    {
+      "cueStart": 1906,
+      "cueEnd": 1920,
+      "title": "O Brasil quitou trinta bilhões de dólares devidos ao FMI",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "O BC registra liquidação do saldo de US$ 15,5 bilhões em dezembro de 2005. O pacote de US$ 30 bilhões de 2002 e o saldo antecipado são valores e momentos diferentes.",
+      "sources": [
+        "sab-fmi2005"
+      ]
+    },
+    {
+      "cueStart": 1915,
+      "cueEnd": 1925,
+      "title": "O Brasil emprestou quinze bilhões de dólares ao FMI",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A Câmara documenta aumento de participação de US$ 10 bilhões em 2009. Compromissos, quotas e valores efetivamente sacados diferem; a combinação exata de US$ 15 bilhões não foi comprovada.",
+      "sources": [
+        "sab-fmi2009"
+      ]
+    },
+    {
+      "cueStart": 1920,
+      "cueEnd": 1930,
+      "title": "O Brasil nunca teve reservas antes de Lula e deixou duzentos e setenta bilhões",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A quitação ao FMI não significa inexistência anterior de reservas internacionais. Não foi anexada série histórica com estoque e data exata de saída do governo; a frase reúne um absoluto e um número sem recorte.",
+      "sources": [
+        "sab-fmi2005"
+      ]
+    },
+    {
+      "cueStart": 1928,
+      "cueEnd": 1935,
+      "title": "O mandato de 2023–2026 terá a menor inflação da história e terminará superavitário",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "Em 1/10 o exercício 2026 ainda estava aberto. Inflação de quatro anos e resultado anual são previsões; a nota fiscal do BC disponível registra déficit primário em doze meses, não superávit anual concluído.",
+      "sources": [
+        "sab-fiscal2026"
+      ]
+    },
+    {
+      "cueStart": 1952,
+      "cueEnd": 1965,
+      "title": "Havia quinhentos e quarenta bilhões de benefícios fiscais exclusivamente para ricos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Gasto tributário exige ano e demonstrativo da Receita; inclui políticas e regimes com beneficiários variados. Não foi recuperada soma com a mesma cifra, e ela não comprovaria destinação exclusiva a ricos.",
+      "sources": []
+    },
+    {
+      "cueStart": 1978,
+      "cueEnd": 1995,
+      "title": "Ligações de noventa minutos com Xi Jinping, Putin e Trump",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "As durações e conteúdo de cada telefonema não foram comprovados em atas ou comunicados correspondentes. Relatos pessoais não demonstram todos os detalhes diplomáticos.",
+      "sources": []
+    },
+    {
+      "cueStart": 2004,
+      "cueEnd": 2055,
+      "title": "Credicesta começou com Jaques Wagner e privatização criou o Master",
+      "speaker": null,
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A auditoria do TCE-BA de 2018 trata da alienação da Ebal e do programa Credicesta. Relação comercial com instituição financeira e mudanças de controle não equivalem a criação originária do banco nem provam autoria da fraude.",
+      "sources": [
+        "sab-credicesta",
+        "sab-master-liquidacao"
+      ]
+    },
+    {
+      "cueStart": 2073,
+      "cueEnd": 2095,
+      "title": "Temer legalizou apostas de quota fixa em 2018 e Lula regulamentou o setor",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A Lei 13.756/2018 criou a modalidade e a Lei 14.790/2023 e atos posteriores estabeleceram regras de autorização. Isso não significa que todo jogo de azar tenha sido criado ou permitido em 2018.",
+      "sources": [
+        "sab-bets2018",
+        "sab-bets-legislacao"
+      ]
+    },
+    {
+      "cueStart": 2105,
+      "cueEnd": 2148,
+      "title": "Uma mulher devia vinte e quatro milhões em empréstimos para apostar",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "É relato de caso individual sem documentação. O próprio Lula corrige o montante depois para R$ 24 mil; a correção deve acompanhar a fala, sem contar duas alegações contraditórias independentes.",
+      "sources": [],
+      "alsoAt": [
+        {
+          "cueStart": 2250,
+          "cueEnd": 2255
+        }
+      ]
+    },
+    {
+      "cueStart": 2155,
+      "cueEnd": 2165,
+      "title": "Primeiro Desenrola beneficiou onze milhões e segunda versão outros dez ou doze milhões",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O balanço final da primeira edição registra 15,06 milhões de beneficiados, não apenas 11 milhões. A segunda versão requer balanço separado que não foi recuperado; não se misturam pessoas, contratos e nomes desnegativados.",
+      "sources": [
+        "sab-desenrola1"
+      ]
+    },
+    {
+      "cueStart": 2160,
+      "cueEnd": 2165,
+      "title": "Oitenta e dois milhões de brasileiros estão endividados",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se distingue dívida regular de inadimplência ou negativação e não se informa série ou mês. Total de nomes negativados não mede todos os brasileiros com dívidas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2178,
+      "cueEnd": 2205,
+      "title": "O Grupo Globo participa de uma empresa de apostas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O comunicado conjunto MGM/Grupo Globo de 15/8/2024 anuncia empreendimento Bet MGM para buscar licença no Brasil. A existência da sociedade não comprova interferência no noticiário.",
+      "sources": [
+        "sab-mgm-globo"
+      ]
+    },
+    {
+      "cueStart": 2190,
+      "cueEnd": 2205,
+      "title": "Clubes brasileiros só poderiam vencer campeonatos mundiais com dinheiro de bets",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "A fala rejeita uma justificativa econômica e lembra conquistas anteriores. Necessidade de uma fonte de patrocínio é uma hipótese financeira, não uma condição histórica comprovada.",
+      "sources": []
+    },
+    {
+      "cueStart": 2223,
+      "cueEnd": 2250,
+      "title": "Medida provisória pode vigorar por até cento e vinte dias sem conversão",
+      "speaker": "Igor Coelho",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A regra constitucional é 60 dias, prorrogáveis uma vez por igual período, com suspensão durante o recesso. O prazo não é autorização permanente nem dispensa deliberação parlamentar.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 2223,
+      "cueEnd": 2250,
+      "title": "MP de alívio financeiro foi editada nove dias antes da eleição",
+      "speaker": "Igor Coelho",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A MP 1.393 foi publicada em 25/9, nove dias antes do primeiro turno de 4/10. Ela criou o Desenrola 3; o trecho não demonstra uma proibição geral das bets. Qualificá-la como eleitoreira é opinião.",
+      "sources": [
+        "sab-desenrola3",
+        "sab-calendario"
+      ]
+    },
+    {
+      "cueStart": 2378,
+      "cueEnd": 2425,
+      "title": "Bolsa Família estaria quatro anos sem reajuste e havia espaço fiscal para aumento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "É necessário distinguir piso de R$ 600, adicionais de 2023, reajuste inflacionário e novo aumento referido em 2026. Não foi recuperada norma e memória fiscal que confirmem todo o período e o espaço alegado. O entrevistado reconhece expressamente o aumento de 2022.",
+      "sources": [
+        "sab-bolsa2023"
+      ]
+    },
+    {
+      "cueStart": 2435,
+      "cueEnd": 2450,
+      "title": "Lula encontrou Vorcaro uma única vez por meia hora e não tratou de negócios",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Agenda pública não demonstra inexistência de outros encontros e não registra todo o conteúdo de conversas. A contagem e a duração absolutas não foram comprovadas.",
+      "sources": []
+    },
+    {
+      "cueStart": 2448,
+      "cueEnd": 2470,
+      "title": "Lula recebeu Silvio Santos na crise do Panamericano e ajudou a buscar solução",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O relatório da Caixa confirma a operação de socorro com o FGC e participação da Caixa, mas não documenta o diálogo privado narrado por Lula. Não se atribui ao entrevistado uma afirmação de que todo o aporte veio do Tesouro.",
+      "sources": [
+        "sab-pan2010"
+      ]
+    },
+    {
+      "cueStart": 2490,
+      "cueEnd": 2508,
+      "title": "Lewandowski e Mantega prestaram consultoria ao Master",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O entrevistado defende a possibilidade de trabalho privado, sem dizer que o emprego prova corrupção. Não foram obtidos contratos integrais e escopo de prestação; o vínculo, ainda que confirmado, não comprova crime.",
+      "sources": []
+    },
+    {
+      "cueStart": 2510,
+      "cueEnd": 2521,
+      "title": "Entre os governos Lula, o Brasil nunca voltou a crescer três por cento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "A série do IBGE registra 4,0% em 2011,3,0% em 2013,4,8% em 2021 e 3,0% em 2022. São crescimentos fora dos mandatos presidenciais de Lula.",
+      "sources": [
+        "sab-pib-serie"
+      ]
+    },
+    {
+      "cueStart": 2535,
+      "cueEnd": 2545,
+      "title": "Desemprego está no menor nível, na faixa de cinco por cento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O dado disponível para junho–agosto de 2026 é 5,3%, com 103,5 milhões de ocupados. É uma taxa da força de trabalho da PNAD, não proporção de toda a população.",
+      "sources": [
+        "sab-desemprego2026"
+      ]
+    },
+    {
+      "cueStart": 2540,
+      "cueEnd": 2550,
+      "title": "Massa salarial e renda do trabalho são recordes",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A nota consultada confirma rendimento médio real de R$ 3.777 e crescimento anual, mas não foi anexada série completa de massa salarial para verificar todos os superlativos e bases de comparação.",
+      "sources": [
+        "sab-desemprego2026"
+      ]
+    },
+    {
+      "cueStart": 2545,
+      "cueEnd": 2558,
+      "title": "A isenção mensal de Imposto de Renda passou a cinco mil reais",
+      "speaker": "Igor Coelho",
+      "verdict": "Verdadeiro",
+      "explanation": "A Receita informa a regra vigente para rendimentos de 2026, com isenção até R$ 5 mil mensais e redução parcial na faixa seguinte. A declaração relativa a 2025 segue regras anteriores.",
+      "sources": [
+        "sab-ir2026"
+      ]
+    },
+    {
+      "cueStart": 2545,
+      "cueEnd": 2558,
+      "title": "Salário mínimo de 2026 é de mil seiscentos e vinte e um reais",
+      "speaker": "Igor Coelho",
+      "verdict": "Verdadeiro",
+      "explanation": "O Ministério da Previdência confirma R$ 1.621 desde 1/1/2026, conforme Decreto 12.797/2025.",
+      "sources": [
+        "sab-minimo2026"
+      ]
+    },
+    {
+      "cueStart": 2562,
+      "cueEnd": 2607,
+      "title": "Novo Desenrola comprará centenas de bilhões em dívidas com desconto de noventa a noventa e cinco por cento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A MP 1.393 já instituiu o Desenrola 3.0 em 25 de setembro: até R$ 150 bilhões em dívidas elegíveis e R$ 15 bilhões para aquisição, com desconto mínimo de noventa por cento. Valor de face, deságio e gasto público são grandezas diferentes. O cronograma prevê solicitação em novembro e pagamentos em 2027; centenas de bilhões comprados e resultados ainda não estavam executados em 1º de outubro.",
+      "sources": [
+        "sab-desenrola3"
+      ]
+    },
+    {
+      "cueStart": 2610,
+      "cueEnd": 2625,
+      "title": "Juros de cartão são de quatrocentos e noventa e três ou quinhentos por cento ao ano",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se informa mês, modalidade ou fonte. Rotativo anualizado difere de juros mensais ou parcelamento; não foi obtida tabela BC com a mesma referência.",
+      "sources": []
+    },
+    {
+      "cueStart": 2610,
+      "cueEnd": 2625,
+      "title": "A Selic estaria em três vírgula setenta e cinco por cento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A legenda parece omitir parte do numeral: o histórico BC mostra 13,75% em 1/10/2026. Sem conferir áudio, não se atribui ao entrevistado uma afirmação literal de 3,75%.",
+      "sources": [
+        "sab-selic-setembro"
+      ]
+    },
+    {
+      "cueStart": 2633,
+      "cueEnd": 2702,
+      "title": "Bancos enviam cartões de crédito não solicitados",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O STJ documenta casos de envio de cartão sem solicitação e consolidou que essa prática é abusiva. Isso sustenta a existência do problema criticado, sem permitir concluir sua frequência atual em todos os bancos ou a experiência pessoal de cada consumidor.",
+      "sources": [
+        "sab-cartao-abusivo"
+      ]
+    },
+    {
+      "cueStart": 2710,
+      "cueEnd": 2725,
+      "title": "Todo o desconto associativo de seis bilhões e trezentos milhões era fraude",
+      "speaker": "Igor Coelho",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A nota PF/MJSP esclarece que parte dos R$ 6,3 bilhões arrecadados entre 2019 e 2024 foi cobrada sem autorização. Total de mensalidades não é automaticamente prejuízo ilícito comprovado.",
+      "sources": [
+        "sab-inss-origem"
+      ]
+    },
+    {
+      "cueStart": 2720,
+      "cueEnd": 2735,
+      "title": "Descontos passaram de setecentos milhões para três bilhões e trezentos milhões",
+      "speaker": "Igor Coelho",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperada tabela que identifique anos e se mede mensalidades totais ou apenas descontos não autorizados. Não se transforma aumento do universo de descontos em cálculo de fraude.",
+      "sources": []
+    },
+    {
+      "cueStart": 2765,
+      "cueEnd": 2774,
+      "title": "Sindnapi teria recebido cerca de seiscentos milhões em descontos",
+      "speaker": "Igor Coelho",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi obtido demonstrativo de descontos por entidade com esse valor e período. Mensalidades totais não equivalem automaticamente a descontos ilícitos; cargo de Frei Chico não prova participação.",
+      "sources": [
+        "sab-inss-origem"
+      ]
+    },
+    {
+      "cueStart": 2765,
+      "cueEnd": 2790,
+      "title": "Frei Chico é vice-presidente do sindicato e não tem responsabilidade por ser idoso",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Cargo e idade exigem registro contemporâneo da entidade e identificação de atribuições. A idade, mesmo confirmada, não elimina responsabilidade individual nem prova participação. Não foi verificado ato específico de sua atuação.",
+      "sources": []
+    },
+    {
+      "cueStart": 2796,
+      "cueEnd": 2805,
+      "title": "Frei Chico foi condenado por corrupção por salário de três mil da Odebrecht",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A fonte contemporânea de 2019 registra denúncia sobre pagamentos de R$ 3 mil a R$ 5 mil e sua rejeição judicial, não condenação. Não foi obtido histórico integral de recursos; a palavra condenado pode ser condenação pública no contexto, e não foi imputado crime provado.",
+      "sources": [
+        "sab-frei-denuncia"
+      ]
+    },
+    {
+      "cueStart": 2810,
+      "cueEnd": 2835,
+      "title": "Lulinha receberia trezentos mil mensais de lobistas",
+      "speaker": "Igor Coelho",
+      "verdict": "Inconclusivo",
+      "explanation": "O apresentador explicita que se trata de alegação de terceiro, contestada pela defesa. Não foi obtido rastreamento financeiro ou decisão de mérito que comprove pagamento, finalidade e culpa; a pergunta não vira confirmação.",
+      "sources": []
+    },
+    {
+      "cueStart": 2835,
+      "cueEnd": 2865,
+      "title": "Lula nunca recebeu Roberta nem houve lobby do filho com ministros",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Fotografias e ausência de agenda não provam encontro de trabalho ou sua inexistência. As negativas pessoais e a promessa de não interferência não substituem a apuração de fatos específicos.",
+      "sources": [],
+      "alsoAt": [
+        {
+          "cueStart": 2971,
+          "cueEnd": 2985
+        }
+      ]
+    },
+    {
+      "cueStart": 2870,
+      "cueEnd": 2895,
+      "title": "Boatos antigos atribuíram fazendas, carro de ouro e grandes empresas a Lulinha",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A existência e circulação de cada publicação não foi documentada aqui. Não se valida propriedade ou enriquecimento com base na repetição de boatos.",
+      "sources": []
+    },
+    {
+      "cueStart": 2896,
+      "cueEnd": 2940,
+      "title": "Lula provou inocência porque bens não estavam registrados em seu nome",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "As condenações foram anuladas por incompetência e foi reconhecida parcialidade de Moro. Esses fundamentos não equivalem a julgamento de mérito que prove todos os fatos narrados, e registro formal de propriedade não resolve sozinho acusação de vantagem indevida. Não há condenação válida inferida desta análise.",
+      "sources": [
+        "sab-lula-anulacao",
+        "sab-moro-suspeicao"
+      ]
+    },
+    {
+      "cueStart": 2925,
+      "cueEnd": 2940,
+      "title": "Lula está processando a empresa por devolução de quantia de consórcio",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A sentença cível de 2019 no processo 1076258-69.2016.8.26.0100 comprova ação de restituição de cota da Bancoop/OAS. Não se tratava tecnicamente de consórcio; o documento não comprova o andamento exato em 2026 nem decide mérito dos processos criminais.",
+      "sources": [
+        "sab-oas-restituicao"
+      ]
+    },
+    {
+      "cueStart": 2941,
+      "cueEnd": 2955,
+      "title": "O Globo só reconheceu apoio ao golpe militar depois de cinquenta anos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O reconhecimento público do apoio editorial do jornal OGlobo ao golpe de 1964 foi publicado em agosto 2013, cerca de 49 anos depois. Cinquenta anos é aproximação. Isso não comprova automaticamente as demais comparações feitas por Lula.",
+      "sources": [
+        "sab-globo-golpe"
+      ]
+    },
+    {
+      "cueStart": 2950,
+      "cueEnd": 2970,
+      "title": "GSI nega acesso aos registros de visitas de Roberta",
+      "speaker": "Igor Coelho",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A reportagem de 28/9 reproduz a resposta do GSI que protege registros de residências oficiais, com exceções para agendas públicas e representação de interesses. Confirma a negativa relatada; não comprova que Roberta tenha visitado a residência.",
+      "sources": [
+        "sab-gsi-roberta"
+      ]
+    },
+    {
+      "cueStart": 2986,
+      "cueEnd": 3005,
+      "title": "Roberta foi casada com Protógenes e teria inventado pai banqueiro e fiança de Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "As relações familiares e mensagens alegadas não foram verificadas em documentos públicos suficientes. Atribuição de mentira ou fraude não foi adotada como fato comprovado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3001,
+      "cueEnd": 3030,
+      "title": "Mensagens mostrariam que Roberta mentia sobre cargo oferecido por Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi obtida extração autenticada, contexto e resposta oficial suficiente para confirmar a origem e a veracidade do diálogo. Insultos pessoais são opinião e não prova.",
+      "sources": []
+    },
+    {
+      "cueStart": 3031,
+      "cueEnd": 3060,
+      "title": "Lula trabalhou vinte e sete anos dentro de fábrica",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A trajetória operária é conhecida, mas não foi obtido histórico laboral que some vinte e sete anos de trabalho efetivo no chão de fábrica, distinguindo vínculo de emprego e liberação sindical.",
+      "sources": []
+    },
+    {
+      "cueStart": 3055,
+      "cueEnd": 3065,
+      "title": "Inflação de alimentos foi de cinquenta e seis por cento com Bolsonaro e treze com Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "É preciso identificar subgrupo Alimentação no domicílio, janela 2019–2022 e meses já observados do mandato 2023–2026. A revisão não recuperou a extração SIDRA integral que fecha as duas contas; menor inflação também não é queda de preços.",
+      "sources": []
+    },
+    {
+      "cueStart": 3067,
+      "cueEnd": 3076,
+      "title": "Catorze ministérios não existiam e o Ministério do Trabalho havia sido extinto",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A contagem exige comparar estruturas em datas específicas, fusões e recriações, inclusive a recriação do Trabalho em 2021. Não foi anexado quadro de atos que confirme o total e toda a cronologia.",
+      "sources": []
+    },
+    {
+      "cueStart": 3076,
+      "cueEnd": 3085,
+      "title": "Havia oitenta e sete mil moradias do Minha Casa Minha Vida paradas",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "O registro institucional do Governo da Bahia cita 87 mil unidades habitacionais paralisadas no início de 2023. É estoque de obras, não 87 mil casas concluídas; a fonte não substitui auditoria de cada contrato.",
+      "sources": [
+        "sab-mcmv87"
+      ]
+    },
+    {
+      "cueStart": 3080,
+      "cueEnd": 3090,
+      "title": "O salário mínimo passou sete anos sem aumento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Impreciso ou fora de contexto",
+      "explanation": "A série do DIEESE registra reajustes nominais em todos os anos e ganho real de 1,14% em 2019. Houve perda ou ganho quase nulo em vários outros anos, mas não sete anos de salário congelado nem ausência integral de ganho real em todo o período.",
+      "sources": [
+        "sab-minimo-serie"
+      ]
+    },
+    {
+      "cueStart": 3091,
+      "cueEnd": 3120,
+      "title": "Último mandato, reeleição e perspectiva de viver cento e vinte anos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "São intenção, prognóstico e humor. A expectativa pessoal não gera voto factual.",
+      "sources": []
+    },
+    {
+      "cueStart": 3130,
+      "cueEnd": 3145,
+      "title": "Alckmin foi governador de São Paulo durante dezesseis anos",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Falso",
+      "explanation": "A biografia parlamentar registra governo de 2001 a 2006 e de 2011 a 2018, aproximadamente doze anos. Dezesseis amplia o período efetivo; não se deve somar todo o tempo de vice-governador como titular.",
+      "sources": [
+        "sab-alckmin-biografia"
+      ]
+    },
+    {
+      "cueStart": 3138,
+      "cueEnd": 3145,
+      "title": "Lula soma doze anos de experiência como presidente",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "Na data da entrevista são oito anos dos dois primeiros mandatos e cerca de três anos e nove meses do terceiro. Doze é arredondamento da experiência ao final do mandato, ainda não integralmente cumprido.",
+      "sources": [
+        "sab-lula-terceiro",
+        "sab-lula-biografia"
+      ]
+    },
+    {
+      "cueStart": 3150,
+      "cueEnd": 3165,
+      "title": "Caiado liderou UDR na época da Constituinte e Kassab compõe sua chapa",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foram anexados registros biográficos e a ata eleitoral vigente para confirmar a combinação de funções, datas e composição da chapa mencionada.",
+      "sources": []
+    },
+    {
+      "cueStart": 3215,
+      "cueEnd": 3240,
+      "title": "José Alencar tinha dezessete mil empregados na Coteminas e relutou em ser vice",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi recuperado relatório empresarial do ano e registro independente da conversa pessoal. O tamanho atual de uma empresa não confirma quadro de pessoal de outra época.",
+      "sources": []
+    },
+    {
+      "cueStart": 3255,
+      "cueEnd": 3285,
+      "title": "Alckmin filiou-se ao PSB e foi vice e ministro no governo Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A biografia da Câmara registra a filiação PSB e a Vice-Presidência desde 2023. A avaliação de lealdade e competência é opinião, não consequência factual do cargo.",
+      "sources": [
+        "sab-alckmin-biografia"
+      ]
+    },
+    {
+      "cueStart": 3286,
+      "cueEnd": 3305,
+      "title": "Emendas somam cento e vinte e sete bilhões empenhados em três anos e recorde histórico",
+      "speaker": "Igor Coelho",
+      "verdict": "Inconclusivo",
+      "explanation": "Não foi encontrada extração SIGABrasil/SIOP com a mesma janela, modalidades, empenho e correção monetária. Empenhado não equivale a pago; a cifra não prova por si corrupção.",
+      "sources": []
+    },
+    {
+      "cueStart": 3310,
+      "cueEnd": 3330,
+      "title": "Metade das mortes de covid poderia ter sido evitada e o total chegou a setecentos e dezesseis mil",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "O total e a fração evitável requerem data de corte e estudo contrafactual específico. Não foi recuperado modelo que atribua exatamente metade das mortes à conduta presidencial, nem painel correspondente ao total citado.",
+      "sources": []
+    },
+    {
+      "cueStart": 3320,
+      "cueEnd": 3330,
+      "title": "Congresso tomou metade de todo o orçamento da União",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "Não se define orçamento total, discricionário ou parcela destinada a emendas. O estoque de emendas não pode ser comparado a outro denominador para sustentar a metade; a descrição de sequestro é avaliação política.",
+      "sources": []
+    },
+    {
+      "cueStart": 3331,
+      "cueEnd": 3345,
+      "title": "STF determinou alinhamento de parte das emendas com programas federais de saúde",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A Portaria GM/MS 10.297/2026 confirma regras técnicas e planejamento para destinação das emendas individuais ao SUS. Ela não é, por si, a decisão do STF à qual Lula atribui a mudança; sem identificar essa ordem e seu alcance, a autoria judicial específica permanece sem comprovação.",
+      "sources": [
+        "sab-emendas-portaria"
+      ]
+    },
+    {
+      "cueStart": 3361,
+      "cueEnd": 3390,
+      "title": "Histórico eleitoral e discurso no Vox Populi de 1978",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A continuidade de princípios é autoavaliação. Não foi recuperada gravação de 1978 e resultados de cada disputa para conferir todos os episódios citados.",
+      "sources": []
+    },
+    {
+      "cueStart": 3400,
+      "cueEnd": 3420,
+      "title": "Lula é quinze anos mais velho que a idade em que a mãe morreu",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A idade de Lula em 1/10/2026 é compatível com 80, mas não foi anexado registro biográfico da morte da mãe aos 65. O cálculo depende de confirmar esse dado familiar.",
+      "sources": []
+    },
+    {
+      "cueStart": 3451,
+      "cueEnd": 3468,
+      "title": "Lula preside ou conhece o sindicato desde 1975",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Majoritariamente verdadeiro",
+      "explanation": "A biografia presidencial registra sua eleição à presidência do sindicato em 1975. Sua avaliação da imprensa é pessoal e não consequência necessária da data.",
+      "sources": [
+        "sab-lula-biografia"
+      ]
+    },
+    {
+      "cueStart": 3481,
+      "cueEnd": 3495,
+      "title": "Ninguém teria declarado oferecer cinco reais de propina a Lula",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "A negativa absoluta exige conferir todos os depoimentos e acusações. As anulações documentadas não resolvem a existência histórica de cada alegação; acusação também não comprova culpa.",
+      "sources": [
+        "sab-lula-anulacao",
+        "sab-moro-suspeicao"
+      ]
+    },
+    {
+      "cueStart": 3505,
+      "cueEnd": 3515,
+      "title": "Lula é o primeiro brasileiro eleito presidente três vezes",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "A biografia oficial registra os mandatos iniciados em 2003,2007 e 2023, sendo o primeiro eleito para três mandatos. A previsão de uma quarta vitória permanecia futura em 1/10.",
+      "sources": [
+        "sab-lula-terceiro"
+      ]
+    },
+    {
+      "cueStart": 3526,
+      "cueEnd": 3555,
+      "title": "Experiências pessoais de enchente, fome, moradia e deslocamento ao trabalho",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Inconclusivo",
+      "explanation": "São relatos autobiográficos sem documentação independente suficiente para confirmar cada detalhe, distância e frequência. Eles não foram classificados como falsos por falta de registro.",
+      "sources": []
+    },
+    {
+      "cueStart": 3578,
+      "cueEnd": 3600,
+      "title": "Pessoas com mais de setenta anos podem votar facultativamente",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "Verdadeiro",
+      "explanation": "O art. 14 da Constituição estabelece voto facultativo para maiores de setenta. Convite político ao comparecimento é opinião.",
+      "sources": [
+        "sab-cf-tse"
+      ]
+    },
+    {
+      "cueStart": 3601,
+      "cueEnd": 3675,
+      "title": "Política para idosos, convite à participação e encerramento",
+      "speaker": "Luiz Inácio Lula da Silva",
+      "verdict": "opinion",
+      "explanation": "São propostas, conselhos e agradecimentos. A explicação sobre juventude e apoio a um candidato é opinião política, sem inferência estatística comprovada.",
+      "sources": []
+    },
+    {
+      "cueStart": 3676,
+      "cueEnd": 3713,
+      "title": "Publicidade de escolas, marcas e cursos",
+      "speaker": null,
+      "verdict": "opinion",
+      "explanation": "Divulgação comercial, slogans e promessas de aprendizagem não são declarações do candidato e ficam fora de seu placar.",
+      "sources": []
+    }
+  ],
+  "limitations": [
+    "Leitura documental da legenda, sem escuta independente do áudio. A legenda reconhece de forma instável números, nomes e termos como Vorcaro, festas e valor da Selic.",
+    "O próprio entrevistado corrige R$ 24 milhões para R$ 24 mil; os dois trechos foram reunidos, preservando a retificação.",
+    "Não foram acessados integralmente autos sigilosos sobre INSS, Master ou familiares. Perguntas e negativas pessoais foram separadas de prova de culpa.",
+    "A primeira legenda começa em 00:00:07,400. O início anterior não está no SRT. O fim da legenda antecede a duração do player em cerca de 21 segundos; esses intervalos não foram recuperados nem conferidos pelo áudio."
+  ],
+  "coverageNotes": "Todos os 3713 blocos foram lidos. Premissas factuais do apresentador também foram identificadas. Propostas e opiniões não entram na distribuição factual; números sem fonte específica e acusações sem prova suficiente são Inconclusivo."
+}

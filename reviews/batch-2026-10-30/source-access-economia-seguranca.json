@@ -1,0 +1,154 @@
+{
+  "eco-pl": {
+    "status": 200,
+    "finalUrl": "https://www.saopaulo.sp.leg.br/blog/projeto-que-proibe-apologia-ao-crime-em-shows-publicos-recebe-aval-da-ccj-e-avanca-na-camara/"
+  },
+  "eco-pl-texto": {
+    "status": 200,
+    "finalUrl": "https://sbdp.org.br/wp-content/uploads/2025/08/PL-Anti-Oruam-SP.pdf"
+  },
+  "eco-cp": {
+    "status": 200,
+    "finalUrl": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-2848-7-dezembro-1940-412868-normaatualizada-pe.html"
+  },
+  "eco-cf22": {
+    "status": 200,
+    "finalUrl": "https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=22&abrirBase=CF"
+  },
+  "eco-fb": {
+    "status": 200,
+    "finalUrl": "https://transparencia.mprj.mp.br/web/guest/visualizar?noticiaId=125905"
+  },
+  "eco-canudos": {
+    "status": 200,
+    "finalUrl": "https://atlas.fgv.br/verbetes/guerra-de-canudos"
+  },
+  "eco-favela-hist": {
+    "status": 200,
+    "finalUrl": "https://www.scielo.br/j/rh/a/CgFyWqyYcqrcygV54wrzFnz/?format=html&lang=pt"
+  },
+  "eco-pobreza2023": {
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "eco-favela2022": {
+    "status": 200,
+    "finalUrl": "https://agenciagov.ebc.com.br/noticias/202411/censo-2022-brasil-tinha-16-4-milhoes-de-pessoas-morando-em-favelas-e-comunidades-urbanas"
+  },
+  "eco-smith2010": {
+    "status": 200,
+    "finalUrl": "https://www1.folha.uol.com.br/cotidiano/851287-stj-revoga-prisao-de-mcs-do-complexo-do-alemao-no-rio.shtml"
+  },
+  "eco-smith-carreira": {
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  "eco-ciata": {
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "eco-cv": {
+    "status": 200,
+    "finalUrl": "https://br.boell.org/sites/default/files/2019-12/boll_democracia_e_crimes_FINAL.pdf"
+  },
+  "eco-capoeira": {
+    "status": 200,
+    "finalUrl": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-847-11-outubro-1890-503086-publicacaooriginal-1-pe.html"
+  },
+  "eco-planta": {
+    "status": 200,
+    "finalUrl": "https://www.esalq.usp.br/d-plant/node/1567"
+  },
+  "eco-gama": {
+    "error": "<urlopen error [Errno 104] Connection reset by peer>"
+  },
+  "eco-paraguai": {
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/no-imperio-senado-estudou-criar-cpi-da-guerra-do-paraguai"
+  },
+  "eco-tim": {
+    "status": 200,
+    "finalUrl": "https://www.cnmp.mp.br/portal/resultados-de-busca/846-violencia-contra-comunicadores/12722-tim-lopes?highlight=WyJ0aW0iLCJsb3BlcyIsInRpbSBsb3BlcyJd"
+  },
+  "eco-cam120": {
+    "status": 200,
+    "finalUrl": "https://www.unicef.org/brazil/media/32806/file/As%20c%C3%A2meras%20corporais%20na%20Pol%C3%ADcia%20Militar%20do%20Estado%20de%20S%C3%A3o%20Paulo%20-%202a.%20edi%C3%A7%C3%A3o.pdf"
+  },
+  "eco-atlas2025": {
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "eco-cassacao": {
+    "status": 200,
+    "finalUrl": "https://www.al.sp.gov.br/noticia/?17%2F05%2F2022%2Fassembleia-legislativa-do-estado-de-sao-paulo-aprova-cassacao-de-mandato-do-ex-deputado-arthur-do-val="
+  },
+  "eco-guto": {
+    "status": 200,
+    "finalUrl": "https://al.sp.gov.br/noticia/?id=447344"
+  },
+  "eco-missao": {
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "eco-policiacor": {
+    "status": 200,
+    "finalUrl": "https://www12.senado.leg.br/noticias/infomaterias/2022/04/projetos-elegem-educacao-como-arma-contra-o-racismo"
+  },
+  "eco-jb": {
+    "status": 200,
+    "finalUrl": "https://portal.stf.jus.br/ministro/presidente.asp?id=39&periodo=stf"
+  },
+  "eco-universidade": {
+    "status": 200,
+    "finalUrl": "https://mapa.an.gov.br/index.php/dicionario-primeira-republica/1131-universidade-do-rio-de-janeiro"
+  },
+  "eco-educacao": {
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "eco-neuro": {
+    "status": 200,
+    "finalUrl": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"
+  },
+  "eco-podas": {
+    "status": 200,
+    "finalUrl": "https://www.brainfacts.org/thinking-sensing-and-behaving/childhood-and-adolescence/2019/the-teen-years-092619"
+  },
+  "eco-policiahist": {
+    "status": 200,
+    "finalUrl": "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/documentos/prisao-de-escravizados"
+  },
+  "eco-marielle": {
+    "status": 200,
+    "finalUrl": "https://www.aosfatos.org/noticias/quem-matou-e-quem-ajudou-a-matar-a-verdade-no-caso-marielle/"
+  },
+  "eco-ayan": {
+    "status": 200,
+    "finalUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/07/10/homem-preso-ligado-ao-mbl-viralizou-fake-news-sobre-marielle-a-marcinho-vp.amp.htm"
+  },
+  "eco-cvnet": {
+    "status": 200,
+    "finalUrl": "https://noticias.uol.com.br/colunas/carlos-madeiro/2025/03/12/ataques-a-provedores-geram-apagoes-de-internet-e-miram-criar-cv-net-no-ce.htm"
+  },
+  "eco-barricada": {
+    "status": 200,
+    "finalUrl": "https://veja.abril.com.br/brasil/comando-vermelho-cobra-taxa-de-barricada-e-pedagio-de-moradores-em-jacarepagua/"
+  },
+  "eco-poze": {
+    "status": 200,
+    "finalUrl": "https://www1.folha.uol.com.br/cotidiano/2025/06/confira-a-cronologia-do-caso-mc-poze-de-show-na-cidade-de-deus-a-saida-da-prisao.shtml"
+  },
+  "eco-oruambusca": {
+    "status": 200,
+    "finalUrl": "https://www1.folha.uol.com.br/amp/cotidiano/2025/02/oruam-e-alvo-de-busca-e-apreensao-apos-fazer-disparo-com-arma-em-sp-diz-policia.shtml"
+  },
+  "eco-transwolff": {
+    "status": 200,
+    "finalUrl": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/comunicacao/arquivos/jornais/27Fev25_Fim%20dos%20contratos%20UPBus%20e%20Transwolff.pdf"
+  },
+  "eco-cf5": {
+    "status": 200,
+    "finalUrl": "https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=5&abrirBase=CF"
+  },
+  "eco-eleicoes": {
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "eco-anuario2024": {
+    "status": 200,
+    "finalUrl": "https://forumseguranca.org.br/wp-content/uploads/2024/07/anuario-2024-infografico.pdf"
+  }
+}
