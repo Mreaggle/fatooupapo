@@ -22,23 +22,31 @@ describe('fluxo inicial', () => {
     expect(fetchMock).toHaveBeenCalledTimes(1)
   })
 
-  it('mostra feedback para uma URL inválida', async () => {
+  it('bloqueia a verificação em manutenção por clique e pela tecla Enter', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({ ok: true, json: async () => snapshots })
+    vi.stubGlobal('fetch', fetchMock)
     const user = userEvent.setup()
     render(<App />)
-    await user.type(screen.getByLabelText('Link do vídeo do YouTube'), 'https://example.com/video')
-    await user.click(screen.getByRole('button', { name: /verifique os fatos/i }))
-    expect(await screen.findByRole('alert')).toHaveTextContent('Insira um link válido')
+    const button = screen.getByRole('button', { name: 'EM MANUTENÇÃO' })
+    expect(button).toBeDisabled()
+    await user.type(screen.getByLabelText('Link do vídeo do YouTube'), 'https://youtu.be/q4T7plSBdJE')
+    expect(button).toBeDisabled()
+    await user.click(button)
+    await user.keyboard('{Enter}')
+    expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Você assiste e')
+    expect(screen.queryByRole('alert')).not.toBeInTheDocument()
+    expect(window.location.search).toBe('')
+    expect(fetchMock).toHaveBeenCalledTimes(1)
   })
 
   it('informa com honestidade quando não há snapshot nem backend', async () => {
+    window.history.replaceState({}, '', '/?v=dQw4w9WgXcQ')
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
       json: async () => ({ generatedAt: new Date().toISOString(), reports: {} }),
     }))
     const user = userEvent.setup()
     render(<App />)
-    await user.type(screen.getByLabelText('Link do vídeo do YouTube'), 'https://youtu.be/dQw4w9WgXcQ')
-    await user.click(screen.getByRole('button', { name: /verifique os fatos/i }))
     expect(await screen.findByText(/Este vídeo ainda não está no acervo/)).toBeInTheDocument()
     const request = new URL(screen.getByRole('link', { name: /confirmar pedido com github/i }).getAttribute('href')!)
     expect(request.origin).toBe('https://github.com')
@@ -54,29 +62,26 @@ describe('fluxo inicial', () => {
   })
 
   it('localiza automaticamente um pedido recusado e mostra apenas a mensagem genérica', async () => {
+    window.history.replaceState({}, '', '/?v=06WU-H3jICE')
     vi.stubGlobal('fetch', vi.fn().mockImplementation(async (url: string) => {
       if (url.includes('api.github.com')) return { ok: true, json: async () => [{ number: 2, title: '[Análise] 06WU-H3jICE', body: 'https://youtu.be/06WU-H3jICE' }] }
       if (url.endsWith('state.json')) return { status: 404 }
       if (url.endsWith('status.json')) return { ok: true, json: async () => ({ interrupted: false, kind: 'rejected', message: 'Este vídeo não requer fact-checking.', runUrl: 'https://github.com/Mreaggle/fatooupapo/actions/runs/123' }) }
       return { ok: true, json: async () => ({ reports: {} }) }
     }))
-    const user = userEvent.setup()
     render(<App />)
-    await user.type(screen.getByLabelText('Link do vídeo do YouTube'), 'https://youtu.be/06WU-H3jICE')
-    await user.click(screen.getByRole('button', { name: /verifique os fatos/i }))
     expect(await screen.findByRole('alert')).toHaveTextContent(/^Este vídeo não requer fact-checking\.$/)
     expect(screen.queryByLabelText('Duração do vídeo em minutos')).not.toBeInTheDocument()
     expect(screen.queryByRole('link', { name: /confirmar pedido/ })).not.toBeInTheDocument()
   })
 
   it('abre o primeiro debate pelo ID sem chamar um serviço de IA', async () => {
+    window.history.replaceState({}, '', '/?v=q4T7plSBdJE')
     const fetchMock = vi.fn().mockResolvedValue({ ok: true, json: async () => snapshots })
     vi.stubGlobal('fetch', fetchMock)
     const user = userEvent.setup()
     render(<App />)
-    await user.type(screen.getByLabelText('Link do vídeo do YouTube'), 'https://youtu.be/q4T7plSBdJE?si=compartilhado')
-    await user.click(screen.getByRole('button', { name: /verifique os fatos/i }))
-    expect(await screen.findByRole('heading', { level: 1 })).toHaveTextContent('KIM KATAGUIRI X JONES MANOEL')
+    expect(await screen.findByRole('heading', { level: 1, name: /KIM KATAGUIRI X JONES MANOEL/ })).toBeInTheDocument()
     expect(screen.getByText(/48 afirmações analisadas/)).toBeInTheDocument()
     expect(window.location.search).toBe('?v=q4T7plSBdJE')
     expect(fetchMock).toHaveBeenCalledTimes(2)
@@ -101,16 +106,16 @@ describe('fluxo inicial', () => {
   })
 
   it('cancela uma consulta e ignora uma resposta tardia', async () => {
+    window.history.replaceState({}, '', '/?v=q4T7plSBdJE')
     let finish: ((value: unknown) => void) | undefined
     vi.stubGlobal('fetch', vi.fn().mockImplementation(() => new Promise((resolve) => { finish = resolve })))
     const user = userEvent.setup()
     render(<App />)
-    await user.type(screen.getByLabelText('Link do vídeo do YouTube'), 'https://youtu.be/q4T7plSBdJE')
-    await user.click(screen.getByRole('button', { name: /verifique os fatos/i }))
     expect(screen.getByRole('button', { name: 'Cancelar' })).toBeInTheDocument()
     await user.click(screen.getByRole('button', { name: 'Cancelar' }))
     finish?.({ ok: true, json: async () => snapshots })
-    await waitFor(() => expect(screen.getByRole('button', { name: /verifique os fatos/i })).toBeEnabled())
+    await waitFor(() => expect(screen.queryByRole('button', { name: 'Cancelar' })).not.toBeInTheDocument())
+    expect(screen.getByRole('button', { name: 'EM MANUTENÇÃO' })).toBeDisabled()
     expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Você assiste e')
   })
 })

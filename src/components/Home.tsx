@@ -1,10 +1,12 @@
 import { useState, type FormEvent } from 'react'
-import { ArrowRight, LoaderCircle } from 'lucide-react'
+import { ArrowRight, LoaderCircle, Wrench } from 'lucide-react'
 import type { AnalysisProgress } from '../types'
 import { RequestPanel } from './RequestPanel'
 import { RecentDebates } from './RecentDebates'
 import { DebateCarousel } from './DebateCarousel'
 import { useRecentDebates } from '../services/use-recent-debates'
+
+const verificationUnderMaintenance = true
 
 interface Props {
   initialUrl: string
@@ -23,6 +25,7 @@ export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onC
 
   function submit(event: FormEvent) {
     event.preventDefault()
+    if (verificationUnderMaintenance) return
     onAnalyze(url)
   }
 
@@ -48,9 +51,9 @@ export function Home({ initialUrl, progress, error, requestLinks, onAnalyze, onC
                   className="h-16 w-full min-w-0 bg-transparent text-sm text-foreground outline-none placeholder:text-[clamp(0.625rem,0.85vw,0.95rem)] placeholder:font-semibold placeholder:text-[#858588] placeholder:uppercase disabled:opacity-60 sm:h-full"
                 />
               </div>
-              <button className="relative isolate flex min-h-16 shrink-0 items-center justify-between gap-5 overflow-hidden bg-[#fdfdfd] px-5 text-[clamp(0.75rem,0.85vw,1rem)] font-semibold text-[#1b1c1b] uppercase transition-colors hover:bg-stone-200 disabled:cursor-not-allowed disabled:bg-[#f2f2f2] sm:w-[34%] sm:px-6" disabled={loading || !url.trim()} type="submit">
+              <button className="relative isolate flex min-h-16 shrink-0 items-center justify-between gap-5 overflow-hidden bg-[#fdfdfd] px-5 text-[clamp(0.75rem,0.85vw,1rem)] font-semibold text-[#1b1c1b] uppercase transition-colors hover:bg-stone-200 disabled:cursor-not-allowed disabled:bg-[#f2f2f2] sm:w-[34%] sm:px-6" disabled={verificationUnderMaintenance || loading || !url.trim()} type="submit">
                 {loading && <span aria-hidden="true" className="processing-fill absolute inset-y-0 left-0 -z-10 w-1/2 bg-emerald-400" />}
-                {loading ? <><span>Consultando</span><LoaderCircle size={18} className="animate-spin motion-reduce:animate-none" /></> : <><span>Verifique os fatos</span><span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-[#1c1d1c] text-white"><ArrowRight size={12} strokeWidth={2} /></span></>}
+                {verificationUnderMaintenance ? <><span>EM MANUTENÇÃO</span><Wrench size={18} aria-hidden="true" /></> : loading ? <><span>Consultando</span><LoaderCircle size={18} className="animate-spin motion-reduce:animate-none" /></> : <><span>Verifique os fatos</span><span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-[#1c1d1c] text-white"><ArrowRight size={12} strokeWidth={2} /></span></>}
               </button>
             </div>
 
