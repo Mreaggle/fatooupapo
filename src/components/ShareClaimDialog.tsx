@@ -9,7 +9,7 @@ function canShare(file: File) {
   catch { return false }
 }
 
-export function ShareClaimDialog({ claim, video, onClose }: { claim: Claim; video: AnalysisReport['video']; onClose: () => void }) {
+export function ShareClaimDialog({ claim, video, speakerName, onClose }: { claim: Claim; video: AnalysisReport['video']; speakerName?: string | null; onClose: () => void }) {
   const dialog = useRef<HTMLDialogElement>(null)
   const [image, setImage] = useState<{ file: File; url: string } | null>(null)
   const [error, setError] = useState('')
@@ -17,6 +17,7 @@ export function ShareClaimDialog({ claim, video, onClose }: { claim: Claim; vide
   const [sharing, setSharing] = useState(false)
   const [attempt, setAttempt] = useState(0)
   const reportUrl = new URL(`${window.location.pathname}?v=${video.id}`, window.location.origin).href
+  const author = (speakerName !== undefined ? speakerName : claim.speakerAttribution?.name ?? claim.speaker) || 'Locutor não identificado'
 
   useEffect(() => {
     const current = dialog.current
@@ -27,7 +28,7 @@ export function ShareClaimDialog({ claim, video, onClose }: { claim: Claim; vide
   useEffect(() => {
     let active = true
     let objectUrl: string | undefined
-    createClaimCard(claim, video, reportUrl).then((file) => {
+    createClaimCard(claim, video, reportUrl, author).then((file) => {
       if (!active) return
       objectUrl = URL.createObjectURL(file)
       setImage({ file, url: objectUrl })
@@ -35,7 +36,7 @@ export function ShareClaimDialog({ claim, video, onClose }: { claim: Claim; vide
       if (active) setError(caught instanceof Error ? caught.message : 'Não foi possível gerar o card. Tente novamente.')
     })
     return () => { active = false; if (objectUrl) URL.revokeObjectURL(objectUrl) }
-  }, [claim, video, reportUrl, attempt])
+  }, [claim, video, reportUrl, author, attempt])
 
   async function share() {
     if (!image) return
@@ -44,7 +45,7 @@ export function ShareClaimDialog({ claim, video, onClose }: { claim: Claim; vide
     try {
       await navigator.share({
         files: [image.file],
-        title: `Fato ou Papo — ${verdictLabel(claim.verdict)}`,
+        title: `Fato ou Papo — ${author} — ${verdictLabel(claim.verdict)}`,
         text: `Confira a checagem e as fontes: ${reportUrl}`,
       })
     } catch (caught) {
@@ -70,7 +71,7 @@ export function ShareClaimDialog({ claim, video, onClose }: { claim: Claim; vide
         <a href={image.url} download={image.file.name} className={canShare(image.file) ? 'inline-flex min-h-11 items-center gap-2 text-sm underline underline-offset-4' : 'button-primary'}><Download size={16} aria-hidden="true" />Baixar PNG</a>
       </div>
       {shareError && <p role="alert" className="mb-4 text-sm text-muted">{shareError}</p>}
-      <img src={image.url} alt={`Card da checagem. Argumento: ${claim.title || claim.topic || 'Afirmação checada'}. Classificação: ${verdictLabel(claim.verdict)}. Conclusão: ${claim.explanation}`} className="w-full rounded-lg border border-line" />
+      <img src={image.url} alt={`Card da checagem. Autor: ${author}. Argumento: ${claim.title || claim.topic || 'Afirmação checada'}. Classificação: ${verdictLabel(claim.verdict)}. Conclusão: ${claim.explanation}`} className="w-full rounded-lg border border-line" />
     </>}
   </dialog>
 }

@@ -20,6 +20,15 @@ function setup() {
 }
 
 describe('compartilhamento de uma checagem', () => {
+  it.each(['Lula', null])('respeita a autoria revisada %s antes do argumento no card', async (speakerName) => {
+    setup()
+    render(<ShareClaimDialog claim={report.claims[0]} video={report.video} speakerName={speakerName} onClose={() => {}} />)
+    const author = speakerName ?? 'Locutor não identificado'
+    const preview = await screen.findByRole('img')
+    expect(preview).toHaveAccessibleName(expect.stringContaining(`Autor: ${author}. Argumento:`))
+    expect(generate).toHaveBeenCalledWith(report.claims[0], report.video, expect.any(String), author)
+  })
+
   it('gera uma prévia e oferece PNG quando o navegador não compartilha arquivos', async () => {
     setup()
     const { unmount } = render(<ShareClaimDialog claim={report.claims[0]} video={report.video} onClose={() => {}} />)

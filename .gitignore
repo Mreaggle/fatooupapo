@@ -13,3 +13,4 @@ public/reports/
 playwright-report/
 test-results/
 .analysis-work/
+requests/originals/*.srt

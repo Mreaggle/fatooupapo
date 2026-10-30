@@ -1,0 +1,52 @@
+[
+  {
+    "videoId": "MJEYLvrZJV0",
+    "sourceFile": "[Portuguese (auto-generated)] DEBATE O NAZISMO AINDA EXISTE BRENO ALTMAN X FLAVIO MORGENSTERN - Inteligência Ltda. Podcast #1496 [DownSub.com].srt",
+    "srtPath": "requests/MJEYLvrZJV0.srt",
+    "sha256": "7aaca168c35f399f5a4ba61b2b8b3e89955b7c19bd2b46aea8a24c6ff2d2faee",
+    "cueCount": 5530,
+    "firstTiming": "00:01:23,830 --> 00:01:28,240",
+    "lastTiming": "03:37:17,160 --> 03:37:20,160",
+    "status": "pending-review"
+  },
+  {
+    "videoId": "foDB0XU9XQM",
+    "sourceFile": "[Portuguese (auto-generated)] DEBATE FEMINISTA X MASCULINISTA SARDÁ, MANDI X JAMILY, SALDANHA - Inteligência Ltda. Podcast #1576 [DownSub.com].srt",
+    "srtPath": "requests/foDB0XU9XQM.srt",
+    "sha256": "7d08c8e1cf35f8f0403885a844f8723636f476b058797f3acb394abedb8674bc",
+    "cueCount": 5855,
+    "firstTiming": "00:00:59,559 --> 00:01:02,559",
+    "lastTiming": "03:25:34,520 --> 03:25:37,760",
+    "status": "pending-review"
+  },
+  {
+    "videoId": "FDeAWt5m3Mw",
+    "sourceFile": "[Portuguese (auto-generated)] DEBATE OS ALIENS ESTÃO ENTRE NÓS SACANI X EDISON BOAVENTURA - Inteligência Ltda. Podcast #875 [DownSub.com].srt",
+    "srtPath": "requests/FDeAWt5m3Mw.srt",
+    "sha256": "867b9c6e75eeaa7d01a030fd31887a54b6facd903ba52b368efa1d15f950c193",
+    "cueCount": 4445,
+    "firstTiming": "00:00:05,260 --> 00:00:09,690",
+    "lastTiming": "03:18:40,859 --> 03:18:42,979",
+    "status": "pending-review"
+  },
+  {
+    "videoId": "Z7pP0rDXdBM",
+    "sourceFile": "[Portuguese (auto-generated)] DEBATE MARXISTA X CONSERVADOR - GUSTAVO MACHADO X LUCAS PAVANATO - Inteligência Ltda. Podcast #1457 [DownSub.com].srt",
+    "srtPath": "requests/Z7pP0rDXdBM.srt",
+    "sha256": "a0b85d2fa03f408d5364c871c13a991638308766634b55bf6f583dad02d0e16c",
+    "cueCount": 4991,
+    "firstTiming": "00:03:05,170 --> 00:03:12,730",
+    "lastTiming": "02:54:55,000 --> 02:55:00,000",
+    "status": "pending-review"
+  },
+  {
+    "videoId": "zqmYUQJz17k",
+    "sourceFile": "[Portuguese (auto-generated)] DEBATE O FUTURO DO BRASIL - ESQUERDA X DIREITA - Inteligência Ltda. Podcast #1917 [DownSub.com].srt",
+    "srtPath": "requests/zqmYUQJz17k.srt",
+    "sha256": "f5686d1e044fca3295b939ed29ccf99497adf931a4c9c5b2c1d4e04acc10d923",
+    "cueCount": 4806,
+    "firstTiming": "00:00:00,000 --> 00:00:03,000",
+    "lastTiming": "02:41:47,200 --> 02:41:50,200",
+    "status": "pending-review"
+  }
+]

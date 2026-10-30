@@ -29,7 +29,7 @@ function wrapText(context: CanvasRenderingContext2D, text: string, width: number
   })
 }
 
-export async function createClaimCard(claim: Claim, video: AnalysisReport['video'], reportUrl: string): Promise<File> {
+export async function createClaimCard(claim: Claim, video: AnalysisReport['video'], reportUrl: string, author = claim.speakerAttribution?.name ?? claim.speaker ?? 'Locutor não identificado'): Promise<File> {
   await document.fonts.load('600 56px "AnthropicSerif"')
   await document.fonts.ready
   const canvas = document.createElement('canvas')
@@ -39,6 +39,9 @@ export async function createClaimCard(claim: Claim, video: AnalysisReport['video
   const width = 1080
   const padding = 80
   const contentWidth = width - padding * 2
+  context.font = '600 64px "AnthropicSerif", Georgia, serif'
+  const authorLines = wrapText(context, `${author}:`, contentWidth)
+  const authorHeight = authorLines.length * 76 + 24
   context.font = '600 56px "AnthropicSerif", Georgia, serif'
   const title = wrapText(context, claim.title || claim.topic || 'Afirmação checada', contentWidth)
   context.font = '32px Arial, sans-serif'
@@ -46,7 +49,7 @@ export async function createClaimCard(claim: Claim, video: AnalysisReport['video
   context.font = '24px Arial, sans-serif'
   const source = wrapText(context, video.title, contentWidth)
   const address = wrapText(context, reportUrl.replace(/^https?:\/\//, ''), contentWidth)
-  const gaugeTop = 146 + title.length * 68 + 48
+  const gaugeTop = 146 + authorHeight + title.length * 68 + 48
   const gaugeBase = gaugeTop + 232
   const conclusionTop = gaugeBase + 130
   const footerTop = conclusionTop + 56 + conclusion.length * 48 + 60
@@ -63,9 +66,12 @@ export async function createClaimCard(claim: Claim, video: AnalysisReport['video
   context.font = '600 23px Arial, sans-serif'
   context.fillStyle = '#a5a5a0'
   context.fillText('ARGUMENTO EM DESTAQUE', padding, 126)
+  context.font = '600 64px "AnthropicSerif", Georgia, serif'
+  context.fillStyle = '#93b4e8'
+  authorLines.forEach((line, index) => context.fillText(line, padding, 194 + index * 76))
   context.font = '600 56px "AnthropicSerif", Georgia, serif'
   context.fillStyle = '#f4f3ee'
-  title.forEach((line, index) => context.fillText(line, padding, 194 + index * 68))
+  title.forEach((line, index) => context.fillText(line, padding, 194 + authorHeight + index * 68))
 
   for (const [index, item] of gauge.entries()) {
     const start = Math.PI + index * Math.PI / gauge.length + 0.025

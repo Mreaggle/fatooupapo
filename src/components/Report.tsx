@@ -24,8 +24,8 @@ function ClaimItem({ claim, videoId, number, participants, onSpeakerReview, onSh
         <div className="flex items-center gap-3"><span className="font-mono text-[11px] text-faint">{String(number).padStart(2, '0')}</span><span className={`verdict ${verdictStyle[claim.verdict]}`}>{verdictLabel(claim.verdict)}</span></div>
         <a href={timestampUrl(videoId, claim.timestampSeconds)} className="inline-flex items-center gap-1 font-mono text-xs text-muted underline decoration-line underline-offset-4 hover:text-foreground" target="_blank" rel="noreferrer" aria-label={`Assistir ao trecho em ${formatTimestamp(claim.timestampSeconds)}`}>{formatTimestamp(claim.timestampSeconds)} <ArrowUpRight size={13} /></a>
       </div>
+      <SpeakerLabel claim={claim} videoId={videoId} participants={participants} prominent onReview={(name) => onSpeakerReview(claim.id, name)} />
       {claim.title && <h3 className="mb-3 font-serif text-xl leading-7 font-semibold tracking-tight">{claim.title}</h3>}
-      <SpeakerLabel claim={claim} videoId={videoId} participants={participants} onReview={(name) => onSpeakerReview(claim.id, name)} />
       <blockquote className={`claim-quote ${verdictStyle[claim.verdict].replace('verdict--', 'claim-quote--')} rounded-r-lg px-4 py-3 font-serif text-lg leading-7`}>“{claim.quote}”</blockquote>
       <p className="claim-conclusion mt-4 text-sm leading-7">{claim.explanation}</p>
       <button type="button" onClick={onShare} className="mt-4 inline-flex min-h-10 items-center gap-2 text-xs text-muted underline underline-offset-4 hover:text-foreground"><Share2 size={14} aria-hidden="true" />Compartilhar card</button>
@@ -110,7 +110,7 @@ export function Report({ report }: { report: AnalysisReport }) {
         {visible.length === 0 && <p role="status" className="py-12 text-center text-sm text-muted">Nenhuma afirmação encontrada para este filtro.</p>}
       </section>
       {report.limitations?.length ? <details className="group mt-8 border-b border-line pb-5"><summary className="list-none text-sm text-muted hover:text-foreground">Limitações do relatório <ChevronDown size={14} className="ml-1 inline transition-transform group-open:rotate-180" /></summary><ul className="mt-4 list-disc space-y-2 pl-4 text-xs leading-6 text-muted">{report.limitations.map((item) => <li key={item}>{item}</li>)}</ul></details> : null}
-      {sharedClaim && <ShareClaimDialog claim={sharedClaim} video={report.video} onClose={() => setSharedClaim(null)} />}
+      {sharedClaim && <ShareClaimDialog claim={sharedClaim} video={report.video} speakerName={speakers[sharedClaim.id]} onClose={() => setSharedClaim(null)} />}
     </main>
   )
 }

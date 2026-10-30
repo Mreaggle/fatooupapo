@@ -3,7 +3,7 @@ import type { Claim, Participant } from '../types'
 import { readSpeakerReview, removeSpeakerReview, saveSpeakerReview, type SpeakerReview } from '../lib/speaker-reviews'
 import { timestampUrl } from '../lib/youtube'
 
-export function SpeakerLabel({ claim, videoId, participants, onReview }: { claim: Claim; videoId: string; participants: Participant[]; onReview?: (name: string | null | undefined) => void }) {
+export function SpeakerLabel({ claim, videoId, participants, prominent = false, onReview }: { claim: Claim; videoId: string; participants: Participant[]; prominent?: boolean; onReview?: (name: string | null | undefined) => void }) {
   const [review, setReview] = useState(() => readSpeakerReview(videoId, claim.id, claim.quote))
   const [editing, setEditing] = useState(false)
   const [tooltip, setTooltip] = useState(false)
@@ -39,7 +39,7 @@ export function SpeakerLabel({ claim, videoId, participants, onReview }: { claim
   return (
     <div className="relative mb-3 text-xs text-muted">
       <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
-        <span>{name ?? 'Locutor não identificado'}</span>
+        <span className={prominent ? 'font-serif text-2xl font-semibold leading-8 text-blue-300' : undefined}><span>{name ?? 'Locutor não identificado'}</span>{prominent && <span aria-hidden="true">:</span>}</span>
         {!review && attribution && <button ref={percentRef} type="button"
           aria-label={`Explicar índice textual de autoria: ${attribution.score}%`}
           aria-describedby={tooltip ? `${id}-tooltip` : undefined}

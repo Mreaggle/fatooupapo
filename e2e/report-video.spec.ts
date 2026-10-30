@@ -133,6 +133,9 @@ test('exporta cards com argumento, conclusão e gauge em todas as classificaçõ
     expect(await preview.evaluate((img: HTMLImageElement) => img.naturalHeight)).toBeGreaterThan(900)
     const drawn = await page.evaluate(() => (window as typeof window & { cardText: string[] }).cardText.join(' ').replace(/\s+/g, ' '))
     expect(drawn).toContain(claim.title!.replace(/\s+/g, ' '))
+    const author = `${claim.speakerAttribution?.name ?? claim.speaker ?? 'Locutor não identificado'}:`
+    expect(drawn).toContain(author)
+    expect(drawn.indexOf(author)).toBeLessThan(drawn.indexOf(claim.title!.replace(/\s+/g, ' ')))
     expect(drawn).toContain(claim.explanation.replace(/\s+/g, ' '))
     expect(drawn).toContain(verdictLabel(verdict))
     expect(drawn).toContain('Fato ou Papo')
